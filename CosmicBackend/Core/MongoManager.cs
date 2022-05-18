@@ -9,7 +9,7 @@ namespace CosmicBackend.Core
 {
     internal class MongoManager
     {
-        private const string MongoCred = "mongodb+srv://CosmicAdmin:nQ2wBiMjaLGkM5wz@cosmicusers.jeual.mongodb.net/CosmicUsers?retryWrites=true&w=majority";
+        private const string MongoCred = "";
         private readonly IMongoCollection<BsonDocument> mongoCollection;
 
         internal MongoManager()
