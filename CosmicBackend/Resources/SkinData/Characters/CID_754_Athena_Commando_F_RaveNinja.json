@@ -1,0 +1,551 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_754_Athena_Commando_F_RaveNinja",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_754_Athena_Commando_F_RaveNinja",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_754_Athena_Commando_F_RaveNinja",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_754_Athena_Commando_F_RaveNinja",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_754_Athena_Commando_F_RaveNinja",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Emissive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Emissive2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "DA4968564BEC6ED5FD3A2695D4BBE913",
+        "SourceString": "Envision"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "BE61657C48407F109CF751B05E6A26C5",
+        "SourceString": "Shine bright. Strike fast."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.12",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Set.NewStealth"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_754_Athena_Commando_F_RaveNinja.DA_Featured_CID_754_Athena_Commando_F_RaveNinja",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "805EDC374711F3A95222108F82F325DD",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-754-Athena-Commando-F-RaveNinja.T-Soldier-HID-754-Athena-Commando-F-RaveNinja",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja/Materials/F_MED_Rave_Ninja_FaceAcc.F_MED_Rave_Ninja_FaceAcc",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja_Pink/Materials/F_MED_Rave_Ninja_Pink_FaceAcc.F_MED_Rave_Ninja_Pink_FaceAcc",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja/Materials/F_MED_Rave_Ninja_FaceAcc_NonEmissive.F_MED_Rave_Ninja_FaceAcc_NonEmissive",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja_Pink/Materials/F_MED_Rave_Ninja_Pink_FaceAcc_NonEmissive.F_MED_Rave_Ninja_Pink_FaceAcc_NonEmissive",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "1300E9D54524FDBD6FB98D99EA9F6EDD",
+            "SourceString": "MASK"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-754-RaveNinja-Mask.T-Variant-754-RaveNinja-Mask",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Parts"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "9E108E2946293E84A3053587FE323E66",
+        "SourceString": "STYLE"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C7200C474952F756A483C4981F7D415A",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-754-Athena-Commando-F-RaveNinja.T-Soldier-HID-754-Athena-Commando-F-RaveNinja",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja/Materials/F_MED_Rave_Ninja_Body.F_MED_Rave_Ninja_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja_Pink/Materials/F_MED_Rave_Ninja_Pink_Body.F_MED_Rave_Ninja_Pink_Body",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja/Materials/F_MED_Rave_Ninja_FaceAcc.F_MED_Rave_Ninja_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja_Pink/Materials/F_MED_Rave_Ninja_Pink_FaceAcc.F_MED_Rave_Ninja_Pink_FaceAcc",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Starfish_Head_01/Skin/Rave_Ninja/Materials/F_MED_Rave_Ninja_Head.F_MED_Rave_Ninja_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Starfish_Head_01/Skin/Rave_Ninja_Pink/Materials/F_MED_Rave_Ninja_Pink_Head.F_MED_Rave_Ninja_Pink_Head",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja/Materials/F_MED_Rave_Ninja_Hair.F_MED_Rave_Ninja_Hair",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja_Pink/Materials/F_MED_Rave_Ninja_Pink_Hair.F_MED_Rave_Ninja_Pink_Hair",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "1260F7B34B2CE67EC53F6B951A8935ED",
+            "SourceString": "PINK"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-754-RaveNinja-Pink.T-Variant-754-RaveNinja-Pink",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "620650584B8D337D7C4266A47DA84EE4",
+        "SourceString": "COLOR"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Emissive1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "4A0A7EBD4D8BD86F5D5FA7A84685EE93",
+            "SourceString": "ON"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-754-Athena-Commando-F-RaveNinja.T-Soldier-HID-754-Athena-Commando-F-RaveNinja",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja/Materials/F_MED_Rave_Ninja_Body.F_MED_Rave_Ninja_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja/Materials/F_MED_Rave_Ninja_Body_NonEmissive.F_MED_Rave_Ninja_Body_NonEmissive",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja/Materials/F_MED_Rave_Ninja_FaceAcc.F_MED_Rave_Ninja_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja/Materials/F_MED_Rave_Ninja_FaceAcc_NonEmissive.F_MED_Rave_Ninja_FaceAcc_NonEmissive",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja_Pink/Materials/F_MED_Rave_Ninja_Pink_Body.F_MED_Rave_Ninja_Pink_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja_Pink/Materials/F_MED_Rave_Ninja_Pink_Body_NonEmissive.F_MED_Rave_Ninja_Pink_Body_NonEmissive",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja_Pink/Materials/F_MED_Rave_Ninja_Pink_FaceAcc.F_MED_Rave_Ninja_Pink_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rave_Ninja_Pink/Materials/F_MED_Rave_Ninja_Pink_FaceAcc_NonEmissive.F_MED_Rave_Ninja_Pink_FaceAcc_NonEmissive",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Starfish_Head_01/Skin/Rave_Ninja/Materials/F_MED_Rave_Ninja_Head.F_MED_Rave_Ninja_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Starfish_Head_01/Skin/Rave_Ninja/Materials/F_MED_Rave_Ninja_Head_NoEmisive.F_MED_Rave_Ninja_Head_NoEmisive",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Starfish_Head_01/Skin/Rave_Ninja_Pink/Materials/F_MED_Rave_Ninja_Pink_Head.F_MED_Rave_Ninja_Pink_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Starfish_Head_01/Skin/Rave_Ninja_Pink/Materials/F_MED_RaveNinPink_Head_NoE.F_MED_RaveNinPink_Head_NoE",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Emissive2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "91CF4D1445A86D96B9C5FAAB701B3A65",
+            "SourceString": "OFF"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-754-RaveNinja-NoGlow.T-Variant-754-RaveNinja-NoGlow",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Emissive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "305069C5416B5574C9AD50BDCC2B3442",
+        "SourceString": "GLOW"
+      }
+    }
+  }
+]

@@ -1,0 +1,3496 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_209_Athena_Commando_M_FootballDudeC",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_209_Athena_Commando_M_FootballDudeC",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticNumericalVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_209_Athena_Commando_M_FootballDudeC",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_209_Athena_Commando_M_FootballDudeC",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "53453C784E011924EF0038817906E314",
+        "SourceString": "Spike"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "EC9E5EAD42942E19471E42B7096DECFF",
+        "SourceString": "Throw it on the ground."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Football",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.6"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_209_Athena_Commando_M_FootballDudeC.DA_Featured_CID_209_Athena_Commando_M_FootballDudeC",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.23833,
+                    "G": 0.5625,
+                    "B": 0.015032,
+                    "A": 1.0,
+                    "Hex": "3D8F04"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                },
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "FFFFFF"
+                  },
+                  "ParamName": "ForcedNumberTint"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Fortnite/T_M_Med_NFL_Fortnite_M_Med_Football_Body_D.T_M_Med_NFL_Fortnite_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Fortnite/T_M_Med_NFL_Fortnite_M_Med_Football_Body_S.T_M_Med_NFL_Fortnite_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "UseCustomDiffuseAndAlpha"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Fortnite/T_M_MED_Football_Helmet2_M_Helmet_D.T_M_MED_Football_Helmet2_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Fortnite/T_M_MED_Football_Helmet2_M_Helmet_S.T_M_MED_Football_Helmet2_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.000"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "F30A6DD047FA2989D4BB45BBCD3169F4",
+            "SourceString": "Fortnite"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-Fortnite.T-Variant-Football-Fortnite",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Arizona_Cardinals/Textures/T_Arizona_Cardinals_M_Med_Football_Body_D.T_Arizona_Cardinals_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Arizona_Cardinals/Textures/T_Arizona_Cardinals_M_Med_Football_Body_S.T_Arizona_Cardinals_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Arizona_Cardinals/Textures/T_Numbers_Cardinals.T_Numbers_Cardinals",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Cardinals/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Cardinals/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMask"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.001"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "4EAEB42C41AC3B8371E4B1A5EA0B7979",
+            "SourceString": "Arizona Cardinals"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-ArizonaCardinals.T-Variant-Football-ArizonaCardinals",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Atlanta_Falcons/T_M_Med_NFL_Falcons_M_Med_Football_Body_D.T_M_Med_NFL_Falcons_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Atlanta_Falcons/T_M_Med_NFL_Falcons_M_Med_Football_Body_S.T_M_Med_NFL_Falcons_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Atlanta_Falcons/T_Numbers_Falcons.T_Numbers_Falcons",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Falcons/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Falcons/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.002"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "D1554BBF4F5011902C1AE5BA3F40F8E2",
+            "SourceString": "Atlanta Falcons"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-AtlantaFalcons.T-Variant-Football-AtlantaFalcons",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Baltimore_Ravens/Textures/T_Baltimore_Ravens_M_Med_Football_Body_D.T_Baltimore_Ravens_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Baltimore_Ravens/Textures/T_Baltimore_Ravens_M_Med_Football_Body_S.T_Baltimore_Ravens_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Baltimore_Ravens/Textures/T_Numbers_Ravens.T_Numbers_Ravens",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Ravens/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Ravens/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.003"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "6F935F6D4DFB7B9E0BCD0BB0696D9B22",
+            "SourceString": "Baltimore Ravens"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-BaltimoreRavens.T-Variant-Football-BaltimoreRavens",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Buffalo_Bills/Textures/T_Buffalo_Bills_M_Med_Football_Body_D.T_Buffalo_Bills_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Buffalo_Bills/Textures/T_Buffalo_Bills_M_Med_Football_Body_S.T_Buffalo_Bills_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Buffalo_Bills/Textures/T_Numbers_Bills.T_Numbers_Bills",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Bills/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Bills/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.004"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "21236BE3415F4F8D925B7CAD297957F9",
+            "SourceString": "Buffalo Bills"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-BuffaloBills.T-Variant-Football-BuffaloBills",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet.M_MED_FootballHelmet",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "FFFFFF"
+                  },
+                  "ParamName": "ForcedNumberTint"
+                },
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "FFFFFF"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Carolina_Panthers/T_M_Med_NFL_Panthers_M_Med_Football_Body_D.T_M_Med_NFL_Panthers_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Carolina_Panthers/T_M_Med_NFL_Panthers_M_Med_Football_Body_S.T_M_Med_NFL_Panthers_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Carolina_Panthers/T_Numbers_Panthers.T_Numbers_Panthers",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": null
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Panthers/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Panthers/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.005"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "206FB3DD4A53E5DB99F8AFA9C72427AA",
+            "SourceString": "Carolina Panthers"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-CarolinaPanthers.T-Variant-Football-CarolinaPanthers",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Chicago_Bears/T_M_Med_NFL_Bears_M_Med_Football_Body_D.T_M_Med_NFL_Bears_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Chicago_Bears/T_M_Med_NFL_Bears_M_Med_Football_Body_S.T_M_Med_NFL_Bears_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Chicago_Bears/T_Numbers_Bears.T_Numbers_Bears",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Bears/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Bears/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.006"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "3CD370EB4E55EBCAA50E119021524766",
+            "SourceString": "Chicago Bears"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-ChicagoBears.T-Variant-Football-ChicagoBears",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Cincinnati_Bengals/Textures/T_Cincinnati_Bengals_M_Med_Football_Body_D.T_Cincinnati_Bengals_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Cincinnati_Bengals/Textures/T_Cincinnati_Bengals_M_Med_Football_Body_S.T_Cincinnati_Bengals_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Cincinnati_Bengals/Textures/T_Numbers_Bengals.T_Numbers_Bengals",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Bengals/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Bengals/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.007"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "D6AB3B814F822B49782DC5A1756468C1",
+            "SourceString": "Cincinnati Bengals"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-CincinnatiBengals.T-Variant-Football-CincinnatiBengals",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Cleveland_Browns/Textures/T_Cleveland_Browns_M_Med_Football_Body_D.T_Cleveland_Browns_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Cleveland_Browns/Textures/T_Cleveland_Browns_M_Med_Football_Body_S.T_Cleveland_Browns_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Cleveland_Browns/Textures/T_Numbers_Browns.T_Numbers_Browns",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Browns/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Browns/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.008"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "78F0FC5A409BB8994A50FA8BF428C10E",
+            "SourceString": "Cleveland Browns"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-ClevelandBrowns.T-Variant-Football-ClevelandBrowns",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Dallas_Cowboys/Textures/T_Dallas_Cowboys_M_Med_Football_Body_D.T_Dallas_Cowboys_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Dallas_Cowboys/Textures/T_Dallas_Cowboys_M_Med_Football_Body_S.T_Dallas_Cowboys_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Dallas_Cowboys/Textures/T_Numbers_Cowboys.T_Numbers_Cowboys",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Cowboys/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Cowboys/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.009"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "8639265141C4B81C60174C9B5B6BAEFF",
+            "SourceString": "Dallas Cowboys"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-DallasCowboys.T-Variant-Football-DallasCowboys",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Denver_Broncos/Textures/T_Denver_Broncos_M_Med_Football_Body_D.T_Denver_Broncos_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Denver_Broncos/Textures/T_Denver_Broncos_M_Med_Football_Body_S.T_Denver_Broncos_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Denver_Broncos/Textures/T_Numbers_Broncos_D.T_Numbers_Broncos_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Broncos/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Broncos/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMask"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.010"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "AE1DE58F4389CC737660A3A75D233A2A",
+            "SourceString": "Denver Broncos"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-DenverBroncos.T-Variant-Football-DenverBroncos",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet.M_MED_FootballHelmet",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Detroit_Lions/Textures/T_Detroit_Lions_M_Med_Football_Body_D.T_Detroit_Lions_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Detroit_Lions/Textures/T_Detroit_Lions_M_Med_Football_Body_S.T_Detroit_Lions_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Detroit_Lions/Textures/T_Numbers_Lions.T_Numbers_Lions",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Lions/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Lions/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.011"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "9C975B08418B75E3EDD6B6B4072942B6",
+            "SourceString": "Detroit Lions"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-DetroitLions.T-Variant-Football-DetroitLions",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Green_Bay_Packers/Textures/T_Green_Bay_Packers_M_Med_Football_Body_D.T_Green_Bay_Packers_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Green_Bay_Packers/Textures/T_Green_Bay_Packers_M_Med_Football_Body_S.T_Green_Bay_Packers_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Green_Bay_Packers/Textures/T_Numbers_Packers.T_Numbers_Packers",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Packers/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Packers/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.012"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "CA1906E24FACF1FBF844AC951BF7B00A",
+            "SourceString": "Green Bay Packers"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-GreenbayPackers.T-Variant-Football-GreenbayPackers",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Houston_Texans/Textures/T_Houston_Texans_M_Med_Football_Body_D.T_Houston_Texans_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Houston_Texans/Textures/T_Houston_Texans_M_Med_Football_Body_S.T_Houston_Texans_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Houston_Texans/Textures/T_Numbers_Texans.T_Numbers_Texans",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Texans/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Texans/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.013"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "1202B0984BB7E95C6E49CF928C991092",
+            "SourceString": "Houston Texans"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-HoustonTexans.T-Variant-Football-HoustonTexans",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Indianapolis_Colts/Textures/T_Indianapolis_Colts_M_Med_Football_Body_D.T_Indianapolis_Colts_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Indianapolis_Colts/Textures/T_Indianapolis_Colts_M_Med_Football_Body_S.T_Indianapolis_Colts_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Indianapolis_Colts/Textures/T_Numbers_Colts.T_Numbers_Colts",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Colts/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Colts/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.014"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "460B8495477BC9AA1D3E8EBCD37EE3DD",
+            "SourceString": "Indianapolis Colts"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-IndianapolisColts.T-Variant-Football-IndianapolisColts",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Jacksonville_Jaguars/Textures/T_Jacksonville_Jaquars_M_Med_Football_Body_D.T_Jacksonville_Jaquars_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Jacksonville_Jaguars/Textures/T_Jacksonville_Jaquars_M_Med_Football_Body_S.T_Jacksonville_Jaquars_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMask"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Jacksonville_Jaguars/Textures/T_Numbers_Jaguars.T_Numbers_Jaguars",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Jaguars/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Jaguars/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.5,
+                  "ParamName": "Undercoat Roughness"
+                }
+              ]
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.015"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C7EED5AF44ECC9DEFB03D09B29852C37",
+            "SourceString": "Jacksonville Jaguars"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-JacksonvilleJaguars.T-Variant-Football-JacksonvilleJaguars",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Kansas_City_Chiefs/Textures/T_Kansas_City_Chiefs_M_Med_Football_Body_D.T_Kansas_City_Chiefs_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Kansas_City_Chiefs/Textures/T_Kansas_City_Chiefs_M_Med_Football_Body_S.T_Kansas_City_Chiefs_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Kansas_City_Chiefs/Textures/T_Numbers_Chiefs.T_Numbers_Chiefs",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Chiefs/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Chiefs/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.016"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "8E6700CE48C5270D8718DD82A99F9639",
+            "SourceString": "Kansas City Chiefs"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-KansasCityChiefs.T-Variant-Football-KansasCityChiefs",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Los_Angeles_Chargers/Textures/T_Los_Angeles_Chargers_M_Med_Football_Body_D.T_Los_Angeles_Chargers_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Los_Angeles_Chargers/Textures/T_Los_Angeles_Chargers_M_Med_Football_Body_S.T_Los_Angeles_Chargers_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Los_Angeles_Chargers/Textures/T_Numbers_Chargers.T_Numbers_Chargers",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Chargers/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Chargers/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.017"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "EB6AC1BD46C19B643F7D92ABC7C0A9CB",
+            "SourceString": "Los Angeles Chargers"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-LosAngelesChargers.T-Variant-Football-LosAngelesChargers",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/LosAngeles_Rams/Textures/T_LosAngeles_Rams_M_Med_Football_Body_D.T_LosAngeles_Rams_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/LosAngeles_Rams/Textures/T_LosAngeles_Rams_M_Med_Football_Body_S.T_LosAngeles_Rams_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/LosAngeles_Rams/Textures/T_Numbers_Rams.T_Numbers_Rams",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Rams/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Rams/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.018"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "FBF0BE124F20549900C338BA7447E5F1",
+            "SourceString": "Los Angeles Rams - Super Bowl LIII"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-LosAngelesRams-SB53.T-Variant-Football-LosAngelesRams-SB53",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/LosAngeles_Rams/Contender/Textures/T_LA_Rams_Alt_Body_D.T_LA_Rams_Alt_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/LosAngeles_Rams/Contender/Textures/T_LA_Rams_Alt_Body_S.T_LA_Rams_Alt_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/LosAngeles_Rams/Textures/T_Numbers_Rams_Contender.T_Numbers_Rams_Contender",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Rams/T_M_MED_Football_Helmet_M_Helmet_Contender_D.T_M_MED_Football_Helmet_M_Helmet_Contender_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Rams/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.019"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "0D18D4284962109C4BDC839348DAFE7A",
+            "SourceString": "Los Angeles Rams"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-LosAngelesRams.T-Variant-Football-LosAngelesRams",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Miami_Dolphins/Textures/T_Miami_Dolphins_M_Med_Football_Body_D.T_Miami_Dolphins_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Miami_Dolphins/Textures/T_Miami_Dolphins_M_Med_Football_Body_S.T_Miami_Dolphins_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Miami_Dolphins/Textures/T_Numbers_Dolphins.T_Numbers_Dolphins",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Dolphins/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Dolphins/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.020"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "7E74D6E14E33F30004804AB5846F9214",
+            "SourceString": "Miami Dolphins"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-MiamiDolphins.T-Variant-Football-MiamiDolphins",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Minnesota_Vikings/Textures/T_Minnesota_Vikings_M_Med_Football_Body_D.T_Minnesota_Vikings_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Minnesota_Vikings/Textures/T_Minnesota_Vikings_M_Med_Football_Body_S.T_Minnesota_Vikings_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Minnesota_Vikings/Textures/T_Numbers_Vikings.T_Numbers_Vikings",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Vikings/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Vikings/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.8,
+                  "ParamName": "Undercoat Roughness"
+                }
+              ]
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.021"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "317D02414CA6464AC3DA7DAAC38ED666",
+            "SourceString": "Minnesota Vikings"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-MinnesotaVikings.T-Variant-Football-MinnesotaVikings",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet.M_MED_FootballHelmet",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_England_Patriots/Textures/T_New_England_Patriots_M_Med_Football_Body_D.T_New_England_Patriots_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_England_Patriots/Textures/T_New_England_Patriots_M_Med_Football_Body_S.T_New_England_Patriots_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_England_Patriots/Textures/T_Numbers_Patriots.T_Numbers_Patriots",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Patriots/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Patriots/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.022"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "66E8B786423A6D51BA25DE9D791CCACF",
+            "SourceString": "New England Patriots"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-NewEnglandPatriots.T-Variant-Football-NewEnglandPatriots",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet.M_MED_FootballHelmet",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_England_Patriots/Contender/Textures/T_Patriots_Alt_Body_D.T_Patriots_Alt_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_England_Patriots/Contender/Textures/T_Patriots_Alt_Body_S.T_Patriots_Alt_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_England_Patriots/Textures/T_Numbers_Patriots_Contender.T_Numbers_Patriots_Contender",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Patriots/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Patriots/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.023"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "B7E2F099411E59552AE6BF95ADED528D",
+            "SourceString": "New England Patriots - Super Bowl LIII"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-NewEnglandPatriots-SB53.T-Variant-Football-NewEnglandPatriots-SB53",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_Orleans_Saints/Textures/T_New_Orleans_Saints_M_Med_Football_Body_D.T_New_Orleans_Saints_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_Orleans_Saints/Textures/T_New_Orleans_Saints_M_Med_Football_Body_S.T_New_Orleans_Saints_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMask"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_Orleans_Saints/Textures/T_Numbers_Saints.T_Numbers_Saints",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Saints/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Saints/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.024"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "98BE42804CCA003138493A84334541B7",
+            "SourceString": "New Orleans Saints"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-NewOrleansSaints.T-Variant-Football-NewOrleansSaints",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_York_Giants/Textures/T_New_York_Giants_M_Med_Football_Body_D.T_New_York_Giants_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_York_Giants/Textures/T_New_York_Giants_M_Med_Football_Body_S.T_New_York_Giants_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_York_Giants/Textures/T_Numbers_Giants.T_Numbers_Giants",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Giants/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Giants/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.025"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "3291E30D421A91BDA99375869400BE8C",
+            "SourceString": "New York Giants"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-NewYorkGiants.T-Variant-Football-NewYorkGiants",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_York_Jets/Textures/T_New_York_Jets_M_Med_Football_Body_D.T_New_York_Jets_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_York_Jets/Textures/T_New_York_Jets_M_Med_Football_Body_S.T_New_York_Jets_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_York_Jets/Textures/T_Numbers_Jets.T_Numbers_Jets",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Jets/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Jets/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.026"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "00E7120846A676490B5C549E262A0A75",
+            "SourceString": "New York Jets"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-NewYorkJets.T-Variant-Football-NewYorkJets",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_York_Jets_2019/Textures/T_New_York_Jets_2019_M_Med_Football_Body_D.T_New_York_Jets_2019_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_York_Jets_2019/Textures/T_New_York_Jets_2019_S.T_New_York_Jets_2019_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/New_York_Jets/Textures/T_Numbers_Jets.T_Numbers_Jets",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Jets_2019/T_M_MED_Jets_2019_Helmet_D.T_M_MED_Jets_2019_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Jets_2019/T_M_MED_Jets_2019_Helmet_S.T_M_MED_Jets_2019_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.027"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "1FEED9244A4E678D2146EF83C6773FDD",
+            "SourceString": "New York Jets 2019"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-NewYorkJets-2019.T-Variant-Football-NewYorkJets-2019",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet.M_MED_FootballHelmet",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Oakland_Raiders/Textures/T_Oakland_Raiders_M_Med_Football_Body_D.T_Oakland_Raiders_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Oakland_Raiders/Textures/T_Oakland_Raiders_M_Med_Football_Body_S.T_Oakland_Raiders_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Oakland_Raiders/Textures/T_Numbers_Raiders.T_Numbers_Raiders",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Raiders/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Raiders/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.028"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "723E812D4E96257F24745EABF75744E7",
+            "SourceString": "Oakland Raiders"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-OaklandRaiders.T-Variant-Football-OaklandRaiders",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Philidelphia_Eagles/Textures/T_Philidelphia_Eagles_M_Med_Football_Body_D.T_Philidelphia_Eagles_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Philidelphia_Eagles/Textures/T_Philidelphia_Eagles_M_Med_Football_Body_S.T_Philidelphia_Eagles_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Philidelphia_Eagles/Textures/T_Numbers_Eagles.T_Numbers_Eagles",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Eagles/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Eagles/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.029"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "16F383024808F032E61F3E80E95F5C93",
+            "SourceString": "Philadelphia Eagles"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-PhiladelphiaEagles.T-Variant-Football-PhiladelphiaEagles",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Pittsburg_Steelers/Textures/T_Pittsburg_Steelers_M_Med_Football_Body_D.T_Pittsburg_Steelers_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Pittsburg_Steelers/Textures/T_Pittsburg_Steelers_M_Med_Football_Body_S.T_Pittsburg_Steelers_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Pittsburg_Steelers/Textures/T_Numbers_Steelers.T_Numbers_Steelers",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Steelers/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Steelers/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.030"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C8462DEC4EBC0C21D0FACE8067D1AA22",
+            "SourceString": "Pittsburgh Steelers"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-PittsburgSteelers.T-Variant-Football-PittsburgSteelers",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/San_Francisco_49ers/Textures/T_M_San_Francisco_49ers_M_Med_Football_Body_D.T_M_San_Francisco_49ers_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/San_Francisco_49ers/Textures/T_M_San_Francisco_49ers_M_Med_Football_Body_S.T_M_San_Francisco_49ers_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/San_Francisco_49ers/Textures/T_Numbers_49ers.T_Numbers_49ers",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/49ers/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/49ers/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.031"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "9437C5174C06B339454924BFB24009A5",
+            "SourceString": "San Francisco 49ers"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-SanFrancisco49ers.T-Variant-Football-SanFrancisco49ers",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/San_Fran_49ers_Contender/Textures/T_M_San_Francisco49rs_Contender_M_Med_Football_Body_D.T_M_San_Francisco49rs_Contender_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/San_Fran_49ers_Contender/Textures/T_M_San_Fran_49ers_Body_S.T_M_San_Fran_49ers_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/San_Fran_49ers_Contender/Textures/T_Numbers_49ers_Contender.T_Numbers_49ers_Contender",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/49ers/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/49ers/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.036"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "4FD237494A939186401343AA768A42A5",
+            "SourceString": "San Francisco 49ers - Super Bowl LIV"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-SanFrancisco49ers.T-Variant-Football-SanFrancisco49ers",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet.M_MED_FootballHelmet",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Seattle_Seahawks/Textures/T_Seattle_Seahawks_M_Med_Football_Body_D.T_Seattle_Seahawks_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Seattle_Seahawks/Textures/T_Seattle_Seahawks_M_Med_Football_Body_S.T_Seattle_Seahawks_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Seattle_Seahawks/Textures/T_Numbers_Seahawks.T_Numbers_Seahawks",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Seahawks/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Seahawks/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.6,
+                  "ParamName": "Undercoat Roughness"
+                }
+              ]
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.032"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "9F0D499445DF0DB6FF0D9A97AA40675A",
+            "SourceString": "Seattle Seahawks"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-SeattleSeahawks.T-Variant-Football-SeattleSeahawks",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Tampa_Bay_Buccaneers/Textures/T_Tampa_Bay_Buccaneers_M_Med_Football_Body_D.T_Tampa_Bay_Buccaneers_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Tampa_Bay_Buccaneers/Textures/T_Tampa_Bay_Buccaneers_M_Med_Football_Body_S.T_Tampa_Bay_Buccaneers_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Tampa_Bay_Buccaneers/Textures/T_Numbers_Tampa.T_Numbers_Tampa",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Buccaneers/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Buccaneers/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.033"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "CE4C647C4F44716FFB8DD5A816D23256",
+            "SourceString": "Tampa Bay Buccaneers"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-TampaBayBuccaneers.T-Variant-Football-TampaBayBuccaneers",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Tenessee_Titans/Textures/T_Tenessee_Titans_M_Med_Football_Body_D.T_Tenessee_Titans_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Tenessee_Titans/Textures/T_Tenessee_Titans_M_Med_Football_Body_S.T_Tenessee_Titans_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Tenessee_Titans/Textures/T_Numbers_Titans.T_Numbers_Titans",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Titans/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Titans/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.034"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "DB70D7FA417C12F5346E3394245150ED",
+            "SourceString": "Tennessee Titans"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-TennesseeTitans.T-Variant-Football-TennesseeTitans",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Washington_Redskins/Textures/T_Washington_Redskins_M_Med_Football_Body_D.T_Washington_Redskins_M_Med_Football_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Washington_Redskins/Textures/T_Washington_Redskins_M_Med_Football_Body_S.T_Washington_Redskins_M_Med_Football_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Washington_Redskins/Textures/T_Numbers_Redskins.T_Numbers_Redskins",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Numbers Texture"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet_NoColor.M_MED_FootballHelmet_NoColor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Redskins/T_M_MED_Football_Helmet_M_Helmet_D.T_M_MED_Football_Helmet_M_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Textures/Official/Redskins/T_M_MED_Football_Helmet_M_Helmet_S.T_M_MED_Football_Helmet_M_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.035"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "265201024A3AB8FE49DDC4A0FC22BCCB",
+            "SourceString": "Washington"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Football-Washington.T-Variant-Football-Washington",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.JerseyColor"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "995526BF468123581F0CE08A63F64CD3",
+        "SourceString": "COLOR"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticNumericalVariant",
+    "ExportValue": {
+      "ZerosDigitParamName": "Second Digit",
+      "TensDigitParamName": "First Digit",
+      "MaterialsToAlter": [
+        {
+          "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Commando_Football/Materials/M_Med_Football_Body_Pattern_01.M_Med_Football_Body_Pattern_01",
+          "SubPathString": null
+        },
+        {
+          "AssetPathName": "/Game/Accessories/Hats/M_MED_Football_Helmet/Materials/M_MED_FootballHelmet.M_MED_FootballHelmet",
+          "SubPathString": null
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Numeric"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "9B6588A14EB31AFC78D9FA9916DA5F37",
+        "SourceString": "NUMBER"
+      }
+    }
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_350_Athena_Commando_M_MasterKey",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_350_Athena_Commando_M_MasterKey",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_350_Athena_Commando_M_MasterKey",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticParticleVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_350_Athena_Commando_M_MasterKey",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B193323B481E793A1B5E0B96305C295C",
+        "SourceString": "Master Key"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "709A4F3B4CBE37A2972BE3911736E995",
+        "SourceString": "Unlock your true potential. The key lies within."
+      },
+      "GameplayTags": [
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Source.Season8.BattlePass.Paid",
+        "Cosmetics.Set.MasterKey",
+        "Cosmetics.Filter.Season.8"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "A29155DB4974325E4E31209EAB28B46C",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-350-Athena-Commando-M-MasterKey.T-Soldier-HID-350-Athena-Commando-M-MasterKey",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_MasterKeyMask.CP_M_MED_MasterKeyMask",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Head_Med_Soldier_M_MasterKey.CP_Head_Med_Soldier_M_MasterKey",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "89F744924A72A7FD27D62EBC83D11BEA",
+            "SourceString": "MASK"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-MasterKey-Mask.T-Variant-M-MasterKey-Mask",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "FB8D90AD4F9383A4C2CF4D8D34BB306F",
+            "SourceString": "Reach Season 8 Battle Pass Tier 99"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Parts"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "18CC19F542FB1E586CAA0E90470AF4D4",
+        "SourceString": "STYLE"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticParticleVariant",
+    "ExportValue": {
+      "ParticleOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "292A3E1C4E4130FFE15BD08A9E8189E4",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-350-Athena-Commando-M-MasterKey.T-Soldier-HID-350-Athena-Commando-M-MasterKey",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_MasterKey/Materials/M_MED_MasterKey_Body.M_MED_MasterKey_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_MasterKey/Materials/M_MED_MasterKey_White_Body.M_MED_MasterKey_White_Body",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_MasterKey/Materials/M_MED_MasterKey.M_MED_MasterKey",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_MasterKey/Materials/M_MED_MasterKey_White.M_MED_MasterKey_White",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Heads/M_MED_MasterKey/Materials/M_M_MED_Master_Key_Head.M_M_MED_Master_Key_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Heads/M_MED_MasterKey/Materials/M_M_MED_Master_Key_White_Head.M_M_MED_Master_Key_White_Head",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_MasterKey_Mask/Materials/M_MED_MasterKey_Mask.M_MED_MasterKey_Mask",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_MasterKey_Mask/Materials/M_MED_MasterKey_White_Mask.M_MED_MasterKey_White_Mask",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_MasterKey/FX/P_Skin_MasterKey_eye.P_Skin_MasterKey_eye",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_MasterKey/FX/P_Skin_MasterKey_eye_White.P_Skin_MasterKey_eye_White",
+                "SubPathString": null
+              }
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_MasterKey/FX/P_Skin_MasterKey_GlowKeys.P_Skin_MasterKey_GlowKeys",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_MasterKey/FX/P_Skin_MasterKey_GlowKeys_White.P_Skin_MasterKey_GlowKeys_White",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantParticleParams": [],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "08D9884745A9BE7E36C1908A3C15B76C",
+            "SourceString": "WHITE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-MasterKeyWhite-NoMask.T-Variant-M-MasterKeyWhite-NoMask",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "A33815304F0AE2AFB368718B8D775839",
+            "SourceString": "During Season 8 Complete 6 Overtime Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "1404C26844EA9FDEAEBF72AE75A4F894",
+        "SourceString": "COLOR"
+      }
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_790_Athena_Commando_M_HenchmanGoodShorts_C",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_790_Athena_Commando_M_HenchmanGoodShorts_C",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "1BDF48314F7DD11874E015861D8CFAB4",
+        "SourceString": "TBD"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "35AB69234B4AD809DE57C29408499731",
+        "SourceString": "TBD"
+      }
+    }
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_245_Athena_Commando_F_DurrburgerPjs",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_245_Athena_Commando_F_DurrburgerPjs",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_245_Athena_Commando_F_DurrburgerPjs",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "E8A403D64EBC2FA0072E4285A3A8182F",
+        "SourceString": "Onesie"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "98A6C3A84BB716BC5EA4FF9327EEDA34",
+        "SourceString": "Smash that snooze button."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season7.BattlePass.Paid",
+        "Cosmetics.Set.DurrrBurger",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Filter.Season.7"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "186479124962690C23990CA64CDE5CF4",
+            "SourceString": "Default"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-245-Athena-Commando-F-DurrburgerPjs.T-Soldier-HID-245-Athena-Commando-F-DurrburgerPjs",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_WinterOnesie.CP_Hat_F_Commando_WinterOnesie",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_WinterOnesie.CP_Body_Commando_F_WinterOnesie",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C4E7239F4CD637233B879483359BEA34",
+            "SourceString": "Winter"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-DurrBurgerPJs-Variant-Winter.T-Variant-DurrBurgerPJs-Variant-Winter",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "58CF0B4C4D42393CACE54D90A7261161",
+            "SourceString": "During Season 7 Complete 15 Overtime Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Parts"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "D73804EA482E9137F8B369A872930C54",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_822_Athena_Commando_F_Angler",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_822_Athena_Commando_F_Angler",
+          "OuterIndex": 0
+        }
+      },
+      "ObservedPlayerStats": [
+        "StatManager.AthenaKills",
+        "StatManager.OpenChests"
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "61F6482548541A43E98D6A818F2F0775",
+        "SourceString": "Mariana"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "E2F5C8C248D23166E09951A4684241A1",
+        "SourceString": "Champion of the ocean's light."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.OceanLight",
+        "Cosmetics.UserFacingFlags.Reactive"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_822_Athena_Commando_F_Angler.DA_Featured_CID_822_Athena_Commando_F_Angler",
+        "SubPathString": null
+      }
+    }
+  }
+]

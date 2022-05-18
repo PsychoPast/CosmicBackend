@@ -1,0 +1,70 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_593_Athena_Commando_F_SoccerZombieA",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_593_Athena_Commando_F_SoccerZombieA",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticNumericalVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_593_Athena_Commando_F_SoccerZombieA",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "1346ABA74E9C8775894AC0A56DEFC338",
+        "SourceString": "Decaying Dribbler"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "5B5D12A544E09EF8F76F64B03B8E79CF",
+        "SourceString": "Represent your crypt in style."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.ScaryBall",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.11"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_593_Athena_Commando_F_SoccerZombieA.DA_Featured_CID_593_Athena_Commando_F_SoccerZombieA",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticNumericalVariant",
+    "ExportValue": {
+      "ZerosDigitParamName": "Second Digit",
+      "TensDigitParamName": "First Digit",
+      "MaterialsToAlter": [
+        {
+          "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer_Zombie_1/Materials/F_MED_Soccer_Zombie_1_Body.F_MED_Soccer_Zombie_1_Body",
+          "SubPathString": null
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Numeric"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "32EA0B2641D0BDB1A0FA70A46A784528",
+        "SourceString": "NUMBER"
+      }
+    }
+  }
+]

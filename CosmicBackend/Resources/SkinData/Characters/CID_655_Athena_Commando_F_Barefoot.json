@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_655_Athena_Commando_F_Barefoot",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_655_Athena_Commando_F_Barefoot",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "0355F8A64E122EAD98832E91ACE863EF",
+        "SourceString": "Flatfoot"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "271C7EA447F42FAE063FEAAE7EA0C427",
+        "SourceString": "Stay on your toes."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.WarmDealings"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_655_Athena_Commando_F_Barefoot.DA_Featured_CID_655_Athena_Commando_F_Barefoot",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_886_Athena_Commando_M_ChOneRenegade",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_886_Athena_Commando_M_ChOneRenegade",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_886_Athena_Commando_M_ChOneRenegade",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "65DF07854C70256DF0420C8AC24FC398",
+        "SourceString": "Original Renegade"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "C987A2144F20ED3C8CE5B19EFE1C391E",
+        "SourceString": "Classic."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Set.Beginnings"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_886_Athena_Commando_M_ChOneRenegade.DA_Featured_CID_886_Athena_Commando_M_ChOneRenegade",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "3E66ACCA494D77F7D5C73D838F8F4276",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-886-Athena-Commando-M-ChOneRenegade.T-Soldier-HID-886-Athena-Commando-M-ChOneRenegade",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soldier_Redux/Skins/M_MED_Renegade_Default_Redux/Materials/Renegade_Redux_Body.Renegade_Redux_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soldier_Redux/Skins/M_MED_Renegade_Camo_Redux/Materials/Renegade_Camo_Body.Renegade_Camo_Body",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "1529D5864F2325237C149EB827F72014",
+            "SourceString": "CAMO"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-886-M-ChOneRenegade-B.T-Variant-886-M-ChOneRenegade-B",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "F9D7DF4B4C6BA5E922493EBA69264D4D",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

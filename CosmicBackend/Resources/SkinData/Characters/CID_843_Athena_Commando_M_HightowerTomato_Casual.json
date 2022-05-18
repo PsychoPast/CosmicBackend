@@ -1,0 +1,1045 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_843_Athena_Commando_M_HightowerTomato_Casual",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_843_Athena_Commando_M_HightowerTomato_Casual",
+          "OuterIndex": 0
+        }
+      },
+      "ObservedPlayerStats": [
+        "StatManager.AthenaKills"
+      ],
+      "BuiltInEmotes": [
+        {
+          "ObjectName": "EID_HightowerTomato",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Items/Cosmetics/Dances/EID_HightowerTomato",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_843_Athena_Commando_M_HightowerTomato_Casual",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_843_Athena_Commando_M_HightowerTomato_Casual",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "81494DFC4DB6EF2B02D6D2AC3A7C874E",
+        "SourceString": "Tony Stark"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "0068498E410C21D668A3B790C052F970",
+        "SourceString": "Billionaire. Playboy. Philanthropist. Inventor."
+      },
+      "GameplayTags": [
+        "Cosmetics.Variant.ForceLoadAllParts",
+        "Cosmetics.Source.Season14.BattlePass.Paid",
+        "Cosmetics.Exclusives.HightowerTomato",
+        "Cosmetics.QuestsMetaData.Awakening.HIghtowerTomato",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Set.MarbleShot"
+      ],
+      "Series": {
+        "ObjectName": "MarvelSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/MarvelSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [
+            {
+              "LibrariesToAdd": [],
+              "LibrariesToRemove": [
+                {
+                  "ObjectName": "FoleyLib_Hightower_Tomato_Suit_C",
+                  "OuterIndex": {
+                    "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/Hightower/Tomato/FoleyLib_Hightower_Tomato_Suit",
+                    "OuterIndex": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [
+              "Cosmetics.Variant.Meta.HighTowerTomato.Casual"
+            ],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "D2D507C34B653808027D6AA07EBB1E73",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-843-Athena-Commando-M-HightowerTomato-Casual.T-Soldier-HID-843-Athena-Commando-M-HightowerTomato-Casual",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_Body_Armor_Opaque.M_MED_HighTower_Tomato_Body_Armor_Opaque",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_Opaque.M_MED_HighTower_Tomato_FaceAcc_Armor_Opaque",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_Opaque.M_MED_HighTower_TomatoCasual_Head_Opaque",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_Opaque.M_MED_HighTower_TomatoCasual_Body_Opaque",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_Opaque.M_MED_HighTower_TomatoCasual_FaceAcc_Opaque",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_Hightower_TomatoCasual_Glass.M_MED_Hightower_TomatoCasual_Glass",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_Body_Armor_SL_Silver.M_MED_HighTower_Tomato_Body_Armor_SL_Silver",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Silver.M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Silver",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_SL_Silver.M_MED_HighTower_TomatoCasual_Body_SL_Silver",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_SL_Slvr.M_MED_HighTower_TomatoCasual_Head_SL_Slvr",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_SL_Slvr.M_MED_HighTower_TomatoCasual_FaceAcc_SL_Slvr",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_Body_Armor_SL_Gold.M_MED_HighTower_Tomato_Body_Armor_SL_Gold",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Gold.M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Gold",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_SL_Gold.M_MED_HighTower_TomatoCasual_Body_SL_Gold",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_SL_Gold.M_MED_HighTower_TomatoCasual_Head_SL_Gold",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_SL_Gold.M_MED_HighTower_TomatoCasual_FaceAcc_SL_Gold",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_Body_Armor_SL.M_MED_HighTower_Tomato_Body_Armor_SL",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Foil.M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Foil",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_SL_Foil.M_MED_HighTower_TomatoCasual_Body_SL_Foil",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_SL_Foil.M_MED_HighTower_TomatoCasual_Head_SL_Foil",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_SL_Foil.M_MED_HighTower_TomatoCasual_FaceAcc_SL_Foil",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "HT_CrunchVerts"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [
+            {
+              "LibrariesToAdd": [
+                {
+                  "ObjectName": "FoleyLib_Hightower_Tomato_Suit_C",
+                  "OuterIndex": {
+                    "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/Hightower/Tomato/FoleyLib_Hightower_Tomato_Suit",
+                    "OuterIndex": 0
+                  }
+                }
+              ],
+              "LibrariesToRemove": []
+            }
+          ],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [
+              "Cosmetics.Variant.Meta.HighTowerTomato.Suit"
+            ],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E97E8BFE40BF3C6F3A94FD9119D4C16D",
+            "SourceString": "SUIT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-843-M-HighTower-Tomato.T-Variant-843-M-HighTower-Tomato",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "F917FC6A4985A31A6BD56D81EBE37C58",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-843-Athena-Commando-M-HightowerTomato-Casual.T-Soldier-HID-843-Athena-Commando-M-HightowerTomato-Casual",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_Body_Armor_Opaque.M_MED_HighTower_Tomato_Body_Armor_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_Body_Armor_SL_Silver.M_MED_HighTower_Tomato_Body_Armor_SL_Silver",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_Tomato_Body_Armor_EMOTE.M_MED_HighTower_Tomato_Body_Armor_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_Body_Armor_SL_Silver.M_MED_HighTower_Tomato_Body_Armor_SL_Silver",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_Opaque.M_MED_HighTower_Tomato_FaceAcc_Armor_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Silver.M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Silver",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_EMOTE.M_MED_HighTower_Tomato_FaceAcc_Armor_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Silver.M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Silver",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_EMOTE.M_MED_HighTower_TomatoCasual_Body_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_SL_Silver.M_MED_HighTower_TomatoCasual_Body_SL_Silver",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_Opaque.M_MED_HighTower_TomatoCasual_Body_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_SL_Silver.M_MED_HighTower_TomatoCasual_Body_SL_Silver",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_EMOTE.M_MED_HighTower_TomatoCasual_FaceAcc_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_SL_Slvr.M_MED_HighTower_TomatoCasual_FaceAcc_SL_Slvr",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_Opaque.M_MED_HighTower_TomatoCasual_FaceAcc_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_SL_Slvr.M_MED_HighTower_TomatoCasual_FaceAcc_SL_Slvr",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_EMOTE.M_MED_HighTower_TomatoCasual_FaceAcc_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_SL_Slvr.M_MED_HighTower_TomatoCasual_FaceAcc_SL_Slvr",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_EMOTE.M_MED_HighTower_TomatoCasual_Head_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_SL_Slvr.M_MED_HighTower_TomatoCasual_Head_SL_Slvr",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_Opaque.M_MED_HighTower_TomatoCasual_Head_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_SL_Slvr.M_MED_HighTower_TomatoCasual_Head_SL_Slvr",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "8E0CD1904119543243F2059D1FC1FB86",
+            "SourceString": "SILVER FOIL"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-843-M-Hightower-tomato-Silver.T-Variant-843-M-Hightower-tomato-Silver",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_Body_Armor_Opaque.M_MED_HighTower_Tomato_Body_Armor_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_Body_Armor_SL_Gold.M_MED_HighTower_Tomato_Body_Armor_SL_Gold",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_Tomato_Body_Armor_EMOTE.M_MED_HighTower_Tomato_Body_Armor_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_Body_Armor_SL_Gold.M_MED_HighTower_Tomato_Body_Armor_SL_Gold",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_Opaque.M_MED_HighTower_Tomato_FaceAcc_Armor_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Gold.M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Gold",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_EMOTE.M_MED_HighTower_Tomato_FaceAcc_Armor_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Gold.M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Gold",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_EMOTE.M_MED_HighTower_TomatoCasual_Body_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_SL_Gold.M_MED_HighTower_TomatoCasual_Body_SL_Gold",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_Opaque.M_MED_HighTower_TomatoCasual_Body_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_SL_Gold.M_MED_HighTower_TomatoCasual_Body_SL_Gold",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_EMOTE.M_MED_HighTower_TomatoCasual_FaceAcc_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_SL_Slvr.M_MED_HighTower_TomatoCasual_FaceAcc_SL_Slvr",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_Opaque.M_MED_HighTower_TomatoCasual_FaceAcc_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_SL_Gold.M_MED_HighTower_TomatoCasual_FaceAcc_SL_Gold",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_EMOTE.M_MED_HighTower_TomatoCasual_Head_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_SL_Gold.M_MED_HighTower_TomatoCasual_Head_SL_Gold",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_Opaque.M_MED_HighTower_TomatoCasual_Head_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_SL_Gold.M_MED_HighTower_TomatoCasual_Head_SL_Gold",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "A7FE38E046ADFAE4E415ACB1E65A254E",
+            "SourceString": "GOLD FOIL"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-843-M-Hightower-tomato-Gold.T-Variant-843-M-Hightower-tomato-Gold",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_Body_Armor_Opaque.M_MED_HighTower_Tomato_Body_Armor_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_Body_Armor_SL.M_MED_HighTower_Tomato_Body_Armor_SL",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_Tomato_Body_Armor_EMOTE.M_MED_HighTower_Tomato_Body_Armor_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_Body_Armor_SL.M_MED_HighTower_Tomato_Body_Armor_SL",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_Opaque.M_MED_HighTower_Tomato_FaceAcc_Armor_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Foil.M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Foil",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_EMOTE.M_MED_HighTower_Tomato_FaceAcc_Armor_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato/Materials/M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Foil.M_MED_HighTower_Tomato_FaceAcc_Armor_SL_Foil",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_EMOTE.M_MED_HighTower_TomatoCasual_Body_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_SL_Foil.M_MED_HighTower_TomatoCasual_Body_SL_Foil",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_Opaque.M_MED_HighTower_TomatoCasual_Body_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Body_SL_Foil.M_MED_HighTower_TomatoCasual_Body_SL_Foil",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_EMOTE.M_MED_HighTower_TomatoCasual_FaceAcc_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_SL_Foil.M_MED_HighTower_TomatoCasual_FaceAcc_SL_Foil",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_Opaque.M_MED_HighTower_TomatoCasual_FaceAcc_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_FaceAcc_SL_Foil.M_MED_HighTower_TomatoCasual_FaceAcc_SL_Foil",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_EMOTE.M_MED_HighTower_TomatoCasual_Head_EMOTE",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_SL_Foil.M_MED_HighTower_TomatoCasual_Head_SL_Foil",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_Opaque.M_MED_HighTower_TomatoCasual_Head_Opaque",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_MED_HighTower_TomatoCasual_Head_SL_Foil.M_MED_HighTower_TomatoCasual_Head_SL_Foil",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "5406540E454990F8FCA9179CF4636DCC",
+            "SourceString": "HOLO FOIL"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-843-M-Hightower-tomato-Holo.T-Variant-843-M-Hightower-tomato-Holo",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "7365EABD4ABA9FA02E7862AEC7160DB4",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_987_Athena_Commando_M_Frostbyte",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_987_Athena_Commando_M_Frostbyte",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "DC74996D4638646FFB85F6948A989934",
+        "SourceString": "Frost Broker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "73DF2230469DBBCCD5C94CA8808A5DC4",
+        "SourceString": "Welcome to the deep freeze."
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.Set.SnowDudes"
+      ],
+      "Series": {
+        "ObjectName": "FrozenSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/FrozenSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

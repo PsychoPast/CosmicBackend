@@ -1,0 +1,46 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_745_Athena_Commando_M_RavenQuill",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_745_Athena_Commando_M_RavenQuill",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "019C2B3E41483E9E955D398FCA9D006F",
+        "SourceString": "Ravenpool"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "17E135A24AAB4F286AC50393F5497097",
+        "SourceString": "Maximum darkness."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.12",
+        "Cosmetics.Set.PropertySector"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_745_Athena_Commando_M_RavenQuill.DA_Featured_CID_745_Athena_Commando_M_RavenQuill",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "MarvelSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/MarvelSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_929_Athena_Commando_M_NauticalPajamas_C",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_929_Athena_Commando_M_NauticalPajamas_C",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_929_Athena_Commando_M_NauticalPajamas_C",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_929_Athena_Commando_M_NauticalPajamas_C",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "02CB395F45E3D1CDCB366087D7297414",
+        "SourceString": "Sgt. Snooze"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "1F8C7F8E4FC4C3E90CDC97AFCEC645B5",
+        "SourceString": "Drop and give me forty winks."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Set.SleepyArmy"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_929_Athena_Commando_M_NauticalPajamas_C.DA_Featured_CID_929_Athena_Commando_M_NauticalPajamas_C",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "917291B649DA6AF7B15B70B4111FD564",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-929-Athena-Commando-M-NauticalPajamas-C.T-Soldier-HID-929-Athena-Commando-M-NauticalPajamas-C",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_NauticalPajamas_Night.CP_Athena_Body_M_NauticalPajamas_Night",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_NauticalPajamas_Night_HIS.CP_M_MED_NauticalPajamas_Night_HIS",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "9964261B42660DF3C6F267ADA52113A6",
+            "SourceString": "BEEFY JAMS"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-929-M-NauticalPajamas-Night-HIS.T-Variant-929-M-NauticalPajamas-Night-HIS",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_NauticalPajamas_Underwater.CP_Athena_Body_M_NauticalPajamas_Underwater",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_NauticalPajamas_Underwater_HIS.CP_M_MED_NauticalPajamas_Underwater_HIS",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "3068855942DEC24D4F7D1E9F9258DB5A",
+            "SourceString": "SWIMMY JAMS"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-929-M-NauticalPajamas-Underwater-HIS.T-Variant-929-M-NauticalPajamas-Underwater-HIS",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Parts"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "AB82723C40604BC9E35260AF0F07AC17",
+        "SourceString": "STYLE"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "67EE25374CD8835C5C606587FE433E83",
+            "SourceString": "ON"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-NauticalPJs-Mask.T-Variant-NauticalPJs-Mask",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Nautical_Pajamas/Materials/M_MED_NauticalPajamas_FaceAcc.M_MED_NauticalPajamas_FaceAcc",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 03"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Nautical_Pajamas_Night/Materials/M_MED_NauticalPajamasNight_FaceAcc.M_MED_NauticalPajamasNight_FaceAcc",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 03"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Nautical_Pajamas_Underwater/Materials/M_MED_NauticalPajamasUnderwater_FaceAcc.M_MED_NauticalPajamasUnderwater_FaceAcc",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 03"
+                }
+              ]
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "BBF5E5B74BD3639196F58BA184E57E37",
+            "SourceString": "OFF"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-NauticalPJs-NoMask.T-Variant-NauticalPJs-NoMask",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "D1C518504D9F07032F1A7181C7BE2A0F",
+        "SourceString": "MASK"
+      }
+    }
+  }
+]

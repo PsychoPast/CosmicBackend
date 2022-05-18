@@ -1,0 +1,56 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_474_Athena_Commando_M_Lasagna",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_474_Athena_Commando_M_Lasagna",
+          "OuterIndex": 0
+        }
+      },
+      "BuiltInEmotes": [
+        {
+          "ObjectName": "EID_LasagnaFlex",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Items/Cosmetics/Dances/EID_LasagnaFlex",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "15FC9D66497FA9F8728EBE95EC5AC724",
+        "SourceString": "Major Lazer"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "402E179B4DF52ACE7BBBB38BF1284B9F",
+        "SourceString": "Peace is the mission. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Lasagna",
+        "Cosmetics.UserFacingFlags.BuiltInEmote",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_474_Athena_Commando_M_Lasagna.DA_Featured_CID_474_Athena_Commando_M_Lasagna",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "CreatorCollabSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/CreatorCollabSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

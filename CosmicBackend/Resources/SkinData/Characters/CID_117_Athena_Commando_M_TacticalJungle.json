@@ -1,0 +1,36 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_117_Athena_Commando_M_TacticalJungle",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_117_Athena_Commando_M_TacticalJungle",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "6BF344E5481758BAB0B8A4BE666EA814",
+        "SourceString": "Squad Leader"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "275E4B10425E748E0910A0A20C45CC17",
+        "SourceString": "First in, last out."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.AdvancedForces",
+        "Cosmetics.Source.Season4.BattlePass.Paid",
+        "phoebe.cosmetic.CID_117_Athena_Commando_M_TacticalJungle",
+        "Cosmetics.Filter.Season.4"
+      ]
+    }
+  }
+]

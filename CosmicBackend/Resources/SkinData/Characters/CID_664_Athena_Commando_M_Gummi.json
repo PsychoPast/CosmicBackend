@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_664_Athena_Commando_M_Gummi",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_664_Athena_Commando_M_Gummi",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "221C9BF2411D421B0BD7C88AC3A57DA3",
+        "SourceString": "Jellie"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "2496D3DE4DC6B72FB1C34C9011405C19",
+        "SourceString": "The anemone you don't want for an enemy. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.TeriyakiFish"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_664_Athena_Commando_M_Gummi.DA_Featured_CID_664_Athena_Commando_M_Gummi",
+        "SubPathString": null
+      }
+    }
+  }
+]

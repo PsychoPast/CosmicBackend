@@ -1,0 +1,171 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_121_Athena_Commando_M_Graffiti",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_121_Athena_Commando_M_Graffiti",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_121_Athena_Commando_M_Graffiti",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "16AB044D492D647860A6A59BA9690A0B",
+        "SourceString": "Abstrakt"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "8A8E1A6B481F94F8FD15A3B7AA8E9AF8",
+        "SourceString": "The writing's on the wall."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.AerosolAssassins",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.4",
+        "Cosmetics.UserFacingFlags.HasVariants"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_121_Athena_Commando_M_Graffiti.DA_Featured_CID_121_Athena_Commando_M_Graffiti",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "876A27944F2385C2BF5BF7BBB1FD2647",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-121-Athena-Commando-M-Graffiti.T-Soldier-HID-121-Athena-Commando-M-Graffiti",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_GraffitiSpy.CP_Athena_Body_M_GraffitiSpy",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_GraffitiSpy.CP_Athena_Head_M_GraffitiSpy",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_GraffitiSpy_FaceAcc.CP_M_MED_GraffitiSpy_FaceAcc",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "BF73C58246DD1A8EF275D49876377BD8",
+            "SourceString": "ABSTRAKT ASSASSIN"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-121-M-Graffiti-Spy.T-Variant-121-M-Graffiti-Spy",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Parts"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "73DDFFAB4825638FF1A6B4ADA0A8F2F3",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

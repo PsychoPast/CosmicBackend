@@ -1,0 +1,174 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_153_Athena_Commando_F_CarbideBlack",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_153_Athena_Commando_F_CarbideBlack",
+          "OuterIndex": 0
+        }
+      },
+      "MetaTags": [
+        "Cosmetics.MetaTags.Trait.NeckOnBody"
+      ],
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_153_Athena_Commando_F_CarbideBlack",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "5C99BF294A60DDDA63A1E1921736C3FB",
+        "SourceString": "Oblivion"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "85B0A15743330C9620CC7EB8FD53A1BF",
+        "SourceString": "Unending vengeance."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.CarbideBlackFemale",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.4",
+        "Cosmetics.UserFacingFlags.HasVariants"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_153_Athena_Commando_F_CarbideBlack.DA_Featured_CID_153_Athena_Commando_F_CarbideBlack",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "B8716B4C420006797826F18C2FB72A12",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-153-Athena-Commando-F-CarbideBlack.T-Soldier-HID-153-Athena-Commando-F-CarbideBlack",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_CarbideOrange_01/Skins/F_MED_CarbideBlack_01/Materials/F_Med_Carbide_Black_01_Helmet.F_Med_Carbide_Black_01_Helmet",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_CarbideBlackGold/Materials/F_CarbideBlackGold_Helmet.F_CarbideBlackGold_Helmet",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_CarbideOrange_01/Skins/F_MED_CarbideBlack_01/Materials/F_Med_Carbide_Black_01_Body.F_Med_Carbide_Black_01_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_CarbideBlackGold/Materials/F_CarbideBlackGold_Body.F_CarbideBlackGold_Body",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C3F00CF9470942735E2388BDD533FFEF",
+            "SourceString": "GOLD"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-153-F-CarbideBlack-Gold.T-Variant-153-F-CarbideBlack-Gold",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "30E03FA44E9225FD1840559546BADB02",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

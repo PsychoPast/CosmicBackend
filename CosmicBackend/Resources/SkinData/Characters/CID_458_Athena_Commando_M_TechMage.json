@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_458_Athena_Commando_M_TechMage",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_458_Athena_Commando_M_TechMage",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "1493E41F44D67E5AC8924D803AECDD5C",
+        "SourceString": "Vector"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "B5D230864DC2ECD40D4BDDBEF8B5ACCC",
+        "SourceString": "Control the variables, control the battle. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.TechMage",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_458_Athena_Commando_M_TechMage.DA_Featured_CID_458_Athena_Commando_M_TechMage",
+        "SubPathString": null
+      }
+    }
+  }
+]

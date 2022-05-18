@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_813_Athena_Commando_M_TeriyakiAtlantis",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_813_Athena_Commando_M_TeriyakiAtlantis",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "FE1A50544C6F769C7A1E888E5A0BA1EF",
+        "SourceString": "Atlantean Fishstick"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F2F9C5CB4E097E1C0E85A4B821E9FC6C",
+        "SourceString": "King of the Fishsticks."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.FishyParadise"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_813_Athena_Commando_M_TeriyakiAtlantis.DA_Featured_CID_813_Athena_Commando_M_TeriyakiAtlantis",
+        "SubPathString": null
+      }
+    }
+  }
+]

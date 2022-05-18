@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_849_Athena_Commando_M_DarkEaglePurple",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_849_Athena_Commando_M_DarkEaglePurple",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "1DBAD3C94CDD4075243353A30ABD3A36",
+        "SourceString": "Dread Omen"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "E89EB99C4F4E7EDA6DA199BD5A319934",
+        "SourceString": "Your victory is dreaded by many."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.AwfulAspect"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_849_Athena_Commando_M_DarkEaglePurple.DA_Featured_CID_849_Athena_Commando_M_DarkEaglePurple",
+        "SubPathString": null
+      }
+    }
+  }
+]

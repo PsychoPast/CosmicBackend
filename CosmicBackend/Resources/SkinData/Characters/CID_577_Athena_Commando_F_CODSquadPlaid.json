@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_577_Athena_Commando_F_CODSquadPlaid",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_577_Athena_Commando_F_CODSquadPlaid",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "D35D35B4425A0CF840D399AF82A10E4B",
+        "SourceString": "Rustler"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F8B0E17E492F0D5E9EF4C5B9CD4D49F2",
+        "SourceString": "Scuff up your boots."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Perimeter",
+        "Cosmetics.Filter.Season.11"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_577_Athena_Commando_F_CODSquadPlaid.DA_Featured_CID_577_Athena_Commando_F_CODSquadPlaid",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_958_Athena_Commando_M_PieMan",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_958_Athena_Commando_M_PieMan",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "CB2DB3D44C53BD4F1DA682ADF71F028D",
+        "SourceString": "Mincemeat"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "58866090404B78EAA89AC494598BA0EC",
+        "SourceString": "Made with love. And meat."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.CooksDream"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_958_Athena_Commando_M_Pieman.DA_Featured_CID_958_Athena_Commando_M_Pieman",
+        "SubPathString": null
+      }
+    }
+  }
+]

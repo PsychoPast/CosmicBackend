@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_669_Athena_Commando_M_ArcticCamo_Slate",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_669_Athena_Commando_M_ArcticCamo_Slate",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "04DB0F4B4B0A796062F800B19D196C4C",
+        "SourceString": "Chillout"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "29ACDE21400F7620D432169ADC2A48AF",
+        "SourceString": "Stay cool, victory awaits. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.AlwaysFrozen"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_669_Athena_Commando_M_ArcticCamoSlate.DA_Featured_CID_669_Athena_Commando_M_ArcticCamoSlate",
+        "SubPathString": null
+      }
+    }
+  }
+]

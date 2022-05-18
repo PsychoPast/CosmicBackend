@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_035_Athena_Commando_M_Medieval",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_035_Athena_Commando_M_Medieval",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "97A63AE1472F05BD15A0D497D369072E",
+        "SourceString": "Black Knight"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "4D6FE88C488A7DB97E5FBEB785E9EB40",
+        "SourceString": "The odious scourge of Wailing Woods."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season2.BattlePass.Paid",
+        "Cosmetics.Set.FortKnights",
+        "Cosmetics.Filter.Season.2"
+      ]
+    }
+  }
+]

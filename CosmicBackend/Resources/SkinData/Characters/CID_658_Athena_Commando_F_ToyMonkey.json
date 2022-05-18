@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_658_Athena_Commando_F_ToyMonkey",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_658_Athena_Commando_F_ToyMonkey",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "58C932BD4389E0DA54CF8A9BAD861B26",
+        "SourceString": "Monks"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F0DDEDF546729CBA1F049FAA5E3D475C",
+        "SourceString": "Send in the monkey."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.PunchOut"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_658_Athena_Commando_F_ToyMonkey.DA_Featured_CID_658_Athena_Commando_F_ToyMonkey",
+        "SubPathString": null
+      }
+    }
+  }
+]

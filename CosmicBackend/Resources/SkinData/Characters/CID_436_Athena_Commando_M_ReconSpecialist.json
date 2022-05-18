@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_436_Athena_Commando_M_ReconSpecialist",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_436_Athena_Commando_M_ReconSpecialist",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B4534CED4947018B2AE779AC2A1E1D44",
+        "SourceString": "Relay"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "259EAD804FB3D03F66C1F9B945B2F87C",
+        "SourceString": "Keep the line clear."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_436_Athena_Commando_M_ReconSpecialist.DA_Featured_CID_436_Athena_Commando_M_ReconSpecialist",
+        "SubPathString": null
+      }
+    }
+  }
+]

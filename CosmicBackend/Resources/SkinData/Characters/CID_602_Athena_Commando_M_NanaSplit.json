@@ -1,0 +1,51 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_602_Athena_Commando_M_NanaSplit",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_602_Athena_Commando_M_NanaSplit",
+          "OuterIndex": 0
+        }
+      },
+      "BuiltInEmotes": [
+        {
+          "ObjectName": "EID_PeelyBones",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Items/Cosmetics/Dances/EID_PeelyBones",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "8890F90F4D1DAE6A1A7EE6B6A8F06018",
+        "SourceString": "Peely Bone"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "9B87811846FBCF7180E317A2C766314D",
+        "SourceString": "He's probably going to be fine. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.BuiltInEmote",
+        "Cosmetics.Set.Banana",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.MetaTags.Trait.ExtremelyUnique",
+        "Phoebe.Cosmetic.Minus.Zone2"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_602_Athena_Commando_M_NanaSplit.DA_Featured_CID_602_Athena_Commando_M_NanaSplit",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_808_Athena_Commando_F_ConstellationSun",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_808_Athena_Commando_F_ConstellationSun",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "0F74AB504CB5689B07B163B2D7C08C76",
+        "SourceString": "Starflare"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "763B51CA43D9C3B57A45E09CE885EF64",
+        "SourceString": "The last star you'll see tonight."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.AreaFlame"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_808_Athena_Commando_F_ConstellationSun.DA_Featured_CID_808_Athena_Commando_F_ConstellationSun",
+        "SubPathString": null
+      }
+    }
+  }
+]

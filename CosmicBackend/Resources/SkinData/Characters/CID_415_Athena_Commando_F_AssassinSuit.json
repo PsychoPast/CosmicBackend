@@ -1,0 +1,42 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_415_Athena_Commando_F_AssassinSuit",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_415_Athena_Commando_F_AssassinSuit",
+          "OuterIndex": 0
+        }
+      },
+      "MetaTags": [
+        "Cosmetics.MetaTags.Theme.Assassin"
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "FA5213034D8CBEE377F36287A31F871F",
+        "SourceString": "Sofia"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "10FE94A7450170678602D889C310332C",
+        "SourceString": "The assassin's assassin. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.AssassinSuit",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_415_Athena_Commando_F_AssassinSuit.DA_Featured_CID_415_Athena_Commando_F_AssassinSuit",
+        "SubPathString": null
+      }
+    }
+  }
+]

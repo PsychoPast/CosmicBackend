@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_968_Athena_Commando_M_TeriyakiFishElf",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_968_Athena_Commando_M_TeriyakiFishElf",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "F97D14DA46F003EDF3978DBC085D7E15",
+        "SourceString": "Fa-La-La-La-Fishstick"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "2484BFA1410DAFAF22A13FB400893F3F",
+        "SourceString": "Koi to the world."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.Set.FairyTrawl"
+      ]
+    }
+  }
+]

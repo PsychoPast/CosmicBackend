@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_312_Athena_Commando_F_FunkOps",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_312_Athena_Commando_F_FunkOps",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B59276AB4F08C80B69B3039C733143F8",
+        "SourceString": "Disco Diva"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "BBC141AC4B8AA562294EB99A76179EB3",
+        "SourceString": "Make way for the queen of the dance floor."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.FortniteFever",
+        "Cosmetics.Filter.Season.7"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_312_Athena_Commando_F_FunkOps.DA_Featured_CID_312_Athena_Commando_F_FunkOps",
+        "SubPathString": null
+      }
+    }
+  }
+]

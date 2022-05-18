@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_630_Athena_Commando_M_Kane",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_630_Athena_Commando_M_Kane",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "D71A913043A21B2A070273B7501BC1B1",
+        "SourceString": "Kane"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F46B7C4445F73BB99E15B78F7AAEC3F3",
+        "SourceString": "Manic minty monster. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.ScaryTime"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_630_Athena_Commando_M_Kane.DA_Featured_CID_630_Athena_Commando_M_Kane",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_440_Athena_Commando_F_BullseyeGreenPlastic",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_440_Athena_Commando_F_BullseyeGreenPlastic",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_440_Athena_Commando_F_BullseyeGreenPlastic",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "33170A2C4A25E58E6A215FAF784E9546",
+        "SourceString": "Toy Trooper"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "E1718D264F870F5DFDD13F95188C1F4C",
+        "SourceString": "Molded for victory."
+      },
+      "GameplayTags": [
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Set.GreenPlastic",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_440_Athena_Commando_F_BullseyeGreenPlastic.DA_Featured_CID_440_Athena_Commando_F_BullseyeGreenPlastic",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "335A7FB64FC46CEA1A04F4AA3504F074",
+            "SourceString": "GREEN"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-440-Athena-Commando-F-BullseyeGreenPlastic.T-Soldier-HID-440-Athena-Commando-F-BullseyeGreenPlastic",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/F_MED_Commando_Bullesye/Textures/Skins/Plastic/Materials/F_Med_BullseyeGreenPlastic_Helmet.F_Med_BullseyeGreenPlastic_Helmet",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/F_MED_Commando_Bullesye/Textures/Skins/Plastic/Materials/F_Med_Bullseye_GrayPlastic_Helmet.F_Med_Bullseye_GrayPlastic_Helmet",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/F_MED_Commando_Bullesye/Textures/Skins/Plastic/Materials/F_Med_BullseyeGreenPlastic_Hair.F_Med_BullseyeGreenPlastic_Hair",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/F_MED_Commando_Bullesye/Textures/Skins/Plastic/Materials/F_Med_Bullseye_GrayPlastic_Hair.F_Med_Bullseye_GrayPlastic_Hair",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Skins/Plastic/Materials/F_Med_BullseyeGreenPlastic_Head.F_Med_BullseyeGreenPlastic_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Skins/Plastic/Materials/F_Med_BullseyeGrayPlastic_Head.F_Med_BullseyeGrayPlastic_Head",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Bullseye_Green_Plastic/Materials/F_Med_BullseyeGreenPlastic_Body.F_Med_BullseyeGreenPlastic_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Bullseye_Green_Plastic/Materials/F_Med_BullseyeGrayPlastic_Body.F_Med_BullseyeGrayPlastic_Body",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "CB0868AF4CB3A7BF3E9C8E82B9D850E9",
+            "SourceString": "GRAY"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-BullseyeGreenPlastic-Gray.T-Variant-F-BullseyeGreenPlastic-Gray",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/F_MED_Commando_Bullesye/Textures/Skins/Plastic/Materials/F_Med_BullseyeGreenPlastic_Helmet.F_Med_BullseyeGreenPlastic_Helmet",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/F_MED_Commando_Bullesye/Textures/Skins/Plastic/Materials/F_Med_Bullseye_RedPlastic_Helmet.F_Med_Bullseye_RedPlastic_Helmet",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/F_MED_Commando_Bullesye/Textures/Skins/Plastic/Materials/F_Med_BullseyeGreenPlastic_Hair.F_Med_BullseyeGreenPlastic_Hair",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/F_MED_Commando_Bullesye/Textures/Skins/Plastic/Materials/F_Med_Bullseye_RedPlastic_Hair.F_Med_Bullseye_RedPlastic_Hair",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Skins/Plastic/Materials/F_Med_BullseyeGreenPlastic_Head.F_Med_BullseyeGreenPlastic_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Skins/Plastic/Materials/F_Med_BullseyeRedPlastic_Head.F_Med_BullseyeRedPlastic_Head",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Bullseye_Green_Plastic/Materials/F_Med_BullseyeGreenPlastic_Body.F_Med_BullseyeGreenPlastic_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Bullseye_Green_Plastic/Materials/F_Med_BullseyeRedPlastic_Body.F_Med_BullseyeRedPlastic_Body",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "721FC57C48D37E9A5055E1BBF2E2E789",
+            "SourceString": "RED"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-BullseyeGreenPlastic-Red.T-Variant-F-BullseyeGreenPlastic-Red",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "73DD80F6445A0FE95A541BAC48450D8F",
+        "SourceString": "COLOR"
+      }
+    }
+  }
+]

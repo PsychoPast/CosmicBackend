@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_514_Athena_Commando_F_ToxicKitty",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_514_Athena_Commando_F_ToxicKitty",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "501792B745D722A6CD5ABD8C93BAD3B4",
+        "SourceString": "Catastrophe"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "9B3B084648D43AF00CBC91A4BFA98771",
+        "SourceString": "Sharpen your claws."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.CautiousLoaf",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_514_Athena_Commando_F_ToxicKitty.DA_Featured_CID_514_Athena_Commando_F_ToxicKitty",
+        "SubPathString": null
+      }
+    }
+  }
+]

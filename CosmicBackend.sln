@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmicBackend", "CosmicBackend\CosmicBackend.csproj", "{A8482D8F-0422-4B83-9A61-6B6A85648701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temp", "Temp\Temp.csproj", "{1B501CD1-1403-4B57-B10B-4070839F0C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8482D8F-0422-4B83-9A61-6B6A85648701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8482D8F-0422-4B83-9A61-6B6A85648701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8482D8F-0422-4B83-9A61-6B6A85648701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8482D8F-0422-4B83-9A61-6B6A85648701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B501CD1-1403-4B57-B10B-4070839F0C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B501CD1-1403-4B57-B10B-4070839F0C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B501CD1-1403-4B57-B10B-4070839F0C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B501CD1-1403-4B57-B10B-4070839F0C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D1DDF7B-6A70-4BB8-B4C7-0BD37B2C922A}
+	EndGlobalSection
+EndGlobal

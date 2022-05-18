@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_851_Athena_Commando_M_Bittenhead",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_851_Athena_Commando_M_Bittenhead",
+          "OuterIndex": 0
+        }
+      },
+      "PreviewPawnRotationOffset": {
+        "Pitch": 0.0,
+        "Yaw": 15.0,
+        "Roll": 0.0
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "21989BD041B4088596CE389567094224",
+        "SourceString": "Tart Tycoon"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "79170C4B4708588D8EEA2B81F0E71C87",
+        "SourceString": "#FreeFortnite"
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.13"
+      ]
+    }
+  }
+]

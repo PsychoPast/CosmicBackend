@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_750_Athena_Commando_M_Hurricane",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_750_Athena_Commando_M_Hurricane",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "2E964114476BD641FECAEE8979DE1A60",
+        "SourceString": "Cyclo"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "ECA4DE5045A510DECAB856B49B99BE2D",
+        "SourceString": "Defy the storm."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.12"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_750_Athena_Commando_M_Hurricane.DA_Featured_CID_750_Athena_Commando_M_Hurricane",
+        "SubPathString": null
+      }
+    }
+  }
+]

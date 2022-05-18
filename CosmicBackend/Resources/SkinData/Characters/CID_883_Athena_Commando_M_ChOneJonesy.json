@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_883_Athena_Commando_M_ChOneJonesy",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_883_Athena_Commando_M_ChOneJonesy",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "AE0DC76E472A8FEFEA698AB75ABE17E8",
+        "SourceString": "Jonesy The First"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "13A8118140930B871FDBF8947CAC857E",
+        "SourceString": "Never forget your first run."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.Beginnings"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_883_Athena_Commando_M_ChOneJonesy.DA_Featured_CID_883_Athena_Commando_M_ChOneJonesy",
+        "SubPathString": null
+      }
+    }
+  }
+]

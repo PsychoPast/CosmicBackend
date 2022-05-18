@@ -1,0 +1,40 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_537_Athena_Commando_M_Jumpstart",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_537_Athena_Commando_M_Jumpstart",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "8A52A90247145686D256F8820B65D015",
+        "SourceString": "Hotwire"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "58EC6C1D4E339920684091AC78FB62E0",
+        "SourceString": "Get amped. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Jumpstart",
+        "Cosmetics.FrontEndPose.DontCrossArms",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_537_Athena_Commando_M_Jumpstart.DA_Featured_CID_537_Athena_Commando_M_Jumpstart",
+        "SubPathString": null
+      }
+    }
+  }
+]

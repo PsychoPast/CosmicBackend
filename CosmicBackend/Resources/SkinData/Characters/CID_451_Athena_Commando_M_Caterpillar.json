@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_451_Athena_Commando_M_Caterpillar",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_451_Athena_Commando_M_Caterpillar",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B355AFAC419745F133A7BBAD1DA45703",
+        "SourceString": "Pillar"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "8BB4A7B748E8887D956BB2977FC706C3",
+        "SourceString": "This isn't even my final form."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Butterfly",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_451_Athena_Commando_M_Caterpillar.DA_Featured_CID_451_Athena_Commando_M_Caterpillar",
+        "SubPathString": null
+      }
+    }
+  }
+]

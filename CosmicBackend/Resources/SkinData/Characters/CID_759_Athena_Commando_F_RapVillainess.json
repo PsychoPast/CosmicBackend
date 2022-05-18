@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_759_Athena_Commando_F_RapVillainess",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_759_Athena_Commando_F_RapVillainess",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "DE7876454A6072A5B5B1079578ADE2D4",
+        "SourceString": "Goldie"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "811F787A4115AF54C4F5F68AC296AC3D",
+        "SourceString": "Run the game."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.12",
+        "Cosmetics.Set.Wanted"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_759_Athena_Commando_F_RapVillainess.DA_Featured_CID_759_Athena_Commando_F_RapVillainess",
+        "SubPathString": null
+      }
+    }
+  }
+]

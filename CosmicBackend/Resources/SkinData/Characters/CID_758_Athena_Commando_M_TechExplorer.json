@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_758_Athena_Commando_M_TechExplorer",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_758_Athena_Commando_M_TechExplorer",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A043A3F545D11CA5E0F35A81A78A2091",
+        "SourceString": "Sig"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "CF67B01C46659C2EC8FB86B81E1AAD52",
+        "SourceString": "Master intercept agent."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.12",
+        "Cosmetics.Set.AmbushOfficer"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_758_Athena_Commando_M_TechExplorer.DA_Featured_CID_758_Athena_Commando_M_TechExplorer",
+        "SubPathString": null
+      }
+    }
+  }
+]

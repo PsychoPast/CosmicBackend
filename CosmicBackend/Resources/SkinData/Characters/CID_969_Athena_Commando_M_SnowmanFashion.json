@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_969_Athena_Commando_M_SnowmanFashion",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_969_Athena_Commando_M_SnowmanFashion",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "E05152464D4B6AE6383CDCB4E3572909",
+        "SourceString": "Snowmando"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "A9FF47C9451A44D2C6A3F38665D5BBE0",
+        "SourceString": "He's holly, he's jolly, and he's ready to rumble."
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.Set.RainyDays"
+      ]
+    }
+  }
+]

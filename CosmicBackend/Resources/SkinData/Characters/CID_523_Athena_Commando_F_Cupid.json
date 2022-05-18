@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_523_Athena_Commando_F_Cupid",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_523_Athena_Commando_F_Cupid",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "51E473EE400F078C4C26C29D1373D9FD",
+        "SourceString": "Stoneheart"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "B008C68F4AF2C49B2C53BC9F87B53865",
+        "SourceString": "Statuesque love warrior."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.RoyaleHearts",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_523_Athena_Commando_F_Cupid.DA_Featured_CID_523_Athena_Commando_F_Cupid",
+        "SubPathString": null
+      }
+    }
+  }
+]

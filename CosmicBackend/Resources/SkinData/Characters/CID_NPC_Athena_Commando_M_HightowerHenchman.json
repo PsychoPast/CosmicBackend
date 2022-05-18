@@ -1,0 +1,30 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_NPC_Athena_Commando_M_HightowerHenchman",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_NPC_Athena_Commando_M_HightowerHenchman",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B31BD1384A816A912423F9A266F99CFE",
+        "SourceString": "Stark Auto-Defense Unit"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "5223BCCF4670ECCF23B11690CE0E108C",
+        "SourceString": "Tony's best guys."
+      }
+    }
+  }
+]

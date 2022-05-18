@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_473_Athena_Commando_M_CyberKarate",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_473_Athena_Commando_M_CyberKarate",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "3F5702DA4514362E8E49AE87A54EF17E",
+        "SourceString": "Copper Wasp"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "5965AA45461F2B42F6D68CB2E08CC243",
+        "SourceString": "Karate master known for his vicious sting. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.CyberKarate",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_473_Athena_Commando_M_CyberKarate.DA_Featured_CID_473_Athena_Commando_M_CyberKarate",
+        "SubPathString": null
+      }
+    }
+  }
+]

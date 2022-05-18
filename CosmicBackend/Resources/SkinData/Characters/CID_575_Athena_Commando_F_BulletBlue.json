@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_575_Athena_Commando_F_BulletBlue",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_575_Athena_Commando_F_BulletBlue",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "042A0C04473E986F6590B09807EC8BD0",
+        "SourceString": "Wavebreaker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "BA8D3F864FAE1FAC3DBBBD8B1F384201",
+        "SourceString": "Go against the tide."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Fisherman",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11"
+      ]
+    }
+  }
+]

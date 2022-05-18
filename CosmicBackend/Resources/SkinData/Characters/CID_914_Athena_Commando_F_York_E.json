@@ -1,0 +1,48 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_914_Athena_Commando_F_York_E",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_914_Athena_Commando_F_York_E",
+          "OuterIndex": 0
+        }
+      },
+      "FoleyLibraries": [
+        {
+          "ObjectName": "FoleyLib_York_C",
+          "OuterIndex": {
+            "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/York/FoleyLib_York",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A298D26349AFC9E869F9B3BD4799EFCE",
+        "SourceString": "Spirit Sniper"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F986F4A04F1C40F378746D99FE6CA251",
+        "SourceString": "Take dead aim."
+      },
+      "GameplayTags": [
+        "Cosmetics.QuestsMetaData.Outfit.York.F.E",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.MorningSalon"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_914_Athena_Commando_F_York_E.DA_Featured_CID_914_Athena_Commando_F_York_E",
+        "SubPathString": null
+      }
+    }
+  }
+]

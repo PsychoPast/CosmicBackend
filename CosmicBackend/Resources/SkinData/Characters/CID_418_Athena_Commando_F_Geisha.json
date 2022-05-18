@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_418_Athena_Commando_F_Geisha",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_418_Athena_Commando_F_Geisha",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "D069B0ED44E679AF8353748DDB247272",
+        "SourceString": "Takara"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "A34D39C34A70D8A6E2EE14BAA7CC3BE8",
+        "SourceString": "Agent of influence and intrigue. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Geisha",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_418_Athena_Commando_F_Geisha.DA_Featured_CID_418_Athena_Commando_F_Geisha",
+        "SubPathString": null
+      }
+    }
+  }
+]

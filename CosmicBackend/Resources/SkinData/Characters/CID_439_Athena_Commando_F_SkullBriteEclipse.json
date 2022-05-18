@@ -1,0 +1,46 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_439_Athena_Commando_F_SkullBriteEclipse",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_439_Athena_Commando_F_SkullBriteEclipse",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "C3F35F9D4E2E5FBD0C3857B9A6F896FE",
+        "SourceString": "Shadow Skully"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "CD6CBEEE4ED59955839B1EB9324A860E",
+        "SourceString": "Eclipse the world with stylish domination."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.SkullBrite",
+        "Cosmetics.Source.RMT.Eclipse",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_439_Athena_Commando_F_SkullBriteEclipse.DA_Featured_CID_439_Athena_Commando_F_SkullBriteEclipse",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "ShadowSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/ShadowSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

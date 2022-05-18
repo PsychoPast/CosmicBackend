@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_521_Athena_Commando_M_TacticalBiker",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_521_Athena_Commando_M_TacticalBiker",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "775C335940B6C565E479209E7A0B443D",
+        "SourceString": "Hard Charger "
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "FA5ACCFB4CCC6B2EBF446C86360EE45B",
+        "SourceString": "Gassed up and ready to ride. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.StreetRacer",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_521_Athena_Commando_M_TacticalBiker.DA_Featured_CID_521_Athena_Commando_M_TacticalBiker",
+        "SubPathString": null
+      }
+    }
+  }
+]

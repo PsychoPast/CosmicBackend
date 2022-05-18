@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_354_Athena_Commando_M_MunitionsExpert",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_354_Athena_Commando_M_MunitionsExpert",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "2662685447C97C669ACA0984F692799F",
+        "SourceString": "Munitions Major"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "CDACE58942016112B0B1A190F38B9CFA",
+        "SourceString": "Fire in the hole!"
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_354_Athena_Commando_M_MunitionsExpert.DA_Featured_CID_354_Athena_Commando_M_MunitionsExpert",
+        "SubPathString": null
+      }
+    }
+  }
+]

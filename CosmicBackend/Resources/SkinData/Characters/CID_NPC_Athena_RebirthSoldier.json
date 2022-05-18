@@ -1,0 +1,30 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_NPC_Athena_RebirthSoldier",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_NPC_Athena_RebirthSoldier",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "5A9028CD4F1B12B774952A8CFAA9E283",
+        "SourceString": "TBD"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "CB2A2FBB41746A92D206C09769DF4551",
+        "SourceString": "TBD"
+      }
+    }
+  }
+]

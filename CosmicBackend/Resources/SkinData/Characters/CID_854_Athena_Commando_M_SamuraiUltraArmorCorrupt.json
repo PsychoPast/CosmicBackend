@@ -1,0 +1,73 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_854_Athena_Commando_M_SamuraiUltraArmorCorrupt",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_854_Athena_Commando_M_SamuraiUltraArmorCorrupt",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticFloatSliderVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_854_Athena_Commando_M_SamuraiUltraArmorCorrupt",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "8C8D7CFB47B9368FD55163AC03B06EF3",
+        "SourceString": "Corrupted Shogun"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "DD0B2B524D91F883CB547AB5F2F8AFC6",
+        "SourceString": "Suited for the ultimate corruption. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.SpiderCrime",
+        "Cosmetics.UserFacingFlags.HasVariants"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticFloatSliderVariant",
+    "ExportValue": {
+      "DefaultStartingValue": 50.0,
+      "MaterialParamName": "Virus_CurrentLevel",
+      "MaterialsToAlter": [
+        {
+          "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_SamuraiUltra/Skins/Corrupt/Materials/M_MED_SamuraiUltra_Virus_Body_Inst.M_MED_SamuraiUltra_Virus_Body_Inst",
+          "SubPathString": null
+        },
+        {
+          "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_SamuraiUltra/Skins/Corrupt/Materials/M_MED_SamuraiUltra_Virus_Head_Inst1.M_MED_SamuraiUltra_Virus_Head_Inst1",
+          "SubPathString": null
+        },
+        {
+          "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_SamuraiUltra/Skins/Corrupt/Materials/M_MED_SamuraiUltra_Virus_Hair_Inst.M_MED_SamuraiUltra_Virus_Hair_Inst",
+          "SubPathString": null
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Corruption"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "03F142E44F6A98C1FA56BC92FFD8AA8D",
+        "SourceString": "Corruption"
+      }
+    }
+  }
+]

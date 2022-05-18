@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_256_Athena_Commando_M_Pumpkin",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_256_Athena_Commando_M_Pumpkin",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "01ECBB5B4B662325AF06279FEBFC21A3",
+        "SourceString": "Patch Patroller"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "8787E71F40208957F9DA068B3CDE01E6",
+        "SourceString": "Self-appointed Grand Guardian of the Gourd."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Pumpkin",
+        "Cosmetics.Filter.Season.6"
+      ]
+    }
+  }
+]

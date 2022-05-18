@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_058_Athena_Commando_M_SkiDude_GER",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_058_Athena_Commando_M_SkiDude_GER",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "FE58BBD641CBCECF80E71D873BD5CB17",
+        "SourceString": "Alpine Ace (GER)"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "DCD8CBFD4271ACE37124A3A961745D48",
+        "SourceString": "So Aerodynamic!"
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.WinterSki",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.2",
+        "Cosmetics.Filter.Event.WinterOlympics2018"
+      ]
+    }
+  }
+]

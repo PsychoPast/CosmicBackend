@@ -1,0 +1,4296 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_861_Athena_Commando_F_Elastic_B",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_861_Athena_Commando_F_Elastic_B",
+          "OuterIndex": 0
+        }
+      },
+      "VariantChannelsToNeverSendToMCP": [
+        {
+          "TagName": "Cosmetics.Variant.Channel.PetTemperament"
+        }
+      ],
+      "BuiltInEmotes": [
+        {
+          "ObjectName": "EID_Elastic",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Items/Cosmetics/Dances/EID_Elastic",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticRichColorVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticRichColorVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticRichColorVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticParticleVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticParticleVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticRichColorVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticRichColorVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticRichColorVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticItemTexture",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "3",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat3"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "0",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.JerseyColor"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat0"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "6",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Pattern"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Color.007"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#ccccccff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#07074bff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor2"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#e40505ff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor3"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "1",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Hair"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "0",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Color.001"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "1",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Emissive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Color.003"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#e4e4e400",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor6"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#170be4ff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor5"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#e40505ff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor4"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "0",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Mesh"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage0"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "itemTextureVar",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Numeric"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.ItemTexture"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "16",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.PetTemperament"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat16"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "1",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat1"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "2",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.JerseyColor"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "5",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Pattern"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Color.006"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#e49907ff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#050505ff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor2"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#e40505ff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor3"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "2",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Hair"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "0",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Color.001"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "1",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Emissive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Color.003"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#ffffff00",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor6"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#ccccccff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor5"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#e40505ff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor4"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "0",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Mesh"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage0"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "itemTextureVar",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Numeric"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.ItemTexture"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "16",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.PetTemperament"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat16"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "3",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat3"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "1",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.JerseyColor"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat1"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "1",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Pattern"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Color.002"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#e40505ff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#050505ff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor2"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#e44b07ff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor3"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "0",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Hair"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage1"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "0",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Color.001"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "0",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Emissive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Color.001"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#e4e4e400",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor6"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#e4e4e400",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor5"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#e44b07ff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor4"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "0",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Mesh"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage0"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "itemTextureVar",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Numeric"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.ItemTexture"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "16",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.PetTemperament"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat16"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "1",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat1"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "1",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.JerseyColor"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat1"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "4",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Pattern"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Color.005"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#191919ff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#0a4bbdff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor2"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#ccccccff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor3"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "4",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Hair"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "1",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Color.002"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "0",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Emissive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Color.001"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#ffffff00",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor6"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#e40505ff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor5"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "#e40505ff",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.RichColor4"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.RichColor"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "0",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Mesh"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage0"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "itemTextureVar",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Numeric"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.ItemTexture"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_861_Athena_Commando_F_Elastic_B",
+                "OuterIndex": 0
+              },
+              "CustomData": "16",
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.PetTemperament"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat16"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "8A723CC0465A23F3ABDE4BB66F6243E0",
+        "SourceString": "Backlash"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "C120338A4CB3F5A2FE1E988874874E47",
+        "SourceString": "Strike back."
+      },
+      "GameplayTags": [
+        "Cosmetics.Variant.FilterSet.Elastic",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.Endless",
+        "Cosmetics.UserFacingFlags.BuiltInEmote",
+        "Cosmetics.UserFacingFlags.HasVariants"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_861_Athena_Commando_F_Elastic_B.DA_Featured_CID_861_Athena_Commando_F_Elastic_B",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E79137A9412BC0358431B4946F100C7A",
+            "SourceString": "HAIRSTYLE A"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-861-F-ElasticHair-A.T-Variant-861-F-ElasticHair-A",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_Elastic_BLK_2.CP_F_MED_Elastic_BLK",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_1.F_MED_Elastic_Head_BLK",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_2.F_MED_Elastic_Head_BLK",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "CEBBDABC4E1ED1B21374CABA4823CE1C",
+            "SourceString": "HAIRSTYLE B"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-861-F-ElasticHair-B.T-Variant-861-F-ElasticHair-B",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_Elastic_BLK_3.CP_F_MED_Elastic_BLK",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_1.F_MED_Elastic_Head_BLK",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_3.F_MED_Elastic_Head_BLK",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "B7847AE9431331C2EF93A7A859FB9026",
+            "SourceString": "HAIRSTYLE C"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-861-F-ElasticHair-C.T-Variant-861-F-ElasticHair-C",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_FaceAcc_Empty.CP_F_FaceAcc_Empty",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_Elastic_Mask_1_BLK.CP_Head_F_Elastic_Mask_1_BLK",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_1.F_MED_Elastic_Head_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "EyeMask"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "FaceMask"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "820F05D54D57E22D97612A8C12ABF38F",
+            "SourceString": "HALF MASK"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ElasticHeadsHalf-Female.T-Variant-ElasticHeadsHalf-Female",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_FaceAcc_Empty.CP_F_FaceAcc_Empty",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_Elastic_Mask_1.CP_Head_F_Elastic_Mask",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage5"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "95F498454C030D2BDB4EDB8CAD469D9F",
+            "SourceString": "FULL MASK"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ElasticHeads-Full-Female.T-Variant-ElasticHeads-Full-Female",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Hair"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "9D61F37A4F4ADE51F3558CB8E80AF91D",
+        "SourceString": "HEAD STYLE"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticItemTexture",
+    "ExportValue": {
+      "ItemTextureVar": {
+        "InnerDef": {
+          "MaterialsToAlter": [
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+              "SubPathString": null
+            }
+          ],
+          "ParamName": "Sticker",
+          "DefaultSelectedItem": "AthenaDance:Emoji_S14_Elastic_GreenSkull"
+        },
+        "FilterOutItemsWithTags": [
+          "Cosmetics.UserFacingFlags.Spray.Animated",
+          "Cosmetics.UserFacingFlags.Emoticon.Animated",
+          "Cosmetics.FrontEndPose.NoVariantEditingAllowed"
+        ],
+        "bIsDefault": true,
+        "CustomizationVariantTag": {
+          "TagName": "Cosmetics.Variant.Property.ItemTexture"
+        },
+        "VariantName": "Never Display!"
+      },
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Numeric"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "FC72EC7B4BD4268DB5EEA4B0C7916AA5",
+        "SourceString": "Sticker"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "4AB73A3A464CC69F8168C396C1231289",
+            "SourceString": "Spandex"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Elastic-MatBalls-spandex.T-Variant-Elastic-MatBalls-spandex",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.85,
+                    "G": 0.0,
+                    "B": 0.6,
+                    "A": 0.0,
+                    "Hex": "D90099"
+                  },
+                  "ParamName": "SecondaryMaterial"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Textures/Tiled/T_F_MED_Elastic_Metal_Body_N.T_F_MED_Elastic_Metal_Body_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SecondaryNormal"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Mask.F_MED_Elastic_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.85,
+                    "G": 0.0,
+                    "B": 0.6,
+                    "A": 0.0,
+                    "Hex": "D90099"
+                  },
+                  "ParamName": "SecondaryMaterial"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/CAU/Mask/Tiled/T_F_MED_Elastic_Metal_Mask_N.T_F_MED_Elastic_Metal_Mask_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SecondaryNormal"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "173F364D4B1CAC343206D79AB142AA2F",
+            "SourceString": "Metallic"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Elastic-MatBalls-metallic.T-Variant-Elastic-MatBalls-metallic",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.6,
+                    "B": 0.6,
+                    "A": 0.0,
+                    "Hex": "009999"
+                  },
+                  "ParamName": "SecondaryMaterial"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Textures/Tiled/T_F_MED_Elastic_Plastic_Body_N.T_F_MED_Elastic_Plastic_Body_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SecondaryNormal"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Mask.F_MED_Elastic_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.6,
+                    "B": 0.6,
+                    "A": 0.0,
+                    "Hex": "009999"
+                  },
+                  "ParamName": "SecondaryMaterial"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/CAU/Mask/Tiled/T_F_MED_Elastic_Plastic_Mask_N.T_F_MED_Elastic_Plastic_Mask_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SecondaryNormal"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "B78DB423406CC4C6DD2D72BC498A9680",
+            "SourceString": "Plastic"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Elastic-MatBalls-plastic.T-Variant-Elastic-MatBalls-plastic",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.1,
+                    "B": 1.0,
+                    "A": 0.0,
+                    "Hex": "001AFF"
+                  },
+                  "ParamName": "SecondaryMaterial"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Textures/Tiled/T_F_MED_Elastic_Cloth_Body_N.T_F_MED_Elastic_Cloth_Body_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SecondaryNormal"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "SecondaryCloth"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Mask.F_MED_Elastic_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.1,
+                    "B": 1.0,
+                    "A": 0.0,
+                    "Hex": "001AFF"
+                  },
+                  "ParamName": "SecondaryMaterial"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/CAU/Mask/Tiled/T_F_MED_Elastic_Cloth_Mask_N.T_F_MED_Elastic_Cloth_Mask_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SecondaryNormal"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "SecondaryCloth"
+                }
+              ]
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "514790634FF8D11F86B29E8706F40C6A",
+            "SourceString": "Cloth"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Elastic-MatBalls-cloth.T-Variant-Elastic-MatBalls-cloth",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.JerseyColor"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "118FA0F54AA1A666671405A6312E44E3",
+        "SourceString": "Secondary Material"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "7B9AF4004411DDCBB2F6DC908BA404B7",
+            "SourceString": "None"
+          },
+          "PreviewImage": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-arrow.T-Emote-Icons-Season14-S14-Sticker-Elastic-arrow",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "777D446646D47517DC1F66833969C4A9",
+            "SourceString": "arrow"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-arrow.T-Emote-Icons-Season14-S14-Sticker-Elastic-arrow",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-bomb.T-Emote-Icons-Season14-S14-Sticker-Elastic-bomb",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "5EA956EC4AC562BC61FEC2AC0447C62D",
+            "SourceString": "bomb"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-bomb.T-Emote-Icons-Season14-S14-Sticker-Elastic-bomb",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-butterfly.T-Emote-Icons-Season14-S14-Sticker-Elastic-butterfly",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "3DCC62FA4194586CB62C688DA42B333A",
+            "SourceString": "butterfly"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-butterfly.T-Emote-Icons-Season14-S14-Sticker-Elastic-butterfly",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-cupcake.T-Emote-Icons-Season14-S14-Sticker-Elastic-cupcake",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "6D72141147CCAF956F64DBA3321F4AAE",
+            "SourceString": "cupcake"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-cupcake.T-Emote-Icons-Season14-S14-Sticker-Elastic-cupcake",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-disguise.T-Emote-Icons-Season14-S14-Sticker-Elastic-disguise",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat5"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "EA49AEA0476D2C2D5EF7898F8DC8548F",
+            "SourceString": "disguise"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-disguise.T-Emote-Icons-Season14-S14-Sticker-Elastic-disguise",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-dog.T-Emote-Icons-Season14-S14-Sticker-Elastic-dog",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat6"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "155F773C436C93ADA963C0B8CF4CBC43",
+            "SourceString": "dog"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-dog.T-Emote-Icons-Season14-S14-Sticker-Elastic-dog",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-ducky.T-Emote-Icons-Season14-S14-Sticker-Elastic-ducky",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat7"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "557F03C44B36BF8F590BFEBBC3845D3E",
+            "SourceString": "ducky"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-ducky.T-Emote-Icons-Season14-S14-Sticker-Elastic-ducky",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-eye-blue.T-Emote-Icons-Season14-S14-Sticker-Elastic-eye-blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat8"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "8A75312E45F27B28169459BD23344E1A",
+            "SourceString": "eye-blue"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-eye-blue.T-Emote-Icons-Season14-S14-Sticker-Elastic-eye-blue",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-eye-green.T-Emote-Icons-Season14-S14-Sticker-Elastic-eye-green",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat9"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "2E2100FF41F3215EED30AC9053F93B5C",
+            "SourceString": "eye-green"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-eye-green.T-Emote-Icons-Season14-S14-Sticker-Elastic-eye-green",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-eye-red.T-Emote-Icons-Season14-S14-Sticker-Elastic-eye-red",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat10"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "A712149E49E332AE054A17B3455A9C02",
+            "SourceString": "eye-red"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-eye-red.T-Emote-Icons-Season14-S14-Sticker-Elastic-eye-red",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-fire.T-Emote-Icons-Season14-S14-Sticker-Elastic-fire",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat11"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C64F9337484B35C5F67D9F85F317167D",
+            "SourceString": "fire"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-fire.T-Emote-Icons-Season14-S14-Sticker-Elastic-fire",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-fishbone.T-Emote-Icons-Season14-S14-Sticker-Elastic-fishbone",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat12"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "1D7E3AEB42A4ED8C7DE8FCA03649BCDF",
+            "SourceString": "fishbone"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-fishbone.T-Emote-Icons-Season14-S14-Sticker-Elastic-fishbone",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-flask.T-Emote-Icons-Season14-S14-Sticker-Elastic-flask",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat13"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "7E1DF6B5465FC26B6A4E1C9FCB743BB4",
+            "SourceString": "flask"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-flask.T-Emote-Icons-Season14-S14-Sticker-Elastic-flask",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-fly.T-Emote-Icons-Season14-S14-Sticker-Elastic-fly",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat14"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C0D1874F40B20C69F328CCA63B19AABD",
+            "SourceString": "fly"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-fly.T-Emote-Icons-Season14-S14-Sticker-Elastic-fly",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-molecule.T-Emote-Icons-Season14-S14-Sticker-Elastic-molecule",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat15"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "AB1C322B40A9BD13D0B735A8EF2A5F1A",
+            "SourceString": "molecule"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-molecule.T-Emote-Icons-Season14-S14-Sticker-Elastic-molecule",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-skullopus.T-Emote-Icons-Season14-S14-Sticker-Elastic-skullopus",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat16"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "AD61790147EC301DCFB9CB8EB1D5A838",
+            "SourceString": "skullopus"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-skullopus.T-Emote-Icons-Season14-S14-Sticker-Elastic-skullopus",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-snail.T-Emote-Icons-Season14-S14-Sticker-Elastic-snail",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat17"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "250280434C133E0134A12B80C55C7D02",
+            "SourceString": "snail"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-snail.T-Emote-Icons-Season14-S14-Sticker-Elastic-snail",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-spider.T-Emote-Icons-Season14-S14-Sticker-Elastic-spider",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat18"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "15163C714FF7198EE9767EB77CEBE3A0",
+            "SourceString": "spider"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-spider.T-Emote-Icons-Season14-S14-Sticker-Elastic-spider",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-taco.T-Emote-Icons-Season14-S14-Sticker-Elastic-taco",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat19"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "727ABE0245BAC0A06723359BC2532D1E",
+            "SourceString": "taco"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-taco.T-Emote-Icons-Season14-S14-Sticker-Elastic-taco",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-umbrella.T-Emote-Icons-Season14-S14-Sticker-Elastic-umbrella",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat20"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E69C97F341DDB8005F9D53BA75598160",
+            "SourceString": "umbrella"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-umbrella.T-Emote-Icons-Season14-S14-Sticker-Elastic-umbrella",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-water.T-Emote-Icons-Season14-S14-Sticker-Elastic-water",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat21"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "7B3D9CB1409C35259D1DBCBDFE2BF2EC",
+            "SourceString": "water"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-water.T-Emote-Icons-Season14-S14-Sticker-Elastic-water",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-web.T-Emote-Icons-Season14-S14-Sticker-Elastic-web",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Sticker"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat22"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "078693834E8BB9CA73D48B81332CA70D",
+            "SourceString": "web"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/2dAssets/Emoji/Season14/Elastic/T-Emote-Icons-Season14-S14-Sticker-Elastic-web.T-Emote-Icons-Season14-S14-Sticker-Elastic-web",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.PetTemperament"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "DCCF93404BE885C6880B82B788DDD7C0",
+        "SourceString": "Sticker"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "CD95A3EC44CBFFF1D5130E9030440033",
+            "SourceString": "Spandex"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Elastic-MatBalls-spandex.T-Variant-Elastic-MatBalls-spandex",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.85,
+                    "G": 0.0,
+                    "B": 0.6,
+                    "A": 0.0,
+                    "Hex": "D90099"
+                  },
+                  "ParamName": "PrimaryMaterial"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Textures/Tiled/T_F_MED_Elastic_Metal_Body_N.T_F_MED_Elastic_Metal_Body_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "PrimaryNormal"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Mask.F_MED_Elastic_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.85,
+                    "G": 0.0,
+                    "B": 0.6,
+                    "A": 0.0,
+                    "Hex": "D90099"
+                  },
+                  "ParamName": "PrimaryMaterial"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/CAU/Mask/Tiled/T_F_MED_Elastic_Metal_Mask_N.T_F_MED_Elastic_Metal_Mask_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "PrimaryNormal"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "407DDADA44E5189B3BE6C29D76C290C9",
+            "SourceString": "Metallic"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Elastic-MatBalls-metallic.T-Variant-Elastic-MatBalls-metallic",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.6,
+                    "B": 0.6,
+                    "A": 0.0,
+                    "Hex": "009999"
+                  },
+                  "ParamName": "PrimaryMaterial"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Textures/Tiled/T_F_MED_Elastic_Plastic_Body_N.T_F_MED_Elastic_Plastic_Body_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "PrimaryNormal"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Mask.F_MED_Elastic_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.6,
+                    "B": 0.6,
+                    "A": 0.0,
+                    "Hex": "009999"
+                  },
+                  "ParamName": "PrimaryMaterial"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/CAU/Mask/Tiled/T_F_MED_Elastic_Plastic_Mask_N.T_F_MED_Elastic_Plastic_Mask_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "PrimaryNormal"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "B86B9BAF4EBC76FFF4198B897B94B1A9",
+            "SourceString": "Plastic"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Elastic-MatBalls-plastic.T-Variant-Elastic-MatBalls-plastic",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.1,
+                    "B": 1.0,
+                    "A": 0.0,
+                    "Hex": "001AFF"
+                  },
+                  "ParamName": "PrimaryMaterial"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Textures/Tiled/T_F_MED_Elastic_Cloth_Body_N.T_F_MED_Elastic_Cloth_Body_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "PrimaryNormal"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "PrimaryCloth"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Mask.F_MED_Elastic_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.1,
+                    "B": 1.0,
+                    "A": 0.0,
+                    "Hex": "001AFF"
+                  },
+                  "ParamName": "PrimaryMaterial"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/CAU/Mask/Tiled/T_F_MED_Elastic_Cloth_Mask_N.T_F_MED_Elastic_Cloth_Mask_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "PrimaryNormal"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "PrimaryCloth"
+                }
+              ]
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "2FEC93924A0D5EE092F7D3A4AB228318",
+            "SourceString": "Cloth"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Elastic-MatBalls-cloth.T-Variant-Elastic-MatBalls-cloth",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "E1C2B1704273B08BB910F798F5953A0B",
+        "SourceString": "Primary Material"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                }
+              ]
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "A9EBEFCF4A1C723FEE9B39AC2B0FF97B",
+            "SourceString": "Off"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ElasticBelt-Off.T-Variant-ElasticBelt-Off",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                }
+              ]
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "295C81D54C98B204CA90B3956358C8EA",
+            "SourceString": "On"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ElasticBelt-On.T-Variant-ElasticBelt-On",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Mesh"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "AEBB87D84B49058043EF409D2F5FA6DF",
+        "SourceString": "Belt"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.001"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "DB0D567B4C6652A1A846838DD08800D1",
+            "SourceString": "Intrepid"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Icon-Elastic-Pattern-1.T-Icon-Elastic-Pattern-1",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/Patterns/Textures/T_F_MED_Elastic_Pattern_2_Body_FX.T_F_MED_Elastic_Pattern_2_Body_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Pattern"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Mask.F_MED_Elastic_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/Patterns/Textures/Mask/T_F_MED_Elastic_Mask_Pattern_2_FX.T_F_MED_Elastic_Mask_Pattern_2_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Pattern"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.002"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "76693586428A28B3B7844A9B22A22C82",
+            "SourceString": "Victorious"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Icon-Elastic-Pattern-2.T-Icon-Elastic-Pattern-2",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/Patterns/Textures/T_F_MED_Elastic_Pattern_3_Body_FX.T_F_MED_Elastic_Pattern_3_Body_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Pattern"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Mask.F_MED_Elastic_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/Patterns/Textures/Mask/T_F_MED_Elastic_Mask_Pattern_3_FX.T_F_MED_Elastic_Mask_Pattern_3_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Pattern"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.003"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E67D93CC4126FB5865A5A6AB8678C7E2",
+            "SourceString": "Bold"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Icon-Elastic-Pattern-3.T-Icon-Elastic-Pattern-3",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/Patterns/Textures/T_F_MED_Elastic_Pattern_4_Body_FX.T_F_MED_Elastic_Pattern_4_Body_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Pattern"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Mask.F_MED_Elastic_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/Patterns/Textures/Mask/T_F_MED_Elastic_Mask_Pattern_4_FX.T_F_MED_Elastic_Mask_Pattern_4_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Pattern"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.004"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "572499584C295C7485ABFEB149B3378A",
+            "SourceString": "Bionic Forge"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Icon-Elastic-Pattern-4.T-Icon-Elastic-Pattern-4",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/Patterns/Textures/T_F_MED_Elastic_Pattern_5_Body_FX.T_F_MED_Elastic_Pattern_5_Body_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Pattern"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Mask.F_MED_Elastic_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/Patterns/Textures/Mask/T_F_MED_Elastic_Mask_Pattern_5_FX.T_F_MED_Elastic_Mask_Pattern_5_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Pattern"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.005"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "695B117D4D011DABA17A28BA7607F501",
+            "SourceString": "Stalwart"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Icon-Elastic-Pattern-5.T-Icon-Elastic-Pattern-5",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/Patterns/Textures/T_F_MED_Elastic_Pattern_6_Body_FX.T_F_MED_Elastic_Pattern_6_Body_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Pattern"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Mask.F_MED_Elastic_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/Patterns/Textures/Mask/T_F_MED_Elastic_Mask_Pattern_6_FX.T_F_MED_Elastic_Mask_Pattern_6_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Pattern"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.006"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "D276D332411695ED8858B391697E9D67",
+            "SourceString": "Dynamic"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Icon-Elastic-Pattern-6.T-Icon-Elastic-Pattern-6",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/Patterns/Textures/T_F_MED_Elastic_Pattern_7_Body_FX.T_F_MED_Elastic_Pattern_7_Body_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Pattern"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Mask.F_MED_Elastic_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Skins/Patterns/Textures/Mask/T_F_MED_Elastic_Mask_Pattern_7_FX.T_F_MED_Elastic_Mask_Pattern_7_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Pattern"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.007"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "3C6CE26542C5B4DC983451B922294C19",
+            "SourceString": "Peerless"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Icon-Elastic-Pattern-7.T-Icon-Elastic-Pattern-7",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Pattern"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "619E59304239E421BDC215B51FB5708C",
+        "SourceString": "SUIT Pattern"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticParticleVariant",
+    "ExportValue": {
+      "ParticleOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Elastic_Head_01/FX/NS_Elastic_Eyetrail.NS_Elastic_Eyetrail",
+                "SubPathString": null
+              },
+              "ColorParams": [],
+              "VectorParams": [
+                {
+                  "Value": {
+                    "X": 3.003741,
+                    "Y": 7.277524,
+                    "Z": 0.0
+                  },
+                  "ParamName": "EyetrailLocation"
+                },
+                {
+                  "Value": {
+                    "X": 3.136835,
+                    "Y": 7.630861,
+                    "Z": -3.363782
+                  },
+                  "ParamName": "LeftEyeGlowLocation"
+                },
+                {
+                  "Value": {
+                    "X": 3.136835,
+                    "Y": 7.630861,
+                    "Z": 3.363782
+                  },
+                  "ParamName": "RightEyeGlowLocation"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "IsFXEnabled"
+                }
+              ]
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.001"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "0A0EAA3946B1A6CC8D6313A9295FD529",
+            "SourceString": "Off"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ElasticMask-NoMask.T-Variant-ElasticMask-NoMask",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_1.F_MED_Elastic_Head_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "EyeColorAlpha1"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_2.F_MED_Elastic_Head_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "EyeColorAlpha1"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_3.F_MED_Elastic_Head_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "EyeColorAlpha1"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Elastic_Head_01/FX/NS_Elastic_Eyetrail.NS_Elastic_Eyetrail",
+                "SubPathString": null
+              },
+              "ColorParams": [],
+              "VectorParams": [
+                {
+                  "Value": {
+                    "X": 3.003741,
+                    "Y": 7.277524,
+                    "Z": 0.0
+                  },
+                  "ParamName": "EyetrailLocation"
+                },
+                {
+                  "Value": {
+                    "X": 3.136835,
+                    "Y": 7.630861,
+                    "Z": -3.363782
+                  },
+                  "ParamName": "LeftEyeGlowLocation"
+                },
+                {
+                  "Value": {
+                    "X": 3.136835,
+                    "Y": 7.630861,
+                    "Z": 3.363782
+                  },
+                  "ParamName": "RightEyeGlowLocation"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "IsFXEnabled"
+                }
+              ]
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.002"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "42B98B4948EF713537B78A83246F2458",
+            "SourceString": "On"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ElasticEyeGlow.T-Variant-ElasticEyeGlow",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Particle"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "11B60FFC4E2910AE69BF53A68271FD8D",
+        "SourceString": "Eye FX"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticParticleVariant",
+    "ExportValue": {
+      "ParticleOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.001"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "DAA4CB08405304D978AF9C8508CD3399",
+            "SourceString": "OFF"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ElasticMask-NoMask.T-Variant-ElasticMask-NoMask",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_1.F_MED_Elastic_Head_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "EyeMask"
+                },
+                {
+                  "Value": 0.1,
+                  "ParamName": "Hide Element 01"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_2.F_MED_Elastic_Head_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "EyeMask"
+                },
+                {
+                  "Value": 0.1,
+                  "ParamName": "Hide Element 01"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_3.F_MED_Elastic_Head_BLK",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "EyeMask"
+                },
+                {
+                  "Value": 0.1,
+                  "ParamName": "Hide Element 01"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.003"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "84A774AD476A8A6A2CF8BFB7317F05A6",
+            "SourceString": "ON"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ElasticMask-Eyes.T-Variant-ElasticMask-Eyes",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Emissive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "A1A7E608454DE81DD250CCB1B4C865AF",
+        "SourceString": "EYE MASK"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticRichColorVariant",
+    "ExportValue": {
+      "InlineVariant": {
+        "RichColorVar": {
+          "DefaultStartingColor": {
+            "R": 0.85,
+            "G": 0.85,
+            "B": 0.85,
+            "A": 0.0,
+            "Hex": "D9D9D9"
+          },
+          "ColorSwatchForChoices": {
+            "AssetPathName": "/Game/Characters/CharacterColorSwatches/Misc/CS_Elastic_Skin.CS_Elastic_Skin",
+            "SubPathString": null
+          },
+          "MaterialsToAlter": [
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_1.F_MED_Elastic_Head_BLK",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_2.F_MED_Elastic_Head_BLK",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_3.F_MED_Elastic_Head_BLK",
+              "SubPathString": null
+            }
+          ],
+          "ColorParamName": "SkinColor"
+        },
+        "CustomizationVariantTag": {
+          "TagName": "Cosmetics.Variant.Property.RichColor"
+        }
+      },
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.RichColor6"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "AB4E2C3E4DFBCF92E7D4EA987CA9D075",
+        "SourceString": "Skin TINT Color"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticRichColorVariant",
+    "ExportValue": {
+      "InlineVariant": {
+        "RichColorVar": {
+          "DefaultStartingColor": {
+            "R": 0.93,
+            "G": 0.85,
+            "B": 0.02,
+            "A": 1.0,
+            "Hex": "EDD905"
+          },
+          "ColorSwatchForChoices": {
+            "AssetPathName": "/Game/Characters/CharacterColorSwatches/Misc/CS_Elastic_Tint.CS_Elastic_Tint",
+            "SubPathString": null
+          },
+          "MaterialsToAlter": [
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_1.F_MED_Elastic_Head_BLK",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_2.F_MED_Elastic_Head_BLK",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_3.F_MED_Elastic_Head_BLK",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_FakeEyes.F_MED_Elastic_FakeEyes",
+              "SubPathString": null
+            }
+          ],
+          "ParticlesToAlter": [
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Elastic_Head_01/FX/NS_Elastic_Eyetrail.NS_Elastic_Eyetrail",
+              "SubPathString": null
+            }
+          ],
+          "ColorParamName": "EyeColor"
+        },
+        "CustomizationVariantTag": {
+          "TagName": "Cosmetics.Variant.Property.RichColor"
+        }
+      },
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.RichColor5"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "73EA34B041B082C9A3A52F966A146948",
+        "SourceString": "Eye Color"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticRichColorVariant",
+    "ExportValue": {
+      "InlineVariant": {
+        "RichColorVar": {
+          "DefaultStartingColor": {
+            "R": 0.85,
+            "G": 0.85,
+            "B": 0.85,
+            "A": 0.0,
+            "Hex": "D9D9D9"
+          },
+          "ColorSwatchForChoices": {
+            "AssetPathName": "/Game/Characters/CharacterColorSwatches/Misc/CS_Elastic_Tint.CS_Elastic_Tint",
+            "SubPathString": null
+          },
+          "MaterialsToAlter": [
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Hair/F_MED_Elastic_Hair_BLK_1.F_MED_Elastic_Hair_BLK",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Hair/F_MED_Elastic_Hair_BLK_2.F_MED_Elastic_Hair_BLK",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Hair/F_MED_Elastic_Hair_BLK_3.F_MED_Elastic_Hair_BLK",
+              "SubPathString": null
+            }
+          ],
+          "ColorParamName": "HairColor"
+        },
+        "CustomizationVariantTag": {
+          "TagName": "Cosmetics.Variant.Property.RichColor"
+        }
+      },
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.RichColor4"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "CDEDBC1B40803AC87F7D5194B47E0EBF",
+        "SourceString": "Hair Tint Color"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticRichColorVariant",
+    "ExportValue": {
+      "AntiConflictChannel": 1,
+      "InlineVariant": {
+        "RichColorVar": {
+          "DefaultStartingColor": {
+            "R": 0.8,
+            "G": 0.8,
+            "B": 0.8,
+            "A": 1.0,
+            "Hex": "CCCCCC"
+          },
+          "ColorSwatchForChoices": {
+            "AssetPathName": "/Game/Characters/CharacterColorSwatches/Misc/CS_Elastic_Common.CS_Elastic_Common",
+            "SubPathString": null
+          },
+          "MaterialsToAlter": [
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Mask.F_MED_Elastic_Mask",
+              "SubPathString": null
+            }
+          ],
+          "ColorParamName": "PrimaryColor"
+        },
+        "CustomizationVariantTag": {
+          "TagName": "Cosmetics.Variant.Property.RichColor"
+        }
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "A4C132BF4BAF7F6D4EF46786C9226875",
+        "SourceString": "Primary Color"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticRichColorVariant",
+    "ExportValue": {
+      "AntiConflictChannel": 1,
+      "InlineVariant": {
+        "RichColorVar": {
+          "DefaultStartingColor": {
+            "R": 0.0675,
+            "G": 0.45,
+            "B": 0.13125,
+            "A": 1.0,
+            "Hex": "117321"
+          },
+          "ColorSwatchForChoices": {
+            "AssetPathName": "/Game/Characters/CharacterColorSwatches/Misc/CS_Elastic_Secondary.CS_Elastic_Secondary",
+            "SubPathString": null
+          },
+          "MaterialsToAlter": [
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Mask.F_MED_Elastic_Mask",
+              "SubPathString": null
+            }
+          ],
+          "ColorParamName": "SecondaryColor"
+        },
+        "CustomizationVariantTag": {
+          "TagName": "Cosmetics.Variant.Property.RichColor"
+        }
+      },
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.RichColor2"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "10B1944C488C1EC85FED99A246293CF5",
+        "SourceString": "Secondary Color"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticRichColorVariant",
+    "ExportValue": {
+      "InlineVariant": {
+        "RichColorVar": {
+          "DefaultStartingColor": {
+            "R": 0.9,
+            "G": 0.3,
+            "B": 0.03,
+            "A": 1.0,
+            "Hex": "E64C08"
+          },
+          "ColorSwatchForChoices": {
+            "AssetPathName": "/Game/Characters/CharacterColorSwatches/Misc/CS_Elastic_Common.CS_Elastic_Common",
+            "SubPathString": null
+          },
+          "MaterialsToAlter": [
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Bodies/F_MED_Elastic_Body_BLK.F_MED_Elastic_Body_BLK",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_1.F_MED_Elastic_Head_BLK",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_2.F_MED_Elastic_Head_BLK",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/Heads/F_MED_Elastic_Head_BLK_3.F_MED_Elastic_Head_BLK",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Elastic/Materials/F_MED_Elastic_Visor.F_MED_Elastic_Visor",
+              "SubPathString": null
+            }
+          ],
+          "ColorParamName": "AccessoryColor"
+        },
+        "CustomizationVariantTag": {
+          "TagName": "Cosmetics.Variant.Property.RichColor"
+        }
+      },
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.RichColor3"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "BC24EDE845A35AE0AA5E52B31945A643",
+        "SourceString": "Accessory Color"
+      }
+    }
+  }
+]

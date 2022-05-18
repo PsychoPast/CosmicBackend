@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_916_Athena_Commando_F_FuzzyBearSkull",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_916_Athena_Commando_F_FuzzyBearSkull",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "8EC4EA5B4762DA53E87D71B36791C43D",
+        "SourceString": "Skull Squad Leader"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F8E0313D4BA942C83D40E8A21B3D14B8",
+        "SourceString": "Lead your skeleteam to victory."
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.SkullTrooper",
+        "Phoebe.Cosmetic.Minus.Zone2"
+      ]
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_339_Athena_Commando_M_RobotTrouble",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_339_Athena_Commando_M_RobotTrouble",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "2D16F19B4FADEE26EFFC23B1561AED07",
+        "SourceString": "Revolt"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F6BB72284011C2187E8CF7B196C78934",
+        "SourceString": "Conquer the system."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.RobotTrouble",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.7"
+      ]
+    }
+  }
+]

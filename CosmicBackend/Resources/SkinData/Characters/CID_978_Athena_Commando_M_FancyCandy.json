@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_978_Athena_Commando_M_FancyCandy",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_978_Athena_Commando_M_FancyCandy",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "F879CA51417800C7497496960DBDAED3",
+        "SourceString": "Mr. Dappermint"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "E9AF5F204C25F0AE85953796470C732C",
+        "SourceString": "Richest candy mogul this side of the North Pole."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.Set.DapperCandy"
+      ]
+    }
+  }
+]

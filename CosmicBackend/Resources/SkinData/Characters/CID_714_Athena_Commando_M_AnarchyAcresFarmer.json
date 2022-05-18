@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_714_Athena_Commando_M_AnarchyAcresFarmer",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_714_Athena_Commando_M_AnarchyAcresFarmer",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "4DBB27B947D859655783DAB5B0E727C9",
+        "SourceString": "Farmer Steel"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "5412BBC94AAAB4BF89A8A991A8C242F2",
+        "SourceString": "They trampled his corn. Now they're gonna pay."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.12",
+        "Cosmetics.Set.FieldBooth"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_714_Athena_Commando_M_AnarchyAcresFarmer.DA_Featured_CID_714_Athena_Commando_M_AnarchyAcresFarmer",
+        "SubPathString": null
+      }
+    }
+  }
+]

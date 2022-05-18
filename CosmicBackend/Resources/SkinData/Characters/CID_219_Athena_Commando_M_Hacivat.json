@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_219_Athena_Commando_M_Hacivat",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_219_Athena_Commando_M_Hacivat",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "0668CB7C4796401C52209AA4E8E174CA",
+        "SourceString": "Hacivat"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "300B2F70448985CBBFECAF89738E4982",
+        "SourceString": "From lore to legend."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Hacivat",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

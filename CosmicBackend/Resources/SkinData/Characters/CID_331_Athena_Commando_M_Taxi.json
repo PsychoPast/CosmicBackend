@@ -1,0 +1,33 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_331_Athena_Commando_M_Taxi",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_331_Athena_Commando_M_Taxi",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "514F518949A7AE289DEA75A71D1F7808",
+        "SourceString": "Cabbie"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "323261C74542DE6F68DA9A802F83AD53",
+        "SourceString": "First to the fare. First to the finishline."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Taxi",
+        "Cosmetics.Filter.Season.7"
+      ]
+    }
+  }
+]

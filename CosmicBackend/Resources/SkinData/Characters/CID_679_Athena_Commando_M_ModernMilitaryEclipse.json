@@ -1,0 +1,46 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_679_Athena_Commando_M_ModernMilitaryEclipse",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_679_Athena_Commando_M_ModernMilitaryEclipse",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "83480ACE455D53F9EEF7D6831E618DB8",
+        "SourceString": "Shadow Archetype"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "6D15D30148F9ED289B219E8B571A34A0",
+        "SourceString": "Engineered in the shadows for combat performance. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.ModernMilitary",
+        "Cosmetics.Filter.Season.14"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_679_Athena_Commando_M_ModernMilitaryEclipse.DA_Featured_CID_679_Athena_Commando_M_ModernMilitaryEclipse",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "ShadowSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/ShadowSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_194_Athena_Commando_F_RavenQuill",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_194_Athena_Commando_F_RavenQuill",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B1367D254EA32D4DD0C60B8E714942FC",
+        "SourceString": "Ravage"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "4F6A9DE946DDE7D2A29E06976C96D208",
+        "SourceString": "Circling overhead, shrouded by night..."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Nevermore",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

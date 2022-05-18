@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_588_Athena_Commando_M_GoatRobe",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_588_Athena_Commando_M_GoatRobe",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "F8E72BFD493507323C0AE8898B0337A0",
+        "SourceString": "Delirium"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "4A4275D24A9067D33118C4A1FC1792A2",
+        "SourceString": "Don't worry, it's only a nightmare..."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Witch",
+        "Cosmetics.Filter.Season.11"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_588_Athena_Commando_M_GoatRobe.DA_Featured_CID_588_Athena_Commando_M_GoatRobe",
+        "SubPathString": null
+      }
+    }
+  }
+]

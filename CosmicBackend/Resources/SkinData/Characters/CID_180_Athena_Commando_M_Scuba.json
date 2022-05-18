@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_180_Athena_Commando_M_Scuba",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_180_Athena_Commando_M_Scuba",
+          "OuterIndex": 0
+        }
+      },
+      "MetaTags": [
+        "Cosmetics.MetaTags.Trait.HeadCovered"
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "D5B0D15047064483242A3AA985CF0DF7",
+        "SourceString": "Wreck Raider"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "AADE80D64A11B6829A1C2C8892C434AC",
+        "SourceString": "Wrecks to riches."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Scuba",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

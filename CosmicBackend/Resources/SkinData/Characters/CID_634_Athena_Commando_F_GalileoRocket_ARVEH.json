@@ -1,0 +1,47 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_634_Athena_Commando_F_GalileoRocket",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_634_Athena_Commando_F_GalileoRocket",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "7762136946A53452CBFEF79B4873281F",
+        "SourceString": "Rey"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "E611FACC473BB0CF4AAA1D8668765C99",
+        "SourceString": "A scavenger, now studying the Jedi ways."
+      },
+      "GameplayTags": [
+        "Cosmetics.QuestsMetaData.Outfit.Galileo.Rocket",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.LatestTerminal"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_634_Athena_Commando_F_GalileoRocket_OH9NT.DA_Featured_CID_634_Athena_Commando_F_GalileoRocket_OH9NT",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "ColumbusSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/ColumbusSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

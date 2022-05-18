@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_217_Athena_Commando_M_Medic",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_217_Athena_Commando_M_Medic",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "06C0D5794FD3FC6E66A922985BF6AB6A",
+        "SourceString": "Triage Trooper"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "1DAAB0F749724002665A25A40525DBF3",
+        "SourceString": "No one is beyond saving."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Medic",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_551_Athena_Commando_M_YellowCamoD",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_551_Athena_Commando_M_YellowCamoD",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "178DC7564EE1C083EE61BBAC1746AED6",
+        "SourceString": "Vice"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "048BEC7C4865CEFB1FBDA7A9EBCF3C23",
+        "SourceString": "Wild."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.SiegeStrike",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_551_Athena_Commando_M_YellowCamoD.DA_Featured_CID_551_Athena_Commando_M_YellowCamoD",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_370_Athena_Commando_M_EvilSuit",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_370_Athena_Commando_M_EvilSuit",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "8524766144E7F2CC08DF738A5F85974D",
+        "SourceString": "Inferno"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "015EFE6E446CABAE21B506895B496A37",
+        "SourceString": "Ignite your inner fire."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.EvilSuit",
+        "Cosmetics.Source.RMT.Inferno",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_370_Athena_Commando_M_EvilSuit.DA_Featured_CID_370_Athena_Commando_M_EvilSuit",
+        "SubPathString": null
+      }
+    }
+  }
+]

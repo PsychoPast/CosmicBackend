@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_545_Athena_Commando_F_SushiNinja",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_545_Athena_Commando_F_SushiNinja",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "DDFB3F214BD7E7A97FDAB3B2E3695465",
+        "SourceString": "Red Jade"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "55C3250843B479996BE95FADC2B8CC34",
+        "SourceString": "Summon your fighting spirit. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_545_Athena_Commando_F_SushiNinja.DA_Featured_CID_545_Athena_Commando_F_SushiNinja",
+        "SubPathString": null
+      }
+    }
+  }
+]

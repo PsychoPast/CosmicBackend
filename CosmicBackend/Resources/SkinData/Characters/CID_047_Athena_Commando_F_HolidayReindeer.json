@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_047_Athena_Commando_F_HolidayReindeer",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_047_Athena_Commando_F_HolidayReindeer",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "ADD1BD994EA2A2B1B0D87BAF143BA20C",
+        "SourceString": "Red-Nosed Raider"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "EBE0ACB646CEC4DA35CC17BACBA3652F",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "30E6D4C940CD2388917676911B41CB6C",
+        "SourceString": "It's time for some reindeer games."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.1"
+      ]
+    }
+  }
+]

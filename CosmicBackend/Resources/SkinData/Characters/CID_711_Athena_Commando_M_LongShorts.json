@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_711_Athena_Commando_M_LongShorts",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_711_Athena_Commando_M_LongShorts",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "98AE037143FB45620024FB8BDCDDB6A0",
+        "SourceString": "Point Patroller"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "D20837744463336451BD9B8C3026FEA8",
+        "SourceString": "Ready to make a break for it."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.12"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_711_Athena_Commando_M_LongShorts.DA_Featured_CID_711_Athena_Commando_M_LongShorts",
+        "SubPathString": null
+      }
+    }
+  }
+]

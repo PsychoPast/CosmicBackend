@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_241_Athena_Commando_M_Plague",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_241_Athena_Commando_M_Plague",
+          "OuterIndex": 0
+        }
+      },
+      "MetaTags": [
+        "Cosmetics.MetaTags.Theme.LTM.Bounty"
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "5E35169B485EE9F6E5197A82C053D8B3",
+        "SourceString": "Plague"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "99F0B26F4F7180C537ADAB817CB5DF08",
+        "SourceString": "The doctor is in..."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Plague",
+        "Cosmetics.Filter.Season.6"
+      ]
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_VIP_Athena_Commando_M_GalileoGondola_SG",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_VIP_Athena_Commando_M_GalileoGondola_SG",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "2A41CF844B7DA5C23DBF79BD0E802B30",
+        "SourceString": "Set_01_OA_SG"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "5464E4A846DED49CA96CC7B5AF584EAC",
+        "SourceString": "Set_01_OB"
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.LatestTerminal"
+      ],
+      "Series": {
+        "ObjectName": "ColumbusSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/ColumbusSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

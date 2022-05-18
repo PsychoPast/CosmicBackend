@@ -1,0 +1,600 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_963_Athena_Commando_F_Lexa",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_963_Athena_Commando_F_Lexa",
+          "OuterIndex": 0
+        }
+      },
+      "BuiltInEmotes": [
+        {
+          "ObjectName": "EID_Lexa",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Items/Cosmetics/Dances/EID_Lexa",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_963_Athena_Commando_F_Lexa",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticParticleVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_963_Athena_Commando_F_Lexa",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ExclusiveDesciption": {
+        "Namespace": "",
+        "Key": "BA6D56644B66AA58517C5780D47269F6",
+        "SourceString": "Complete the Beskar Quest to Upgrade Mandalorian's armor!"
+      },
+      "ExclusiveIcon": {
+        "AssetPathName": "/Game/Athena/UI/Season/Art/Textures/T_UI_CosmoIngot.T_UI_CosmoIngot",
+        "SubPathString": null
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "BBEB746D4A779B908234D7AA1BC268D5",
+        "SourceString": "Lexa"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "CFD5AF3A4E8E18D1CBD0188E62F967E8",
+        "SourceString": "Don't let the smile fool you."
+      },
+      "GameplayTags": [
+        "Cosmetics.QuestsMetaData.Outfit.Lexa",
+        "Cosmetics.Variant.ForceLoadAllParts",
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.UserFacingFlags.BuiltInEmote",
+        "Cosmetics.Set.LabChaser"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [
+              "Cosmetics.Variant.Meta.Lexa.Girl"
+            ],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "70CA0A6341F4816DC0FD71BECB188067",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-963-Athena-Commando-F-Lexa.T-Soldier-HID-963-Athena-Commando-F-Lexa",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_LexaArmored.CP_Body_Commando_F_LexaArmored",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_Lexa_Armored.CP_Head_F_Lexa_Armored",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_LexaArmored_FaceAcc.CP_F_MED_LexaArmored_FaceAcc",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Hats/Empty_Hat.Empty_Hat",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [
+              "Cosmetics.Variant.Meta.Lexa.Robot"
+            ],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "141895464D0341B03A39579AC16889C2",
+            "SourceString": "ARMORED"
+          },
+          "PreviewImage": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "1745079A43C96E7835FEE391A84BAF5A",
+        "SourceString": "STYLE"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticParticleVariant",
+    "ExportValue": {
+      "ParticleOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "F7224D35427DF00BE4BA539B5ACCB035",
+            "SourceString": "Lexa"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-963-Athena-Commando-F-Lexa.T-Soldier-HID-963-Athena-Commando-F-Lexa",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Materials/M_F_MED_Lexa_Armored_Acc.M_F_MED_Lexa_Armored_Acc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Skins/Lexa_Armored_Blue/Materials/M_F_MED_Lexa_Armored_Blue_Acc.M_F_MED_Lexa_Armored_Blue_Acc",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Materials/M_F_MED_Lexa_Body.M_F_MED_Lexa_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Skins/Lexa_Blue/Materials/M_F_MED_Lexa_Blue_Body.M_F_MED_Lexa_Blue_Body",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Materials/M_F_MED_Lexa_FaceAcc.M_F_MED_Lexa_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Skins/Lexa_Blue/Materials/M_F_MED_Lexa_Blue_FaceAcc.M_F_MED_Lexa_Blue_FaceAcc",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Materials/M_F_MED_Lexa_Armored_Body.M_F_MED_Lexa_Armored_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Skins/Lexa_Armored_Blue/Materials/M_F_MED_Lexa_Armored_Blue_Body.M_F_MED_Lexa_Armored_Blue_Body",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Materials/M_F_MED_Lexa_Armored_Head.M_F_MED_Lexa_Armored_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Skins/Lexa_Armored_Blue/Materials/M_F_MED_Lexa_Armored_Blue_Head.M_F_MED_Lexa_Armored_Blue_Head",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Skins/Lexa_Transition/Materials/M_F_MED_Lexa_Transition_Body.M_F_MED_Lexa_Transition_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Skins/Lexa_Blue_Transition/Materials/M_F_MED_Lexa_Blue_Transition_Body.M_F_MED_Lexa_Blue_Transition_Body",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Materials/M_F_MED_Lexa_Armored_FaceAcc.M_F_MED_Lexa_Armored_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Skins/Lexa_Armored_Blue/Materials/F_MED_Lexa_Armor_Blue_FaceAcc.F_MED_Lexa_Armor_Blue_FaceAcc",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Animation/Props/Lexa_Armored/Materials/M_F_MED_Lexa_Armored_Transition.M_F_MED_Lexa_Armored_Transition",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Animation/Props/Lexa_Armored/Skins/Armored_Blue/Materials/M_F_MED_Lexa_Armored_Blue_Transition.M_F_MED_Lexa_Armored_Blue_Transition",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Materials/M_LexaHead.M_LexaHead",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Skins/Lexa_Blue/Materials/M_Lexa_Blue_Head.M_Lexa_Blue_Head",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Materials/M_LexaFace__Eyes.M_LexaFace__Eyes",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Skins/Lexa_Blue/Materials/M_Lexa_Blue__Eyes.M_Lexa_Blue__Eyes",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/LexaArmored/NS_LexaArmored_Eyeglow.NS_LexaArmored_Eyeglow",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.009134,
+                    "G": 0.83077,
+                    "B": 0.434154,
+                    "A": 1.0,
+                    "Hex": "02D46F"
+                  },
+                  "ParamName": "EyeglowColor"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "4F224D4249A876FC8BD59ABD1B11EA6F",
+            "SourceString": "Infiltrator Lexa"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-963-F-Lexa-Blue.T-Variant-963-F-Lexa-Blue",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Materials/M_F_MED_Lexa_Armored_Acc.M_F_MED_Lexa_Armored_Acc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Skins/Lexa_Armored_Red/Materials/M_F_MED_Lexa_Armored_Red_Acc.M_F_MED_Lexa_Armored_Red_Acc",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Materials/M_F_MED_Lexa_Body.M_F_MED_Lexa_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Skins/Lexa_Red/Materials/M_F_MED_Lexa_Red_Body.M_F_MED_Lexa_Red_Body",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Materials/M_F_MED_Lexa_FaceAcc.M_F_MED_Lexa_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Skins/Lexa_Red/Materials/M_F_MED_Lexa_Red_FaceAcc.M_F_MED_Lexa_Red_FaceAcc",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Materials/M_F_MED_Lexa_Armored_Body.M_F_MED_Lexa_Armored_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Skins/Lexa_Armored_Red/Materials/M_F_MED_Lexa_Armored_Red_Body.M_F_MED_Lexa_Armored_Red_Body",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Materials/M_F_MED_Lexa_Armored_Head.M_F_MED_Lexa_Armored_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Skins/Lexa_Armored_Red/Materials/M_F_MED_Lexa_Armored_Red_Head.M_F_MED_Lexa_Armored_Red_Head",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Skins/Lexa_Transition/Materials/M_F_MED_Lexa_Transition_Body.M_F_MED_Lexa_Transition_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Skins/Lexa_Red_Transition/Materials/M_F_MED_Lexa_Red_Transition_Body.M_F_MED_Lexa_Red_Transition_Body",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Materials/M_F_MED_Lexa_Armored_FaceAcc.M_F_MED_Lexa_Armored_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa_Armored/Skins/Lexa_Armored_Red/Materials/F_MED_Lexa_Armor_Red_FaceAcc.F_MED_Lexa_Armor_Red_FaceAcc",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Animation/Props/Lexa_Armored/Materials/M_F_MED_Lexa_Armored_Transition.M_F_MED_Lexa_Armored_Transition",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Animation/Props/Lexa_Armored/Skins/Armored_Red/Materials/M_F_MED_Lexa_Armored_Red_Transition.M_F_MED_Lexa_Armored_Red_Transition",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Materials/M_LexaHead.M_LexaHead",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Skins/Lexa_Red/Materials/M_Lexa_Red_Head.M_Lexa_Red_Head",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Materials/M_LexaFace__Eyes.M_LexaFace__Eyes",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Lexa/Skins/Lexa_Red/Materials/M_Lexa_Red__Eyes.M_Lexa_Red__Eyes",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/LexaArmored/NS_LexaArmored_Eyeglow.NS_LexaArmored_Eyeglow",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.009134,
+                    "G": 1.0,
+                    "B": 0.730461,
+                    "A": 1.0,
+                    "Hex": "02FFBA"
+                  },
+                  "ParamName": "EyeglowColor"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "22292CEB464CE61E0953A693CB4B2CC5",
+            "SourceString": "Warstrike Lexa"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-963-F-Lexa-Red.T-Variant-963-F-Lexa-Red",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "4D684F49485A57AAED490998A7F0CE07",
+        "SourceString": "COLOR"
+      }
+    }
+  }
+]

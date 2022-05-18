@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_091_Athena_Commando_M_RedShirt",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_091_Athena_Commando_M_RedShirt",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A9DEF43945859046E44F17B7F42E6061",
+        "SourceString": "Radiant Striker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "2FF4FDBD4B8C4CB55DFB249CE1D5846B",
+        "SourceString": "Strike first."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.3"
+      ]
+    }
+  }
+]

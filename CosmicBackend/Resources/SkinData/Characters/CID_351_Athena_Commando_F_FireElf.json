@@ -1,0 +1,305 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_351_Athena_Commando_F_FireElf",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_351_Athena_Commando_F_FireElf",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticParticleVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_351_Athena_Commando_F_FireElf",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "49620559441E783F6E38D4B6D994FB91",
+        "SourceString": "Ember"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "134825274B30DC9BAF52899745D46F0A",
+        "SourceString": "Take steady aim with hands of flame."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season8.BattlePass.Paid",
+        "Cosmetics.Set.FireElf",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Filter.Season.8"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticParticleVariant",
+    "ExportValue": {
+      "ParticleOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "886C155247A57BEADA2C538C5DA88804",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-351-Athena-Commando-F-FireElf.T-Soldier-HID-351-Athena-Commando-F-FireElf",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_FireElf/Materials/MI_Fire_Elf_Body.MI_Fire_Elf_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_FireElf/Skins/Fire_Night_Elf/Materials/MI_FireNightElf_Body.MI_FireNightElf_Body",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_FireElf/Materials/MI_FIre_Elf_Head.MI_FIre_Elf_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_FireElf/Skins/Fire_Night_Elf/Materials/MI_FIreNightElf_Head.MI_FIreNightElf_Head",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_FireElf/Materials/MI_Fire_Elf_FaceAccessory.MI_Fire_Elf_FaceAccessory",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_FireElf/Skins/Fire_Night_Elf/Materials/MI_FireNightElf_FaceAccessory.MI_FireNightElf_FaceAccessory",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_FireElf/Materials/MI_Eyetrail_Base_FireElf.MI_Eyetrail_Base_FireElf",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.2,
+                    "G": 1.85,
+                    "B": 2.0,
+                    "A": 1.0,
+                    "Hex": "33D8FE"
+                  },
+                  "ParamName": "EyeColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.125,
+                    "G": 0.347728,
+                    "B": 0.6,
+                    "A": 1.0,
+                    "Hex": "205999"
+                  },
+                  "ParamName": "Color_High"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_FireElf/Materials/M_EyeGlow_FireElf.M_EyeGlow_FireElf",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.2,
+                    "G": 1.85,
+                    "B": 2.0,
+                    "A": 1.0,
+                    "Hex": "33D8FE"
+                  },
+                  "ParamName": "Color"
+                },
+                {
+                  "Value": {
+                    "R": 0.125,
+                    "G": 0.347728,
+                    "B": 0.6,
+                    "A": 1.0,
+                    "Hex": "205999"
+                  },
+                  "ParamName": "Color_HIgh"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_FireElf/Materials/M_FireHands.M_FireHands",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.2,
+                    "G": 1.85,
+                    "B": 2.0,
+                    "A": 1.0,
+                    "Hex": "33D8FE"
+                  },
+                  "ParamName": "Color_A"
+                },
+                {
+                  "Value": {
+                    "R": 0.125,
+                    "G": 0.347728,
+                    "B": 0.6,
+                    "A": 1.0,
+                    "Hex": "205999"
+                  },
+                  "ParamName": "Color_B"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/FireElf/P_FireHands.P_FireHands",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.1,
+                    "G": 0.925,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "1AECFF"
+                  },
+                  "ParamName": "Color"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/FireElf/P_FireElf_EyeLights.P_FireElf_EyeLights",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.2,
+                    "G": 1.85,
+                    "B": 2.0,
+                    "A": 1.0,
+                    "Hex": "33D8FE"
+                  },
+                  "ParamName": "Color"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E87D7DAF4FCE1BA86C387FB30DCB5618",
+            "SourceString": "NIGHT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-FireElf-Night.T-Variant-F-FireElf-Night",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "F887FCF2431F868AD57C728CA6AF44C4",
+            "SourceString": "During Season 8 Complete 4 Overtime Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "BAFE6C6C49AE0C48042E5B993C3B6A5C",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

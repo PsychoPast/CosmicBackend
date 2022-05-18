@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_336_Athena_Commando_M_DragonMask",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_336_Athena_Commando_M_DragonMask",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "9AB5FC0E462E04A1B3B9D683DB6FE8A6",
+        "SourceString": "Firewalker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "73A78339432217848780848B5A50BAFA",
+        "SourceString": "Fueled by flames."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.7"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_336_Athena_Commando_M_DragonMask.DA_Featured_CID_336_Athena_Commando_M_DragonMask",
+        "SubPathString": null
+      }
+    }
+  }
+]

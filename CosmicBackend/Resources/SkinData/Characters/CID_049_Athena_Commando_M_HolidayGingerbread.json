@@ -1,0 +1,356 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_049_Athena_Commando_M_HolidayGingerbread",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_049_Athena_Commando_M_HolidayGingerbread",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticParticleVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_049_Athena_Commando_M_HolidayGingerbread",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "42651736458F614AEBC3C493B9D62E00",
+        "SourceString": "Merry Marauder"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "8E9A38204FB5202F3E550A8CFB045A7F",
+        "SourceString": "Sing a slaying song tonight."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Gingerbread",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.1"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_SMaleHID049.DA_Featured_SMaleHID049",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticParticleVariant",
+    "ExportValue": {
+      "ParticleOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/Gingy/P_Gingy_BurntBody.P_Gingy_BurntBody",
+                "SubPathString": null
+              },
+              "ColorParams": [],
+              "VectorParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Spawn"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "SpawnPerUnit_HeavyAsh"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "SpawnRibbon"
+                }
+              ]
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "AEFF90E4414D72AA63873A9AB858545E",
+            "SourceString": "Default"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-Gingerbread-Variant-Frown.T-Variant-M-Gingerbread-Variant-Frown",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/Materials/Soldier_GingerBread_Frowning.Soldier_GingerBread_Frowning",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/Materials/Soldier_GingerBread_Smiling.Soldier_GingerBread_Smiling",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/Gingy/P_Gingy_BurntBody.P_Gingy_BurntBody",
+                "SubPathString": null
+              },
+              "ColorParams": [],
+              "VectorParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Spawn"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "SpawnPerUnit_HeavyAsh"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "SpawnRibbon"
+                }
+              ]
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "54104CEB47C4FA3DBA06C7B2527DC6DB",
+            "SourceString": "Smile"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-Gingerbread-Variant-Smile.T-Variant-M-Gingerbread-Variant-Smile",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/Materials/Soldier_GingerBread_Frowning.Soldier_GingerBread_Frowning",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/Gingerbread_Burnt/Materials/M_MED_Gingerbread_Burnt_Mask_Frown.M_MED_Gingerbread_Burnt_Mask_Frown",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_05/Materials/M_Med_Soldier_04_BR05.M_Med_Soldier_04_BR05",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/Gingerbread_Burnt/Materials/M_MED_Gingerbread_Burnt_Body.M_MED_Gingerbread_Burnt_Body",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/Gingy/P_Gingy_BurntBody.P_Gingy_BurntBody",
+                "SubPathString": null
+              },
+              "ColorParams": [],
+              "VectorParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Spawn"
+                },
+                {
+                  "Value": 14.0,
+                  "ParamName": "SpawnPerUnit_HeavyAsh"
+                },
+                {
+                  "Value": 20.0,
+                  "ParamName": "SpawnRibbon"
+                }
+              ]
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E58C9C5A450F0F4D71DC0AA6FD15EF1A",
+            "SourceString": "Burnt Frown"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-Gingerbread-Variant-BurntFrown.T-Variant-M-Gingerbread-Variant-BurntFrown",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/Materials/Soldier_GingerBread_Frowning.Soldier_GingerBread_Frowning",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Gingerbread_Burnt/Materials/F_MED_Gingerbread_Burnt_Mask.F_MED_Gingerbread_Burnt_Mask",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_05/Materials/M_Med_Soldier_04_BR05.M_Med_Soldier_04_BR05",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/Gingerbread_Burnt/Materials/M_MED_Gingerbread_Burnt_Body.M_MED_Gingerbread_Burnt_Body",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/Gingy/P_Gingy_BurntBody.P_Gingy_BurntBody",
+                "SubPathString": null
+              },
+              "ColorParams": [],
+              "VectorParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Spawn"
+                },
+                {
+                  "Value": 14.0,
+                  "ParamName": "SpawnPerUnit_HeavyAsh"
+                },
+                {
+                  "Value": 20.0,
+                  "ParamName": "SpawnRibbon"
+                }
+              ]
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "21A290DC498D4CFFD48DF384275F4D9C",
+            "SourceString": "Burnt Smile"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-Gingerbread-Variant-BurntSmile.T-Variant-M-Gingerbread-Variant-BurntSmile",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Particle"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "DBA02436466871E9CC38A691B9E99C3D",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

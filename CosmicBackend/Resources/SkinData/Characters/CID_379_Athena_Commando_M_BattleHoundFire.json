@@ -1,0 +1,47 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_379_Athena_Commando_M_BattleHoundFire",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_379_Athena_Commando_M_BattleHoundFire",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "E13A3BDF4114A47B3CFBF09D31709C96",
+        "SourceString": "Molten Battle Hound"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "BAB8F94D416266CA8BCBBDA2DDD7DF8A",
+        "SourceString": "Release the molten hound!"
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.RMT.LavaLegends",
+        "Cosmetics.Set.Molten",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_379_Athena_Commando_M_BattleHoundFire.DA_Featured_CID_379_Athena_Commando_M_BattleHoundFire",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "LavaSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/LavaSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

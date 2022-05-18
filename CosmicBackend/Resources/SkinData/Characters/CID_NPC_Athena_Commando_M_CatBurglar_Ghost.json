@@ -1,0 +1,30 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_NPC_Athena_Commando_M_CatBurglar_Ghost",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_NPC_Athena_Commando_M_CatBurglar_Ghost",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "89DA507944081C28CC4899B9B8C17D45",
+        "SourceString": "TBD"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "C53EA1AA44CE2C72944B95AEB7E24A40",
+        "SourceString": "TBD"
+      }
+    }
+  }
+]

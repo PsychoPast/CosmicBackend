@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_702_Athena_Commando_M_AssassinX",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_702_Athena_Commando_M_AssassinX",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "97A00BFD4FF5D329B337078DE6D32BCD",
+        "SourceString": "Ex"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "972A7D514A296B2145CEA495424F7A96",
+        "SourceString": "Cross out the competition. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.IncognitoAssassin"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_702_Athena_Commando_M_AssassinX.DA_Featured_CID_702_Athena_Commando_M_AssassinX",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_544_Athena_Commando_M_Kurohomura",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_544_Athena_Commando_M_Kurohomura",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "5B2D8428462A9EACF73B85B06664DC71",
+        "SourceString": "Kurohomura"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "7DA971D442625AE7A497B6AC78878F8C",
+        "SourceString": "Born of fire and destined for greatness. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.WorldExplorers",
+        "Cosmetics.Filter.Season.14"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_544_Athena_Commando_M_Kurohomura.DA_Featured_CID_544_Athena_Commando_M_Kurohomura",
+        "SubPathString": null
+      }
+    }
+  }
+]

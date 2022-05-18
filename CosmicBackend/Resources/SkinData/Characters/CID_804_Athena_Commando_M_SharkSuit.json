@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_804_Athena_Commando_M_SharkSuit",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_804_Athena_Commando_M_SharkSuit",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "1182F6A2435DCA2E6A9C34BAEF92CAE9",
+        "SourceString": "Comfy Chomps"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "0619FB0F49841E4F180E969E74E197C9",
+        "SourceString": "Kick back and get chompin."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.EatingCraze"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_804_Athena_Commando_M_SharkSuit.DA_Featured_CID_804_Athena_Commando_M_SharkSuit",
+        "SubPathString": null
+      }
+    }
+  }
+]

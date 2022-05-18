@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_167_Athena_Commando_M_TacticalBadass",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_167_Athena_Commando_M_TacticalBadass",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "25F1267244587AACAE63ECA5B523E143",
+        "SourceString": "Sledgehammer"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "1FDEAAD445E759BE28BE23850418E12F",
+        "SourceString": "Demolish the competition."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.AdvancedForces",
+        "Cosmetics.Source.Season5.BattlePass.Paid",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

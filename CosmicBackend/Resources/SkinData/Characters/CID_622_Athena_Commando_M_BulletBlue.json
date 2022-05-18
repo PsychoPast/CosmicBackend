@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_622_Athena_Commando_M_BulletBlue",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_622_Athena_Commando_M_BulletBlue",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "1183791D46A4B034B78C2A8626DFA010",
+        "SourceString": "Depth Dealer"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "2567654D41A3BB30568D2D84ADBA5AF8",
+        "SourceString": "Deep six the competition. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Fisherman"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_622_Athena_Commando_M_BulletBlue.DA_Featured_CID_622_Athena_Commando_M_BulletBlue",
+        "SubPathString": null
+      }
+    }
+  }
+]

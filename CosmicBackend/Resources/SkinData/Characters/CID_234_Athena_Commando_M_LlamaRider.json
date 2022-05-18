@@ -1,0 +1,45 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_234_Athena_Commando_M_LlamaRider",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_234_Athena_Commando_M_LlamaRider",
+          "OuterIndex": 0
+        }
+      },
+      "BuiltInEmotes": [
+        {
+          "ObjectName": "EID_LlamaRider_Glitter",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Items/Cosmetics/Dances/EID_LlamaRider_Glitter",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "60F053B04ABFD9568F80518B0F1572FA",
+        "SourceString": "Giddy-up"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "33F64A764511DE78B73A729D77952E40",
+        "SourceString": "Yee-haw!"
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season6.BattlePass.Paid",
+        "Cosmetics.UserFacingFlags.BuiltInEmote",
+        "Cosmetics.Filter.Season.6",
+        "Cosmetics.Set.HorsingAround"
+      ]
+    }
+  }
+]

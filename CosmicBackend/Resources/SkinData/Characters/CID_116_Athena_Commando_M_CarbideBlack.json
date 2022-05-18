@@ -1,0 +1,1022 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_116_Athena_Commando_M_CarbideBlack",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_116_Athena_Commando_M_CarbideBlack",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_116_Athena_Commando_M_CarbideBlack",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_116_Athena_Commando_M_CarbideBlack",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B728D71C441C984155FB6F845701DC68",
+        "SourceString": "Omega"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "6BF11A8C40B1D72279F2AA8DCEE64690",
+        "SourceString": "There can be only one."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season4.BattlePass.Paid",
+        "Cosmetics.Set.Omega",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Filter.Season.4"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "A236A5E9406C0FBC036FB28DC5E4E2BF",
+            "SourceString": "BASE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-116-Athena-Commando-M-CarbideBlack.T-Soldier-HID-116-Athena-Commando-M-CarbideBlack",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_116_Athena_Body_M_CarbideBlack_BackArmor.CP_116_Athena_Body_M_CarbideBlack_BackArmor",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Body.M_Med_Carbide_Black_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 06"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Armor.M_Med_Carbide_Black_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "A861DDA14BC343A41E55C798A31E624B",
+            "SourceString": "STAGE 1"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Progressive/T-Progressive-DarkCarbide-Chest.T-Progressive-DarkCarbide-Chest",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "7FB612BB4C0F0445782252A84118A1E3",
+            "SourceString": "During Season 4 Reach Season Level 25"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_116_Athena_Body_M_CarbideBlack_BackArmor.CP_116_Athena_Body_M_CarbideBlack_BackArmor",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Body.M_Med_Carbide_Black_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 06"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Armor.M_Med_Carbide_Black_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "F00CD22D40458B2F44A432B2C0B0E11E",
+            "SourceString": "STAGE 2"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Progressive/T-Progressive-DarkCarbide-Legs.T-Progressive-DarkCarbide-Legs",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "28CC59D0476BAC523B305499C315DCCB",
+            "SourceString": "During Season 4 Reach Season Level 35"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_116_Athena_Body_M_CarbideBlack_BackArmor.CP_116_Athena_Body_M_CarbideBlack_BackArmor",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Body.M_Med_Carbide_Black_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 06"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Armor.M_Med_Carbide_Black_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 07"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "25FCFA8743028A04CCA7AD80A0C0AAAA",
+            "SourceString": "STAGE 3"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Progressive/T-Progressive-DarkCarbide-Arms.T-Progressive-DarkCarbide-Arms",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "68C142B443DD1E63C1ED58A0E94C51B2",
+            "SourceString": "During Season 4 Reach Season Level 45"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_116_Athena_Body_M_CarbideBlack_BackArmor.CP_116_Athena_Body_M_CarbideBlack_BackArmor",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Body.M_Med_Carbide_Black_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 06"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Armor.M_Med_Carbide_Black_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 07"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Hat.M_Med_Carbide_Black_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 05"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "44C6059B45139B839DFB24BFC9B680E3",
+            "SourceString": "STAGE 4"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Progressive/T-Progressive-DarkCarbide-Helmet.T-Progressive-DarkCarbide-Helmet",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "40C5A3464650DEE6ED0BA4A8AEE35D2D",
+            "SourceString": "During Season 4 Reach Season Level 55"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_116_Athena_Body_M_CarbideBlack_BackArmor.CP_116_Athena_Body_M_CarbideBlack_BackArmor",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Body.M_Med_Carbide_Black_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 06"
+                },
+                {
+                  "Value": 30.0,
+                  "ParamName": "Emissive_BrightnessMax"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Armor.M_Med_Carbide_Black_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 07"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 30.0,
+                  "ParamName": "Emissive_BrightnessMax"
+                },
+                {
+                  "Value": 2.0,
+                  "ParamName": "Emissive_BrightnessMin"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Hat.M_Med_Carbide_Black_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 40.0,
+                  "ParamName": "Emissive_BrightnessMax"
+                },
+                {
+                  "Value": 2.0,
+                  "ParamName": "Emissive_BrightnessMin"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage5"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "49AE0F6F4EBC98005EDA2290DC38C314",
+            "SourceString": "STAGE 5"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Progressive/T-Progressive-DarkCarbide-Emissives.T-Progressive-DarkCarbide-Emissives",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "70036647417C5E3DF9F07B836CC30BDB",
+            "SourceString": "During Season 4 Reach Season Level 80"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "0E7C3D1D4C6E2DA22D0AE782ADA72115",
+        "SourceString": "STYLE"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Body.M_Med_Carbide_Black_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FF0000"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Armor.M_Med_Carbide_Black_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FF0000"
+                  },
+                  "ParamName": "Emissive Color"
+                },
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FF0000"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Hat.M_Med_Carbide_Black_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FF0000"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Emissive0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "5F594CEE42BF5E29C4E01DB9035FF66B",
+            "SourceString": "RED"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-OmegaEmissive-Red.T-Variant-OmegaEmissive-Red",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Body.M_Med_Carbide_Black_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.55,
+                    "G": 1.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "8CFF00"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Armor.M_Med_Carbide_Black_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.55,
+                    "G": 1.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "8CFF00"
+                  },
+                  "ParamName": "Emissive Color"
+                },
+                {
+                  "Value": {
+                    "R": 0.55,
+                    "G": 1.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "8CFF00"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Hat.M_Med_Carbide_Black_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.55,
+                    "G": 1.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "8CFF00"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Emissive1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "032295F74209263C334317BE23C950FE",
+            "SourceString": "GREEN"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-OmegaEmissive-Yellow.T-Variant-OmegaEmissive-Yellow",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "95D86DE844002F518D8B7B8DFA764511",
+            "SourceString": "During Season 4 Reach Season Level 80"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Body.M_Med_Carbide_Black_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.22,
+                    "G": 0.0,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "3800FF"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Armor.M_Med_Carbide_Black_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.22,
+                    "G": 0.0,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "3800FF"
+                  },
+                  "ParamName": "EmissiveColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.22,
+                    "G": 0.0,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "3800FF"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Hat.M_Med_Carbide_Black_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.22,
+                    "G": 0.0,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "3800FF"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Emissive2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "EEE5DB5D4A653509CD9952BDD32F2EB2",
+            "SourceString": "PURPLE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-OmegaEmissive-Purple.T-Variant-OmegaEmissive-Purple",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "3F5230DC4B41A2DBD8682D822DE5881C",
+            "SourceString": "During Season 4 Reach Season Level 80"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Body.M_Med_Carbide_Black_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.2,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FF3300"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Armor.M_Med_Carbide_Black_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.2,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FF3300"
+                  },
+                  "ParamName": "EmissiveColor"
+                },
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.2,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FF3300"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Carbide_01/Skins/M_MED_Carbide_Black/Materials/M_Med_Carbide_Black_Hat.M_Med_Carbide_Black_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.2,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FF3300"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Emissive3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "FBFB704E448D9231D89F4B8DB5BC1CFA",
+            "SourceString": "ORANGE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-OmegaEmissive-Orange.T-Variant-OmegaEmissive-Orange",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "A2F062E740841DD3E7CCE0816A485946",
+            "SourceString": "During Season 4 Reach Season Level 80"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Emissive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "399C5E684FCDBC87AC107D82FDF05D12",
+        "SourceString": "LIGHT COLOR"
+      }
+    }
+  }
+]

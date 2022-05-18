@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_388_Athena_Commando_M_TheBomb",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_388_Athena_Commando_M_TheBomb",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "66C8228142A1004C50FA29AB6010C441",
+        "SourceString": "Splode"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "6BD13575404D6BF5C7EFC1B286492F2F",
+        "SourceString": "Countdown to a big boom!"
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.TheBomb",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_388_Athena_Commando_M_TheBomb.DA_Featured_CID_388_Athena_Commando_M_TheBomb",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_345_Athena_Commando_M_LoveLlama",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_345_Athena_Commando_M_LoveLlama",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "123C08984CE041C3E9732DB4DCE03F50",
+        "SourceString": "Heartbreaker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "4A19D1054A59BB96CAD38F8F45EC7C63",
+        "SourceString": "Roses are red, violets are blue, victory is sweet, but not without you."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.RoyaleHearts",
+        "Cosmetics.Filter.Season.7"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_345_Athena_Commando_M_LoveLlama.DA_Featured_CID_345_Athena_Commando_M_LoveLlama",
+        "SubPathString": null
+      }
+    }
+  }
+]

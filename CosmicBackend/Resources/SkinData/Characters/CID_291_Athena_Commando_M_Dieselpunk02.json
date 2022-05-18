@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_291_Athena_Commando_M_Dieselpunk02",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_291_Athena_Commando_M_Dieselpunk02",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "7013070E4C22B1239B9941B2E57F795D",
+        "SourceString": "Cloudbreaker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "06781562424614645FA19E8B865BCFA9",
+        "SourceString": "Turbulent by nature."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.DieselPunk",
+        "Cosmetics.Filter.Season.7"
+      ]
+    }
+  }
+]

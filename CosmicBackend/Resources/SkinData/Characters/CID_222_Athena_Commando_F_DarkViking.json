@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_222_Athena_Commando_F_DarkViking",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_222_Athena_Commando_F_DarkViking",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "0E462B5A4C3E9AEFF439C0A40A4399B9",
+        "SourceString": "Valkyrie"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "FF23989647E91FB53B974CAD12776E4F",
+        "SourceString": "A chilling revelation."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.DarkViking",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

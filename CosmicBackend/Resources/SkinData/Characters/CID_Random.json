@@ -1,0 +1,53 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "bIsShuffleTile": true,
+      "ItemPreviewActorClass": {
+        "AssetPathName": "/Game/Environments/FrontEnd/Blueprints/ItemPreview/ShuffleItempreview.ShuffleItemPreview_C",
+        "SubPathString": null
+      },
+      "Rarity": "EFortRarity::Common",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "E055CBBD4FC6F1350DE1FC840BF4922D",
+        "SourceString": "Random"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "91FA823A476998DB634A818840F33CE6",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "B0936C344F99580D82AD2B87A35F6A06",
+        "SourceString": "Randomly chooses between favorite Outfits (or all owned Outfits if nothing is marked as a favorite)"
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.DefaultItem"
+      ],
+      "SmallPreviewImage": {
+        "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Locker/T_Icon_Outfit_Random_128.T_Icon_Outfit_Random",
+        "SubPathString": null
+      },
+      "LargePreviewImage": {
+        "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Locker/T_Icon_Outfit_Random_128.T_Icon_Outfit_Random",
+        "SubPathString": null
+      },
+      "FrontendPreviewPivotOffset": {
+        "X": 0.0,
+        "Y": -192.0,
+        "Z": -32.0
+      },
+      "FrontendPreviewInitialRotation": {
+        "Pitch": -3.0,
+        "Yaw": 115.0,
+        "Roll": -10.0
+      },
+      "FrontendPreviewMeshOverride": {
+        "AssetPathName": "/Game/Athena/UI/Icons/S_UI_ShuffleIcon.S_UI_ShuffleIcon",
+        "SubPathString": null
+      }
+    }
+  }
+]

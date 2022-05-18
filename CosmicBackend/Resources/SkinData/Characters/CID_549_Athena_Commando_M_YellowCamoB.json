@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_549_Athena_Commando_M_YellowCamoB",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_549_Athena_Commando_M_YellowCamoB",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "432F2B1944DBB40E64B1ED99BA82E96B",
+        "SourceString": "Knockout"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "4E585FA64A1A4523069E2D8F04D77986",
+        "SourceString": "Precise. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.SiegeStrike",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_549_Athena_Commando_M_YellowCamoB.DA_Featured_CID_549_Athena_Commando_M_YellowCamoB",
+        "SubPathString": null
+      }
+    }
+  }
+]

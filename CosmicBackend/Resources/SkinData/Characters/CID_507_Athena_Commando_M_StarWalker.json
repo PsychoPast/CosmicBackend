@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_507_Athena_Commando_M_StarWalker",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_507_Athena_Commando_M_StarWalker",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "6609F8CD49BB5B3D7F47ADA1EEB64580",
+        "SourceString": "Infinity"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "140A13C94F236283CFD7F18F971CDBA3",
+        "SourceString": "Victory is in the stars. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.StarWalker",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_507_Athena_Commando_M_StarWalker.DA_Featured_CID_507_Athena_Commando_M_StarWalker",
+        "SubPathString": null
+      }
+    }
+  }
+]

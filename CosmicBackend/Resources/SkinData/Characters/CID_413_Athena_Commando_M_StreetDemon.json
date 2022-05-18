@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_413_Athena_Commando_M_StreetDemon",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_413_Athena_Commando_M_StreetDemon",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "6971306641FC9B634D6CC8B25A74BFA2",
+        "SourceString": "Cryptic "
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "39AEE3FC45CC9657167AEEBEC3BF9213",
+        "SourceString": "Master of mystery. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.StreetDemon",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_413_Athena_Commando_M_StreetDemon.DA_Featured_CID_413_Athena_Commando_M_StreetDemon",
+        "SubPathString": null
+      }
+    }
+  }
+]

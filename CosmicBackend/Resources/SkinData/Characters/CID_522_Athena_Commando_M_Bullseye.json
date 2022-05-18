@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_522_Athena_Commando_M_Bullseye",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_522_Athena_Commando_M_Bullseye",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "7ED7D07E46790201219C18ADB78B7933",
+        "SourceString": "Sureshot"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "6C88B6E5432C960BA97F78A8DB4487EF",
+        "SourceString": "His aim is true. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Bullseye",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_522_Athena_Commando_M_Bullseye.DA_Featured_CID_522_Athena_Commando_M_Bullseye",
+        "SubPathString": null
+      }
+    }
+  }
+]

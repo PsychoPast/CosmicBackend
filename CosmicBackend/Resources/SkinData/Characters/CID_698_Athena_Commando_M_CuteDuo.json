@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_698_Athena_Commando_M_CuteDuo",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_698_Athena_Commando_M_CuteDuo",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "497DC94746209187871BE28AFDD07800",
+        "SourceString": "Pinkie"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "52B1F7224E3863D0609FBB9A12DF59E9",
+        "SourceString": "He lives to luv. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.WildHearts"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_698_Athena_Commando_M_CuteDuo.DA_Featured_CID_698_Athena_Commando_M_CuteDuo",
+        "SubPathString": null
+      }
+    }
+  }
+]

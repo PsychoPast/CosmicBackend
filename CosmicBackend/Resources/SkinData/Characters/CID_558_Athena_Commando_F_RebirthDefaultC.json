@@ -1,0 +1,33 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_558_Athena_Commando_F_RebirthDefaultC",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_558_Athena_Commando_F_RebirthDefaultC",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Common",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "8CA22AED47C0CEE7C5B32590F2E80EA2",
+        "SourceString": "Recruit"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "9DE899984C0F53D1816CAEB5B33C0169",
+        "SourceString": "Standard issue combatant outfit. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.11"
+      ]
+    }
+  }
+]

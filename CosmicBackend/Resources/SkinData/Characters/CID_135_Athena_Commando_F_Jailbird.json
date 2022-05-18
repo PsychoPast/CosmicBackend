@@ -1,0 +1,36 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_135_Athena_Commando_F_Jailbird",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_135_Athena_Commando_F_Jailbird",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "63DC768D42F37BD8D58C5780921DE963",
+        "SourceString": "Rapscallion"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "B2F338C548AE899B2FEF0D8658534922",
+        "SourceString": "Bail out of the Battle Bus."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Jailbird",
+        "Cosmetics.Source.ItemShop",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.4"
+      ]
+    }
+  }
+]

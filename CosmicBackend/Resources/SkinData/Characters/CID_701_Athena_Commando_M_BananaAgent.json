@@ -1,0 +1,250 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_701_Athena_Commando_M_BananaAgent",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_701_Athena_Commando_M_BananaAgent",
+          "OuterIndex": 0
+        }
+      },
+      "MetaTags": [
+        "Cosmetics.MetaTags.Trait.ExtremelyUnique"
+      ],
+      "ObservedPlayerStats": [
+        "StatManager.Season.SeasonLevel12"
+      ],
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_701_Athena_Commando_M_BananaAgent",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "046278B04CEF3D989679CAA97F0FDDEC",
+        "SourceString": "Agent Peely"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "168D714E4FAC7E06EE13278F50BC95F0",
+        "SourceString": "He's got a license to peel."
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.12",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Source.Season12.BattlePass.Paid",
+        "Cosmetics.UserFacingFlags.Enlightened",
+        "Cosmetics.Set.PotassiumWin"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "CC64A8834FD12F8FA2AEDCAFF070F105",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-701-Athena-Commando-M-BananaAgent.T-Soldier-HID-701-Athena-Commando-M-BananaAgent",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Banana_Agent/Skins/Banana_Agent_Brown/Materials/M_MED_BananaAgent_Brown_Body.M_MED_BananaAgent_Brown_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Banana_Agent/Skins/Banana_Agent_White/Materials/M_MED_BananaAgent_White__Body.M_MED_BananaAgent_White__Body",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "61A5A91747C05AC1364A4A8469F7FD1D",
+            "SourceString": "GHOST"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-701-BananaAgent-Ghost.T-Variant-701-BananaAgent-Ghost",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "407A18D9417BF6F15A6DB18F0111425A",
+            "SourceString": "Reach level 34"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Banana_Agent/Skins/Banana_Agent_Brown/Materials/M_MED_BananaAgent_Brown_Body.M_MED_BananaAgent_Brown_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Banana_Agent/Materials/M_MED_BananaAgent_Body.M_MED_BananaAgent_Body",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "94D8C9E943ACFFD49796DFA3D617E260",
+            "SourceString": "SHADOW"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-701-BananaAgent-Shadow.T-Variant-701-BananaAgent-Shadow",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "830F99E7424ABD9FD174E58D55A5B1CB",
+            "SourceString": "Reach level 77"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Banana_Agent/Materials/M_MED_BananaAgent_Head.M_MED_BananaAgent_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Banana_Agent/Materials/M_MED_BananaAgent_Head_SL.M_MED_BananaAgent_Head_SL",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Banana_Agent/Skins/Banana_Agent_Brown/Materials/M_MED_BananaAgent_Brown_Body.M_MED_BananaAgent_Brown_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Banana_Agent/Skins/Banana_Agent_Brown/Materials/M_MED_BananaAgent_Brown_Body_SL.M_MED_BananaAgent_Brown_Body_SL",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "8138B5964AE601BBE23D71A847D3CBB7",
+            "SourceString": "GOLDEN AGENT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-701-BananaAgent-Gold.T-Variant-701-BananaAgent-Gold",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "151D4B314E342713025767B321C90535",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

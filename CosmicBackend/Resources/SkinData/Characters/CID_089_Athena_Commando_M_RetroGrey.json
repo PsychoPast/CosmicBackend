@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_089_Athena_Commando_M_RetroGrey",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_089_Athena_Commando_M_RetroGrey",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "E3A123D1420FFC08B83F67B45D9CC7D5",
+        "SourceString": "Havoc"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F6D957F1451358ED612B1A895F44143B",
+        "SourceString": "Striking fear into the opposition."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Granted.Twitch",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.3"
+      ]
+    }
+  }
+]

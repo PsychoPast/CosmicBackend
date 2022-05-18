@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_752_Athena_Commando_M_Comet",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_752_Athena_Commando_M_Comet",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "4F9436B74DCBD2E7E26E4DAC46C44824",
+        "SourceString": "Guff"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "9494483741B49F0EF40A21830AE589D2",
+        "SourceString": "Don't fluff with Guff."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.12",
+        "Cosmetics.Set.FabledStrength"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_752_Athena_Commando_M_Comet.DA_Featured_CID_752_Athena_Commando_M_Comet",
+        "SubPathString": null
+      }
+    }
+  }
+]

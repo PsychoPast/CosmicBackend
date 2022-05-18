@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_258_Athena_Commando_F_FuzzyBearHalloween",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_258_Athena_Commando_F_FuzzyBearHalloween",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "05085C2B483D202C0BC4AF889F7CFAE2",
+        "SourceString": "Spooky Team Leader"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "C305265142134D76946E7281F0D0E4FA",
+        "SourceString": "Find delight in fright."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.6"
+      ]
+    }
+  }
+]

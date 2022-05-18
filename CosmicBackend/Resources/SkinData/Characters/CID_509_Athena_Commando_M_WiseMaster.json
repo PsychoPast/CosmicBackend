@@ -1,0 +1,40 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_509_Athena_Commando_M_WiseMaster",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_509_Athena_Commando_M_WiseMaster",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B6D2B3A549B09B7E8ED0579ADD50D69C",
+        "SourceString": "Shifu"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "3F618FA0414E6147E66B8AB0130EF970",
+        "SourceString": "Master of harmonious victory."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.WiseMaster",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_509_Athena_Commando_M_WiseMaster.DA_Featured_CID_509_Athena_Commando_M_WiseMaster",
+        "SubPathString": null
+      }
+    }
+  }
+]

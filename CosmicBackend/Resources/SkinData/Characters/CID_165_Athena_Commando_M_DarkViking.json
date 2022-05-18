@@ -1,0 +1,1082 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_165_Athena_Commando_M_DarkViking",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_165_Athena_Commando_M_DarkViking",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_165_Athena_Commando_M_DarkViking",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "6CF42DA64DA626A2A0A14382F6866F71",
+            "SourceString": "Unlock at\r\n35,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage1"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage1"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "1537E8294E8130C85202419041B77BB5",
+            "SourceString": "Unlock at\r\n75,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage2"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "C4FA52B04EBB68E8CD67BDBF83890DA7",
+            "SourceString": "Unlock at\r\n125,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage3"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            }
+          ],
+          "AdditionalItems": [
+            {
+              "VariantOptions": [],
+              "Item": {
+                "ObjectName": "BID_073_DarkViking",
+                "OuterIndex": {
+                  "ObjectName": "/Game/Athena/Items/Cosmetics/Backpacks/BID_073_DarkViking",
+                  "OuterIndex": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "6B926E8D42757AF25FC0478C2D86ECA8",
+            "SourceString": "Unlock at\r\n250,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage4"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage4"
+              }
+            }
+          ],
+          "AdditionalItems": [
+            {
+              "VariantOptions": [],
+              "Item": {
+                "ObjectName": "BID_073_DarkViking",
+                "OuterIndex": {
+                  "ObjectName": "/Game/Athena/Items/Cosmetics/Backpacks/BID_073_DarkViking",
+                  "OuterIndex": 0
+                }
+              }
+            }
+          ]
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "E64B065E487133110FB7E1B073C51A9E",
+            "SourceString": "Unlock at\r\n500,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            }
+          ],
+          "AdditionalItems": [
+            {
+              "VariantOptions": [],
+              "Item": {
+                "ObjectName": "BID_073_DarkViking",
+                "OuterIndex": {
+                  "ObjectName": "/Game/Athena/Items/Cosmetics/Backpacks/BID_073_DarkViking",
+                  "OuterIndex": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "6D8FC7184AA09A55A8E8BEA6D922DD70",
+        "SourceString": "Ragnarok"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "9B1A22EC46F94B20838A09BED775C23F",
+        "SourceString": "The cold harbinger of fate."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.DarkViking",
+        "Cosmetics.Source.Season5.BattlePass.Paid",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_DarkViking_Body.M_Med_DarkViking_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 04"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 06"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 09"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_Bones_Head.M_Med_Bones_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 04"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 06"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "037DF57F4DC1CDDC95BD29997B1BA6FC",
+            "SourceString": "BASE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Progressive/T-Progressive-DarkViking-Phase1.T-Progressive-DarkViking-Phase1",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "955EF32D44342DEBDB03F2845552A51D",
+            "SourceString": "Gain 35,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_DarkViking_Body.M_Med_DarkViking_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 04"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 06"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 09"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_Bones_Head.M_Med_Bones_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 04"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 06"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "1C9A223B40D2419B1A29EDA766B03412",
+            "SourceString": "STAGE 1"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Progressive/T-Progressive-DarkViking-Phase2-BlackedOut.T-Progressive-DarkViking-Phase2-BlackedOut",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "DB4B5BC7424E278666DF098C4856B11A",
+            "SourceString": "Gain 75,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_DarkViking_Body.M_Med_DarkViking_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 04"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 06"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 09"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_Bones_Head.M_Med_Bones_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 04"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 06"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "A081D56643524C7FA7F43B99481B5825",
+            "SourceString": "STAGE 2"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Progressive/T-Progressive-DarkViking-Phase3-BlackOut.T-Progressive-DarkViking-Phase3-BlackOut",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "8DA270AE4FD8BE4EFA61B68F254D7AFD",
+            "SourceString": "Gain 75,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_DarkViking_Body.M_Med_DarkViking_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 04"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 06"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 09"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_Bones_Head.M_Med_Bones_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 04"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 06"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "6CF6E5134F72AFEBD3B90CBFB0EB9E5B",
+            "SourceString": "STAGE 3"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Progressive/T-Progressive-DarkViking-Phase4-BlackedOut.T-Progressive-DarkViking-Phase4-BlackedOut",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "142B11DD4E6D12D0C20C34B406A2016B",
+            "SourceString": "Gain 125,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_DarkViking_AltStage.CP_Hat_M_Commando_DarkViking_AltStage",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Common/CP_Head_Med_Empty.CP_Head_Med_Empty",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_DarkViking_Body.M_Med_DarkViking_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 04"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 06"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 09"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_Bones_Head.M_Med_Bones_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 04"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 06"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "379F348B4BD8A62E252CDDAB3113025F",
+            "SourceString": "STAGE 4"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Progressive/T-Progressive-DarkViking-Phase5-BlackedOut.T-Progressive-DarkViking-Phase5-BlackedOut",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "C788180C4E355AF31C1E2FB23C6DEC93",
+            "SourceString": "Gain 250,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_DarkViking_AltStage6.CP_Hat_M_Commando_DarkViking_AltStage6",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Common/CP_Head_Med_Empty.CP_Head_Med_Empty",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_Bones_Head.M_Med_Bones_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_Bones_Head_T6.M_Med_Bones_Head_T6",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_DarkViking_Body.M_Med_DarkViking_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 04"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 06"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 09"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_Bones_Head.M_Med_Bones_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 04"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 06"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage5"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "FAEE960948EBD225B897FE9D55563917",
+            "SourceString": "STAGE 5"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Progressive/T-Progressive-DarkViking-Phase6-BlackedOut.T-Progressive-DarkViking-Phase6-BlackedOut",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "CD08EB4C4DA6BCD8794F9581525BF22E",
+            "SourceString": "Gain 500,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_DarkViking_AltStage6.CP_Hat_M_Commando_DarkViking_AltStage6",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Common/CP_Head_Med_Empty.CP_Head_Med_Empty",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_Bones_Head.M_Med_Bones_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_Bones_Head_T6_NoshouderPad.M_Med_Bones_Head_T6_NoshouderPad",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_DarkViking_Body.M_Med_DarkViking_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 04"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 06"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 09"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkViking/Materials/M_Med_Bones_Head.M_Med_Bones_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 04"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 06"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage6"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "83737035424ADF28CFA9F3A2EE459908",
+            "SourceString": "STAGE 5 - No shoulder pad"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-DarkViking-Phase6-NoBonePad.T-Variant-DarkViking-Phase6-NoBonePad",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "CD08EB4C4DA6BCD8794F9581525BF22E",
+            "SourceString": "Gain 500,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "AC296D7C4EA5D69BAA84D3A94347329E",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

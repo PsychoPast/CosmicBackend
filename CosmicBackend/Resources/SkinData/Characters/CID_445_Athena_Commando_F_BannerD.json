@@ -1,0 +1,62 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_445_Athena_Commando_F_BannerD",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_445_Athena_Commando_F_BannerD",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticProfileBannerVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_445_Athena_Commando_F_BannerD",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B739C377454F8F383C7D229F10CF8D8D",
+        "SourceString": "Marked Marauder"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "773AFB7C4FCFBF977F3618AD33C5EEBE",
+        "SourceString": "Customize your look by choosing a Banner and color in your Locker."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Banner",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_445_Athena_Commando_F_BannerD.DA_Featured_CID_445_Athena_Commando_F_BannerD",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticProfileBannerVariant",
+    "ExportValue": {
+      "MaterialsToAlter": [
+        {
+          "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Commando_Banner/Materials/MI_F_MED_Banner_body.MI_F_MED_Banner_body",
+          "SubPathString": null
+        },
+        {
+          "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Commando_Banner/Materials/MI_F_MED_Banner_FaceAcc.MI_F_MED_Banner_FaceAcc",
+          "SubPathString": null
+        }
+      ]
+    }
+  }
+]

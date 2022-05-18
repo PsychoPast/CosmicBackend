@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_378_Athena_Commando_M_FurnaceFace",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_378_Athena_Commando_M_FurnaceFace",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "2A64623D4528C8F0058E60B4E25854F2",
+        "SourceString": "Ruin"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "A9E0C526403B66A07B2616969F2CE128",
+        "SourceString": "All will fall."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.FurnaceFace",
+        "Cosmetics.Source.Season8.BattlePass.Paid",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_378_Athena_Commando_M_FurnaceFace.DA_Featured_CID_378_Athena_Commando_M_FurnaceFace",
+        "SubPathString": null
+      }
+    }
+  }
+]

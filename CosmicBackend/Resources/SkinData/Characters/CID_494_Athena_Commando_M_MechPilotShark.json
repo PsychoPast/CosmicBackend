@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_494_Athena_Commando_M_MechPilotShark",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_494_Athena_Commando_M_MechPilotShark",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "691FE18C4CCDDF6FBC99AEA9DDC4E1D7",
+        "SourceString": "B.R.U.T.E. Navigator"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "3EA8AE9B4B621B76D7AEF4BD2AEEC8DD",
+        "SourceString": "Precision and determination."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.MechPilotShark",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_494_Athena_Commando_M_MechPilotShark.DA_Featured_CID_494_Athena_Commando_M_MechPilotShark",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_NPC_Athena_Commando_F_MarauderElite",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_NPC_Athena_Commando_F_MarauderElite",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "964F567242AACBD1227EFE8E91B43254",
+        "SourceString": "Marauder Elite"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "190AE406406A4464C2CAC4841D539F46",
+        "SourceString": "Menacing masters of marauder... combat."
+      }
+    }
+  }
+]

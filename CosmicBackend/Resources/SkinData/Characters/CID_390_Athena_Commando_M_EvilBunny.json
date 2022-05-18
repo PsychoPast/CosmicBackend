@@ -1,0 +1,40 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_390_Athena_Commando_M_EvilBunny",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_390_Athena_Commando_M_EvilBunny",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "3CF433A04AE0B20196A2CF9E654E25C8",
+        "SourceString": "Nitehare"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "000842B344571F7F3D2E8084CA774A2B",
+        "SourceString": "Hopping straight out of your nightmares."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.EvilBunny",
+        "Cosmetics.Source.ItemShop",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_390_Athena_Commando_M_EvilBunny.DA_Featured_CID_390_Athena_Commando_M_EvilBunny",
+        "SubPathString": null
+      }
+    }
+  }
+]

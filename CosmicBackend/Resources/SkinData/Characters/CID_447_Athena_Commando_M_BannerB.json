@@ -1,0 +1,62 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_447_Athena_Commando_M_BannerB",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_447_Athena_Commando_M_BannerB",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticProfileBannerVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_447_Athena_Commando_M_BannerB",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "FFD75EA14BA818206E785FADCD260717",
+        "SourceString": "Signature Sniper"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "9E5F30854ED14FEC209B8EAFAA4EA2AB",
+        "SourceString": "Customize your look by choosing a Banner and color in your Locker."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Banner",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_447_Athena_Commando_M_BannerB.DA_Featured_CID_447_Athena_Commando_M_BannerB",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticProfileBannerVariant",
+    "ExportValue": {
+      "MaterialsToAlter": [
+        {
+          "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Banner/Materials/MI_MED_Banner_body.MI_MED_Banner_body",
+          "SubPathString": null
+        },
+        {
+          "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Banner/Materials/MI_MED_Banner_FaceAcc.MI_MED_Banner_FaceAcc",
+          "SubPathString": null
+        }
+      ]
+    }
+  }
+]

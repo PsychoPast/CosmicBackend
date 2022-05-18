@@ -1,0 +1,202 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_127_Athena_Commando_M_Hazmat",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_127_Athena_Commando_M_Hazmat",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_127_Athena_Commando_M_Hazmat",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B4E5BE53422179CFD75D84A035F7ECBC",
+        "SourceString": "Toxic Trooper"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "1CA18E6949A64B2EC7D7CFA52F09D2AF",
+        "SourceString": "Dominate the hot zone."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Hazmat",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.4"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_127_Athena_Commando_M_Hazmat.DA_Featured_CID_127_Athena_Commando_M_Hazmat",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "0F3904B2423B66227F6A9DB50C127697",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-127-Athena-Commando-M-Hazmat.T-Soldier-HID-127-Athena-Commando-M-Hazmat",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Hazmat_01/Materials/M_MED_Hazmat_Helm.M_MED_Hazmat_Helm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Hazmat_01/Skins/Yellow/Textures/T_M_MED_Hazmat_Yellow_Helmet_D.T_M_MED_Hazmat_Yellow_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Hazmat_01/Skins/Yellow/Textures/T_M_MED_Hazmat_Yellow_Helmet_S.T_M_MED_Hazmat_Yellow_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Hazmat_01/Materials/M_MED_Hazmat.M_MED_Hazmat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Hazmat_01/Skins/Yellow/Textures/T_M_MED_Hazmat_Yellow_Body_D.T_M_MED_Hazmat_Yellow_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Hazmat_01/Skins/Yellow/Textures/T_M_MED_Hazmat_Yellow_Body_S.T_M_MED_Hazmat_Yellow_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Hazmat_01/Skins/Yellow/Textures/T_M_MED_Hazmat_Yellow_Body_N.T_M_MED_Hazmat_Yellow_Body_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Normals"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C8E3FC2541F0199E13D4749C7B2BFDCA",
+            "SourceString": "YELLOW"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-HazmatYellow.T-Variant-M-HazmatYellow",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "AD08DE0248DEDB2BD15E34AD47E3DA5A",
+        "SourceString": "COLOR"
+      }
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_A_022_Athena_Commando_F_Crush",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_A_022_Athena_Commando_F_Crush",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "7093266B4950686DE1DF969AACD2A855",
+        "SourceString": "Lovely"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "6A36EDCB47272808DD7AB3855F5FB540",
+        "SourceString": "If they don't fall for you, give 'em a push. "
+      },
+      "GameplayTags": [
+        "Cosmetics.UserFacingFlags.Reactive",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.Set.BeYours"
+      ]
+    }
+  }
+]

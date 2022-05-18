@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_683_Athena_Commando_F_TigerFashion",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_683_Athena_Commando_F_TigerFashion",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "CDACBDEB4388FBFFFABDE2A69B5DE6BC",
+        "SourceString": "Tigeress"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "AF1BC41A413B81088C54238955BA4E2C",
+        "SourceString": "On the prowl with ancestral style."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.OldRestart"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_683_Athena_Commando_F_TigerFashion.DA_Featured_CID_683_Athena_Commando_F_TigerFashion",
+        "SubPathString": null
+      }
+    }
+  }
+]

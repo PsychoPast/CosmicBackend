@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_231_Athena_Commando_F_RedRiding",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_231_Athena_Commando_F_RedRiding",
+          "OuterIndex": 0
+        }
+      },
+      "MetaTags": [
+        "Cosmetics.MetaTags.Trait.Headless"
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "54386353418417683EC1D18520FD574B",
+        "SourceString": "Fable"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "4974449B48A109363F74C1BA7FADA5D3",
+        "SourceString": "The forest isn't safe... from her."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season6.BattlePass.Paid",
+        "Cosmetics.Set.RedRiding",
+        "Cosmetics.Filter.Season.6"
+      ]
+    }
+  }
+]

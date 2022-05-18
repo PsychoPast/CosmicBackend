@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_898_Athena_Commando_M_FlowerSkeleton",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_898_Athena_Commando_M_FlowerSkeleton",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "6DBF28984624454FFD97E3AEBD95D784",
+        "SourceString": "Grave"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "A9E8D2DB4FF294C64106309F6A80BDD5",
+        "SourceString": "Leather and roses are the last things you'll see."
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.FurthestEnd"
+      ]
+    }
+  }
+]

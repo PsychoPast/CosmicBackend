@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_193_Athena_Commando_F_Hippie",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_193_Athena_Commando_F_Hippie",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "F1EEF952401A898F0CD2FCA0FD59819D",
+        "SourceString": "Dreamflower"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "ED0DD2DB472CF07272B8BA860BE550DD",
+        "SourceString": "Can you dig it?"
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Hippie",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

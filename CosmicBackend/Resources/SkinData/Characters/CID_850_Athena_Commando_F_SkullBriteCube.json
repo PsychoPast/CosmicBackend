@@ -1,0 +1,46 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_850_Athena_Commando_F_SkullBriteCube",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_850_Athena_Commando_F_SkullBriteCube",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "D3646B6243DE935C52A037B2D926B9A9",
+        "SourceString": "Dark Skully"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "E33EDC7F4AF5D99CEAF8CB83A86F0B85",
+        "SourceString": "The dreaded master of stylish domination."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.AwfulAspect"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_850_Athena_Commando_F_SkullbriteCube.DA_Featured_CID_850_Athena_Commando_F_SkullbriteCube",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "CUBESeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/CUBESeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

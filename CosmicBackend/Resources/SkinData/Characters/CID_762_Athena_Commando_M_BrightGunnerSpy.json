@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_762_Athena_Commando_M_BrightGunnerSpy",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_762_Athena_Commando_M_BrightGunnerSpy",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "05750C3241284BAF3725B3A5AD795825",
+        "SourceString": "Wild Gunner"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "96E04C4840259E90E227499402F5A3ED",
+        "SourceString": "Embrace your wild side."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.12"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_762_Athena_Commando_M_BrightGunnerSpy.DA_Featured_CID_762_Athena_Commando_M_BrightGunnerSpy",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_174_Athena_Commando_F_CarbideWhite",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_174_Athena_Commando_F_CarbideWhite",
+          "OuterIndex": 0
+        }
+      },
+      "MetaTags": [
+        "Cosmetics.MetaTags.Trait.NeckOnBody"
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "EC44E02447A9CAC6D1AEB6BBFED048C0",
+        "SourceString": "Eon"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "397412D742CE2DAE6AC203BFEA9CFF8C",
+        "SourceString": "Timeless design."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Promo",
+        "Cosmetics.Set.CarbideWhite",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.6"
+      ]
+    }
+  }
+]

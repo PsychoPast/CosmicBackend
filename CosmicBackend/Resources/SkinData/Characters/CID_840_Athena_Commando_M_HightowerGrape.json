@@ -1,0 +1,296 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_840_Athena_Commando_M_HightowerGrape",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_840_Athena_Commando_M_HightowerGrape",
+          "OuterIndex": 0
+        }
+      },
+      "RequiredCosmeticItems": [
+        {
+          "ObjectName": "PetCarrier_014_HightowerRadish",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Items/Cosmetics/PetCarriers/PetCarrier_014_HightowerRadish",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "FoleyLibraries": [
+        {
+          "ObjectName": "FoleyLib_Hightower_Grape_C",
+          "OuterIndex": {
+            "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/Hightower/Grape/FoleyLib_Hightower_Grape",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "BuiltInEmotes": [
+        {
+          "ObjectName": "EID_HightowerGrape",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Items/Cosmetics/Dances/EID_HightowerGrape",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_840_Athena_Commando_M_HightowerGrape",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "7A4A22724B7139377D67588B15C12A40",
+        "SourceString": "Groot"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F31388DC490CD452F9D5B390EE53D8AE",
+        "SourceString": "He is Groot."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season14.BattlePass.Paid",
+        "Cosmetics.QuestsMetaData.Awakening.HightowerGrape",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.CoalMonarch"
+      ],
+      "Series": {
+        "ObjectName": "MarvelSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/MarvelSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "D4DE209E42E6DEC637765A923698EDA6",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-840-Athena-Commando-M-HightowerGrape.T-Soldier-HID-840-Athena-Commando-M-HightowerGrape",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Grape/Materials/M_MED_HighTower_Grape_Body.M_MED_HighTower_Grape_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Grape/Materials/M_MED_HighTower_Grape_Body_SL_Silver.M_MED_HighTower_Grape_Body_SL_Silver",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Grape/Materials/M_MED_HighTower_Grape_Head.M_MED_HighTower_Grape_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Grape/Materials/M_MED_HighTower_Grape_Head_SL_Silver.M_MED_HighTower_Grape_Head_SL_Silver",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "44FBF78E49805D94335DBAB21100CE54",
+            "SourceString": "SILVER FOIL"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-840-M-HighTowerGrape-Silver.T-Variant-840-M-HighTowerGrape-Silver",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Grape/Materials/M_MED_HighTower_Grape_Body.M_MED_HighTower_Grape_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Grape/Materials/M_MED_HighTower_Grape_Body_SL_Gold.M_MED_HighTower_Grape_Body_SL_Gold",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Grape/Materials/M_MED_HighTower_Grape_Head.M_MED_HighTower_Grape_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Grape/Materials/M_MED_HighTower_Grape_Head_SL_Gold.M_MED_HighTower_Grape_Head_SL_Gold",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "2046A9B54C3798ECBF765E890CCA9B27",
+            "SourceString": "GOLD FOIL"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-840-M-HighTowerGrape-Gold.T-Variant-840-M-HighTowerGrape-Gold",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Grape/Materials/M_MED_HighTower_Grape_Body.M_MED_HighTower_Grape_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Grape/Materials/M_MED_HighTower_Grape_Body_SL_Holofoil.M_MED_HighTower_Grape_Body_SL_Holofoil",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Grape/Materials/M_MED_HighTower_Grape_Head.M_MED_HighTower_Grape_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Grape/Materials/M_MED_HighTower_Grape_Head_SL_HoloFoil.M_MED_HighTower_Grape_Head_SL_HoloFoil",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "455D8A664FEE41C5E74E0AB57E712931",
+            "SourceString": "HOLO FOIL"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-840-M-HighTowerGrape-Holo.T-Variant-840-M-HighTowerGrape-Holo",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "EA8BA2FB49D935F4209FE2B3EC7EABAA",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

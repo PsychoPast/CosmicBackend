@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_585_Athena_Commando_F_FlowerSkeleton",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_585_Athena_Commando_F_FlowerSkeleton",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "83F1C39F4CCBD05AE5A9A2B1C9098DCF",
+        "SourceString": "Catrina"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "3C3231054B39A8CEB205B6A5F32B551A",
+        "SourceString": "The queen of the harvest."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.GardenBones",
+        "Cosmetics.Filter.Season.11"
+      ]
+    }
+  }
+]

@@ -1,0 +1,516 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_767_Athena_Commando_F_BlackKnight",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_767_Athena_Commando_F_BlackKnight",
+          "OuterIndex": 0
+        }
+      },
+      "ObservedPlayerStats": [
+        "StatManager.Season.SeasonLevel13"
+      ],
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticParticleVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_767_Athena_Commando_F_BlackKnight",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_767_Athena_Commando_F_BlackKnight",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 5.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 5.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "F6C5807643F07E775818BDB91605AFF4",
+        "SourceString": "Eternal Knight"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "369210604D069FBF83A3D2AC28A78AC4",
+        "SourceString": "Honor shines eternal."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season13.BattlePass.Paid",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.GlowingGlory",
+        "UI.ItemPreview.NewTech.BKnight",
+        "Cosmetics.UserFacingFlags.Enlightened"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "D99058F341A1B7729F0D86BB676F2B93",
+            "SourceString": "OFF"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-767-Athena-Commando-F-BlackKnight.T-Soldier-HID-767-Athena-Commando-F-BlackKnight",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_BlackKnight.CP_Body_Commando_F_BlackKnight",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_BlackKnight.CP_Hat_F_Commando_BlackKnight",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Materials/F_MED_Black_Knight_FaceAccessory.F_MED_Black_Knight_FaceAccessory",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Materials/F_MED_Black_Knight_FaceAccessory_SL.F_MED_Black_Knight_FaceAccessory_SL",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Materials/F_MED_BlackKnight_Body.F_MED_BlackKnight_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Materials/F_MED_BlackKnight_Body_SL.F_MED_BlackKnight_Body_SL",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Materials/F_MED_BlackKnight_Head.F_MED_BlackKnight_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Materials/F_MED_BlackKnight_Head_SL.F_MED_BlackKnight_Head_SL",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Skins/Silver/Materials/F_MED_BlackKnight_Silver_Body.F_MED_BlackKnight_Silver_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Skins/Silver/Materials/F_MED_BlackKnight_Silver_Body_SL.F_MED_BlackKnight_Silver_Body_SL",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Skins/Silver/Materials/F_MED_BlackKnight_Silver_Head.F_MED_BlackKnight_Silver_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Skins/Silver/Materials/F_MED_BlackKnight_Silver_Head_SL.F_MED_BlackKnight_Silver_Head_SL",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Skins/Gold/Materials/F_MED_BlackKnight_Gold_Body.F_MED_BlackKnight_Gold_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Skins/Gold/Materials/F_MED_BlackKnight_Gold_Body_SL.F_MED_BlackKnight_Gold_Body_SL",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Skins/Gold/Materials/F_MED_BlackKnight_Gold_Head.F_MED_BlackKnight_Gold_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Skins/Gold/Materials/F_MED_BlackKnight_Gold_Head_SL.F_MED_BlackKnight_Gold_Head_SL",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "106D9ECF4E984B8FE217FBAFE594ABCA",
+            "SourceString": "ON"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-767-F-BlackKnight-SuperLevel.T-Variant-767-F-BlackKnight-SuperLevel",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "82E0737D4DAFA9AC7EE559B1FB767FB4",
+        "SourceString": "SUPER LEVEL"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticParticleVariant",
+    "ExportValue": {
+      "ParticleOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/BlackKnight/NS_BlackKnight_SuperLeveling.NS_BlackKnight_SuperLeveling",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.7,
+                    "G": 0.74987,
+                    "B": 0.8,
+                    "A": 1.0,
+                    "Hex": "B2BFCC"
+                  },
+                  "ParamName": "User.BKSL_VariantColor"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "9E02910448ECA35C16F6C88087C3287B",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-767-Athena-Commando-F-BlackKnight.T-Soldier-HID-767-Athena-Commando-F-BlackKnight",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Skins/Silver/Materials/F_MED_BlackKnight_Silver_Body.F_MED_BlackKnight_Silver_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Materials/F_MED_BlackKnight_Body.F_MED_BlackKnight_Body",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Skins/Silver/Materials/F_MED_BlackKnight_Silver_Head.F_MED_BlackKnight_Silver_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Materials/F_MED_BlackKnight_Head.F_MED_BlackKnight_Head",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/BlackKnight/NS_BlackKnight_SuperLeveling.NS_BlackKnight_SuperLeveling",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.4,
+                    "G": 0.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "660000"
+                  },
+                  "ParamName": "User.BKSL_VariantColor"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "5866350C4717FF82D8DCE5A75A990CD4",
+            "SourceString": "BLACK ETERNAL KNIGHT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-767-F-BlackKnight-Black.T-Variant-767-F-BlackKnight-Black",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Skins/Silver/Materials/F_MED_BlackKnight_Silver_Body.F_MED_BlackKnight_Silver_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Skins/Gold/Materials/F_MED_BlackKnight_Gold_Body.F_MED_BlackKnight_Gold_Body",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Skins/Silver/Materials/F_MED_BlackKnight_Silver_Head.F_MED_BlackKnight_Silver_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Black_Knight/Skins/Gold/Materials/F_MED_BlackKnight_Gold_Head.F_MED_BlackKnight_Gold_Head",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/BlackKnight/NS_BlackKnight_SuperLeveling.NS_BlackKnight_SuperLeveling",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.630208,
+                    "G": 0.255791,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "A14100"
+                  },
+                  "ParamName": "User.BKSL_VariantColor"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "1B65B518400D026B4B04CF814533411B",
+            "SourceString": "GOLD ETERNAL KNIGHT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-767-F-BlackKnight-Gold.T-Variant-767-F-BlackKnight-Gold",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "904BA8F646F8B2E57B0407B5C479090B",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

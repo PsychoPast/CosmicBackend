@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_666_Athena_Commando_M_ArcticCamo",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_666_Athena_Commando_M_ArcticCamo",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "FF6D37ED441551738EA2CABFD34D959C",
+        "SourceString": "Snow Striker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "68F21D3F4C4A94368D943A9DACEE4FE4",
+        "SourceString": "Master of snow and ice. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.AlwaysFrozen"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_666_Athena_Commando_M_ArcticCamo.DA_Featured_CID_666_Athena_Commando_M_ArcticCamo",
+        "SubPathString": null
+      }
+    }
+  }
+]

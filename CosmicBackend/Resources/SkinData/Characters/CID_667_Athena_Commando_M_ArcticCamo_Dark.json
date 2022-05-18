@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_667_Athena_Commando_M_ArcticCamo_Dark",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_667_Athena_Commando_M_ArcticCamo_Dark",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "2D5D937C42DC7C306659989C592F265F",
+        "SourceString": "Ice Stalker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "6250E9A74918A78221858385BFCA4101",
+        "SourceString": "Stalk the snowy plains. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.AlwaysFrozen"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_667_Athena_Commando_M_ArcticCamoDark.DA_Featured_CID_667_Athena_Commando_M_ArcticCamoDark",
+        "SubPathString": null
+      }
+    }
+  }
+]

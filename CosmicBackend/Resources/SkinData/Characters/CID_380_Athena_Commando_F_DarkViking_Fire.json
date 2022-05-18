@@ -1,0 +1,47 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_380_Athena_Commando_F_DarkViking_Fire",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_380_Athena_Commando_F_DarkViking_Fire",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "653D67094810310CEEE05792D0AC6845",
+        "SourceString": "Molten Valkyrie"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "AE7B511A4C10631F626EF5BBC67217FE",
+        "SourceString": "A fiery revelation."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.RMT.LavaLegends",
+        "Cosmetics.Set.Molten",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_380_Athena_Commando_F_DarkViking_Fire.DA_Featured_CID_380_Athena_Commando_F_DarkViking_Fire",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "LavaSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/LavaSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

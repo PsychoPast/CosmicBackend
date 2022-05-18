@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_A_008_Athena_Commando_F_CombatDoll",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_A_008_Athena_Commando_F_CombatDoll",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "93BD98C8481C4342978D28AF8CEF5ADC",
+        "SourceString": "Tess"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "C408E7D74E57BE50C0F42BADDF4E0BBD",
+        "SourceString": "Your best friend or your worst enemy."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.Set.InitialBandits"
+      ]
+    }
+  }
+]

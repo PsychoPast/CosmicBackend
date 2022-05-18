@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_994_Athena_Commando_M_Lexa",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_994_Athena_Commando_M_Lexa",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "29CF502A4FEB95C4A91795BDA9A03881",
+        "SourceString": "Orin"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "A02D07134B822FEA72F9FD9F0218CA88",
+        "SourceString": "On the hunt for his long lost twin."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.Set.LabSave"
+      ]
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_632_Athena_Commando_F_GalileoZeppelin",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_632_Athena_Commando_F_GalileoZeppelin",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "016E931E4F6F334E492944B7BF2FF383",
+        "SourceString": "Zorii Bliss"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "7E06CA6A40881458CAEF72AAA5DBC3F8",
+        "SourceString": "A scoundrel unable to remain neutral in the war between the First Order and the Resistance."
+      },
+      "GameplayTags": [
+        "Cosmetics.QuestsMetaData.Outfit.Galileo.Zeppelin",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.LatestTerminal"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_632_Athena_Commando_F_GalileoZeppelin_PGOXU.DA_Featured_CID_632_Athena_Commando_F_GalileoZeppelin_PGOXU",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "ColumbusSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/ColumbusSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

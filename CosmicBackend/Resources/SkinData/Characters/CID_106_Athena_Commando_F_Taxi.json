@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_106_Athena_Commando_F_Taxi",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_106_Athena_Commando_F_Taxi",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "87A218D844506209E478A68C5F3E10FE",
+        "SourceString": "Whiplash"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "EBE0ACB646CEC4DA35CC17BACBA3652F",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "5B503D5C404571171AD29E99A59D7C53",
+        "SourceString": "Brake for no one."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Taxi",
+        "Cosmetics.Filter.Season.3"
+      ]
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_871_Athena_Commando_F_StreetFashionGarnet",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_871_Athena_Commando_F_StreetFashionGarnet",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B074B6774B94626F4B671D8B81DAEC9F",
+        "SourceString": "Sagan"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "6B627AC04E39DEA9CE3379893D677F70",
+        "SourceString": "Live the journey and lead the way."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.MetroHub"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_871_Athena_Commando_F_StreetFashionGarnet.DA_Featured_CID_871_Athena_Commando_F_StreetFashionGarnet",
+        "SubPathString": null
+      }
+    }
+  }
+]

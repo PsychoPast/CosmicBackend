@@ -1,0 +1,1209 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_489_Athena_Commando_M_VoyagerRemix",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_489_Athena_Commando_M_VoyagerRemix",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_489_Athena_Commando_M_VoyagerRemix",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticParticleVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_489_Athena_Commando_M_VoyagerRemix",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat1"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage1"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B55EC01649BE836495AD3288359979B3",
+        "SourceString": "Eternal Voyager"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "3D53625640D78078CC9CA69D551C7860",
+        "SourceString": "From beyond the shadows of the galaxy's edge."
+      },
+      "GameplayTags": [
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Set.SpaceExplorers",
+        "Cosmetics.Source.Season10.BattlePass.Paid",
+        "Cosmetics.Filter.Season.10"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "9E09C67A4CFB8D61B37FB3A21AE4C279",
+            "SourceString": "VOYAGER"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-489-Athena-Commando-M-VoyagerRemix.T-Soldier-HID-489-Athena-Commando-M-VoyagerRemix",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Helmet_Orange_VisorDown.M_MED_VoyagerRemix_Helmet_Orange_VisorDown",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Helmet_Blue_Armored.M_MED_VoyagerRemix_Helmet_Blue_Armored",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 05"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Helmet_Red_VisorDown.M_MED_VoyagerRemix_Helmet_Red_VisorDown",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "D5E9ADB840A0B5CE95E6BDB16BA3F274",
+            "SourceString": "EXPLORER"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-VoyagerRemix-Portrait-T2.T-Variant-M-VoyagerRemix-Portrait-T2",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "4544AF5B46AAE216477165997916DC67",
+            "SourceString": "Unlocked during Season X"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_EmptyHead.CP_Athena_Head_M_EmptyHead",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_VoyagerRemix_Skull.CP_Hat_M_Commando_VoyagerRemix_Skull",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_VoyagerRemix_Flames.CP_M_MED_VoyagerRemix_Flames",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "815C83B54C553D54A08CEE865955F20A",
+            "SourceString": "ETERNAL"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-VoyagerRemix-SkullFlame.T-Variant-M-VoyagerRemix-SkullFlame",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "D2B1EFF14BA8160351F6A6B571D346B2",
+            "SourceString": "Unlocked during Season X"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "081AC9174637E98EB488858D68BF84CF",
+        "SourceString": "STAGE"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticParticleVariant",
+    "ExportValue": {
+      "ParticleOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/FX/Formal/M_VoyagerRemix_G.M_VoyagerRemix_G",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.042188,
+                    "G": 0.354188,
+                    "B": 0.5,
+                    "A": 1.0,
+                    "Hex": "0B5A80"
+                  },
+                  "ParamName": "EdgeColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.023159,
+                    "G": 1.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "06FF00"
+                  },
+                  "ParamName": "BaseColor"
+                },
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.505208,
+                    "B": 0.505208,
+                    "A": 1.0,
+                    "Hex": "FF8181"
+                  },
+                  "ParamName": "InsideColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/FX/Formal/M_VoyagerRemix_P_R.M_VoyagerRemix_P_R",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.042188,
+                    "G": 0.354188,
+                    "B": 0.5,
+                    "A": 1.0,
+                    "Hex": "0B5A80"
+                  },
+                  "ParamName": "EdgeColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.023159,
+                    "G": 1.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "06FF00"
+                  },
+                  "ParamName": "BaseColor"
+                },
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.505208,
+                    "B": 0.505208,
+                    "A": 1.0,
+                    "Hex": "FF8181"
+                  },
+                  "ParamName": "InsideColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/FX/Formal/M_VoyagerRemix_Y.M_VoyagerRemix_Y",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.042188,
+                    "G": 0.354188,
+                    "B": 0.5,
+                    "A": 1.0,
+                    "Hex": "0B5A80"
+                  },
+                  "ParamName": "EdgeColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.023159,
+                    "G": 1.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "06FF00"
+                  },
+                  "ParamName": "BaseColor"
+                },
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.505208,
+                    "B": 0.505208,
+                    "A": 1.0,
+                    "Hex": "FF8181"
+                  },
+                  "ParamName": "InsideColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/FX/Formal/P_M_VoyagerRemix.P_M_VoyagerRemix",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 1.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "00FF00"
+                  },
+                  "ParamName": "ColorVariation"
+                },
+                {
+                  "Value": {
+                    "R": 0.475581,
+                    "G": 1.0,
+                    "B": 0.272323,
+                    "A": 1.0,
+                    "Hex": "79FF45"
+                  },
+                  "ParamName": "DecalColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.05,
+                    "G": 0.25,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "0D4000"
+                  },
+                  "ParamName": "GlobsColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.89627,
+                    "G": 1.0,
+                    "B": 0.191202,
+                    "A": 1.0,
+                    "Hex": "E5FF31"
+                  },
+                  "ParamName": "Smoke_color"
+                },
+                {
+                  "Value": {
+                    "R": 0.398044,
+                    "G": 1.0,
+                    "B": 0.262106,
+                    "A": 1.0,
+                    "Hex": "66FF43"
+                  },
+                  "ParamName": "Star_color"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "0470DBD34D47AF4D7EA6328598221C0A",
+            "SourceString": "BLACK"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-VoyagerRemix-Green.T-Variant-M-VoyagerRemix-Green",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Body_Orange.M_MED_VoyagerRemix_Body_Orange",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Body_Blue.M_MED_VoyagerRemix_Body_Blue",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Head_Orange.M_MED_VoyagerRemix_Head_Orange",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Head_Blue.M_MED_VoyagerRemix_Head_Blue",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Helmet_Orange_VisorDown.M_MED_VoyagerRemix_Helmet_Orange_VisorDown",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Helmet_Blue_Armored.M_MED_VoyagerRemix_Helmet_Blue_Armored",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Head_Starfish_Orange.M_MED_VoyagerRemix_Head_Starfish_Orange",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Head_Starfish_Blue.M_MED_VoyagerRemix_Head_Starfish_Blue",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/FX/Formal/M_VoyagerRemix_G.M_VoyagerRemix_G",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.030527,
+                    "G": 0.186629,
+                    "B": 0.5,
+                    "A": 1.0,
+                    "Hex": "083080"
+                  },
+                  "ParamName": "EdgeColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.158021,
+                    "G": 0.41,
+                    "B": 0.41,
+                    "A": 1.0,
+                    "Hex": "286969"
+                  },
+                  "ParamName": "BaseColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.361307,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "5CFFFF"
+                  },
+                  "ParamName": "InsideColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/FX/Formal/M_VoyagerRemix_P_R.M_VoyagerRemix_P_R",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.030527,
+                    "G": 0.186629,
+                    "B": 0.5,
+                    "A": 1.0,
+                    "Hex": "083080"
+                  },
+                  "ParamName": "EdgeColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.158021,
+                    "G": 0.41,
+                    "B": 0.41,
+                    "A": 1.0,
+                    "Hex": "286969"
+                  },
+                  "ParamName": "BaseColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.361307,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "5CFFFF"
+                  },
+                  "ParamName": "InsideColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/FX/Formal/M_VoyagerRemix_Y.M_VoyagerRemix_Y",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.030527,
+                    "G": 0.186629,
+                    "B": 0.5,
+                    "A": 1.0,
+                    "Hex": "083080"
+                  },
+                  "ParamName": "EdgeColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.158021,
+                    "G": 0.41,
+                    "B": 0.41,
+                    "A": 1.0,
+                    "Hex": "286969"
+                  },
+                  "ParamName": "BaseColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.361307,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "5CFFFF"
+                  },
+                  "ParamName": "InsideColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/FX/Formal/P_M_VoyagerRemix.P_M_VoyagerRemix",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.0,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "0000FF"
+                  },
+                  "ParamName": "ColorVariation"
+                },
+                {
+                  "Value": {
+                    "R": 0.090404,
+                    "G": 0.64178,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "17A4FF"
+                  },
+                  "ParamName": "DecalColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.437114,
+                    "G": 0.634209,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "6FA2FF"
+                  },
+                  "ParamName": "Smoke_color"
+                },
+                {
+                  "Value": {
+                    "R": 0.491201,
+                    "G": 1.108659,
+                    "B": 2.0,
+                    "A": 1.0,
+                    "Hex": "7D1BFE"
+                  },
+                  "ParamName": "Star_color"
+                },
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.361307,
+                    "B": 0.428691,
+                    "A": 1.0,
+                    "Hex": "005C6D"
+                  },
+                  "ParamName": "GlobsColor"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "606E6532401790D83F033298A1843506",
+            "SourceString": "CERULEAN"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-VoyagerRemix-Blue.T-Variant-M-VoyagerRemix-Blue",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "AAD21BE6408EBB137E801F9A60F39715",
+            "SourceString": "Unlocked during Season X"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Body_Orange.M_MED_VoyagerRemix_Body_Orange",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Body_Red.M_MED_VoyagerRemix_Body_Red",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Head_Orange.M_MED_VoyagerRemix_Head_Orange",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Head_Red.M_MED_VoyagerRemix_Head_Red",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Helmet_Orange_VisorDown.M_MED_VoyagerRemix_Helmet_Orange_VisorDown",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Helmet_Red_VisorDown.M_MED_VoyagerRemix_Helmet_Red_VisorDown",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Head_Starfish_Orange.M_MED_VoyagerRemix_Head_Starfish_Orange",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/Materials/M_MED_VoyagerRemix_Head_Starfish_Red.M_MED_VoyagerRemix_Head_Starfish_Red",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/FX/Formal/M_VoyagerRemix_G.M_VoyagerRemix_G",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.5,
+                    "G": 0.037161,
+                    "B": 0.184086,
+                    "A": 1.0,
+                    "Hex": "80092F"
+                  },
+                  "ParamName": "EdgeColor"
+                },
+                {
+                  "Value": {
+                    "R": 1.5,
+                    "G": 0.149034,
+                    "B": 0.059446,
+                    "A": 1.0,
+                    "Hex": "7E260F"
+                  },
+                  "ParamName": "BaseColor"
+                },
+                {
+                  "Value": {
+                    "R": 1.2,
+                    "G": 0.405258,
+                    "B": 0.125,
+                    "A": 1.0,
+                    "Hex": "326720"
+                  },
+                  "ParamName": "InsideColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/FX/Formal/M_VoyagerRemix_P_R.M_VoyagerRemix_P_R",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.5,
+                    "G": 0.037161,
+                    "B": 0.184086,
+                    "A": 1.0,
+                    "Hex": "80092F"
+                  },
+                  "ParamName": "EdgeColor"
+                },
+                {
+                  "Value": {
+                    "R": 1.5,
+                    "G": 0.149034,
+                    "B": 0.059446,
+                    "A": 1.0,
+                    "Hex": "7E260F"
+                  },
+                  "ParamName": "BaseColor"
+                },
+                {
+                  "Value": {
+                    "R": 1.2,
+                    "G": 0.405258,
+                    "B": 0.125,
+                    "A": 1.0,
+                    "Hex": "326720"
+                  },
+                  "ParamName": "InsideColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/FX/Formal/M_VoyagerRemix_Y.M_VoyagerRemix_Y",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.5,
+                    "G": 0.037161,
+                    "B": 0.184086,
+                    "A": 1.0,
+                    "Hex": "80092F"
+                  },
+                  "ParamName": "EdgeColor"
+                },
+                {
+                  "Value": {
+                    "R": 1.5,
+                    "G": 0.149034,
+                    "B": 0.059446,
+                    "A": 1.0,
+                    "Hex": "7E260F"
+                  },
+                  "ParamName": "BaseColor"
+                },
+                {
+                  "Value": {
+                    "R": 1.2,
+                    "G": 0.405258,
+                    "B": 0.125,
+                    "A": 1.0,
+                    "Hex": "326720"
+                  },
+                  "ParamName": "InsideColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_VoyagerRemix/FX/Formal/P_M_VoyagerRemix.P_M_VoyagerRemix",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.191287,
+                    "B": 0.001031,
+                    "A": 1.0,
+                    "Hex": "FF3100"
+                  },
+                  "ParamName": "ColorVariation"
+                },
+                {
+                  "Value": {
+                    "R": 1.2,
+                    "G": 0.316273,
+                    "B": 0.038845,
+                    "A": 1.0,
+                    "Hex": "32510A"
+                  },
+                  "ParamName": "DecalColor"
+                },
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.148011,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FF2600"
+                  },
+                  "ParamName": "Smoke_color"
+                },
+                {
+                  "Value": {
+                    "R": 2.0,
+                    "G": 0.226934,
+                    "B": 0.00761,
+                    "A": 1.0,
+                    "Hex": "FE3A02"
+                  },
+                  "ParamName": "Star_color"
+                },
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.114965,
+                    "B": 0.015305,
+                    "A": 1.0,
+                    "Hex": "FF1D04"
+                  },
+                  "ParamName": "GlobsColor"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "02B8ABD24C76FA01C9B9BAB6E1EFE875",
+            "SourceString": "RED"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-VoyagerRemix-Red.T-Variant-M-VoyagerRemix-Red",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "0192A9D54BA10CF1EE727FAE30C80B02",
+            "SourceString": "Unlocked during Season X"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "11A0A80C46C37B0C996D7CA50473F72B",
+        "SourceString": "COLOR"
+      }
+    }
+  }
+]

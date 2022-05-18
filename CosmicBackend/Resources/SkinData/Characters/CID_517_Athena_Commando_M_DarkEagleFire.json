@@ -1,0 +1,42 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_517_Athena_Commando_M_DarkEagleFire",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_517_Athena_Commando_M_DarkEagleFire",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "47679867440707E65B2815BF8BF3F589",
+        "SourceString": "Molten Omen"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F39C008846E1BC15A801F9A1C05897FC",
+        "SourceString": "Your victory has been burned in fate."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.DarkEagle",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11"
+      ],
+      "Series": {
+        "ObjectName": "LavaSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/LavaSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

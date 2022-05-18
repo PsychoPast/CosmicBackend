@@ -1,0 +1,56 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_924_Athena_Commando_M_Embers",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_924_Athena_Commando_M_Embers",
+          "OuterIndex": 0
+        }
+      },
+      "FoleyLibraries": [
+        {
+          "ObjectName": "FoleyLib_Embers_C",
+          "OuterIndex": {
+            "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/Embers/FoleyLib_Embers",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "1BE1FCE34AA65215965001BC902DF2C8",
+        "SourceString": "Ghost Rider"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "D544444F40296BCDB995A884F51E4396",
+        "SourceString": "The thing about legends is... sometimes they're true."
+      },
+      "GameplayTags": [
+        "Cosmetics.QuestsMetaData.Outfit.Embers",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.RhythmElbow"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_924_Athena_Commando_M_Embers.DA_Featured_CID_924_Athena_Commando_M_Embers",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "MarvelSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/MarvelSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

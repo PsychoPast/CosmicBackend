@@ -1,0 +1,2043 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_408_Athena_Commando_F_StrawberryPilot",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_408_Athena_Commando_F_StrawberryPilot",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_408_Athena_Commando_F_StrawberryPilot",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_408_Athena_Commando_F_StrawberryPilot",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticParticleVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_408_Athena_Commando_F_StrawberryPilot",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "7A04224A4F0F5ABD48718FA0178DCA1B",
+            "SourceString": "Earn 10,000 XP"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage2"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "91EBEBBF4B406D880D1760BEDE9C2416",
+            "SourceString": "Earn 50,000 XP"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage3"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "F508A7DD4E30B506731CF695E5314015",
+            "SourceString": "Earn 100,000 XP"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage4"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage4"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "70FDD42B41E068D59786D28677BB573F",
+            "SourceString": "Earn 200,000 XP"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "B029E10B41EBD9ED569D4BB25C9DF185",
+            "SourceString": "Complete 30 Weekly Challenges"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Mat2"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "FBCBC1064FD17B9715963EB24ED22DAB",
+            "SourceString": "Collect 15 Fortbytes"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Mat3"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "6F9A8E6E4B2B7DF05064688B99F579FD",
+            "SourceString": "Collect 35 Fortbytes"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Mat4"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat4"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "7D0535314091C2EBFB8B08B3B3E66B1E",
+            "SourceString": "Complete 10 Weekly Challenges"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Particle2"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Particle2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "BAEB81F842F6A8AEEA273D94788CFE9E",
+            "SourceString": "Collect 5 Fortbytes"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Particle3"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Particle3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "949604554C0B23A32CD0A687F24709F0",
+            "SourceString": "Collect 25 Fortbytes"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Particle4"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Particle4"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "97F6B29D4BD899DE7B0B2F89BB51E8EE",
+        "SourceString": "Rox"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "AD63EAFE41801D9AD30DBC9A35394BDA",
+        "SourceString": "Keep it fresh."
+      },
+      "GameplayTags": [
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Source.Season9.BattlePass.Paid",
+        "Cosmetics.QuestsMetaData.Glyph.StrawberryPilotCID",
+        "Cosmetics.Set.StrawberryPilot",
+        "Cosmetics.Filter.Season.9"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "2885EECC4AAFE987151B80B598BE2AC7",
+            "SourceString": "STAGE 1"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-StrawberryPilot-T1.T-Variant-F-StrawberryPilot-T1",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StrawberryPilotT2.CP_Body_Commando_F_StrawberryPilotT2",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_StrawberryPilotT2.CP_F_MED_StrawberryPilotT2",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "3C8B496B4F0339309D672491E29BC883",
+            "SourceString": "STAGE 2"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-StrawberryPilot-T2.T-Variant-F-StrawberryPilot-T2",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "51737C534914F0C46453579C1265642C",
+            "SourceString": "Earn 10,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StrawberryPilotT3.CP_Body_Commando_F_StrawberryPilotT3",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_StrawberryPilotT34.CP_F_MED_StrawberryPilotT34",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "A2121FEC4B14D94DBB97F6BC1C8857ED",
+            "SourceString": "STAGE 3"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-StrawberryPilot-T3.T-Variant-F-StrawberryPilot-T3",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "6E7D9C6A47689B05BC5328B6F4308785",
+            "SourceString": "Earn 50,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StrawberryPilotT45.CP_Body_Commando_F_StrawberryPilotT45",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_StrawberryPilotT34.CP_F_MED_StrawberryPilotT34",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Hair_02.MI_F_Strawberry_Pilot_Hair_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 10"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "11F1C2FF4E3C345FE3EC499ED268A6AD",
+            "SourceString": "STAGE 4"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-StrawberryPilot-T4.T-Variant-F-StrawberryPilot-T4",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "4EF7FE8D4977326DD7FE3694772506AE",
+            "SourceString": "Earn 100,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StrawberryPilotT45.CP_Body_Commando_F_StrawberryPilotT45",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_StrawberryPilotT5.CP_F_MED_StrawberryPilotT5",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage5"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E3F4DCB74CC2B7C123141580210F0F93",
+            "SourceString": "STAGE 5"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-StrawberryPilot-T5.T-Variant-F-StrawberryPilot-T5",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "42AA0F0344EF8E7BDA078EB88D11CD57",
+            "SourceString": "Earn 200,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "CDC9613748E0DA80E4F18FA434BB31C5",
+        "SourceString": "STAGE"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C5C8ECB44AF6BB1C125E639E5E4835E9",
+            "SourceString": "PINK"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-408-Athena-Commando-F-StrawberryPilot.T-Soldier-HID-408-Athena-Commando-F-StrawberryPilot",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Body_01.MI_F_Strawberry_Pilot_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Dark_Purple.T_Dark_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Teal_2.T_Teal",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Pinkish_Purple.T_Pinkish_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Body_02.MI_F_Strawberry_Pilot_Body_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Light_Purple.T_Light_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Pinkish_Purple.T_Pinkish_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Light_Gray2.T_Light_Gray2",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Fortress_Character/Textures/AllBlack.AllBlack",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Helmet.MI_F_Strawberry_Pilot_Helmet",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Light_Purple.T_Light_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Fortress_Character/Textures/AllBlack.AllBlack",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Default/T_Yellow_1.T_Yellow",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Pinkish_Purple.T_Pinkish_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Fortress_Character/Textures/AllBlack.AllBlack",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_T234_Body_01.MI_F_Strawberry_Pilot_T234_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Pinkish_Purple.T_Pinkish_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Teal_2.T_Teal",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Dark_Purple.T_Dark_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Default/T_LightBlue_1.T_LightBlue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_T4_Body_02.MI_F_Strawberry_Pilot_T4_Body_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.082243,
+                    "B": 0.234375,
+                    "A": 1.0,
+                    "Hex": "00153C"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Light_Purple.T_Light_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Default/T_White.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Fortress_Character/Textures/AllBlack.AllBlack",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Pinkish_Purple.T_Pinkish_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Default/T_LightBlue_1.T_LightBlue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 30.0,
+                  "ParamName": "emissive mult"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Hair_01.MI_F_Strawberry_Pilot_Hair_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Teal.T_Teal",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Pinkish_Purple.T_Pinkish_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Hair_02.MI_F_Strawberry_Pilot_Hair_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Teal.T_Teal",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Pinkish_Purple.T_Pinkish_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Teal.T_Teal",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "254862A2454B457AC13B31A7FF02E39C",
+            "SourceString": "PURPLE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-StrawberryPilot-Purple.T-Variant-F-StrawberryPilot-Purple",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "3ECC82A54F635B060F9E20BCC82E6E2F",
+            "SourceString": "Complete 30 Weekly Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Body_01.MI_F_Strawberry_Pilot_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Pearl.T_Pearl",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Orangeish_Yellow2.T_Orangeish_Yellow2",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Blue_Gray.T_Blue_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Body_02.MI_F_Strawberry_Pilot_Body_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Middle_Orange.T_Middle_Orange",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Dark_Orange.T_Dark_Orange",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Orangeish_Yellow.T_Orangeish_Yellow",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Fortress_Character/Textures/AllBlack.AllBlack",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Helmet.MI_F_Strawberry_Pilot_Helmet",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Middle_Orange.T_Middle_Orange",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Black2.T_Black2",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Default/T_Pink_2.T_Pink",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Default/T_Pink_3.T_Pink",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Default/T_White.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_T234_Body_01.MI_F_Strawberry_Pilot_T234_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Black2.T_Black2",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Orangeish_Yellow2.T_Orangeish_Yellow2",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Pearl.T_Pearl",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Orange.T_Orange",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_T4_Body_02.MI_F_Strawberry_Pilot_T4_Body_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.552011,
+                    "G": 0.076185,
+                    "B": 0.001821,
+                    "A": 1.0,
+                    "Hex": "8D1300"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Middle_Orange.T_Middle_Orange",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Orangeish_Yellow.T_Orangeish_Yellow",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Black2.T_Black2",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Dark_Orange.T_Dark_Orange",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Orangeish_Yellow.T_Orangeish_Yellow",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Hair_01.MI_F_Strawberry_Pilot_Hair_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Orange.T_Orange",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Dark_Orange.T_Dark_Orange",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Orange.T_Orange",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Orange.T_Orange",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Hair_02.MI_F_Strawberry_Pilot_Hair_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Orange.T_Orange",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Dark_Orange.T_Dark_Orange",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Orange.T_Orange",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "2517F2E7413A2711521D1DBB9E6D8FE6",
+            "SourceString": "ORANGE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-StrawberryPilot-Orange.T-Variant-F-StrawberryPilot-Orange",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "864084484149F8AFDE670090A62D0573",
+            "SourceString": "Collect 15 Fortbytes"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Body_01.MI_F_Strawberry_Pilot_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Dark_Blue.T_Dark_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Default/T_LightBlue_1.T_LightBlue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Black2.T_Black2",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Body_02.MI_F_Strawberry_Pilot_Body_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Dark_Gray.T_Dark_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Dark_Gray.T_Dark_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Bright_Green3.T_Bright_Green3",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Fortress_Character/Textures/AllBlack.AllBlack",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Helmet.MI_F_Strawberry_Pilot_Helmet",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Dark_Gray.T_Dark_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Black2.T_Black2",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Orangeish_Yellow.T_Orangeish_Yellow",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Teal_2.T_Teal",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Default/T_White.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_T234_Body_01.MI_F_Strawberry_Pilot_T234_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Dark_Blue.T_Dark_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Dark_Blue2.T_Dark_Blue2",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Dark_Gray.T_Dark_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Dark_Blue.T_Dark_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_T4_Body_02.MI_F_Strawberry_Pilot_T4_Body_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.031608,
+                    "G": 0.223958,
+                    "B": 0.009332,
+                    "A": 1.0,
+                    "Hex": "083902"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Dark_Gray.T_Dark_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Light_Gray.T_Light_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Fortress_Character/Textures/AllBlack.AllBlack",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Dark_Gray.T_Dark_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Dark_Blue.T_Dark_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Hair_01.MI_F_Strawberry_Pilot_Hair_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Bright_Green.T_Bright_Green",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Bright_Green3.T_Bright_Green3",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Dark_Blue.T_Dark_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Hair_02.MI_F_Strawberry_Pilot_Hair_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Bright_Green.T_Bright_Green",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Bright_Green.T_Bright_Green",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Dark_Blue.T_Dark_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "199418A34399FC9C1C749CB663535B66",
+            "SourceString": "BLACK"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-StrawberryPilot-Black.T-Variant-F-StrawberryPilot-Black",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "64EE2C07492D32A06D9A54B520D3A3D2",
+            "SourceString": "Collect 35 Fortbytes"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "C82941EA44C906FDC87F4ABF6DCAD318",
+        "SourceString": "COLOR"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticParticleVariant",
+    "ExportValue": {
+      "ParticleOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Particle1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "3B15BE414C3C167A5B2C70ABBE4CFAB6",
+            "SourceString": "TEAL"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-StrawberryPilot-Stockings-Teal.T-Variant-F-StrawberryPilot-Stockings-Teal",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Body_01.MI_F_Strawberry_Pilot_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.782271,
+                    "B": 6.0,
+                    "A": 1.0,
+                    "Hex": "00C7FA"
+                  },
+                  "ParamName": "Fuzz Tint"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Teal.T_Teal",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.3,
+                  "ParamName": "Fuzz Blend"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_T234_Body_01.MI_F_Strawberry_Pilot_T234_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 2.197277,
+                    "B": 6.0,
+                    "A": 1.0,
+                    "Hex": "0030FA"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Purple/T_Teal3.T_Teal3",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/F_MED_Strawberry_Glass_Visor.F_MED_Strawberry_Glass_Visor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.734375,
+                    "G": 1.437962,
+                    "B": 3.0,
+                    "A": 1.0,
+                    "Hex": "BB6FFD"
+                  },
+                  "ParamName": "Base Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Particle2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "2BEF648B44BD6777784B6BA11A4A01F5",
+            "SourceString": "BLUE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-StrawberryPilot-Stockings-Blue.T-Variant-F-StrawberryPilot-Stockings-Blue",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "92EE3E894635C17DD9C05D8050DE3976",
+            "SourceString": "Complete 10 Weekly Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Body_01.MI_F_Strawberry_Pilot_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 3.0,
+                    "G": 1.870267,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FDDD00"
+                  },
+                  "ParamName": "Fuzz Tint"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Bright_Yellow2.T_Bright_Yellow2",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_T234_Body_01.MI_F_Strawberry_Pilot_T234_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 6.0,
+                    "G": 2.996219,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FAFC00"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Orange/T_Middle_Orange.T_Middle_Orange",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/F_MED_Strawberry_Glass_Visor.F_MED_Strawberry_Glass_Visor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 3.0,
+                    "G": 2.106588,
+                    "B": 0.186633,
+                    "A": 1.0,
+                    "Hex": "FD1930"
+                  },
+                  "ParamName": "Base Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Particle3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "CC775BAD476555566B31A5AF9D9E1B6D",
+            "SourceString": "YELLOW"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-StrawberryPilot-Stockings-Yellow.T-Variant-F-StrawberryPilot-Stockings-Yellow",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "2144352B49DCB34540F9EB9DBAADCB7A",
+            "SourceString": "Collect 5 Fortbytes"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Body_01.MI_F_Strawberry_Pilot_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 10.0,
+                    "B": 1.534529,
+                    "A": 1.0,
+                    "Hex": "00F687"
+                  },
+                  "ParamName": "Fuzz Tint"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Bright_Green4.T_Bright_Green4",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.4,
+                  "ParamName": "Fuzz Blend"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_T234_Body_01.MI_F_Strawberry_Pilot_T234_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.102485,
+                    "G": 3.0,
+                    "B": 0.608969,
+                    "A": 1.0,
+                    "Hex": "1AFD9B"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Textures/Gradients/Green/T_Black.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/F_MED_Strawberry_Glass_Visor.F_MED_Strawberry_Glass_Visor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.677083,
+                    "G": 2.0,
+                    "B": 0.89018,
+                    "A": 1.0,
+                    "Hex": "ADFEE3"
+                  },
+                  "ParamName": "Base Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Particle4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C637545F496DC4FF72518BB1C00B80E6",
+            "SourceString": "GREEN"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-StrawberryPilot-Stockings-Green.T-Variant-F-StrawberryPilot-Stockings-Green",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "762F0C8747165361FAC222889EB4CFD9",
+            "SourceString": "Collect 25 Fortbytes"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Particle"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "AB5248344EB7B315C510BDA2D393757D",
+        "SourceString": "SECONDARY COLOR"
+      }
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_533_Athena_Commando_M_StreetUrchin",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_533_Athena_Commando_M_StreetUrchin",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "F6D98B194517DF65043F0D8C5256214A",
+        "SourceString": "Toxic Tagger"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "D0BA31FC47F52E4094ADB8AE276069D2",
+        "SourceString": "The world is your canvas, leave your mark. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_533_Athena_Commando_M_StreetUrchin.DA_Featured_CID_533_Athena_Commando_M_StreetUrchin",
+        "SubPathString": null
+      }
+    }
+  }
+]

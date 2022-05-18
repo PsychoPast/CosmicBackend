@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_387_Athena_Commando_F_Golf",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_387_Athena_Commando_F_Golf",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "7714837F4CF80D00CE80F3B824EC884E",
+        "SourceString": "Birdie"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "8CFFA06F48599BAC6A71168D0E158143",
+        "SourceString": "No mulligans required."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Golf",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_387_Athena_Commando_F_Golf.DA_Featured_CID_387_Athena_Commando_F_Golf",
+        "SubPathString": null
+      }
+    }
+  }
+]

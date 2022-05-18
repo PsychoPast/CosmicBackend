@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_335_Athena_Commando_F_Scrapyard",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_335_Athena_Commando_F_Scrapyard",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "E01911BB4E287F2627E6088579748E13",
+        "SourceString": "Sparkplug"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "98F4E31D405B1E16A69D3F9BCD5821CA",
+        "SourceString": "Scrap the competition."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Scrapyard",
+        "Cosmetics.Filter.Season.7"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_335_Athena_Commando_F_Scrapyard.DA_Featured_CID_335_Athena_Commando_F_Scrapyard",
+        "SubPathString": null
+      }
+    }
+  }
+]

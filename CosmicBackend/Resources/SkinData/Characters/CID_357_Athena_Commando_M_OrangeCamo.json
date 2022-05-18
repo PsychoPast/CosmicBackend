@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_357_Athena_Commando_M_OrangeCamo",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_357_Athena_Commando_M_OrangeCamo",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "4AB79A0C4D1D7FAAB787F3B5F997733A",
+        "SourceString": "Hypernova"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "0D768EF648D01729C2E69480950B6619",
+        "SourceString": "Undeniable."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.TechOps",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_357_Athena_Commando_M_OrangeCamo.DA_Featured_CID_357_Athena_Commando_M_OrangeCamo",
+        "SubPathString": null
+      }
+    }
+  }
+]

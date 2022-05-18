@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_328_Athena_Commando_F_Tennis",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_328_Athena_Commando_F_Tennis",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "4C5D8D994B437BFB894E1890079B3B25",
+        "SourceString": "Volley Girl"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "3C6FE0944ADA9870E3DAA5BA72D27757",
+        "SourceString": "If you get served, it's not her fault."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.7"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_328_Athena_Commando_F_Tennis.DA_Featured_CID_328_Athena_Commando_F_Tennis",
+        "SubPathString": null
+      }
+    }
+  }
+]

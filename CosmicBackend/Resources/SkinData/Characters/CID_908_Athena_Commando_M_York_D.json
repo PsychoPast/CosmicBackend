@@ -1,0 +1,48 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_908_Athena_Commando_M_York_D",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_908_Athena_Commando_M_York_D",
+          "OuterIndex": 0
+        }
+      },
+      "FoleyLibraries": [
+        {
+          "ObjectName": "FoleyLib_York_C",
+          "OuterIndex": {
+            "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/York/FoleyLib_York",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "7D6D107A4FE8B0D752D8EBAE182DE805",
+        "SourceString": "Haunt Officer"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "2F62D9574C631297C935B8985FBC0F8E",
+        "SourceString": "Who's in charge of this haunt?"
+      },
+      "GameplayTags": [
+        "Cosmetics.QuestsMetaData.Outfit.York.M.D",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.MorningSalon"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_908_Athena_Commando_M_York_D.DA_Featured_CID_908_Athena_Commando_M_York_D",
+        "SubPathString": null
+      }
+    }
+  }
+]

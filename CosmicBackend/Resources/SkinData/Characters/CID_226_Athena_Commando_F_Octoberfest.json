@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_226_Athena_Commando_F_Octoberfest",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_226_Athena_Commando_F_Octoberfest",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "48E5BBF446C62FDE5761658CF6759CB3",
+        "SourceString": "Heidi"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "A7B9813A48CB70AA0AF271A8EC28D0F0",
+        "SourceString": "Fest with the best."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Octoberfest",
+        "Cosmetics.Filter.Season.6"
+      ]
+    }
+  }
+]

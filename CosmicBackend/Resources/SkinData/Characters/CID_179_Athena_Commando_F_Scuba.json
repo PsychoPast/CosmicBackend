@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_179_Athena_Commando_F_Scuba",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_179_Athena_Commando_F_Scuba",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "6312954A4596EB7AF03690A1B2DAE968",
+        "SourceString": "Reef Ranger"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "668947FD4DF394CEB2F3E092B40B87C4",
+        "SourceString": "Dive into the fray."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Scuba",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

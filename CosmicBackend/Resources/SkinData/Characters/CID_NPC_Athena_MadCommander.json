@@ -1,0 +1,30 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_NPC_Athena_MadCommander",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_NPC_Athena_MadCommander",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "968E6CA9408A287713D1A58F0EBDE495",
+        "SourceString": "TBD"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "962F012D4F2AF6057BCDF0A66B7E553D",
+        "SourceString": "TBD"
+      }
+    }
+  }
+]

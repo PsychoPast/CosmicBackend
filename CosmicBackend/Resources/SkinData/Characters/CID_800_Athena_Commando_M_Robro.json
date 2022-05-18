@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_800_Athena_Commando_M_Robro",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_800_Athena_Commando_M_Robro",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "E9FFEE1548493D104E8423B46C403D36",
+        "SourceString": "Bryce 3000"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "ED64C46544316A09277B648ABB4BCA90",
+        "SourceString": "Influencer. Fashionista. Robot."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.DudeGadgets"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_800_Athena_Commando_M_Robro.DA_Featured_CID_800_Athena_Commando_M_Robro",
+        "SubPathString": null
+      }
+    }
+  }
+]

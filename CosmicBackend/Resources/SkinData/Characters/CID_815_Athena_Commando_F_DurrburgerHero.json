@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_815_Athena_Commando_F_DurrburgerHero",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_815_Athena_Commando_F_DurrburgerHero",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "EF19E6CB4703F3DC9C6ADA94DEAEFD64",
+        "SourceString": "Sizzle"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "6DE07A684BDF7612272BC29D5897AD70",
+        "SourceString": "She makes this look cheesy."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.DurrrBurger"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_815_Athena_Commando_F_DurrburgerHero.DA_Featured_CID_815_Athena_Commando_F_DurrburgerHero",
+        "SubPathString": null
+      }
+    }
+  }
+]

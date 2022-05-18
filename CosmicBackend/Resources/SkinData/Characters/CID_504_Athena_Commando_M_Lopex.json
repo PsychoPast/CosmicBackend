@@ -1,0 +1,42 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_504_Athena_Commando_M_Lopex",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_504_Athena_Commando_M_Lopex",
+          "OuterIndex": 0
+        }
+      },
+      "MetaTags": [
+        "Cosmetics.MetaTags.Trait.ExtremelyUnique"
+      ],
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "9C6360244DBABDB4E8A9D5A6742EDD46",
+        "SourceString": "Fennix"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "FF2C0C5E48469A3101F150B14A450AA9",
+        "SourceString": "Never outfoxed. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Lopex",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_504_Athena_Commando_M_Lopex.DA_Featured_CID_504_Athena_Commando_M_Lopex",
+        "SubPathString": null
+      }
+    }
+  }
+]

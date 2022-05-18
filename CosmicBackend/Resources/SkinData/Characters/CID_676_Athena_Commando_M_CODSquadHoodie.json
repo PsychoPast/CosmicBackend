@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_676_Athena_Commando_M_CODSquadHoodie",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_676_Athena_Commando_M_CODSquadHoodie",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "6E4EA7A34D2B4365189A5586D1550221",
+        "SourceString": "Tango"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "55B804404DB8757A3D1AD49BAC4FFE95",
+        "SourceString": "You've got the moves."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.OperationDiva",
+        "Cosmetics.Filter.Season.12"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_676_Athena_Commando_M_CODSquadHoodie.DA_Featured_CID_676_Athena_Commando_M_CODSquadHoodie",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_NPC_Athena_Commando_M_Fallback",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_NPC_Athena_Commando_M_Fallback",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "bNeverPersisted": true,
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "0A4C358D4FF5F963863A52B7F387ACBD",
+        "SourceString": "TBD"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "369CE51847B8EAF922AC9E9382B3E90E",
+        "SourceString": "TBD"
+      }
+    }
+  }
+]

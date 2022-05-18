@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_503_Athena_Commando_F_TacticalWoodlandFuture",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_503_Athena_Commando_F_TacticalWoodlandFuture",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "0366AC9E48E8341EAF3E77B89FB5A680",
+        "SourceString": "Recon Ranger"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "04B227CE47325332BFFAE7A09ED829D1",
+        "SourceString": "Expert field intel ranger. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.AdvancedForces",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_503_Athena_Commando_F_TacticalWoodlandFuture.DA_Featured_CID_503_Athena_Commando_F_TacticalWoodlandFuture",
+        "SubPathString": null
+      }
+    }
+  }
+]

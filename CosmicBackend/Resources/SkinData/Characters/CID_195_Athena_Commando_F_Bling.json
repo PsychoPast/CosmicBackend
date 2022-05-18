@@ -1,0 +1,36 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_195_Athena_Commando_F_Bling",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_195_Athena_Commando_F_Bling",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "EAC452344AA7F417F57A6F839F174000",
+        "SourceString": "The Ace"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "8CE226324E84B4E2289FB99C8064F9E7",
+        "SourceString": "Stack the deck."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Bling",
+        "Cosmetics.Source.StarterPack",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

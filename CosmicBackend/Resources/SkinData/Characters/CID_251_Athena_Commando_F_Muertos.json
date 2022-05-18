@@ -1,0 +1,36 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_251_Athena_Commando_F_Muertos",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_251_Athena_Commando_F_Muertos",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "709929D9401A19E900C58EB07D483177",
+        "SourceString": "Rosa"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "FF23FDD042342F0A363B209EA0F385C6",
+        "SourceString": "Celebrate the unknown.\r\nReactive: Glows in the dark"
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Muertos",
+        "Cosmetics.UserFacingFlags.Reactive",
+        "Cosmetics.Filter.Season.6"
+      ]
+    }
+  }
+]

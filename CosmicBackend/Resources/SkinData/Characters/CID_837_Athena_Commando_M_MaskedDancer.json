@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_837_Athena_Commando_M_MaskedDancer",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_837_Athena_Commando_M_MaskedDancer",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "C9A206214E3C3B9B57D595970773C005",
+        "SourceString": "Seeker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "9D1447994A5D68E06C950DA3666566D3",
+        "SourceString": "Nothing's lost that can't be found."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.RoadSnake",
+        "Cosmetics.Filter.Season.14"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_837_Athena_Commando_M_MaskedDancer.DA_Featured_CID_837_Athena_Commando_M_MaskedDancer",
+        "SubPathString": null
+      }
+    }
+  }
+]

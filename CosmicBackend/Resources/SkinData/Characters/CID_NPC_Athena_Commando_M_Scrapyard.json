@@ -1,0 +1,31 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_NPC_Athena_Commando_M_Scrapyard",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_NPC_Athena_Commando_M_Scrapyard",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "bNeverPersisted": true,
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "31FCAD1242705AFBB25ED4A05B40D1F4",
+        "SourceString": "TBD"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "07993C4B41D0B8030A205DBB569CDFF6",
+        "SourceString": "TBD"
+      }
+    }
+  }
+]

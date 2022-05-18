@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_356_Athena_Commando_F_Farmer",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_356_Athena_Commando_F_Farmer",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "99BE83084A14C0A4C571B9967EF7FCE1",
+        "SourceString": "Sunflower"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "4B94CB1F418F104E7B74FF8E6ABB2B4B",
+        "SourceString": "Certified organic."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Farmer",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_356_Athena_Commando_F_Farmer.DA_Featured_CID_356_Athena_Commando_F_Farmer",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_376_Athena_Commando_M_DarkShaman",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_376_Athena_Commando_M_DarkShaman",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "3966FB564D81FE7B34BB809BD9A5CFDD",
+        "SourceString": "Shaman"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "2C262056494F16D8EFF147B23D259FDD",
+        "SourceString": "Embody the spirit of victory."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.DarkShaman",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_376_Athena_Commando_M_DarkShaman.DA_Featured_CID_376_Athena_Commando_M_DarkShaman",
+        "SubPathString": null
+      }
+    }
+  }
+]

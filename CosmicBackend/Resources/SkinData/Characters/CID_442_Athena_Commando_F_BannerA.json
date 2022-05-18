@@ -1,0 +1,62 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_442_Athena_Commando_F_BannerA",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_442_Athena_Commando_F_BannerA",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticProfileBannerVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_442_Athena_Commando_F_BannerA",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "2B0F3CE840254A87BB35C79313BB07B6",
+        "SourceString": "Banner Trooper"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "77DF2CE7423080B92384888725701B88",
+        "SourceString": "Customize your look by choosing a Banner and color in your Locker."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Banner",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_442_Athena_Commando_F_BannerA.DA_Featured_CID_442_Athena_Commando_F_BannerA",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticProfileBannerVariant",
+    "ExportValue": {
+      "MaterialsToAlter": [
+        {
+          "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Commando_Banner/Materials/MI_F_MED_Banner_body.MI_F_MED_Banner_body",
+          "SubPathString": null
+        },
+        {
+          "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Commando_Banner/Materials/MI_F_MED_Banner_FaceAcc.MI_F_MED_Banner_FaceAcc",
+          "SubPathString": null
+        }
+      ]
+    }
+  }
+]

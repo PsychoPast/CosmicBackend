@@ -1,0 +1,70 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_594_Athena_Commando_F_SoccerZombieB",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_594_Athena_Commando_F_SoccerZombieB",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticNumericalVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_594_Athena_Commando_F_SoccerZombieB",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "303717144134861D3A823BB90D8D2799",
+        "SourceString": "Putrid Playmaker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "8C2ECF6F43740E766CF6D49465BA6112",
+        "SourceString": "Represent your crypt in style."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.ScaryBall",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.11"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_594_Athena_Commando_F_SoccerZombieB.DA_Featured_CID_594_Athena_Commando_F_SoccerZombieB",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticNumericalVariant",
+    "ExportValue": {
+      "ZerosDigitParamName": "Second Digit",
+      "TensDigitParamName": "First Digit",
+      "MaterialsToAlter": [
+        {
+          "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer_Zombie_1/Skins/Soccer_Zombie_2/Materials/F_MED_Soccer_Zombie_2_Body.F_MED_Soccer_Zombie_2_Body",
+          "SubPathString": null
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Numeric"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "F69249E447D407214F13DEBC5A1EE079",
+        "SourceString": "NUMBER"
+      }
+    }
+  }
+]

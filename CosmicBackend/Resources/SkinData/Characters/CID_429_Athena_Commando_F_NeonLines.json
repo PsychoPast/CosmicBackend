@@ -1,0 +1,40 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_429_Athena_Commando_F_NeonLines",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_429_Athena_Commando_F_NeonLines",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "1307C8DE4D28D80B0898219D2A55354F",
+        "SourceString": "Breakpoint"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "8593BBFB449FA86AD48D29AB3E8E04D4",
+        "SourceString": "Disrupt. Distract. Dominate."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.BlueBadass",
+        "Cosmetics.Source.ItemShop",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_429_Athena_Commando_F_NeonLines.DA_Featured_CID_429_Athena_Commando_F_NeonLines",
+        "SubPathString": null
+      }
+    }
+  }
+]

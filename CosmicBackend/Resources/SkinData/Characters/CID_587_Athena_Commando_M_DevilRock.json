@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_587_Athena_Commando_M_DevilRock",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_587_Athena_Commando_M_DevilRock",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A42890B249DFD4F0F81673A80DF7A565",
+        "SourceString": "Dominion"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "EF94719C499B22DD4A6936A3E32244A9",
+        "SourceString": "Set the world on fire. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.DevilRock"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_587_Athena_Commando_M_DevilRock.DA_Featured_CID_587_Athena_Commando_M_DevilRock",
+        "SubPathString": null
+      }
+    }
+  }
+]

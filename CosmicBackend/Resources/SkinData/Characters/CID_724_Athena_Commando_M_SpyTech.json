@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_724_Athena_Commando_M_SpyTech",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_724_Athena_Commando_M_SpyTech",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "760BCF7B45BD292D2668DE982E38C7C2",
+        "SourceString": "Wiretap"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "A6ED9B58459DDA7D404D11A57D7E20BC",
+        "SourceString": "Never tap out. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.12",
+        "Cosmetics.Set.Speedcraft"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_724_Athena_Commando_M_SpyTech.DA_Featured_CID_724_Athena_Commando_M_SpyTech",
+        "SubPathString": null
+      }
+    }
+  }
+]

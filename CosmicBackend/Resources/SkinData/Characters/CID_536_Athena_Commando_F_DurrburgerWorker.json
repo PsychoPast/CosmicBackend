@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_536_Athena_Commando_F_DurrburgerWorker",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_536_Athena_Commando_F_DurrburgerWorker",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "87F602914220D9361BB89C93726F03A7",
+        "SourceString": "Sizzle Sgt. "
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "DB709555402B8175D0E80F9414A12DE7",
+        "SourceString": "She's cookin' up a win. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.DurrrBurger",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_536_Athena_Commando_F_DurrburgerWorker.DA_Featured_CID_536_Athena_Commando_F_DurrburgerWorker",
+        "SubPathString": null
+      }
+    }
+  }
+]

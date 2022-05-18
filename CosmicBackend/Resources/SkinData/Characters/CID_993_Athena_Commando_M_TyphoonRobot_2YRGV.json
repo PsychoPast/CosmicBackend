@@ -1,0 +1,44 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_993_Athena_Commando_M_TyphoonRobot",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_993_Athena_Commando_M_TyphoonRobot",
+          "OuterIndex": 0
+        }
+      },
+      "FoleyLibraries": [
+        {
+          "ObjectName": "FoleyLib_Typhoon_C",
+          "OuterIndex": {
+            "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/Typhoon/FoleyLib_Typhoon",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "153C90D140FEC66BD02E15ACAE47174C",
+        "SourceString": "T-800"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "DA8B95714DB03F758CCA07B897E15D82",
+        "SourceString": "Pitiless. Remorseless. It will not stop. Ever."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.Set.OverallStake"
+      ]
+    }
+  }
+]

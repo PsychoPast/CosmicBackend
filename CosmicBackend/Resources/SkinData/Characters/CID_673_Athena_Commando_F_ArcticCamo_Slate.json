@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_673_Athena_Commando_F_ArcticCamo_Slate",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_673_Athena_Commando_F_ArcticCamo_Slate",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "5C5AE3784B1D21B73D347AB10DAEAAA9",
+        "SourceString": "Chill Count"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "DEEB62114886F820C7E0478A0B2DA08A",
+        "SourceString": "Fight like the wind. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.AlwaysFrozen"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_673_Athena_Commando_F_ArcticCamoSlate.DA_Featured_CID_673_Athena_Commando_F_ArcticCamoSlate",
+        "SubPathString": null
+      }
+    }
+  }
+]

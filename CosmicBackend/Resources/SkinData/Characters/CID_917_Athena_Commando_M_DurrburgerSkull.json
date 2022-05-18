@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_917_Athena_Commando_M_DurrburgerSkull",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_917_Athena_Commando_M_DurrburgerSkull",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "D68F6E53402EAF0AED82D8900F8B4727",
+        "SourceString": "Bone Boss"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "C6082FC444AE7F5ED5A21C9C6D6DB562",
+        "SourceString": "Bone-in beefy boss."
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.SkullTrooper",
+        "Phoebe.Cosmetic.Minus.Zone2"
+      ]
+    }
+  }
+]

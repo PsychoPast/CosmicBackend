@@ -1,0 +1,48 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_912_Athena_Commando_F_York_C",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_912_Athena_Commando_F_York_C",
+          "OuterIndex": 0
+        }
+      },
+      "FoleyLibraries": [
+        {
+          "ObjectName": "FoleyLib_York_C",
+          "OuterIndex": {
+            "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/York/FoleyLib_York",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "19FCA05F44BF38DA56B7938C0A1B6EAD",
+        "SourceString": "Phantom Commando"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "DF6602CC4F76C1E594718EB48C8526F3",
+        "SourceString": "We got one!"
+      },
+      "GameplayTags": [
+        "Cosmetics.QuestsMetaData.Outfit.York.F.C",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.MorningSalon"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_912_Athena_Commando_F_York_C.DA_Featured_CID_912_Athena_Commando_F_York_C",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_068_Athena_Commando_F_SkiGirl_KOR",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_068_Athena_Commando_F_SkiGirl_KOR",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "46F2F12D4CEB11204CEEB4BAC348B8DF",
+        "SourceString": "Mogul Master (KOR)"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "EBE0ACB646CEC4DA35CC17BACBA3652F",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "CABF86B542682D686B2EF29E6A2070FD",
+        "SourceString": "Carve through the competition."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.WinterSki",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.2",
+        "Cosmetics.Filter.Event.WinterOlympics2018"
+      ]
+    }
+  }
+]

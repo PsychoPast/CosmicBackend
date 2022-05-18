@@ -1,0 +1,1329 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_967_Athena_Commando_M_AncientGladiator",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_967_Athena_Commando_M_AncientGladiator",
+          "OuterIndex": 0
+        }
+      },
+      "FoleyLibraries": [
+        {
+          "ObjectName": "FoleyLib_AncientGladiator_Male_Light_C",
+          "OuterIndex": {
+            "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/AncientGladiator/FoleyLib_AncientGladiator_Male_Light",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_967_Athena_Commando_M_AncientGladiator",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_967_Athena_Commando_M_AncientGladiator",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_967_Athena_Commando_M_AncientGladiator",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ExclusiveDesciption": {
+        "Namespace": "",
+        "Key": "A6C3EBD84D0FA863111BF7987F6DA1D6",
+        "SourceString": "Complete the Beskar Quest to Upgrade Mandalorian's armor!"
+      },
+      "ExclusiveIcon": {
+        "AssetPathName": "/Game/Athena/UI/Season/Art/Textures/T_UI_CosmoIngot.T_UI_CosmoIngot",
+        "SubPathString": null
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "2AF33FDC4D913F9F9B3A749746010C2C",
+        "SourceString": "Menace"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "26D45D254039546B5F07BF99DDFB7DEE",
+        "SourceString": "The arena's greatest champion."
+      },
+      "GameplayTags": [
+        "Cosmetics.QuestsMetaData.Outfit.AncientGladiator",
+        "Cosmetics.Source.Season15.BattlePass.Paid",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.Set.Conqueror",
+        "Cosmetics.UserFacingFlags.Enlightened"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [
+            {
+              "LibrariesToAdd": [
+                {
+                  "ObjectName": "FoleyLib_AncientGladiator_Male_Light_C",
+                  "OuterIndex": {
+                    "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/AncientGladiator/FoleyLib_AncientGladiator_Male_Light",
+                    "OuterIndex": 0
+                  }
+                }
+              ],
+              "LibrariesToRemove": [
+                {
+                  "ObjectName": "FoleyLib_AncientGladiator_Male_Heavy_C",
+                  "OuterIndex": {
+                    "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/AncientGladiator/FoleyLib_AncientGladiator_Male_Heavy",
+                    "OuterIndex": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C434134045A7484E8F02ABBA70ED25AD",
+            "SourceString": "Menace"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-967-Athena-Commando-M-AncientGladiator.T-Soldier-HID-967-Athena-Commando-M-AncientGladiator",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_body.M_MED_Ancient_Gladiator_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_body_NoGlow.M_MED_Ancient_Gladiator_body_NoGlow",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_body_NoGlow.M_MED_Ancient_Gladiator_body_NoGlow",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 10"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [
+            {
+              "LibrariesToAdd": [
+                {
+                  "ObjectName": "FoleyLib_AncientGladiator_Male_Light_C",
+                  "OuterIndex": {
+                    "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/AncientGladiator/FoleyLib_AncientGladiator_Male_Light",
+                    "OuterIndex": 0
+                  }
+                }
+              ],
+              "LibrariesToRemove": [
+                {
+                  "ObjectName": "FoleyLib_AncientGladiator_Male_Heavy_C",
+                  "OuterIndex": {
+                    "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/AncientGladiator/FoleyLib_AncientGladiator_Male_Heavy",
+                    "OuterIndex": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "867A68024406FE295DBF0094748F4517",
+            "SourceString": "Challenger Menace"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-967-M-AncientGladiator-LightArmor-NoFX.T-Variant-967-M-AncientGladiator-LightArmor-NoFX",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_body.M_MED_Ancient_Gladiator_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 05"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 10"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [
+            {
+              "ParamGroupTag": {
+                "TagName": "GameplayVFX.CCPM.Body"
+              },
+              "ParticleToOverride": {
+                "FXType": "EFXType::GenericAnimNotify",
+                "NiagaraVersion": {
+                  "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_AncientGladiator_LArmor/FX/NS_Ancient_Gladiator_Light_Armor.NS_Ancient_Gladiator_Light_Armor",
+                  "SubPathString": null
+                },
+                "CascadeVersion": {
+                  "AssetPathName": "None",
+                  "SubPathString": null
+                }
+              }
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [
+            {
+              "LibrariesToAdd": [
+                {
+                  "ObjectName": "FoleyLib_AncientGladiator_Male_Light_C",
+                  "OuterIndex": {
+                    "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/AncientGladiator/FoleyLib_AncientGladiator_Male_Light",
+                    "OuterIndex": 0
+                  }
+                }
+              ],
+              "LibrariesToRemove": [
+                {
+                  "ObjectName": "FoleyLib_AncientGladiator_Male_Heavy_C",
+                  "OuterIndex": {
+                    "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/AncientGladiator/FoleyLib_AncientGladiator_Male_Heavy",
+                    "OuterIndex": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage5"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C2F661BB44BA2D40E30150B912FF1AB8",
+            "SourceString": "Challenger Menace - Flame"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-967-M-AncientGladiator-LightArmor-Shoulder.T-Variant-967-M-AncientGladiator-LightArmor-Shoulder",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_AncientGladiator_HeavyArmor.CP_Athena_Body_M_AncientGladiator_HeavyArmor",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [
+            {
+              "LibrariesToAdd": [
+                {
+                  "ObjectName": "FoleyLib_AncientGladiator_Male_Heavy_C",
+                  "OuterIndex": {
+                    "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/AncientGladiator/FoleyLib_AncientGladiator_Male_Heavy",
+                    "OuterIndex": 0
+                  }
+                }
+              ],
+              "LibrariesToRemove": [
+                {
+                  "ObjectName": "FoleyLib_AncientGladiator_Male_Light_C",
+                  "OuterIndex": {
+                    "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/AncientGladiator/FoleyLib_AncientGladiator_Male_Light",
+                    "OuterIndex": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "40E0E92E4C0FCDEBAAD345A60DDD9E0B",
+            "SourceString": "Undefeated Menace"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-967-M-AncientGladiator-HeavyArmor-noFX.T-Variant-967-M-AncientGladiator-HeavyArmor-noFX",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_AncientGladiator_HeavyArmor.CP_Athena_Body_M_AncientGladiator_HeavyArmor",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_AncientGladiator_HArmor/Materials/Ancient_Gladiator_Heavy_Body_T1.Ancient_Gladiator_Heavy_Body_T1",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_AncientGladiator_HArmor/Materials/Ancient_Gladiator_Heavy_Body_T2.Ancient_Gladiator_Heavy_Body_T2",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [
+            {
+              "ParamGroupTag": {
+                "TagName": "GameplayVFX.CCPM.Body"
+              },
+              "ParticleToOverride": {
+                "FXType": "EFXType::Skin",
+                "NiagaraVersion": {
+                  "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_AncientGladiator_HArmor/FX/NS_Ancient_Gladiator_Heavy_Armor.NS_Ancient_Gladiator_Heavy_Armor",
+                  "SubPathString": null
+                },
+                "CascadeVersion": {
+                  "AssetPathName": "None",
+                  "SubPathString": null
+                }
+              }
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [
+            {
+              "LibrariesToAdd": [
+                {
+                  "ObjectName": "FoleyLib_AncientGladiator_Male_Heavy_C",
+                  "OuterIndex": {
+                    "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/AncientGladiator/FoleyLib_AncientGladiator_Male_Heavy",
+                    "OuterIndex": 0
+                  }
+                }
+              ],
+              "LibrariesToRemove": [
+                {
+                  "ObjectName": "FoleyLib_AncientGladiator_Male_Light_C",
+                  "OuterIndex": {
+                    "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/AncientGladiator/FoleyLib_AncientGladiator_Male_Light",
+                    "OuterIndex": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "F915A803457831C1BBED149795F63147",
+            "SourceString": "Undefeated Menace - FLAME"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-967-M-AncientGladiator-HeavyArmor-withFX.T-Variant-967-M-AncientGladiator-HeavyArmor-withFX",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "044CB34A4C9F68051B15AC9DB511C32F",
+        "SourceString": "STYLE"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "1849B5854F3599522FF9079490608890",
+            "SourceString": "HAIR"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-967-Athena-Commando-M-AncientGladiator.T-Soldier-HID-967-Athena-Commando-M-AncientGladiator",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_AncientGladiator_Mask_FaceAcc.CP_M_MED_AncientGladiator_Mask_FaceAcc",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Med_Ancient_Gladiator_FaceAcc_Mask.M_Med_Ancient_Gladiator_FaceAcc_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 05"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_Hair_01.M_MED_Ancient_Gladiator_Hair_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 10"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "FC5A23BA448B992E809A0EB6E3821BB4",
+            "SourceString": "MASK"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-967-M-AncientGladiator-MaskOn.T-Variant-967-M-AncientGladiator-MaskOn",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_AncientGladiatorLight_FaceAcc.CP_M_MED_AncientGladiatorLight_FaceAcc",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Med_Ancient_Gladiator_FaceAcc_Helmet_T1.M_Med_Ancient_Gladiator_FaceAcc_Helmet_T1",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 10"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_body.M_MED_Ancient_Gladiator_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 2"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "A6893A6C4AC527BB5DBEAE938EE78477",
+            "SourceString": "LIGHT HELMET - NO PLUME"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-967-M-AncientGladiator-LightArmor-NoPlume.T-Variant-967-M-AncientGladiator-LightArmor-NoPlume",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_AncientGladiatorHeavy_FaceAcc.CP_M_MED_AncientGladiatorHeavy_FaceAcc",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_AncientGladiatorHeavy.CP_Athena_Head_M_AncientGladiatorHeavy",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_AncientGladiator_HArmor/Materials/Ancient_Gladiator_Heavy_Faceacc_T1.Ancient_Gladiator_Heavy_Faceacc_T1",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat5"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "484E0C23494FA7D46F8D8B891C0093D0",
+            "SourceString": "HEAVY HELMET - NO PLUME"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-967-M-AncientGladiator-HeavyArmor-Helmet-NoPlume.T-Variant-967-M-AncientGladiator-HeavyArmor-Helmet-NoPlume",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_AncientGladiatorLight_FaceAcc.CP_M_MED_AncientGladiatorLight_FaceAcc",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Med_Ancient_Gladiator_FaceAcc_Helmet_T1.M_Med_Ancient_Gladiator_FaceAcc_Helmet_T1",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 10"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_body.M_MED_Ancient_Gladiator_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 2"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [
+            {
+              "ParamGroupTag": {
+                "TagName": "GameplayVFX.CCPM.Head"
+              },
+              "ParticleToOverride": {
+                "FXType": "EFXType::Skin",
+                "NiagaraVersion": {
+                  "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_AncientGladiator_LArmor/FX/NS_Ancient_Gladiator_Light_Helmet.NS_Ancient_Gladiator_Light_Helmet",
+                  "SubPathString": null
+                },
+                "CascadeVersion": {
+                  "AssetPathName": "None",
+                  "SubPathString": null
+                }
+              }
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "28C517A142FCD64E5D2365831ADAE526",
+            "SourceString": "LIGHT HELMET PLUME"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-967-M-AncientGladiator-LightArmor-Plume.T-Variant-967-M-AncientGladiator-LightArmor-Plume",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_AncientGladiatorHeavy_FaceAcc.CP_M_MED_AncientGladiatorHeavy_FaceAcc",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_AncientGladiatorHeavy.CP_Athena_Head_M_AncientGladiatorHeavy",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_AncientGladiator_HArmor/Materials/Ancient_Gladiator_Heavy_Faceacc_T1.Ancient_Gladiator_Heavy_Faceacc_T1",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [
+            {
+              "ParamGroupTag": {
+                "TagName": "GameplayVFX.CCPM.Head"
+              },
+              "ParticleToOverride": {
+                "FXType": "EFXType::Skin",
+                "NiagaraVersion": {
+                  "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_AncientGladiator_HArmor/FX/NS_Ancient_Gladiator_Heavy_Helmet.NS_Ancient_Gladiator_Heavy_Helmet",
+                  "SubPathString": null
+                },
+                "CascadeVersion": {
+                  "AssetPathName": "None",
+                  "SubPathString": null
+                }
+              }
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat6"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "72AB5B6B4B3BEB3FE5E53D980B7FAFD2",
+            "SourceString": "HEAVY HELMET - PLUME"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-967-M-AncientGladiator-HeavyArmor-Helmet-Plume.T-Variant-967-M-AncientGladiator-HeavyArmor-Helmet-Plume",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "B9694A4547871430BA353A9ED5E7FBDE",
+        "SourceString": "HELMETS"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "16613B0A454DB2F5F1DD2C8B15552B2F",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-967-Athena-Commando-M-AncientGladiator.T-Soldier-HID-967-Athena-Commando-M-AncientGladiator",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_AncientGladiator_NoCCPM.CP_Athena_Body_M_AncientGladiator_NoCCPM",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_AncientGladiator_Mask_FaceAcc.CP_M_MED_AncientGladiator_Mask_FaceAcc",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_AncientGladiator.CP_Athena_Head_M_AncientGladiator",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_body.M_MED_Ancient_Gladiator_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Ancient_Gladiator_Crystal_Blue_Inst.M_Ancient_Gladiator_Crystal_Blue_Inst",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_Hair_01.M_MED_Ancient_Gladiator_Hair_01",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Ancient_Gladiator_Crystal_Blue_Hair_Inst.M_Ancient_Gladiator_Crystal_Blue_Hair_Inst",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_Head.M_MED_Ancient_Gladiator_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Ancient_Gladiator_Crystal_Blue_Head_Inst.M_Ancient_Gladiator_Crystal_Blue_Head_Inst",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_body_NoGlow.M_MED_Ancient_Gladiator_body_NoGlow",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Ancient_Gladiator_Crystal_Blue_Inst.M_Ancient_Gladiator_Crystal_Blue_Inst",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Med_Ancient_Gladiator_FaceAcc_Mask.M_Med_Ancient_Gladiator_FaceAcc_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 05"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "4487D7034D79266CE4507D8E1BD7B9F1",
+            "SourceString": "Sapphire Menace"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-967-M-AncientGladiator-sapphire.T-Variant-967-M-AncientGladiator-sapphire",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_AncientGladiator_NoCCPM.CP_Athena_Body_M_AncientGladiator_NoCCPM",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_AncientGladiator_Mask_FaceAcc.CP_M_MED_AncientGladiator_Mask_FaceAcc",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_AncientGladiator.CP_Athena_Head_M_AncientGladiator",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_body.M_MED_Ancient_Gladiator_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Ancient_Gladiator_Crystal_Amber_Inst.M_Ancient_Gladiator_Crystal_Amber_Inst",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_Hair_01.M_MED_Ancient_Gladiator_Hair_01",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Ancient_Gladiator_Crystal_Amber_Hair_Inst.M_Ancient_Gladiator_Crystal_Amber_Hair_Inst",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_Head.M_MED_Ancient_Gladiator_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Ancient_Gladiator_Crystal_Amber_Head_Inst.M_Ancient_Gladiator_Crystal_Amber_Head_Inst",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_body_NoGlow.M_MED_Ancient_Gladiator_body_NoGlow",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Ancient_Gladiator_Crystal_Amber_Inst.M_Ancient_Gladiator_Crystal_Amber_Inst",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Med_Ancient_Gladiator_FaceAcc_Mask.M_Med_Ancient_Gladiator_FaceAcc_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 05"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "997226A14034472A9004BFABAD4BD797",
+            "SourceString": "Topaz Menace"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-967-M-AncientGladiator-topaz.T-Variant-967-M-AncientGladiator-topaz",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_AncientGladiator_NoCCPM.CP_Athena_Body_M_AncientGladiator_NoCCPM",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_AncientGladiator_Mask_FaceAcc.CP_M_MED_AncientGladiator_Mask_FaceAcc",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_AncientGladiator.CP_Athena_Head_M_AncientGladiator",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_body.M_MED_Ancient_Gladiator_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Ancient_Gladiator_Crystal_Frost_Inst.M_Ancient_Gladiator_Crystal_Frost_Inst",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_Hair_01.M_MED_Ancient_Gladiator_Hair_01",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Ancient_Gladiator_Crystal_Frost_Hair_Inst.M_Ancient_Gladiator_Crystal_Frost_Hair_Inst",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_Head.M_MED_Ancient_Gladiator_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Ancient_Gladiator_Crystal_Frost_Head_Inst.M_Ancient_Gladiator_Crystal_Frost_Head_Inst",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_MED_Ancient_Gladiator_body_NoGlow.M_MED_Ancient_Gladiator_body_NoGlow",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Ancient_Gladiator_Crystal_Frost_Inst.M_Ancient_Gladiator_Crystal_Frost_Inst",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Ancient_Gladiator/Materials/M_Med_Ancient_Gladiator_FaceAcc_Mask.M_Med_Ancient_Gladiator_FaceAcc_Mask",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 05"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "EFEB6005477955A119E92ABA3985A436",
+            "SourceString": "Zero Point Menace"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-967-M-AncientGladiator-zero.T-Variant-967-M-AncientGladiator-zero",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Parts"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "41DC4DA044AD1517F3FCA9931E5B7DF8",
+        "SourceString": "CRYSTAL"
+      }
+    }
+  }
+]

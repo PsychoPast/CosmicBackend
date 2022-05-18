@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_781_Athena_Commando_F_FuzzyBearTEDDY",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_781_Athena_Commando_F_FuzzyBearTEDDY",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "D0500A474A36218715DDA08ED7688A3E",
+        "SourceString": "Metal Team Leader"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "C927EE2649276A0982F389A374A71485",
+        "SourceString": "Totally metal."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.RoyaleHearts"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_781_Athena_Commando_F_FuzzyBearTEDDY.DA_Featured_CID_781_Athena_Commando_F_FuzzyBearTEDDY",
+        "SubPathString": null
+      }
+    }
+  }
+]

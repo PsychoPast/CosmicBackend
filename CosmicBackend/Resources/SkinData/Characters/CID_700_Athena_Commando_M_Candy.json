@@ -1,0 +1,43 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_700_Athena_Commando_M_Candy",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_700_Athena_Commando_M_Candy",
+          "OuterIndex": 0
+        }
+      },
+      "ObservedPlayerStats": [
+        "StatManager.AthenaKills"
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B9671E45403CFE3C36EDF2B8A1466293",
+        "SourceString": "Candyman"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "EFDB75AC488AABE64FE9258181CB0C48",
+        "SourceString": "Here comes truffle.\r\nReactive: Sends a sweet message to those you eliminate."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.UserFacingFlags.Reactive",
+        "Cosmetics.Set.WildHearts"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_700_Athena_Commando_M_Candy.DA_Featured_CID_700_Athena_Commando_M_Candy",
+        "SubPathString": null
+      }
+    }
+  }
+]

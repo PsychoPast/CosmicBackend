@@ -1,0 +1,191 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_281_Athena_Commando_F_SnowBoard",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_281_Athena_Commando_F_SnowBoard",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_281_Athena_Commando_F_SnowBoard",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "150C51764F4B6B6A8D1D7CBC1D0E471A",
+        "SourceString": "Powder"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "6A3BF6B942D0D62C5C2E62A2355F4B87",
+        "SourceString": "Catch the air and kiss the sky."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season7.BattlePass.Paid",
+        "Cosmetics.Set.Snowboard",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Filter.Season.7"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E6B0E22E42C478A70C5FD787B2D760AA",
+            "SourceString": "Black"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-281-Athena-Commando-F-SnowBoard.T-Soldier-HID-281-Athena-Commando-F-SnowBoard",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_SnowBoardWinter.CP_Body_Commando_F_SnowBoardWinter",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Snow_Board/Particles/M_Snow_Board_Edge_Test_03.M_Snow_Board_Edge_Test_03",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Snow_Board/Skins/Snow_Board_Winter/Particles/M_Snow_Board_Winter_Edge_Test_03_Inst.M_Snow_Board_Winter_Edge_Test_03_Inst",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/F_MED_Snow_Board/Materials/M_F_MED_Snow_Board_Hat.M_F_MED_Snow_Board_Hat",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 1,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/F_MED_Snow_Board/Skins/Snow_Board_Winter/Materials/M_F_MED_Snow_Board_Winter_Hat.M_F_MED_Snow_Board_Winter_Hat",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/F_SnowBoard/P_F_SnowBoard_Body_Light.P_F_SnowBoard_Body_Light",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.15625,
+                    "G": 0.017904,
+                    "B": 0.017904,
+                    "A": 1.0,
+                    "Hex": "280505"
+                  },
+                  "ParamName": "LightColor"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "2347220647FC2891524DEE959D2D9E93",
+            "SourceString": "White"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-SnowboardWinter.T-Variant-F-SnowboardWinter",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "4D444523416734B0CE6629BEF5F72DE2",
+            "SourceString": "During Season 7 Complete 5 Overtime Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Parts"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "4F44D09147E3F9470677748FB821C872",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

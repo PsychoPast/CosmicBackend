@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_313_Athena_Commando_M_KpopFashion",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_313_Athena_Commando_M_KpopFashion",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "38E9A0C54AF9408BF4F09CA31640CCD1",
+        "SourceString": "IKONIK"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "EA31782342A6DFBDD244249A1968048E",
+        "SourceString": "Define the moment."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Promo",
+        "Cosmetics.Set.KpopFashion",
+        "Cosmetics.Source.ItemShop",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.8"
+      ]
+    }
+  }
+]

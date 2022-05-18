@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_401_Athena_Commando_M_Miner",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_401_Athena_Commando_M_Miner",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "DD844E38445A5C1B749455BED59CD81A",
+        "SourceString": "Cole"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "5C9F079B49C3310551107F9E9E9642B7",
+        "SourceString": "It's a dirty job but somebody's gotta do it."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_401_Athena_Commando_M_Miner.DA_Featured_CID_401_Athena_Commando_M_Miner",
+        "SubPathString": null
+      }
+    }
+  }
+]

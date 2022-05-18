@@ -1,0 +1,70 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_592_Athena_Commando_M_SoccerZombieD",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_592_Athena_Commando_M_SoccerZombieD",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticNumericalVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_592_Athena_Commando_M_SoccerZombieD",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "7B3E876C41ACB69FCD3A8CBCBC5D8861",
+        "SourceString": "Soulless Sweeper"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "FA40E6124554379D9F2E178989B3F985",
+        "SourceString": "Represent your crypt in style."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.ScaryBall",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Filter.Season.11"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_592_Athena_Commando_M_SoccerZombieD.DA_Featured_CID_592_Athena_Commando_M_SoccerZombieD",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticNumericalVariant",
+    "ExportValue": {
+      "ZerosDigitParamName": "Second Digit",
+      "TensDigitParamName": "First Digit",
+      "MaterialsToAlter": [
+        {
+          "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer_Zombie_1/Skin/M_MED_Soccer_Zombie_4/Materials/M_MED_Soccer_Zombie_4_Body.M_MED_Soccer_Zombie_4_Body",
+          "SubPathString": null
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Numeric"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "7A1E8E024DB044FBCB144CB986DEC632",
+        "SourceString": "NUMBER"
+      }
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_311_Athena_Commando_M_Reindeer",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_311_Athena_Commando_M_Reindeer",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A44E301F48F243F1D03E7D8661C9E143",
+        "SourceString": "Red-nosed Ranger"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "C824320641AEB212E25FADAABFECD6EC",
+        "SourceString": "Known for his antler antics."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.7"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_311_Athena_Commando_M_Reindeer.DA_Featured_CID_311_Athena_Commando_M_Reindeer",
+        "SubPathString": null
+      }
+    }
+  }
+]

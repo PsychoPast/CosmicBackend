@@ -1,0 +1,552 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_332_Athena_Commando_M_Prisoner",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_332_Athena_Commando_M_Prisoner",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_332_Athena_Commando_M_Prisoner",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "078E444040AC3888DB44C6952250969D",
+        "SourceString": "The Prisoner"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "448DC0CC409BBC3C6DD6198DB39E6444",
+        "SourceString": "Unchained, and out to restore balance."
+      },
+      "GameplayTags": [
+        "Cosmetics.QuestsMetaData.Season7.ABC",
+        "Cosmetics.Source.Season7.BattlePass.Paid",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Filter.Season.7",
+        "Cosmetics.Filter.Event.Unvaulting"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_332_Athena_Commando_M_Prisoner.DA_Featured_CID_332_Athena_Commando_M_Prisoner",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "61545A3E4F64A73E12AE43A6308D8913",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-332-Athena-Commando-M-Prisoner.T-Soldier-HID-332-Athena-Commando-M-Prisoner",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_Body_T1-T2.MI_M_MED_Prisoner_Body_T1-T2",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_Body_T1-T2_Inst.MI_M_MED_Prisoner_Body_T1-T2_Inst",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Prisoner_FaceAcc/Materials/MI_M_MED_Prisoner_FaceAcc_T1.MI_M_MED_Prisoner_FaceAcc_T1",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Prisoner_FaceAcc/Materials/MI_M_MED_Prisoner_FaceAcc_T2.MI_M_MED_Prisoner_FaceAcc_T2",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Prisoner_FaceAcc/Materials/MI_M_MED_Prisoner_FaceAcc_T1.MI_M_MED_Prisoner_FaceAcc_T1",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "emissive mult"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_IceChainsAttachments_T1.MI_M_MED_Prisoner_IceChainsAttachments_T1",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 05"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "1DD587184F925038AB14B3A9418D356A",
+            "SourceString": "STAGE 2"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-Prisoner-Tier2.T-Variant-M-Prisoner-Tier2",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Heads/M_MED_Prisoner_Head_01/Materials/MI_M_MED_Prisoner_Head_T1-T2.MI_M_MED_Prisoner_Head_T1-T2",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Heads/M_MED_Prisoner_Head_01/Materials/MI_M_MED_Prisoner_Head_T3.MI_M_MED_Prisoner_Head_T3",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_Body_T1-T2.MI_M_MED_Prisoner_Body_T1-T2",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_Body_T3.MI_M_MED_Prisoner_Body_T3",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_Body_T1-T2_Inst.MI_M_MED_Prisoner_Body_T1-T2_Inst",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_Body_T3.MI_M_MED_Prisoner_Body_T3",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Prisoner_FaceAcc/Materials/MI_M_MED_Prisoner_FaceAcc_T1.MI_M_MED_Prisoner_FaceAcc_T1",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Prisoner_FaceAcc/Materials/MI_M_MED_Prisoner_FaceAcc_T3.MI_M_MED_Prisoner_FaceAcc_T3",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Prisoner_FaceAcc/Materials/MI_M_MED_Prisoner_FaceAcc_T2.MI_M_MED_Prisoner_FaceAcc_T2",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Prisoner_FaceAcc/Materials/MI_M_MED_Prisoner_FaceAcc_T3.MI_M_MED_Prisoner_FaceAcc_T3",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Prisoner_FaceAcc/Materials/MI_M_MED_Prisoner_FaceAcc_T1.MI_M_MED_Prisoner_FaceAcc_T1",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 02"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 03"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_IceChainsAttachments_T1.MI_M_MED_Prisoner_IceChainsAttachments_T1",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 05"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "FF34377D468A8C61EA0F7498AB58E3C1",
+            "SourceString": "STAGE 3"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-Prisoner-Tier3.T-Variant-M-Prisoner-Tier3",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_Body_T1-T2.MI_M_MED_Prisoner_Body_T1-T2",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_Body_T4.MI_M_MED_Prisoner_Body_T4",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_Body_T1-T2_Inst.MI_M_MED_Prisoner_Body_T1-T2_Inst",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_Body_T4.MI_M_MED_Prisoner_Body_T4",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_Body_T3.MI_M_MED_Prisoner_Body_T3",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_Body_T4.MI_M_MED_Prisoner_Body_T4",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_StoneAttachments_T1-T3.MI_M_MED_Prisoner_StoneAttachments_T1-T3",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_StoneAttachments_T4.MI_M_MED_Prisoner_StoneAttachments_T4",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_IceChainsAttachments_T1.MI_M_MED_Prisoner_IceChainsAttachments_T1",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Materials/MI_M_MED_Prisoner_IceChainsAttachments_T2-T3.MI_M_MED_Prisoner_IceChainsAttachments_T2-T3",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Prisoner_FaceAcc/Materials/MI_M_MED_Prisoner_FaceAcc_T1.MI_M_MED_Prisoner_FaceAcc_T1",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Prisoner_FaceAcc/Materials/MI_M_MED_Prisoner_FaceAcc_T4.MI_M_MED_Prisoner_FaceAcc_T4",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Prisoner_FaceAcc/Materials/MI_M_MED_Prisoner_FaceAcc_T2.MI_M_MED_Prisoner_FaceAcc_T2",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Prisoner_FaceAcc/Materials/MI_M_MED_Prisoner_FaceAcc_T4.MI_M_MED_Prisoner_FaceAcc_T4",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Prisoner_FaceAcc/Materials/MI_M_MED_Prisoner_FaceAcc_T3.MI_M_MED_Prisoner_FaceAcc_T3",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Prisoner_FaceAcc/Materials/MI_M_MED_Prisoner_FaceAcc_T4.MI_M_MED_Prisoner_FaceAcc_T4",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Heads/M_MED_Prisoner_Head_01/Materials/MI_M_MED_Prisoner_Head_T1-T2.MI_M_MED_Prisoner_Head_T1-T2",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Heads/M_MED_Prisoner_Head_01/Materials/MI_M_MED_Prisoner_Head_T4.MI_M_MED_Prisoner_Head_T4",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Heads/M_MED_Prisoner_Head_01/Materials/MI_M_MED_Prisoner_Head_T3.MI_M_MED_Prisoner_Head_T3",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Heads/M_MED_Prisoner_Head_01/Materials/MI_M_MED_Prisoner_Head_T4.MI_M_MED_Prisoner_Head_T4",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [
+            {
+              "ParticleComponentName": "P_Prisoner_Head_Fire",
+              "ParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/FX/P_Prisoner_Head_Fire.P_Prisoner_Head_Fire",
+                "SubPathString": null
+              },
+              "MeshToBindTO": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Heads/M_MED_Prisoner_Head_01/Meshes/M_MED_Prisoner_Head_01.M_MED_Prisoner_Head_01",
+                "SubPathString": null
+              },
+              "AttachSocketName": "head",
+              "LocationRule": "EAttachmentRule::KeepRelative",
+              "RotationRule": "EAttachmentRule::KeepRelative",
+              "ScaleRule": "EAttachmentRule::KeepRelative",
+              "bWeldSimulatedBodies": true
+            },
+            {
+              "ParticleComponentName": "P_Prisoner_Shoulder_Fire",
+              "ParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/FX/P_Prisoner_Shoulder_Fire.P_Prisoner_Shoulder_Fire",
+                "SubPathString": null
+              },
+              "MeshToBindTO": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Prisoner/Meshes/M_MED_Prisoner.M_MED_Prisoner",
+                "SubPathString": null
+              },
+              "AttachSocketName": "FX_UpperArm_R_01",
+              "LocationRule": "EAttachmentRule::KeepRelative",
+              "RotationRule": "EAttachmentRule::KeepRelative",
+              "ScaleRule": "EAttachmentRule::KeepRelative",
+              "bWeldSimulatedBodies": true
+            }
+          ],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "0D81B8DC4E02AB21AF3AF89FE0F0D746",
+            "SourceString": "STAGE 4"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-Prisoner-Tier4.T-Variant-M-Prisoner-Tier4",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "652151E84FD890C3A9983FAA25D1CE7F",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

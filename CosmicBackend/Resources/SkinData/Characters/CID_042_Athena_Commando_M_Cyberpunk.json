@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_042_Athena_Commando_M_Cyberpunk",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_042_Athena_Commando_M_Cyberpunk",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "E7374FF54B6B6A8FE8BCCE89DDF7B43D",
+        "SourceString": "Circuit Breaker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "AB1DBAB54DD96FB1697450ADBBF0DB3E",
+        "SourceString": "The deadliest keyboard cowboy in the west."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Overclocked",
+        "Cosmetics.Filter.Season.1"
+      ]
+    }
+  }
+]

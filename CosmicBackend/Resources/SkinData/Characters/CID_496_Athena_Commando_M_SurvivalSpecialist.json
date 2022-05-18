@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_496_Athena_Commando_M_SurvivalSpecialist",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_496_Athena_Commando_M_SurvivalSpecialist",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "3AAA8852482CE059D05C0C82778BC10F",
+        "SourceString": "Grit"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "2D46C0F444FC8B0689A5388D062CB354",
+        "SourceString": "The will and skill to outlast."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_496_Athena_Commando_M_SurvivalSpecialist.DA_Featured_CID_496_Athena_Commando_M_SurvivalSpecialist",
+        "SubPathString": null
+      }
+    }
+  }
+]

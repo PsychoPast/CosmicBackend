@@ -1,0 +1,42 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_510_Athena_Commando_F_AngelEclipse",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_510_Athena_Commando_F_AngelEclipse",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "FF2CCDBC4B5558C3875CC4B5DCB60B75",
+        "SourceString": "Shadow Ark"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "1595FC284B2AE2AAF7574D8E5C0C63E8",
+        "SourceString": "Victory no matter the cost."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.EternalStruggle",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11"
+      ],
+      "Series": {
+        "ObjectName": "ShadowSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/ShadowSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

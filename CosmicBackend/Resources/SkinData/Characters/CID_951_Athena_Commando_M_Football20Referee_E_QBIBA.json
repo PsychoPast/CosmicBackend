@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_951_Athena_Commando_M_Football20Referee_E",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_951_Athena_Commando_M_Football20Referee_E",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A3C262E446484B2FD9B678BFF2230797",
+        "SourceString": "Elite Linesman"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "9104AA6B468F2838A55688A8FE79D98F",
+        "SourceString": "Let's all have a good time out there."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.FieldPals"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_951_Athena_Commando_M_Football20Referee_E_QBIBA.DA_Featured_CID_951_Athena_Commando_M_Football20Referee_E_QBIBA",
+        "SubPathString": null
+      }
+    }
+  }
+]

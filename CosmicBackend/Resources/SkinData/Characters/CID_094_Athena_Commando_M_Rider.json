@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_094_Athena_Commando_M_Rider",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_094_Athena_Commando_M_Rider",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "BB01CE96409B8E32DCFF4FBA77F3BBD9",
+        "SourceString": "Burnout"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "D0DB9B2542E157154B0A7E872F0AAC41",
+        "SourceString": "All roads lead to victory."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.StreetRacer",
+        "Cosmetics.Filter.Season.3"
+      ]
+    }
+  }
+]

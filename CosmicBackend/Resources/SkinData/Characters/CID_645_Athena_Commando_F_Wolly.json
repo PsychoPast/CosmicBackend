@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_645_Athena_Commando_F_Wolly",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_645_Athena_Commando_F_Wolly",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "DAA614D64E828665DCBAD4B786F40CFA",
+        "SourceString": "Wooly Warrior"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "B5ACC6904A2DE31957069BA7FCF01507",
+        "SourceString": "Ready for a comeback. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Source.Winterfest.Presents"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_645_Athena_Commando_F_Wolly.DA_Featured_CID_645_Athena_Commando_F_Wolly",
+        "SubPathString": null
+      }
+    }
+  }
+]

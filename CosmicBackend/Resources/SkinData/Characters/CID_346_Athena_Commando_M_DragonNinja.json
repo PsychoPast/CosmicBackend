@@ -1,0 +1,2551 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_346_Athena_Commando_M_DragonNinja",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_346_Athena_Commando_M_DragonNinja",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_346_Athena_Commando_M_DragonNinja",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_346_Athena_Commando_M_DragonNinja",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticParticleVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_346_Athena_Commando_M_DragonNinja",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "549F16FF480BFF1A987D9089B40D2A60",
+            "SourceString": "Earn 60,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage2"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "C22FB548441EA9607BC2AB8E2D1446DF",
+            "SourceString": "Earn 100,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage2"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Emissive2"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Emissive2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "29151C024F6B14CEEB7EB0B48BC485AF",
+            "SourceString": "Earn 180,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage3"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Emissive2"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Emissive2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "0BCD2518487512639EF290BA38B8EDEA",
+            "SourceString": "Earn 220,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage3"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Emissive3"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Emissive3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "10D7F9FC4116D8A3523EDA98F4F89FAF",
+            "SourceString": "Earn 300,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage3"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Emissive4"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Emissive4"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "225EF54F44FFF3450870A5B2185BFFEA",
+            "SourceString": "Earn 340,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage4"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage4"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Emissive4"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Emissive4"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "BE9658B14E7EC542D3B9A7B2377D2E60",
+            "SourceString": "Complete 15 Weekly Challenges"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage1"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage1"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Mat2"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "9F98830F405EB26EE89728AAB145F719",
+            "SourceString": "Complete 35 Weekly Challenges"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage1"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage1"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Mat3"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "AFCE97044F92843163D628B18CA8A9AC",
+            "SourceString": "Complete 60 Weekly Challenges"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage1"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage1"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Mat4"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat4"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "9442E747430E4B7F17941FA23A4CED28",
+        "SourceString": "Hybrid"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "78642F974B7CDFABA1276698042723ED",
+        "SourceString": "Become the dragon."
+      },
+      "GameplayTags": [
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Source.Season8.BattlePass.Paid",
+        "Cosmetics.Set.DragonNinja",
+        "Cosmetics.Filter.Season.8"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "361140D24F6B708D4F43F8AD6F2A66BE",
+            "SourceString": "STAGE 1"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-DragonNinja-T1.T-Variant-M-DragonNinja-T1",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_DragonNinja_T2.CP_Athena_Head_M_DragonNinja_T2",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_DragonNinja_T2.CP_Athena_Body_M_DragonNinja_T2",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "55A694874C84CF463F8F6EBECB42717F",
+            "SourceString": "STAGE 2"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-DragonNinja-T2.T-Variant-M-DragonNinja-T2",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "0751FCB04E638C40003F8A915B629551",
+            "SourceString": "Earn 60,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_DragonNinja_T3.CP_Athena_Head_M_DragonNinja_T3",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_DragonNinja_T3.CP_Athena_Body_M_DragonNinja_T3",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Backpacks/CP_Backpack_DragonNinja.CP_Backpack_DragonNinja",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [
+            {
+              "SourceSocketName": "Backpack_BR",
+              "OverridSocketName": "Backpack_BR_T3",
+              "SourceObjectToModify": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Meshes/M_MED_Dragon_Ninja_T3.M_MED_Dragon_Ninja_T3",
+                "SubPathString": null
+              }
+            },
+            {
+              "SourceSocketName": "cape",
+              "OverridSocketName": "cape_T3",
+              "SourceObjectToModify": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Meshes/M_MED_Dragon_Ninja_T3.M_MED_Dragon_Ninja_T3",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [
+              "Cosmetics.MetaTags.Trait.ExtremelyUnique"
+            ],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "27EA85E44A9758422FF734A86FDB0F80",
+            "SourceString": "STAGE 3"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-DragonNinja-T3.T-Variant-M-DragonNinja-T3",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "41C0D8824EE1F90F91356A86D5FC322D",
+            "SourceString": "Earn 180,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_DragonNinja_T3.CP_Athena_Head_M_DragonNinja_T3",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_DragonNinja_T3.CP_Athena_Body_M_DragonNinja_T3",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Backpacks/CP_Backpack_DragonNinja.CP_Backpack_DragonNinja",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Hats/CP_Athena_M_DragonNinja_Light_T3.CP_Athena_M_DragonNinja_Light_T3",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [
+            {
+              "ParticleComponentName": "P_DragonNinja_OnBody",
+              "ParticleSystem": {
+                "AssetPathName": "/Game/Athena/Effects/Particles/Skins/DragonNinja/P_DragonNinja_OnBody.P_DragonNinja_OnBody",
+                "SubPathString": null
+              },
+              "MeshToBindTO": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Meshes/M_MED_Dragon_Ninja_T3.M_MED_Dragon_Ninja_T3",
+                "SubPathString": null
+              },
+              "AttachSocketName": "root",
+              "LocationRule": "EAttachmentRule::SnapToTarget",
+              "RotationRule": "EAttachmentRule::SnapToTarget",
+              "ScaleRule": "EAttachmentRule::KeepRelative",
+              "bWeldSimulatedBodies": false
+            }
+          ],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [
+            {
+              "SourceSocketName": "Backpack_BR",
+              "OverridSocketName": "Backpack_BR_T3",
+              "SourceObjectToModify": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Meshes/M_MED_Dragon_Ninja_T3.M_MED_Dragon_Ninja_T3",
+                "SubPathString": null
+              }
+            },
+            {
+              "SourceSocketName": "cape",
+              "OverridSocketName": "cape_T3",
+              "SourceObjectToModify": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Meshes/M_MED_Dragon_Ninja_T3.M_MED_Dragon_Ninja_T3",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [
+              "Cosmetics.MetaTags.Trait.ExtremelyUnique"
+            ],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "3DC7B77A42BD3DBF790D1DA15A44DAD3",
+            "SourceString": "STAGE 4"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-DragonNinja-T4.T-Variant-M-DragonNinja-T4",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "45022D424FB1BF304E23D6BC7A62C43A",
+            "SourceString": "Earn 340,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "D97335FE47A252D543254B9DEF7732CA",
+        "SourceString": "STAGE"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Body_Thinfilm.M_MED_Dragon_Ninja_T1_Body_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V1/T_Red_1.T_Red",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V1/T_Brown_1.T_Brown",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T2_Head_ThinFilm.M_MED_Dragon_Ninja_T2_Head_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V1/T_Red_1.T_Red",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V1/T_Brown_1.T_Brown",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Body_ThinFilm.M_MED_Dragon_Ninja_T3_Body_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V1/T_Red_1.T_Red",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V1/T_Brown_1.T_Brown",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "D9986D294F13C61A8F47048806A048D6",
+            "SourceString": "RED"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-346-Athena-Commando-M-DragonNinja.T-Soldier-HID-346-Athena-Commando-M-DragonNinja",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Head.M_MED_Dragon_Ninja_T1_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_Blue_1.T_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_White_1.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Body.M_MED_Dragon_Ninja_T1_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_Blue_1.T_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_White_1.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Body_Thinfilm.M_MED_Dragon_Ninja_T1_Body_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_Blue_1.T_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_White_1.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T2_Head.M_MED_Dragon_Ninja_T2_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_Blue_1.T_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_White_1.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T2_Head_ThinFilm.M_MED_Dragon_Ninja_T2_Head_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_Blue_1.T_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_White_1.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Body.M_MED_Dragon_Ninja_T3_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_Blue_1.T_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_White_1.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Body_ThinFilm.M_MED_Dragon_Ninja_T3_Body_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_Blue_1.T_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_White_1.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "40EA24F74CECCA3FCBEF11B74DB99647",
+            "SourceString": "BLUE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-V2-DragonNinja-Blue.T-Variant-M-V2-DragonNinja-Blue",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "96EB80AB4BC92064062869906D3EED65",
+            "SourceString": "Complete 15 Weekly Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Head.M_MED_Dragon_Ninja_T1_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_1.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_2.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Body.M_MED_Dragon_Ninja_T1_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_1.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_2.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Body_Thinfilm.M_MED_Dragon_Ninja_T1_Body_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_1.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_2.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T2_Head.M_MED_Dragon_Ninja_T2_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_1.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_2.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T2_Head_ThinFilm.M_MED_Dragon_Ninja_T2_Head_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_1.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_2.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T2_Head.M_MED_Dragon_Ninja_T2_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_1.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_2.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Body.M_MED_Dragon_Ninja_T3_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_1.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_2.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Body_ThinFilm.M_MED_Dragon_Ninja_T3_Body_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_1.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Black_2.T_Black",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "A5D8F8EC449FBA01A1E88A9480C71D8B",
+            "SourceString": "BLACK"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-V3-DragonNinja-Black.T-Variant-M-V3-DragonNinja-Black",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "C43756354FD48F1A9061C5BA5EC8FABD",
+            "SourceString": "Complete 35 Weekly Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Head.M_MED_Dragon_Ninja_T1_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Purple_3.T_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Purple_2.T_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer5_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer5_Roughness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Body.M_MED_Dragon_Ninja_T1_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Purple_3.T_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Purple_2.T_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer2_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer2_Roughness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Body_Thinfilm.M_MED_Dragon_Ninja_T1_Body_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Purple_3.T_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Purple_2.T_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer2_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer2_Roughness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T2_Head.M_MED_Dragon_Ninja_T2_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Purple_3.T_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Purple_2.T_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer2_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer2_Roughness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T2_Head_ThinFilm.M_MED_Dragon_Ninja_T2_Head_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Purple_3.T_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Purple_2.T_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer2_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer2_Roughness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Body.M_MED_Dragon_Ninja_T3_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Purple_3.T_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Purple_2.T_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer2_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer2_Roughness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Body_ThinFilm.M_MED_Dragon_Ninja_T3_Body_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Purple_1.T_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Purple_2.T_Purple",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer2_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer2_Roughness"
+                }
+              ]
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "FE23D11B4812742AD9786EA5146FEF57",
+            "SourceString": "ULTRAVIOLET"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-V4-DragonNinja-Purple.T-Variant-M-V4-DragonNinja-Purple",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "2361836740DE89E127485CB07A27CB7B",
+            "SourceString": "Complete 60 Weekly Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "A2D8B45B4A15992024249C952394BCD8",
+        "SourceString": "CLOTHING"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticParticleVariant",
+    "ExportValue": {
+      "ParticleOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_DragonNinja_Lightning.M_DragonNinja_Lightning",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.5,
+                    "G": 0.206119,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "803500"
+                  },
+                  "ParamName": "VariantColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Athena/Effects/Particles/Skins/DragonNinja/P_DragonNinja_OnBody.P_DragonNinja_OnBody",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 5.0,
+                    "G": 2.630951,
+                    "B": 0.069383,
+                    "A": 1.0,
+                    "Hex": "FB9F12"
+                  },
+                  "ParamName": "Color"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Emissive1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "3A615A2342B27E97CA3AD38CFB264E78",
+            "SourceString": "GREEN"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-DragonNinja-V1-Green.T-Variant-DragonNinja-V1-Green",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Head.M_MED_Dragon_Ninja_T1_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.0,
+                    "B": 0.527411,
+                    "A": 1.0,
+                    "Hex": "FF0086"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Body.M_MED_Dragon_Ninja_T1_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_Maroon_1.T_Maroon",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T2_Head.M_MED_Dragon_Ninja_T2_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.0,
+                    "B": 0.527411,
+                    "A": 1.0,
+                    "Hex": "FF0086"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_Maroon_1.T_Maroon",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_Teal_1.T_Teal",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Body.M_MED_Dragon_Ninja_T3_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_Maroon_1.T_Maroon",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_Teal_1.T_Teal",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Head.M_MED_Dragon_Ninja_T3_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.0,
+                    "B": 0.527411,
+                    "A": 1.0,
+                    "Hex": "FF0086"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_Maroon_1.T_Maroon",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V2/T_Teal_1.T_Teal",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_DragonNinja_Lightning.M_DragonNinja_Lightning",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.5,
+                    "G": 0.0,
+                    "B": 0.418897,
+                    "A": 1.0,
+                    "Hex": "80006B"
+                  },
+                  "ParamName": "VariantColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Athena/Effects/Particles/Skins/DragonNinja/P_DragonNinja_OnBody.P_DragonNinja_OnBody",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 5.0,
+                    "G": 0.0,
+                    "B": 2.154322,
+                    "A": 1.0,
+                    "Hex": "FB0025"
+                  },
+                  "ParamName": "Color"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Emissive2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E50CC852446A68EE73F899B8235D1D1A",
+            "SourceString": "MAROON"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-DragonNinja-V2-Red.T-Variant-DragonNinja-V2-Red",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "ECAF973C4B45977C4BF1279C0C0649D6",
+            "SourceString": "Earn 100,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Head.M_MED_Dragon_Ninja_T1_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.467784,
+                    "G": 0.921582,
+                    "B": 0.009721,
+                    "A": 1.0,
+                    "Hex": "77EB02"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Body.M_MED_Dragon_Ninja_T1_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Silver_1.T_Silver",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T2_Head.M_MED_Dragon_Ninja_T2_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.467784,
+                    "G": 0.921582,
+                    "B": 0.009721,
+                    "A": 1.0,
+                    "Hex": "77EB02"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Silver_1.T_Silver",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Tan_1.T_Tan",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Body.M_MED_Dragon_Ninja_T3_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Silver_1.T_Silver",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Tan_1.T_Tan",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Head.M_MED_Dragon_Ninja_T3_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.467784,
+                    "G": 0.921582,
+                    "B": 0.009721,
+                    "A": 1.0,
+                    "Hex": "77EB02"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Silver_1.T_Silver",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V3/T_Tan_1.T_Tan",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_DragonNinja_Lightning.M_DragonNinja_Lightning",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.35079,
+                    "G": 0.5,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "598000"
+                  },
+                  "ParamName": "VariantColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Athena/Effects/Particles/Skins/DragonNinja/P_DragonNinja_OnBody.P_DragonNinja_OnBody",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.43881,
+                    "G": 5.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "70FB00"
+                  },
+                  "ParamName": "Color"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Emissive3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "EEA14D3046E294B9825A7B8BAE9D56F5",
+            "SourceString": "GREY"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-DragonNinja-V3-Grey.T-Variant-DragonNinja-V3-Grey",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "2A286FE64A6EB1FADEF3A5911982A312",
+            "SourceString": "Earn 220,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Body.M_MED_Dragon_Ninja_T1_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Body_Thinfilm.M_MED_Dragon_Ninja_T1_Body_ThinFilm",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T2_Head.M_MED_Dragon_Ninja_T2_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T2_Head_ThinFilm.M_MED_Dragon_Ninja_T2_Head_ThinFilm",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Head.M_MED_Dragon_Ninja_T3_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Head_ThinFilm.M_MED_Dragon_Ninja_T3_Head_ThinFilm",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Body.M_MED_Dragon_Ninja_T3_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Body_ThinFilm.M_MED_Dragon_Ninja_T3_Body_ThinFilm",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Head.M_MED_Dragon_Ninja_T1_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.015209,
+                    "G": 0.545724,
+                    "B": 0.887923,
+                    "A": 1.0,
+                    "Hex": "048BE2"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Head_Thinfilm.M_MED_Dragon_Ninja_T1_Head_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.015209,
+                    "G": 0.545724,
+                    "B": 0.887923,
+                    "A": 1.0,
+                    "Hex": "048BE2"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Body.M_MED_Dragon_Ninja_T1_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Pink_1.T_Pink",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_White_2.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.5,
+                  "ParamName": "Layer3_Metalness"
+                },
+                {
+                  "Value": 0.4,
+                  "ParamName": "Layer5_Metalness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T1_Body_Thinfilm.M_MED_Dragon_Ninja_T1_Body_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Pink_1.T_Pink",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_White_2.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.5,
+                  "ParamName": "Layer3_Metalness"
+                },
+                {
+                  "Value": 0.4,
+                  "ParamName": "Layer5_Metalness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T2_Head.M_MED_Dragon_Ninja_T2_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.015209,
+                    "G": 0.545724,
+                    "B": 0.887923,
+                    "A": 1.0,
+                    "Hex": "048BE2"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Pink_1.T_Pink",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_White_2.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.5,
+                  "ParamName": "Layer3_Metalness"
+                },
+                {
+                  "Value": 1.2,
+                  "ParamName": "Layer3_Roughness"
+                },
+                {
+                  "Value": 0.4,
+                  "ParamName": "Layer4_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer4_Roughness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T2_Head_ThinFilm.M_MED_Dragon_Ninja_T2_Head_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.015209,
+                    "G": 0.545724,
+                    "B": 0.887923,
+                    "A": 1.0,
+                    "Hex": "048BE2"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Pink_1.T_Pink",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_White_2.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.5,
+                  "ParamName": "Layer3_Metalness"
+                },
+                {
+                  "Value": 1.2,
+                  "ParamName": "Layer3_Roughness"
+                },
+                {
+                  "Value": 0.4,
+                  "ParamName": "Layer4_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer4_Roughness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Head.M_MED_Dragon_Ninja_T3_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.015209,
+                    "G": 0.545724,
+                    "B": 0.887923,
+                    "A": 1.0,
+                    "Hex": "048BE2"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Pink_1.T_Pink",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_White_2.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.2,
+                  "ParamName": "Layer3_Roughness"
+                },
+                {
+                  "Value": 0.5,
+                  "ParamName": "Layer3_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer4_Roughness"
+                },
+                {
+                  "Value": 0.4,
+                  "ParamName": "Layer4_Metalness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Head_ThinFilm.M_MED_Dragon_Ninja_T3_Head_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.015209,
+                    "G": 0.545724,
+                    "B": 0.887923,
+                    "A": 1.0,
+                    "Hex": "048BE2"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Pink_1.T_Pink",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_White_2.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.2,
+                  "ParamName": "Layer3_Roughness"
+                },
+                {
+                  "Value": 0.5,
+                  "ParamName": "Layer3_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer4_Roughness"
+                },
+                {
+                  "Value": 0.4,
+                  "ParamName": "Layer4_Metalness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Body.M_MED_Dragon_Ninja_T3_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Pink_1.T_Pink",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_White_2.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.2,
+                  "ParamName": "Layer3_Roughness"
+                },
+                {
+                  "Value": 0.5,
+                  "ParamName": "Layer3_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer4_Roughness"
+                },
+                {
+                  "Value": 0.4,
+                  "ParamName": "Layer4_Metalness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_MED_Dragon_Ninja_T3_Body_ThinFilm.M_MED_Dragon_Ninja_T3_Body_ThinFilm",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_Pink_1.T_Pink",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Textures/V4/T_White_2.T_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.2,
+                  "ParamName": "Layer3_Roughness"
+                },
+                {
+                  "Value": 0.5,
+                  "ParamName": "Layer3_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer4_Roughness"
+                },
+                {
+                  "Value": 0.4,
+                  "ParamName": "Layer4_Metalness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Dragon_Ninja/Materials/M_DragonNinja_Lightning.M_DragonNinja_Lightning",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.177835,
+                    "B": 0.5,
+                    "A": 1.0,
+                    "Hex": "002D80"
+                  },
+                  "ParamName": "VariantColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Athena/Effects/Particles/Skins/DragonNinja/P_DragonNinja_OnBody.P_DragonNinja_OnBody",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.307505,
+                    "B": 5.0,
+                    "A": 1.0,
+                    "Hex": "004EFB"
+                  },
+                  "ParamName": "Color"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Emissive4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "203658D84D9D9EED2285B6B30547613A",
+            "SourceString": "PURPLE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-DragonNinja-V4-Purple.T-Variant-DragonNinja-V4-Purple",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "A9C8556C4013F6AEE7355FBB49774328",
+            "SourceString": "Earn 300,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Particle"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "379697264C68F04320822D91B8892124",
+        "SourceString": "DRAGON COLOR"
+      }
+    }
+  }
+]

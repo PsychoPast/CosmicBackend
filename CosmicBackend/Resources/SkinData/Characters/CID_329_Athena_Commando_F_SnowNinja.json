@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_329_Athena_Commando_F_SnowNinja",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_329_Athena_Commando_F_SnowNinja",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "FC922504454791AA83C3518240B93CDE",
+        "SourceString": "Snowstrike"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "417CA01740FB0A6FC0650E995836390C",
+        "SourceString": "Strike swiftly, and always leave your mark."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.SnowNinja",
+        "Cosmetics.Filter.Season.7"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_329_Athena_Commando_F_SnowNinja.DA_Featured_CID_329_Athena_Commando_F_SnowNinja",
+        "SubPathString": null
+      }
+    }
+  }
+]

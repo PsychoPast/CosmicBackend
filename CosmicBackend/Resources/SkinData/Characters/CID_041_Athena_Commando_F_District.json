@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_041_Athena_Commando_F_District",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_041_Athena_Commando_F_District",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "8A7BAFE74ABD777515BE83AC5183367F",
+        "SourceString": "Dominator"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "EBE0ACB646CEC4DA35CC17BACBA3652F",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "73E76DDB48F3E74EFDFCA6959006702F",
+        "SourceString": "One step ahead of the pack."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.StormFusion",
+        "Cosmetics.Filter.Season.1"
+      ]
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_574_Athena_Commando_F_CubeRockerPunk",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_574_Athena_Commando_F_CubeRockerPunk",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "78369E964F54EA92A86DD582A5A446E0",
+        "SourceString": "Dark Power Chord"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "A1D43C5943AF4AA749F27DA56B7CC520",
+        "SourceString": "Rock on in the darkness."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Volume11",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11"
+      ],
+      "Series": {
+        "ObjectName": "CUBESeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/CUBESeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

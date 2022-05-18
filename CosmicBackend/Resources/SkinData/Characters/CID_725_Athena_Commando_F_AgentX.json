@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_725_Athena_Commando_F_AgentX",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_725_Athena_Commando_F_AgentX",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "BB157F774EF7AD4AE0B2AE90AD5D70D2",
+        "SourceString": "Envoy"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "D91D6187413739D50050FA99A1F18577",
+        "SourceString": "There is no such thing as second best. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.12"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_725_Athena_Commando_F_AgentX.DA_Featured_CID_725_Athena_Commando_F_AgentX",
+        "SubPathString": null
+      }
+    }
+  }
+]

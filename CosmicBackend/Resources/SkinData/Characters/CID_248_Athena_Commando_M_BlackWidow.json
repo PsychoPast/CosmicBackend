@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_248_Athena_Commando_M_BlackWidow",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_248_Athena_Commando_M_BlackWidow",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "9D6FA37A439E93785AB2DFB868A2C2B6",
+        "SourceString": "Spider Knight"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "DC9F2DFD4589E52DAFC6E6B448F628BE",
+        "SourceString": "They'll fall into your web."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.BlackWidow",
+        "Cosmetics.Filter.Season.6"
+      ]
+    }
+  }
+]

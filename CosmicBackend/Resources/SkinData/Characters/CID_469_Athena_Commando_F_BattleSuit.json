@@ -1,0 +1,1101 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_469_Athena_Commando_F_BattleSuit",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_469_Athena_Commando_F_BattleSuit",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_469_Athena_Commando_F_BattleSuit",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_469_Athena_Commando_F_BattleSuit",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "44AF645F4DBFE0C3B4D2B1A6B2F0BCAC",
+        "SourceString": "Singularity"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "85D5C32D463D80A26A3D0690145DA0ED",
+        "SourceString": "The first and the last. "
+      },
+      "GameplayTags": [
+        "Cosmetics.QuestsMetaData.SuperDuper",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Source.Season9.BattlePass.Paid",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_469_Athena_Commando_F_BattleSuit.DA_Featured_CID_469_Athena_Commando_F_BattleSuit",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E06174284CFB4FB9509430BFA8D7407D",
+            "SourceString": "DEFAULT "
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-BattleSuit-T1-Regular.T-Variant-F-BattleSuit-T1-Regular",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "94160A0F4D44729176AC2AACABB20A11",
+            "SourceString": "COLLECT 90 FORTBYTES"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_BattleSuit_Upgrade.CP_Body_Commando_F_BattleSuit_Upgrade",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "B5964FDB492671605F2E489858B78522",
+            "SourceString": "UPGRADE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-BattleSuit-T2-Regular.T-Variant-F-BattleSuit-T2-Regular",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "239F3BD94D6F547A63AEAAA09051A064",
+            "SourceString": "COLLECT 95 FORTBYTES"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_BattleSuit_Upgrade.CP_F_MED_BattleSuit_Upgrade",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_BattleSuit_NoJaw.CP_Head_F_BattleSuit_NoJaw",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_BattleSuit_Upgrade.CP_Body_Commando_F_BattleSuit_Upgrade",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Battle_Suit_Head/Materials/F_MED_Battle_Suit_Hair.F_MED_Battle_Suit_Hair",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Element 10"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "8294C311421572FBE95397B65E05E1EC",
+            "SourceString": "UPGRADE WITH HELMET"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-BattleSuit-T3-Regular.T-Variant-F-BattleSuit-T3-Regular",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "0A3E266C433176D98B1067B00091069C",
+            "SourceString": "COLLECT 100 FORTBYTES"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Parts"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "9374575F4C0BB24769AD789A05D3FCA4",
+        "SourceString": "STYLE"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "80060B3F4C09B73BFEF5C58059D54BF2",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-BattleSuit-T1-Regular.T-Variant-F-BattleSuit-T1-Regular",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_Battle_Suit.F_MED_Battle_Suit",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Cuddle/Materials/F_MED_Battle_Suit_Cuddle.F_MED_Battle_Suit_Cuddle",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_Battle_Suit_Upgrade_Body.F_MED_Battle_Suit_Upgrade_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Cuddle/Materials/F_MED_Battle_Suit_Cuddle_Upgrade.F_MED_Battle_Suit_Cuddle_Upgrade",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_BattleSuitUpgrade_FaceAcc.F_MED_BattleSuitUpgrade_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Cuddle/Materials/F_MED_BattleSuitCuddleUpgrade__FaceAcc.F_MED_BattleSuitCuddleUpgrade__FaceAcc",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_BattleSuitUpgrade_FaceAcc_Glasses.F_MED_BattleSuitUpgrade_FaceAcc_Glasses",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Cuddle/Materials/F_MED_BattleSuitCuddleUpgradeFaceAcc_Glasses.F_MED_BattleSuitCuddleUpgradeFaceAcc_Glasses",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Battle_Suit_Head/Materials/F_MED_Battle_Suit_Hair.F_MED_Battle_Suit_Hair",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/F_MED_Comm_Battle_Suit_Cuddle_FaceAcc/Textures/T_Battle_Suit_Cuddle_Hair_D.T_Battle_Suit_Cuddle_Hair_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "B6E335084F1DD1AA3B0FAEAA2D716EF2",
+            "SourceString": "CUDDLE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-BattleSuit-T1-Cuddle.T-Variant-F-BattleSuit-T1-Cuddle",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "B8F575384F0EABD14ECC3294C62963A7",
+            "SourceString": "HIDDEN CHALLENGE"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_Battle_Suit_Upgrade_Body.F_MED_Battle_Suit_Upgrade_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Rex/Materials/F_MED_Battle_Suit_Rex_Upgrade.F_MED_Battle_Suit_Rex_Upgrade",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_BattleSuitUpgrade_FaceAcc.F_MED_BattleSuitUpgrade_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Rex/Materials/F_MED_BattleSuitRexUpgrade__FaceAcc.F_MED_BattleSuitRexUpgrade__FaceAcc",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_BattleSuitUpgrade_FaceAcc_Glasses.F_MED_BattleSuitUpgrade_FaceAcc_Glasses",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.885417,
+                    "G": 0.291194,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "E24A00"
+                  },
+                  "ParamName": "Base Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Rex/Textures/T_Battle_Suit_Rex_Updrade_Head_N.T_Battle_Suit_Rex_Updrade_Head_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "BakedNormal"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.5,
+                  "ParamName": "Fresnel Exponent"
+                },
+                {
+                  "Value": 0.7,
+                  "ParamName": "Fresnel Inner Transparency"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Fresnel Outer Transparency"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Specular"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Battle_Suit_Head/Materials/F_MED_Battle_Suit_Hair.F_MED_Battle_Suit_Hair",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/F_MED_Comm_Battle_Suit_Rex_FaceAcc/Textures/T_Battle_Suit_Rex_Hair_D.T_Battle_Suit_Rex_Hair_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_Battle_Suit.F_MED_Battle_Suit",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Rex/Textures/T_Battle_Suit_Rex_Body_D.T_Battle_Suit_Rex_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Rex/Textures/T_Battle_Suit_Rex_Body_M.T_Battle_Suit_Rex_Body_M",
+                    "SubPathString": null
+                  },
+                  "ParamName": "M"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Rex/Textures/T_Battle_Suit_Rex_Body_N.T_Battle_Suit_Rex_Body_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Normals"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Rex/Textures/T_Battle_Suit_Rex_Body_S.T_Battle_Suit_Rex_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "771EAE014C7E39CDA6EAAB981B36F792",
+            "SourceString": "REX"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-BattleSuit-T1-Rex.T-Variant-F-BattleSuit-T1-Rex",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "749A928D4E9DCB9FB07ABFA5209110CB",
+            "SourceString": "HIDDEN CHALLENGE"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_Battle_Suit_Upgrade_Body.F_MED_Battle_Suit_Upgrade_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Drift/Materials/F_MED_Battle_Suit_Drift_Upgrade.F_MED_Battle_Suit_Drift_Upgrade",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_BattleSuitUpgrade_FaceAcc.F_MED_BattleSuitUpgrade_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Drift/Materials/F_MED_Battle_Suit_Drift_Upgrade__FaceAcc.F_MED_Battle_Suit_Drift_Upgrade__FaceAcc",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_BattleSuitUpgrade_FaceAcc_Glasses.F_MED_BattleSuitUpgrade_FaceAcc_Glasses",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.0,
+                    "B": 0.452021,
+                    "A": 1.0,
+                    "Hex": "FF0073"
+                  },
+                  "ParamName": "Base Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Drift/Textures/T_Battle_Suit_Drift_Upgrade_Head_N.T_Battle_Suit_Drift_Upgrade_Head_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "BakedNormal"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.5,
+                  "ParamName": "Fresnel Exponent"
+                },
+                {
+                  "Value": 0.4,
+                  "ParamName": "Fresnel Inner Transparency"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Fresnel Outer Transparency"
+                },
+                {
+                  "Value": 0.1,
+                  "ParamName": "Metallic"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Refraction"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Specular"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_Battle_Suit.F_MED_Battle_Suit",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Drift/Textures/T_Battle_Suit_Drift_Body_D.T_Battle_Suit_Drift_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Drift/Textures/T_Battle_Suit_Drift_Body_M.T_Battle_Suit_Drift_Body_M",
+                    "SubPathString": null
+                  },
+                  "ParamName": "M"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Drift/Textures/T_Battle_Suit_Drift_Body_N.T_Battle_Suit_Drift_Body_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Normals"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Drift/Textures/T_Battle_Suit_Drift_Body_S.T_Battle_Suit_Drift_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Battle_Suit_Head/Materials/F_MED_Battle_Suit_Head.F_MED_Battle_Suit_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Battle_Suit_Drift_Head/Textures/T_Battle_Suit_Drift_Head_D.T_Battle_Suit_Drift_Head_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "B890AAB5415C21CBD6B605837F0DC1ED",
+            "SourceString": "DRIFT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-BattleSuit-T1-Drift.T-Variant-F-BattleSuit-T1-Drift",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "AA487A9D493F7C5CF172C0B3F7A7FB73",
+            "SourceString": "HIDDEN CHALLENGE"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_Battle_Suit_Upgrade_Body.F_MED_Battle_Suit_Upgrade_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Durrr/Materials/F_MED_Battle_Suit_Durrr_Upgrade.F_MED_Battle_Suit_Durrr_Upgrade",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_BattleSuitUpgrade_FaceAcc.F_MED_BattleSuitUpgrade_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Durrr/Materials/F_MED_BattleSuitDurrrUpgrade__FaceAcc.F_MED_BattleSuitDurrrUpgrade__FaceAcc",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_BattleSuitUpgrade_FaceAcc_Glasses.F_MED_BattleSuitUpgrade_FaceAcc_Glasses",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.058563,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FF0F00"
+                  },
+                  "ParamName": "Base Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Durrr/Textures/T_Battle_SuitDurrrUpgrade_Head_N.T_Battle_SuitDurrrUpgrade_Head_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "BakedNormal"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.5,
+                  "ParamName": "Fresnel Inner Transparency"
+                },
+                {
+                  "Value": 0.6,
+                  "ParamName": "Fresnel Outer Transparency"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_Battle_Suit.F_MED_Battle_Suit",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Durrr/Textures/T_Battle_Suit_Durrr_Body_D.T_Battle_Suit_Durrr_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Durrr/Textures/T_Battle_Suit_Durrr_Body_M.T_Battle_Suit_Durrr_Body_M",
+                    "SubPathString": null
+                  },
+                  "ParamName": "M"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Durrr/Textures/T_Battle_Suit_Durrr_Body_N.T_Battle_Suit_Durrr_Body_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Normals"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Durrr/Textures/T_Battle_Suit_Durrr_Body_S.T_Battle_Suit_Durrr_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Battle_Suit_Head/Materials/F_MED_Battle_Suit_Head.F_MED_Battle_Suit_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Battle_Suit_Durrr_Head/Textures/T_Battle_Suit_Durrr_Head_D.T_Battle_Suit_Durrr_Head_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Battle_Suit_Head/Materials/F_MED_Battle_Suit_Hair.F_MED_Battle_Suit_Hair",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/F_MED_Comm_Battle_Suit_Durrr_FaceAcc/Textures/T_Battle_Suit_Durrr_Hair_D.T_Battle_Suit_Durrr_Hair_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat5"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "15E8A6FC4434FD3BEB8E779D493CEBEB",
+            "SourceString": "DURR"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-BattleSuit-T1-Durr.T-Variant-F-BattleSuit-T1-Durr",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "3748D10847EA7CD7E9663E825690372C",
+            "SourceString": "HIDDEN CHALLENGE"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_Battle_Suit_Upgrade_Body.F_MED_Battle_Suit_Upgrade_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Pizza/Materials/F_MED_Battle_Suit_Pizza_Upgrade.F_MED_Battle_Suit_Pizza_Upgrade",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_BattleSuitUpgrade_FaceAcc.F_MED_BattleSuitUpgrade_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Pizza/Materials/F_MED_BattleSuitPizzaUpgrade__FaceAcc.F_MED_BattleSuitPizzaUpgrade__FaceAcc",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Battle_Suit_Head/Materials/F_MED_Battle_Suit_Hair.F_MED_Battle_Suit_Hair",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Accessories/Hats/F_MED_Comm_Battle_Suit_Pizza_FaceAcc/Textures/T_Battle_Suit_Pizza_Hair_D.T_Battle_Suit_Pizza_Hair_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Battle_Suit_Head/Materials/F_MED_Battle_Suit_Head.F_MED_Battle_Suit_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Battle_Suit_Pizza_Head/Textures/T_Battle_Suit_Pizza_Head_D.T_Battle_Suit_Pizza_Head_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_Battle_Suit.F_MED_Battle_Suit",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Pizza/Textures/T_Battle_Suit_Pizza_Body_D.T_Battle_Suit_Pizza_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Pizza/Textures/T_Battle_Suit_Pizza_Body_M.T_Battle_Suit_Pizza_Body_M",
+                    "SubPathString": null
+                  },
+                  "ParamName": "M"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Pizza/Textures/T_Battle_Suit_Pizza_Body_N.T_Battle_Suit_Pizza_Body_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Normals"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Pizza/Textures/T_Battle_Suit_Pizza_Body_S.T_Battle_Suit_Pizza_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit/Materials/F_MED_BattleSuitUpgrade_FaceAcc_Glasses.F_MED_BattleSuitUpgrade_FaceAcc_Glasses",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.861831,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FFDC00"
+                  },
+                  "ParamName": "Base Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Battle_Suit_Pizza/Textures/T_Battle_Suit_Pizza_Upgrade_Head_N.T_Battle_Suit_Pizza_Upgrade_Head_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "BakedNormal"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 0.4,
+                  "ParamName": "Fresnel Inner Transparency"
+                }
+              ]
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat6"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E54050714DD4923BE0E7A4A4F2BCE034",
+            "SourceString": "PIZZA"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-BattleSuit-T1-Pizza.T-Variant-F-BattleSuit-T1-Pizza",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "77E8F1F54029E23D40672EAD3B824DEC",
+            "SourceString": "HIDDEN CHALLENGE"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "63BDA0FA4847ABF10F6DE395482AB5B5",
+        "SourceString": "COLOR"
+      }
+    }
+  }
+]

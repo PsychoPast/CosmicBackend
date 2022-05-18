@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_432_Athena_Commando_M_BalloonHead",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_432_Athena_Commando_M_BalloonHead",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "21DDCFB54431E6B35F02B29AED5570D6",
+        "SourceString": "Airhead"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "3C64248B47A73F547184209871E92EED",
+        "SourceString": "Pop into action."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_432_Athena_Commando_M_Balloonhead.DA_Featured_CID_432_Athena_Commando_M_BalloonHead",
+        "SubPathString": null
+      }
+    }
+  }
+]

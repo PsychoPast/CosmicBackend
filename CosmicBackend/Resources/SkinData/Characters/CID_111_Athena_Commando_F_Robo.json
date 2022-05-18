@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_111_Athena_Commando_F_Robo",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_111_Athena_Commando_F_Robo",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "D25D4999464C1C29643A1B98CB7FFC0C",
+        "SourceString": "Steelsight"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "EBE0ACB646CEC4DA35CC17BACBA3652F",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "4CC21E674987612EA3BA8BB7953432FF",
+        "SourceString": "Victory demands nerves of steel."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.3"
+      ]
+    }
+  }
+]

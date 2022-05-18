@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_459_Athena_Commando_F_Zodiac",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_459_Athena_Commando_F_Zodiac",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "2E7429274AFE89E0666C27AB0AC57930",
+        "SourceString": "Biz"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "200AEC4A4BC6A50CA07179A51201FE9C",
+        "SourceString": "Nothing personal, it's just business."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Zodiac",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_459_Athena_Commando_F_Zodiac.DA_Featured_CID_459_Athena_Commando_F_Zodiac",
+        "SubPathString": null
+      }
+    }
+  }
+]

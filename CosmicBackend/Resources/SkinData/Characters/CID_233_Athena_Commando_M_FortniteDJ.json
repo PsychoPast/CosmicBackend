@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_233_Athena_Commando_M_FortniteDJ",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_233_Athena_Commando_M_FortniteDJ",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "66E7A62F47B5C9442B38388AB77A137B",
+        "SourceString": "DJ Yonder"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "CF549B104FC052B74099D681E4424069",
+        "SourceString": "Packing a playlist for the perfect party."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.FortniteDJ",
+        "Cosmetics.Source.Season6.BattlePass.Paid",
+        "Cosmetics.Filter.Season.6"
+      ]
+    }
+  }
+]

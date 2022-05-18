@@ -1,0 +1,46 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_925_Athena_Commando_F_TapDance",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_925_Athena_Commando_F_TapDance",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "35D38BB2468EE70048FF668175C5DF34",
+        "SourceString": "Black Widow (Snow Suit)"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "6A65792646B64160CA24038A21F7FFF9",
+        "SourceString": "Winter mission ready."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.QualifiedBow"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_925_Athena_Commando_F_TapDance.DA_Featured_CID_925_Athena_Commando_F_TapDance",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "MarvelSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/MarvelSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

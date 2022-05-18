@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_723_Athena_Commando_F_SpyTech",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_723_Athena_Commando_F_SpyTech",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "4350DE20408CDC9E75DD6AB69CF4D4E4",
+        "SourceString": "Blockade Runner"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "0C5AEF5248FE442E7CEFACB43727B5F3",
+        "SourceString": "Break through enemy lines. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Speedcraft",
+        "Cosmetics.Filter.Season.12"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_723_Athena_Commando_F_SpyTech.DA_Featured_CID_723_Athena_Commando_F_SpyTech",
+        "SubPathString": null
+      }
+    }
+  }
+]

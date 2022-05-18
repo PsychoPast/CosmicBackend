@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_956_Athena_Commando_F_Football20Referee_E",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_956_Athena_Commando_F_Football20Referee_E",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "D313798E41CF247CF33B14AC8146AF0F",
+        "SourceString": "Replay Ranger"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "B65E743E4B2B2AE0A53E1AA3839EAA38",
+        "SourceString": "Let's go to the tape."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.FieldPals"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_956_Athena_Commando_F_Football20Referee_E_DQTP6.DA_Featured_CID_956_Athena_Commando_F_Football20Referee_E_DQTP6",
+        "SubPathString": null
+      }
+    }
+  }
+]

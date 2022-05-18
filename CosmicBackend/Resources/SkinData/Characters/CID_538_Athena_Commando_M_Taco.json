@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_538_Athena_Commando_M_Taco",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_538_Athena_Commando_M_Taco",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "12BDB04A4C741252A2F31B80A82B131D",
+        "SourceString": "Guaco"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "455D87394060DE107C8CC38EE1E50A6B",
+        "SourceString": "Stay crunchy, Guaco's comin..."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.ScoreCard",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_538_Athena_Commando_M_Taco.DA_Featured_CID_538_Athena_Commando_M_Taco",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_168_Athena_Commando_M_Shark",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_168_Athena_Commando_M_Shark",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "8232B4DD43E76CF1311C81B499028715",
+        "SourceString": "Chomp Sr."
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "710423BA47C7AD0ADE442784572D7184",
+        "SourceString": "Take a bite out of victory."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Shark",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

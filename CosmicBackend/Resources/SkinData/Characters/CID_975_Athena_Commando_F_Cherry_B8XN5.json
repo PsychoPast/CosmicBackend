@@ -1,0 +1,242 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_975_Athena_Commando_F_Cherry",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_975_Athena_Commando_F_Cherry",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_975_Athena_Commando_F_Cherry_B8XN5",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "BB436DE749281C21ECA9308D96F6B6A4",
+        "SourceString": "Captain Marvel"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "D41CE0C94BF61EF6AF6CCA85AF3723B6",
+        "SourceString": "Higher, further, faster."
+      },
+      "GameplayTags": [
+        "Cosmetics.Exclusives.Cherry",
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Set.GateUncle"
+      ],
+      "Series": {
+        "ObjectName": "MarvelSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/MarvelSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "89D2EF894037EE70D21AA8BAA5527D81",
+            "SourceString": "Captain Marvel"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-975-Athena-Commando-F-Cherry.T-Soldier-HID-975-Athena-Commando-F-Cherry",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_CherryCharged_FaceAcc.CP_F_MED_CherryCharged_FaceAcc",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Cherry/Materials/M_Cherry_Body_Custom_Inst.M_Cherry_Body_Custom_Inst",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Cherry/Materials/M_Cherry_Body_Custom_Charged_Inst.M_Cherry_Body_Custom_Charged_Inst",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Cherry/Materials/F_MED_Cherry_Head.F_MED_Cherry_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Cherry/Materials/F_MED_Cherry_Head_Charged_Inst.F_MED_Cherry_Head_Charged_Inst",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Cherry/Materials/F_MED_Cherry_FaceAcc.F_MED_Cherry_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Cherry/Materials/F_MED_Cherry_FaceAcc_Charged.F_MED_Cherry_FaceAcc_Charged",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Cherry/Materials/F_MED_Cherry_Glider_Hair.F_MED_Cherry_Glider_Hair",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Cherry/Materials/F_MED_Cherry_Glider_Hair_Charged.F_MED_Cherry_Glider_Hair_Charged",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Cherry/FX/NS_Cherry_Empty.NS_Cherry_Empty",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Cherry/FX/NS_Cherry_Charged_Body.NS_Cherry_Charged_Body",
+                "SubPathString": null
+              }
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Cherry/FX/NS_Cherry_Head_Empty.NS_Cherry_Head_Empty",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Cherry/FX/NS_Cherry_Charged_Head.NS_Cherry_Charged_Head",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "7938560D4B0B2D90C04FFE99232066F8",
+            "SourceString": "Captain Marvel (Empowered)"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-975-F-Cherry-Charged.T-Variant-975-F-Cherry-Charged",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Parts"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "55FA39C94C8C18ADC4AD0C97AB6118C8",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

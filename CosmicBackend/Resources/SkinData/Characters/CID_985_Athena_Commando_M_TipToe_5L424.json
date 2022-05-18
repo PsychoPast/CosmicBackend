@@ -1,0 +1,41 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_985_Athena_Commando_M_TipToe",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_985_Athena_Commando_M_TipToe",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "6337215D4D92B0CE4BF90BAC9F78267D",
+        "SourceString": "Green Arrow"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "745B81B9455BC7EC0ED3DE97864DFE9B",
+        "SourceString": "Former castaway Oliver Queen protects Star City as the expert archer Green Arrow."
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.Set.LeanScale"
+      ],
+      "Series": {
+        "ObjectName": "DCUSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/DCUSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

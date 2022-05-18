@@ -1,0 +1,50 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_891_Athena_Commando_M_LunchBox",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_891_Athena_Commando_M_LunchBox",
+          "OuterIndex": 0
+        }
+      },
+      "ObservedPlayerStats": [
+        "StatManager.AthenaKills"
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "88B831C14C3131FF2330E89CD9E88ECB",
+        "SourceString": "Lachlan"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "2197FF6D462583522BE9A2808758AF92",
+        "SourceString": "Playing around to discover greatness."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.UserFacingFlags.Reactive",
+        "Cosmetics.Set.MoarPower"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_891_Athena_Commando_M_Lunchbox.DA_Featured_CID_891_Athena_Commando_M_Lunchbox",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "CreatorCollabSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/CreatorCollabSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

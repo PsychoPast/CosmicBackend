@@ -1,0 +1,123 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_NPC_Athena_Commando_M_PaddedArmorArctic",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_NPC_Athena_Commando_M_PaddedArmorArctic",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_NPC_Athena_Commando_M_PaddedArmorArctic",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "bNeverPersisted": true,
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "5D14C5F74CA277758C0476AA504D7CEA",
+        "SourceString": "TBD"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "BF5947C040190F6A9A3907A4B96FB52E",
+        "SourceString": "TBD"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rebirth_Soldier/Materials/F_MED_Rebirth_Soldier_Body.F_MED_Rebirth_Soldier_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rebirth_Soldier/Skins/Henchman/F_MED_Rebirth_Soldier_Body_Henchman.F_MED_Rebirth_Soldier_Body_Henchman",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rebirth_Soldier/Skins/Henchman/F_MED_Rebirth_Soldier_Body_Henchman.F_MED_Rebirth_Soldier_Body_Henchman",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rebirth_Soldier/Skins/Henchman/New_Graph_Grad_rED.New_Graph_Grad_rED",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rebirth_Soldier/Skins/Henchman/New_Graph_Grad_White.New_Graph_Grad_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rebirth_Soldier/Skins/Henchman/New_Graph_Grad_rED.New_Graph_Grad_rED",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": null,
+          "PreviewImage": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      }
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_017_Athena_Commando_M",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_017_Athena_Commando_M",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "C040CC7C48D54392B62576B795CCB905",
+        "SourceString": "Aerial Assault Trooper"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "0DF738DE4347FBE758AED8A185866192",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "8165914748D01D4FFCC8EDAB9AD8B819",
+        "SourceString": "Rare aerial assault trooper outfit."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season1.SeasonShop",
+        "Cosmetics.Filter.Season.1"
+      ]
+    }
+  }
+]

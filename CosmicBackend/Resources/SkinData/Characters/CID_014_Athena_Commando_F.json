@@ -1,0 +1,33 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_014_Athena_Commando_F",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_014_Athena_Commando_F",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "36314F154528C43B47D2AE8C6E9A6BE1",
+        "SourceString": "Pathfinder "
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "A77542D140D1205C6513FB9AE31CA292",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "893BD7BC4A687E453D5D63A6509A9890",
+        "SourceString": "Uncommon pathfinder outfit. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.1"
+      ]
+    }
+  }
+]

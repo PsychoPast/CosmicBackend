@@ -1,0 +1,47 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_727_Athena_Commando_M_Tailor",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_727_Athena_Commando_M_Tailor",
+          "OuterIndex": 0
+        }
+      },
+      "ObservedPlayerStats": [
+        "StatManager.AthenaKills",
+        "StatManager.DamageReceived",
+        "StatManager.GainedHealthTimes",
+        "StatManager.GainedShieldTimes",
+        "StatManager.DamageDealt"
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "C95D9F484DF73072AB6BDA8814CD7287",
+        "SourceString": "Tailor"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "212FE7D04818CD2B0CE427B290EEDC76",
+        "SourceString": "Stylish soldier of fortune.\r\nReactive: Unique light patterns on eliminations, damage, health, and shields!"
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.12",
+        "Cosmetics.Set.FugitiveBandit",
+        "Cosmetics.UserFacingFlags.Reactive"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_727_Athena_Commando_M_Tailor.DA_Featured_CID_727_Athena_Commando_M_Tailor",
+        "SubPathString": null
+      }
+    }
+  }
+]

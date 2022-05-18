@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_974_Athena_Commando_F_StreetFashionHoliday",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_974_Athena_Commando_F_StreetFashionHoliday",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "F1CFA0A7401817B06E7C5F8732859765",
+        "SourceString": "Holly Striker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "239AE2F549A4B2428DD0E9B3A6AED7AC",
+        "SourceString": "Just here for the festivities."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.Set.CoolBreak"
+      ]
+    }
+  }
+]

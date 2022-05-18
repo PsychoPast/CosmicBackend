@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_680_Athena_Commando_M_StreetRat",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_680_Athena_Commando_M_StreetRat",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "D7B1ED0F4E5E9B8EC44CFAA1DF6BC045",
+        "SourceString": "Swift"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F54616FB48C4AA77381FC5B991E5AE1B",
+        "SourceString": "It's gonna be his year."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.RoadMouse"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_680_Athena_Commando_M_StreetRat.DA_Featured_CID_680_Athena_Commando_M_StreetRat",
+        "SubPathString": null
+      }
+    }
+  }
+]

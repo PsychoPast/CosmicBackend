@@ -1,0 +1,1991 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_347_Athena_Commando_M_PirateProgressive",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_347_Athena_Commando_M_PirateProgressive",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_347_Athena_Commando_M_PirateProgressive",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_347_Athena_Commando_M_PirateProgressive",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "13B77E104B28E7BB2479E3B3B8754AA1",
+            "SourceString": "Earn 10,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage2"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "5EE25EED433C0E72A927B3BDC595AD8A",
+            "SourceString": "Earn 40,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage3"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "2B8C862643F8C6529CFC769F4DE472C4",
+            "SourceString": "Earn 80,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage4"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage4"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "38F7648645599B32754AFC88D30EDBBA",
+            "SourceString": "Earn 160,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "EBBDA3F5467B49352F4C7A97BC589F33",
+            "SourceString": "Earn 200,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage6"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage6"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "BB8C3DE144863101F339A59D816EDD85",
+            "SourceString": "Earn 240,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage7"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage7"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "8B0D20EC4FBD29FE3FA6238DA83F1DB8",
+            "SourceString": "Earn 280,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage8"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage8"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "92594D2C4E24C9E46A42E28544E42838",
+            "SourceString": "Complete 10 Weekly Challenges"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage1"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage1"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Mat2"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.ClothingColor"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "E73290B24D51803EFDA736A9522BEE61",
+            "SourceString": "Complete 25 Weekly Challenges"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage1"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage1"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Mat3"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.ClothingColor"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "162F8F0648677EECF5269C94D442870C",
+            "SourceString": "Complete 45 Weekly Challenges"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage1"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage1"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Mat4"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.ClothingColor"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat4"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "5911E82C47FF1DD898D0E9A0A62476E0",
+        "SourceString": "Blackheart"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "1B73D9744DC3B81BA2230182F42EBA90",
+        "SourceString": "The dreaded captain of the stormy seas."
+      },
+      "GameplayTags": [
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Source.Season8.BattlePass.Paid",
+        "Cosmetics.Set.Pirate",
+        "Cosmetics.Filter.Season.8"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_PirateProgressive.CP_Athena_Head_M_PirateProgressive",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_PirateProgressive.CP_Athena_Body_M_PirateProgressive",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_PirateProgressive_T1.CP_M_MED_PirateProgressive_T1",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "B2AD7B42485AC7A387B2139EAC3A14C4",
+            "SourceString": "STAGE 1"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-PirateProgressive-T1.T-Variant-M-PirateProgressive-T1",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_PirateProgressive_T2.CP_Athena_Body_M_PirateProgressive_T2",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_PirateProgressive_T2.CP_M_MED_PirateProgressive_T2",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_PirateProgressive.CP_Athena_Head_M_PirateProgressive",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_LegsEtc_gm.M_MED_Pirate_Progressive_LegsEtc_GM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 04"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_LegsEtc_Red_GM.M_MED_Pirate_Progressive_LegsEtc_Red_GM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 04"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "B8CB668045DB6B486ED936920D975DE2",
+            "SourceString": "STAGE 2"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-PirateProgressive-T2.T-Variant-M-PirateProgressive-T2",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "645362B746458830F7B3CA8A55A2768D",
+            "SourceString": "Earn 10,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_PirateProgressive_T3.CP_Athena_Body_M_PirateProgressive_T3",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_PirateProgressive_T3.CP_M_MED_PirateProgressive_T3",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_PirateProgressive.CP_Athena_Head_M_PirateProgressive",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_LegsEtc_gm.M_MED_Pirate_Progressive_LegsEtc_GM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 04"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_LegsEtc_Red_GM.M_MED_Pirate_Progressive_LegsEtc_Red_GM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 03"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 04"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "00784FA940760654FCB38FA9115A093F",
+            "SourceString": "STAGE 3"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-PirateProgressive-T3.T-Variant-M-PirateProgressive-T3",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "050CCBD143CE13E7CED6B5B8DA5AA18A",
+            "SourceString": "Earn 40,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_PirateProgressive_T4.CP_Athena_Body_M_PirateProgressive_T4",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_PirateProgressive_T4.CP_M_MED_PirateProgressive_T4",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_PirateProgressive_T4.CP_Athena_Head_M_PirateProgressive_T4",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_FX.M_MED_Pirate_Progressive_FX",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Missions/Secondary/BluGlo/MI_Invisible.MI_Invisible",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "61571E8F4181CB7FE05BA4A85F4D7B0E",
+            "SourceString": "STAGE 4"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-PirateProgressive-T4.T-Variant-M-PirateProgressive-T4",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "79105C7D4DA29086676A35AF4772859E",
+            "SourceString": "Earn 80,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_PirateProgressive_T5.CP_Athena_Body_M_PirateProgressive_T5",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_PirateProgressive_T4.CP_M_MED_PirateProgressive_T4",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_PirateProgressive_T4.CP_Athena_Head_M_PirateProgressive_T4",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_FX.M_MED_Pirate_Progressive_FX",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.172875,
+                    "G": 1.0,
+                    "B": 0.259621,
+                    "A": 1.0,
+                    "Hex": "2CFF42"
+                  },
+                  "ParamName": "Color"
+                },
+                {
+                  "Value": {
+                    "R": 0.126441,
+                    "G": 0.422388,
+                    "B": 0.6,
+                    "A": 1.0,
+                    "Hex": "206C99"
+                  },
+                  "ParamName": "DarkColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/FX/P_Pirate_T3_BodyFX.P_Pirate_T3_BodyFX",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.188569,
+                    "G": 1.0,
+                    "B": 0.605138,
+                    "A": 1.0,
+                    "Hex": "30FF9A"
+                  },
+                  "ParamName": "Color"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage5"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "960512954ECDC48A84EBC2A66B89CC83",
+            "SourceString": "STAGE 5"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-PirateProgressive-T5Green.T-Variant-M-PirateProgressive-T5Green",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "E5406A6C4C88528987EB30A2DA7FAF67",
+            "SourceString": "Earn 160,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_PirateProgressive_T5.CP_Athena_Body_M_PirateProgressive_T5",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_PirateProgressive_T4.CP_M_MED_PirateProgressive_T4",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_PirateProgressive_T4.CP_Athena_Head_M_PirateProgressive_T4",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_FX.M_MED_Pirate_Progressive_FX",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.114928,
+                    "G": 0.80612,
+                    "B": 1.4,
+                    "A": 1.0,
+                    "Hex": "1DCE65"
+                  },
+                  "ParamName": "Color"
+                },
+                {
+                  "Value": {
+                    "R": 0.201766,
+                    "G": 0.181419,
+                    "B": 0.7,
+                    "A": 1.0,
+                    "Hex": "332EB2"
+                  },
+                  "ParamName": "DarkColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/FX/P_Pirate_T3_BodyFX.P_Pirate_T3_BodyFX",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.254098,
+                    "G": 0.825746,
+                    "B": 1.25,
+                    "A": 1.0,
+                    "Hex": "41D33F"
+                  },
+                  "ParamName": "Color"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage6"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "4B118A5B4585C60875CA9D8842625E2A",
+            "SourceString": "STAGE 6"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-PirateProgressive-T5Blue.T-Variant-M-PirateProgressive-T5Blue",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "1CC54D2841F1C47B4FD4E8BA73568BBB",
+            "SourceString": "Earn 200,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_PirateProgressive_T5.CP_Athena_Body_M_PirateProgressive_T5",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_PirateProgressive_T4.CP_M_MED_PirateProgressive_T4",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_PirateProgressive_T4.CP_Athena_Head_M_PirateProgressive_T4",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_FX.M_MED_Pirate_Progressive_FX",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.095975,
+                    "G": 0.311343,
+                    "B": 2.0,
+                    "A": 1.0,
+                    "Hex": "174FFE"
+                  },
+                  "ParamName": "Color"
+                },
+                {
+                  "Value": {
+                    "R": 0.14378,
+                    "G": 0.358533,
+                    "B": 0.8,
+                    "A": 1.0,
+                    "Hex": "255BCC"
+                  },
+                  "ParamName": "DarkColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/FX/P_Pirate_T3_BodyFX.P_Pirate_T3_BodyFX",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.545291,
+                    "G": 0.218749,
+                    "B": 1.5,
+                    "A": 1.0,
+                    "Hex": "8B387E"
+                  },
+                  "ParamName": "Color"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage7"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "A27B75404692DA029AC634A512FDFA76",
+            "SourceString": "STAGE 7"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-PirateProgressive-T5Purple.T-Variant-M-PirateProgressive-T5Purple",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "E8985A2A4BA2F4CFD7525584E95CB4AB",
+            "SourceString": "Earn 240,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_PirateProgressive_T5.CP_Athena_Body_M_PirateProgressive_T5",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_PirateProgressive_T4.CP_M_MED_PirateProgressive_T4",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_PirateProgressive_T4.CP_Athena_Head_M_PirateProgressive_T4",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_FX.M_MED_Pirate_Progressive_FX",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 3.5,
+                    "G": 1.437728,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "7C6F00"
+                  },
+                  "ParamName": "Color"
+                },
+                {
+                  "Value": {
+                    "R": 1.5,
+                    "G": 0.203124,
+                    "B": 0.829509,
+                    "A": 1.0,
+                    "Hex": "7E34D4"
+                  },
+                  "ParamName": "DakrColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/FX/P_Pirate_T3_BodyFX.P_Pirate_T3_BodyFX",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 2.0,
+                    "G": 0.719846,
+                    "B": 0.083333,
+                    "A": 1.0,
+                    "Hex": "FEB815"
+                  },
+                  "ParamName": "Color"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage8"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "2155E3434FC92E06578EFFBFDD842B54",
+            "SourceString": "STAGE 8"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-PirateProgressive-T5Orange.T-Variant-M-PirateProgressive-T5Orange",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "5CC318814973E15A0F9FDCBDD1ABE232",
+            "SourceString": "Earn 280,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "7E3DB7D4434CF5AB17CB11B6EDDE46B6",
+        "SourceString": "STAGE"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Jacket1_GM.M_MED_Pirate_Progressive_Jacket1_GM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Jacket23_GM.M_MED_Pirate_Progressive_Jacket23_GM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_LegsEtc_gm.M_MED_Pirate_Progressive_LegsEtc_GM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Legs_Hood_45.M_MED_Pirate_Progressive_Legs_Hood",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_WarmBlack.T_M_MED_Pirate_Progressive_Variant_WarmBlack",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Gold_2.T_M_MED_Pirate_Progressive_Variant_Gold",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Dirt_2.T_M_MED_Pirate_Progressive_Variant_Dirt",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Brown_Dark_Pants.T_M_MED_Pirate_Progressive_Variant_Brown_Dark_Pants",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Torso_45.M_MED_Pirate_Progressive_Torso",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Brown.T_M_MED_Pirate_Progressive_Variant_Brown",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Gold_2.T_M_MED_Pirate_Progressive_Variant_Gold",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Dirt_2.T_M_MED_Pirate_Progressive_Variant_Dirt",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_WarmBlack.T_M_MED_Pirate_Progressive_Variant_WarmBlack",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "0E4FFDA14828FFB66AD75DB68021A1AE",
+            "SourceString": "BROWN"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-347-Athena-Commando-M-PirateProgressive.T-Soldier-HID-347-Athena-Commando-M-PirateProgressive",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Legs_Hood_45.M_MED_Pirate_Progressive_Legs_Hood",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Legs_Hood_45_CLOTH.M_MED_Pirate_Progressive_Legs_Hood_45_CLOTH",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Torso_45.M_MED_Pirate_Progressive_Torso",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Torso_45_CLOTH.M_MED_Pirate_Progressive_Torso_45_CLOTH",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Jacket23_GM.M_MED_Pirate_Progressive_Jacket23_GM",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Jacket23_FUZZ.M_MED_Pirate_Progressive_Jacket23_FUZZ",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_LegsEtc_gm.M_MED_Pirate_Progressive_LegsEtc_GM",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_LegsEtc_Red_GM.M_MED_Pirate_Progressive_LegsEtc_Red_GM",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Jacket1_GM.M_MED_Pirate_Progressive_Jacket1_GM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_WarmBrown.T_M_MED_Pirate_Progressive_Variant_WarmBrown",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_MuteRed.T_M_MED_Pirate_Progressive_Variant_MuteRed",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Copper.T_M_MED_Pirate_Progressive_Variant_Copper",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Red.T_M_MED_Pirate_Progressive_Variant_Red",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/Gradient_Leather2_V1.Gradient_Leather2_V1",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_LegsEtc_Red_GM.M_MED_Pirate_Progressive_LegsEtc_Red_GM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "BDE247494E0A91B2B6CD21876E95B438",
+            "SourceString": "RED"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-PirateProgressive-V2-Red.T-Variant-M-PirateProgressive-V2-Red",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "934D0E7A440A231195E2A38C8E54B817",
+            "SourceString": "Complete 10 Weekly Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Legs_Hood_45.M_MED_Pirate_Progressive_Legs_Hood",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Legs_Hood_45_CLOTH.M_MED_Pirate_Progressive_Legs_Hood_45_CLOTH",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Torso_45.M_MED_Pirate_Progressive_Torso",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Torso_45_CLOTH.M_MED_Pirate_Progressive_Torso_45_CLOTH",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Jacket23_GM.M_MED_Pirate_Progressive_Jacket23_GM",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Jacket23_FUZZ.M_MED_Pirate_Progressive_Jacket23_FUZZ",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_LegsEtc_gm.M_MED_Pirate_Progressive_LegsEtc_GM",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_LegsEtc_Red_GM.M_MED_Pirate_Progressive_LegsEtc_Red_GM",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Jacket1_GM.M_MED_Pirate_Progressive_Jacket1_GM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Gray.T_M_MED_Pirate_Progressive_Variant_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Gray.T_M_MED_Pirate_Progressive_Variant_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Gold.T_M_MED_Pirate_Progressive_Variant_Gold",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Blue.T_M_MED_Pirate_Progressive_Variant_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_CoolBlack.T_M_MED_Pirate_Progressive_Variant_CoolBlack",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Jacket23_FUZZ.M_MED_Pirate_Progressive_Jacket23_FUZZ",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.064803,
+                    "G": 0.234551,
+                    "B": 0.686686,
+                    "A": 1.0,
+                    "Hex": "113CAF"
+                  },
+                  "ParamName": "Fuzz Tint G Channel"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Blue.T_M_MED_Pirate_Progressive_Variant_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Silver.T_M_MED_Pirate_Progressive_Variant_Silver",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Gold.T_M_MED_Pirate_Progressive_Variant_Gold",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Gray.T_M_MED_Pirate_Progressive_Variant_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_WarmBrown.T_M_MED_Pirate_Progressive_Variant_WarmBrown",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_LegsEtc_Red_GM.M_MED_Pirate_Progressive_LegsEtc_Red_GM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.064803,
+                    "G": 0.234551,
+                    "B": 0.686686,
+                    "A": 1.0,
+                    "Hex": "113CAF"
+                  },
+                  "ParamName": "Fuzz Tint B Channel"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/Gradient_Leather_V1.Gradient_Leather_V1",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Gray.T_M_MED_Pirate_Progressive_Variant_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Gold.T_M_MED_Pirate_Progressive_Variant_Gold",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Blue.T_M_MED_Pirate_Progressive_Variant_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Brownbeard.T_M_MED_Pirate_Progressive_Variant_Brownbeard",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Legs_Hood_45_CLOTH.M_MED_Pirate_Progressive_Legs_Hood_45_CLOTH",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.064803,
+                    "G": 0.234551,
+                    "B": 0.686686,
+                    "A": 1.0,
+                    "Hex": "113CAF"
+                  },
+                  "ParamName": "Fuzz Tint B Channel"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Blue.T_M_MED_Pirate_Progressive_Variant_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Gold.T_M_MED_Pirate_Progressive_Variant_Gold",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Dirt_2.T_M_MED_Pirate_Progressive_Variant_Dirt",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Brown_Pants.T_M_MED_Pirate_Progressive_Variant_Brown_Pants",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Torso_45_CLOTH.M_MED_Pirate_Progressive_Torso_45_CLOTH",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.064803,
+                    "G": 0.234551,
+                    "B": 0.686686,
+                    "A": 1.0,
+                    "Hex": "113CAF"
+                  },
+                  "ParamName": "Fuzz Tint B Channel"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Blue.T_M_MED_Pirate_Progressive_Variant_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Gold.T_M_MED_Pirate_Progressive_Variant_Gold",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Dirt_2.T_M_MED_Pirate_Progressive_Variant_Dirt",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Blue.T_M_MED_Pirate_Progressive_Variant_Blue",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "0652CECF4F3E73AD6BEAF0BEF6D85394",
+            "SourceString": "BLUE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-PirateProgressive-V3-Blue.T-Variant-M-PirateProgressive-V3-Blue",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "86E921204ABF464D7251248679A5A239",
+            "SourceString": "Complete 25 Weekly Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Jacket1_GM.M_MED_Pirate_Progressive_Jacket1_GM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Jacket_1_V4_GM.T_M_MED_Pirate_Progressive_Jacket_1_V4_GM",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer Mask"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_White.T_M_MED_Pirate_Progressive_Variant_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Gray.T_M_MED_Pirate_Progressive_Variant_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Silver.T_M_MED_Pirate_Progressive_Variant_Silver",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/Gradient_Cloth2_V1.Gradient_Cloth2_V1",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/Gradient_Leather2_V1.Gradient_Leather2_V1",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Jacket23_GM.M_MED_Pirate_Progressive_Jacket23_GM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Jacket_23_GM_White.T_M_MED_Pirate_Progressive_Jacket_23_GM_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer Mask"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_White.T_M_MED_Pirate_Progressive_Variant_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Silver.T_M_MED_Pirate_Progressive_Variant_Silver",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Silver.T_M_MED_Pirate_Progressive_Variant_Silver",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Gray.T_M_MED_Pirate_Progressive_Variant_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/Gradient_Leather2_V1.Gradient_Leather2_V1",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_LegsEtc_gm.M_MED_Pirate_Progressive_LegsEtc_GM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Black_Glove.T_M_MED_Pirate_Progressive_Variant_Black_Glove",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Gray.T_M_MED_Pirate_Progressive_Variant_Gray",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Silver.T_M_MED_Pirate_Progressive_Variant_Silver",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Dark_Hood.T_M_MED_Pirate_Progressive_Variant_Dark_Hood",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_White.T_M_MED_Pirate_Progressive_Variant_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Legs_Hood_45.M_MED_Pirate_Progressive_Legs_Hood",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Black_Glove.T_M_MED_Pirate_Progressive_Variant_Black_Glove",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Silver.T_M_MED_Pirate_Progressive_Variant_Silver",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Dirt_2.T_M_MED_Pirate_Progressive_Variant_Dirt",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Grey_Pants.T_M_MED_Pirate_Progressive_Variant_Grey_Pants",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Materials/M_MED_Pirate_Progressive_Torso_45.M_MED_Pirate_Progressive_Torso",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_WarmBlack.T_M_MED_Pirate_Progressive_Variant_WarmBlack",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Silver.T_M_MED_Pirate_Progressive_Variant_Silver",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_Dirt_2.T_M_MED_Pirate_Progressive_Variant_Dirt",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Pirate_Progressive/Textures/T_M_MED_Pirate_Progressive_Variant_White.T_M_MED_Pirate_Progressive_Variant_White",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "ED5254C74DFD8779F9DEB196BC28B735",
+            "SourceString": "WHITE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-PirateProgressive-V4-White.T-Variant-M-PirateProgressive-V4-White",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "1F8117404BCCB8A1BD8589A3782A7064",
+            "SourceString": "Complete 45 Weekly Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.ClothingColor"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "07D70F2F4B354A9D0C9C339CEBDF40D6",
+        "SourceString": "CLOTHING"
+      }
+    }
+  }
+]

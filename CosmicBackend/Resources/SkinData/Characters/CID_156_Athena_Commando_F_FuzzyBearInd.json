@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_156_Athena_Commando_F_FuzzyBearInd",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_156_Athena_Commando_F_FuzzyBearInd",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "DBD389D74BD7A6762A4E28A9B97A654E",
+        "SourceString": "Fireworks Team Leader"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "89FD3DCE430C4DD891F5389E75022CBB",
+        "SourceString": "Life, liberty, and the bear suit of happiness."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.StarsAndStripes",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.4"
+      ]
+    }
+  }
+]

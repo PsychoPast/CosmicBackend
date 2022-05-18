@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_947_Athena_Commando_M_Football20Referee",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_947_Athena_Commando_M_Football20Referee",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "F2E3D4274D04D88865C0149515E359CC",
+        "SourceString": "Fair Play"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "2D010A1244D8FCE557210F918391DC1B",
+        "SourceString": "Cheaters need not apply."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.FieldPals"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_947_Athena_Commando_M_Football20Referee_IN7EY.DA_Featured_CID_947_Athena_Commando_M_Football20Referee_IN7EY",
+        "SubPathString": null
+      }
+    }
+  }
+]

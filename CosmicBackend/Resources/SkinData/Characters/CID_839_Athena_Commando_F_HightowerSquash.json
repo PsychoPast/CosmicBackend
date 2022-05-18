@@ -1,0 +1,531 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_839_Athena_Commando_F_HightowerSquash",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_839_Athena_Commando_F_HightowerSquash",
+          "OuterIndex": 0
+        }
+      },
+      "RequiredCosmeticItems": [
+        {
+          "ObjectName": "BID_593_HightowerSquash",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Items/Cosmetics/Backpacks/BID_593_HightowerSquash",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "FoleyLibraries": [
+        {
+          "ObjectName": "FoleyLib_Hightower_Squash_C",
+          "OuterIndex": {
+            "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/Hightower/Squash/FoleyLib_Hightower_Squash",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ObservedPlayerStats": [
+        "StatManager.AthenaKills"
+      ],
+      "BuiltInEmotes": [
+        {
+          "ObjectName": "EID_HightowerSquash",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Items/Cosmetics/Dances/EID_HightowerSquash",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_839_Athena_Commando_F_HightowerSquash",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "E9B56FCB40A88B16ABD68EB2EE667BC1",
+        "SourceString": "Storm"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "E70645644E8F79039C06BEB5490686F7",
+        "SourceString": "Goddess of the Elements."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season14.BattlePass.Paid",
+        "Cosmetics.Exclusives.HightowerSquash",
+        "Cosmetics.QuestsMetaData.Awakening.HightowerSquash",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Set.ComedyElbow",
+        "Cosmetics.Filter.Season.14"
+      ],
+      "Series": {
+        "ObjectName": "MarvelSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/MarvelSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "AA9F3F214DA8FC4881FA70881C06273F",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-839-Athena-Commando-F-HightowerSquash-L.T-Soldier-HID-839-Athena-Commando-F-HightowerSquash-L",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_HightowerSquash_Punk.CP_Body_Commando_F_HightowerSquash_Punk",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_HightowerSquash_Punk.CP_F_MED_HightowerSquash_Punk",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Head.F_MED_HighTower_Squash_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash_Punk/Materials/F_MED_HighTower_Squash_Punk_Head.F_MED_HighTower_Squash_Punk_Head",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Hightower_Squash/Materials/F_MED_HighTower_Squash_Backpack.F_MED_HighTower_Squash_Backpack",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_HighTower_Squash_Black/Materials/F_MED_HighTower_Squash_Black_Backpack.F_MED_HighTower_Squash_Black_Backpack",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Hightower_Squash/Materials/F_MED_HighTower_Squash_Backpack_Masked.F_MED_HighTower_Squash_Backpack_Masked",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_HighTower_Squash_Black/Materials/F_MED_HighTower_Squash_Black_Backpack.F_MED_HighTower_Squash_Black_Backpack",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "14CAFE2A47D01450455F67876AD88684",
+            "SourceString": "PUNK STORM"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-839-FHighTower-Squash-Punk.T-Variant-839-FHighTower-Squash-Punk",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Body.F_MED_HighTower_Squash_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Body_SL_Silver.F_MED_HighTower_Squash_Body_SL_Silver",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Head.F_MED_HighTower_Squash_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Head_SL_Silver.F_MED_HighTower_Squash_Head_SL_Silver",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Hair.F_MED_HighTower_Squash_Hair",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Hair_SL_Silver.F_MED_HighTower_Squash_Hair_SL_Silver",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Hightower_Squash/Materials/F_MED_HighTower_Squash_Backpack.F_MED_HighTower_Squash_Backpack",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Hightower_Squash/Materials/F_MED_HighTower_Squash_Backpack_SL_Silver.F_MED_HighTower_Squash_Backpack_SL_Silver",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Hightower_Squash/Materials/F_MED_HighTower_Squash_Backpack_Masked.F_MED_HighTower_Squash_Backpack_Masked",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Hightower_Squash/Materials/F_MED_HighTower_Squash_Backpack_SL_Silver_Masked.F_MED_HighTower_Squash_Backpack_SL_Silver_Masked",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "18B317E440BE41546D3B7DAC29BE5979",
+            "SourceString": "SILVER FOIL"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-839-F-HighTowerSquash-Silver.T-Variant-839-F-HighTowerSquash-Silver",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Body.F_MED_HighTower_Squash_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Body_SL_Gold.F_MED_HighTower_Squash_Body_SL_Gold",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Head.F_MED_HighTower_Squash_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Head_SL_Gold.F_MED_HighTower_Squash_Head_SL_Gold",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Hair.F_MED_HighTower_Squash_Hair",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Hair_SL_Gold.F_MED_HighTower_Squash_Hair_SL_Gold",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Hightower_Squash/Materials/F_MED_HighTower_Squash_Backpack.F_MED_HighTower_Squash_Backpack",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Hightower_Squash/Materials/F_MED_HighTower_Squash_Backpack_SL_Gold.F_MED_HighTower_Squash_Backpack_SL_Gold",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Hightower_Squash/Materials/F_MED_HighTower_Squash_Backpack_Masked.F_MED_HighTower_Squash_Backpack_Masked",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Hightower_Squash/Materials/F_MED_HighTower_Squash_Backpack_SL_Gold_Masked.F_MED_HighTower_Squash_Backpack_SL_Gold_Masked",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "2FB8F02B4FCA88BF08A6E4B71E65B6B7",
+            "SourceString": "GOLD FOIL"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-839-F-HighTowerSquash-Gold.T-Variant-839-F-HighTowerSquash-Gold",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Body.F_MED_HighTower_Squash_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Body_SL_PROTO.F_MED_HighTower_Squash_Body_SL_PROTO",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Hair.F_MED_HighTower_Squash_Hair",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Hair_SL_HoloFoil.F_MED_HighTower_Squash_Hair_SL_HoloFoil",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Head.F_MED_HighTower_Squash_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_HighTower_Squash/Materials/F_MED_HighTower_Squash_Head_SL_HoloFoil.F_MED_HighTower_Squash_Head_SL_HoloFoil",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Hightower_Squash/Materials/F_MED_HighTower_Squash_Backpack.F_MED_HighTower_Squash_Backpack",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Hightower_Squash/Materials/F_MED_HighTower_Squash_Backpack_SL_HoloFoil.F_MED_HighTower_Squash_Backpack_SL_HoloFoil",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Hightower_Squash/Materials/F_MED_HighTower_Squash_Backpack_Masked.F_MED_HighTower_Squash_Backpack_Masked",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Hightower_Squash/Materials/F_MED_HighTower_Squash_Backpack_SL_HoloFoil_Masked.F_MED_HighTower_Squash_Backpack_SL_HoloFoil_Masked",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage5"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "878D8D994CA6BDFF5CC0EFB627182B26",
+            "SourceString": "HOLO FOIL"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-839-F-HighTowerSquash-Holo.T-Variant-839-F-HighTowerSquash-Holo",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "522E120E4692622F9722DF9E8FB2CF78",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

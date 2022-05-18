@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_021_Athena_Commando_F",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_021_Athena_Commando_F",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "E018B14B44921AF0F5707191E25E1D28",
+        "SourceString": "Brawler"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "EDA87E9F4E3B46CAE4D073AF1555A6B5",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "FDCD0B6B45932C9510E980A1DEF2B19B",
+        "SourceString": "Rare brawler outfit. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.1"
+      ]
+    }
+  }
+]

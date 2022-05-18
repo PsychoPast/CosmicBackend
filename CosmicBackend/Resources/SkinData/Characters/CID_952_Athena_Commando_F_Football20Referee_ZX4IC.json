@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_952_Athena_Commando_F_Football20Referee",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_952_Athena_Commando_F_Football20Referee",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "4A0D2E8F4EFB394F114955B1C6EFC92E",
+        "SourceString": "Huddle Hero"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "DC12D3974071B0C5F6C71895B1F01561",
+        "SourceString": "Nothing escapes her eye."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.FieldPals"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_952_Athena_Commando_F_Football20Referee_ZX4IC.DA_Featured_CID_952_Athena_Commando_F_Football20Referee_ZX4IC",
+        "SubPathString": null
+      }
+    }
+  }
+]

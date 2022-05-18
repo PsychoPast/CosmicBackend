@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_023_Athena_Commando_F",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_023_Athena_Commando_F",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "AAB75EA848AB8D44BE367B9321EF33A5",
+        "SourceString": "Munitions Expert"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "3A4440284A264487DAC2288E0B36ECDF",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "53C9DACF4461747CEEBFF9842EAA0C91",
+        "SourceString": "Rare munitions expert outfit. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.1"
+      ]
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_197_Athena_Commando_F_Biker",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_197_Athena_Commando_F_Biker",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "D4A47E724C96125DB7C296BAEE923CEA",
+        "SourceString": "Chopper"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "2E4BCD4B4AB33D5AA77B2FA76D5C95E6",
+        "SourceString": "No one crosses Chopper and rides away."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Biker",
+        "Cosmetics.Filter.Season.5"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_197_Athena_Commando_F_Biker.DA_Featured_CID_197_Athena_Commando_F_Biker",
+        "SubPathString": null
+      }
+    }
+  }
+]

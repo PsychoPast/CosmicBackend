@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_806_Athena_Commando_F_GreenJacket",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_806_Athena_Commando_F_GreenJacket",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "0C4EBF674B6C6DAFEA1772AF3B798CF1",
+        "SourceString": "Kyra"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "B07706CE42D59DD5D6B2D0A0073BE5DB",
+        "SourceString": "Never afraid to stand out."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Slam",
+        "Cosmetics.Filter.Season.14"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_806_Athena_Commando_F_GreenJacket.DA_Featured_CID_806_Athena_Commando_F_GreenJacket",
+        "SubPathString": null
+      }
+    }
+  }
+]

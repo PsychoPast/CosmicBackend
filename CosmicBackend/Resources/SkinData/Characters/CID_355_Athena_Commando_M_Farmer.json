@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_355_Athena_Commando_M_Farmer",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_355_Athena_Commando_M_Farmer",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "6462C9A7440918B5AFEC319BA083996A",
+        "SourceString": "Hayseed"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "5ED17FDC4D4C5C9A494E1E91443F7F3A",
+        "SourceString": "Roll up your sleeves and battle the field."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Farmer",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_355_Athena_Commando_M_Farmer.DA_Featured_CID_355_Athena_Commando_M_Farmer",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_472_Athena_Commando_F_CyberKarate",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_472_Athena_Commando_F_CyberKarate",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "7DBECD25422CDF7908F1D4B7BBEEBE76",
+        "SourceString": "Tsuki"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "B9855EA246B6A32F1BA683B2BB46E9DB",
+        "SourceString": "Unpredictable and unforgiving."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.CyberKarate",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_472_Athena_Commando_F_CyberKarate.DA_Featured_CID_472_Athena_Commando_F_CyberKarate",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,454 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_776_Athena_Commando_M_ProfessorPup",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_776_Athena_Commando_M_ProfessorPup",
+          "OuterIndex": 0
+        }
+      },
+      "BuiltInEmotes": [
+        {
+          "ObjectName": "EID_ProfessorPup",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Items/Cosmetics/Dances/EID_ProfessorPup",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_776_Athena_Commando_M_ProfessorPup",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 5.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 5.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "467F06B844A89D21B18724B0A3501553",
+        "SourceString": "Kit"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "AF9D48FB4D38513B3E05FAB085A62D1B",
+        "SourceString": "Proudly following in his father's pawprints."
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Source.Season13.BattlePass.Paid",
+        "Cosmetics.QuestsMetaData.Outfit.ProfessorPup",
+        "Cosmetics.UserFacingFlags.BuiltInEmote",
+        "UI.ItemPreview.NewTech.Pup",
+        "Cosmetics.Set.MechDoggo",
+        "Cosmetics.UserFacingFlags.Reactive"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [
+            {
+              "ParamGroupTag": {
+                "TagName": "GameplayVFX.CCPM.Body"
+              },
+              "ParticleToOverride": {
+                "FXType": "EFXType::Skin",
+                "NiagaraVersion": {
+                  "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ProfessorPup/NS_ProfessorPup_Neutral.NS_ProfessorPup_Neutral",
+                  "SubPathString": null
+                },
+                "CascadeVersion": {
+                  "AssetPathName": "None",
+                  "SubPathString": null
+                }
+              }
+            }
+          ],
+          "VariantAlteredParticleParams": [
+            {
+              "ParamGroupTag": {
+                "TagName": "GameplayVFX.CCPM.Head"
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 3.0,
+                    "G": 2.404243,
+                    "B": 0.337432,
+                    "A": 1.0,
+                    "Hex": "FD6556"
+                  },
+                  "ParamName": "User.LightColor"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "1CE4C82C4562344FCB39CC8D1F0C7F44",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-776-Athena-Commando-M-ProfessorPup.T-Soldier-HID-776-Athena-Commando-M-ProfessorPup",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_LRG_ProfessorPup_Good.CP_M_LRG_ProfessorPup_Good",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Professor_Pup/Materials/Neutral/Cat_Body_Neutral.Cat_Body_Neutral",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Professor_Pup/Materials/Good/Cat_Body_Good.Cat_Body_Good",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Professor_Pup/Materials/Neutral/Body_Neutral.Body_Neutral",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Professor_Pup/Materials/Good/Body_Good.Body_Good",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Professor_Pup/Materials/Dark/Treadmill_Dark.Treadmill_Dark",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Professor_Pup/Materials/Good/Treadmill_Good.Treadmill_Good",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ProfessorPup/MI_ProfessorPup_LightCone.MI_ProfessorPup_LightCone",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": "Color",
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.96875,
+                    "G": 2.547677,
+                    "B": 3.0,
+                    "A": 1.0,
+                    "Hex": "F68AFD"
+                  },
+                  "ParamName": "Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [
+            {
+              "ParamGroupTag": {
+                "TagName": "GameplayVFX.CCPM.Body"
+              },
+              "ParticleToOverride": {
+                "FXType": "EFXType::Skin",
+                "NiagaraVersion": {
+                  "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ProfessorPup/NS_ProfessorPup_Good.NS_ProfessorPup_Good",
+                  "SubPathString": null
+                },
+                "CascadeVersion": {
+                  "AssetPathName": "None",
+                  "SubPathString": null
+                }
+              }
+            }
+          ],
+          "VariantAlteredParticleParams": [
+            {
+              "ParamGroupTag": {
+                "TagName": "GameplayVFX.CCPM.Head"
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.96875,
+                    "G": 2.547677,
+                    "B": 3.0,
+                    "A": 1.0,
+                    "Hex": "F68AFD"
+                  },
+                  "ParamName": "User.LightColor"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "7988AC084CA63796550243840F2635F8",
+            "SourceString": "HAPPY KIT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-776-M-ProfessorPup-Good.T-Variant-776-M-ProfessorPup-Good",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_LRG_ProfessorPup_Bad.CP_M_LRG_ProfessorPup_Bad",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Professor_Pup/Materials/Neutral/Cat_Body_Neutral.Cat_Body_Neutral",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Professor_Pup/Materials/Dark/Cat_Body_Dark.Cat_Body_Dark",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Professor_Pup/Materials/Neutral/Body_Neutral.Body_Neutral",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Professor_Pup/Materials/Dark/Body_Dark.Body_Dark",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ProfessorPup/MI_ProfessorPup_LightCone.MI_ProfessorPup_LightCone",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 3.0,
+                    "G": 2.024301,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FD0400"
+                  },
+                  "ParamName": "Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [
+            {
+              "ParamGroupTag": {
+                "TagName": "GameplayVFX.CCPM.Body"
+              },
+              "ParticleToOverride": {
+                "FXType": "EFXType::Skin",
+                "NiagaraVersion": {
+                  "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ProfessorPup/NS_ProfessorPup_Bad.NS_ProfessorPup_Bad",
+                  "SubPathString": null
+                },
+                "CascadeVersion": {
+                  "AssetPathName": "None",
+                  "SubPathString": null
+                }
+              }
+            }
+          ],
+          "VariantAlteredParticleParams": [
+            {
+              "ParamGroupTag": {
+                "TagName": "GameplayVFX.CCPM.Head"
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 3.0,
+                    "G": 2.024301,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FD0400"
+                  },
+                  "ParamName": "User.LightColor"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "8CF321164BF9637172C30AB13AAB50A6",
+            "SourceString": "ACTION KIT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-776-M-ProfessorPup-Bad.T-Variant-776-M-ProfessorPup-Bad",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "13F6C5CA44C77473B90D0182A5F3E261",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

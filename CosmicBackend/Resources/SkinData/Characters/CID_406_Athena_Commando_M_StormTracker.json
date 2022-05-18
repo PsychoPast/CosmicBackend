@@ -1,0 +1,237 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_406_Athena_Commando_M_StormTracker",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_406_Athena_Commando_M_StormTracker",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticParticleVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_406_Athena_Commando_M_StormTracker",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "C787661946D43779D48E0DBCCE0B3A9F",
+        "SourceString": "Stratus"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "71734CAB4CD6A3256E6EC9B8D5A3C1CD",
+        "SourceString": "Venture into the eye of danger."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season9.BattlePass.Paid",
+        "Cosmetics.Set.StormTracker",
+        "Cosmetics.UserFacingFlags.Reactive",
+        "Cosmetics.QuestsMetaData.Glyph.Outfit.StormTracker",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Filter.Season.9"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticParticleVariant",
+    "ExportValue": {
+      "ParticleOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "26E3B33240D389836A702CB675A40296",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-406-Athena-Commando-M-StormTracker.T-Soldier-HID-406-Athena-Commando-M-StormTracker",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Storm_Tracker_FaceAcc/Materials/M_MED_Storm_Tracker_FaceAcc.M_MED_Storm_Tracker_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/Hats/M_MED_Storm_Tracker_FaceAcc/Textures/Skins/Orange/Materials/M_MED_Storm_Tracker_Orange_FaceAcc.M_MED_Storm_Tracker_Orange_FaceAcc",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Storm_Tracker/Materials/M_MED_Storm_Tracker_body.M_MED_Storm_Tracker_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Storm_Tracker/Textures/Skins/Orange/Materials/M_MED_Storm_Tracker_Orange_Body.M_MED_Storm_Tracker_Orange_Body",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/M_MED_StormTracker_Backpack/Materials/M_StormTrackerScreen_Inst_Wrist.M_StormTrackerScreen_Inst_Wrist",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Accessories/FORT_Backpacks/M_MED_StormTracker_Backpack/Materials/M_StormTrackerOrangeScreenWrist.M_StormTrackerOrangeScreenWrist",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Materials/M_MED_BLK_Sydney_Head_01_NORIM.M_MED_BLK_Sydney_Head_01_NORIM",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Storm_Tracker/Textures/Skins/Orange/Textures/T_M_MED_StormTracker_Orange_Head_D.T_M_MED_StormTracker_Orange_Head_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Storm_Tracker/Textures/Skins/Orange/Textures/T_M_MED_StormTracker_Orange_Head_N.T_M_MED_StormTracker_Orange_Head_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Normals"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Storm_Tracker/Textures/Skins/Orange/Textures/T_M_MED_StormTracker_Orange_Head_S.T_M_MED_StormTracker_Orange_Head_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Storm_Tracker/FX/P_Male_StormTracker_Light.P_Male_StormTracker_Light",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Storm_Tracker/FX/P_Male_StormTracker_Orange.P_Male_StormTracker_Orange",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantParticleParams": [],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "3F3CDD2C487785C216E2C19C47CE7561",
+            "SourceString": "RED"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-StormTracker-Orange.T-Variant-M-StormTracker-Orange",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "B1FBCA4546973162E27E12A1CBEE3D32",
+            "SourceString": "During Season 9 Complete 6 Overtime Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "D48C8A7F44E44BBC793729983C2D4E1D",
+        "SourceString": "COLOR"
+      }
+    }
+  }
+]

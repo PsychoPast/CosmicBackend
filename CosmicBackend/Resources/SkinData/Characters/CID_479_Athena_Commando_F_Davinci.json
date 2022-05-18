@@ -1,0 +1,50 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_479_Athena_Commando_F_Davinci",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_479_Athena_Commando_F_Davinci",
+          "OuterIndex": 0
+        }
+      },
+      "BuiltInEmotes": [
+        {
+          "ObjectName": "EID_Davinci",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Items/Cosmetics/Dances/EID_Davinci",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "E5C7636C4B2136CFB08F269F167FABD4",
+        "SourceString": "Glow"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "7E471DD948889A73BDAA868C8E2FAB59",
+        "SourceString": "The aura of victory glows bright."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Promo",
+        "Cosmetics.Set.DarkEagle",
+        "Cosmetics.UserFacingFlags.BuiltInEmote",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_479_Athena_Commando_F_Davinci.DA_Featured_CID_479_Athena_Commando_F_Davinci",
+        "SubPathString": null
+      }
+    }
+  }
+]

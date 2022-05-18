@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_340_Athena_Commando_F_RobotTrouble",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_340_Athena_Commando_F_RobotTrouble",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "BD2BC362495CA978803E8595281118FC",
+        "SourceString": "Rebel"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "40717C0446F9A76CFF05B38F85DA0716",
+        "SourceString": "Oppose the establishment."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.RobotTrouble",
+        "Cosmetics.Filter.Season.7"
+      ]
+    }
+  }
+]

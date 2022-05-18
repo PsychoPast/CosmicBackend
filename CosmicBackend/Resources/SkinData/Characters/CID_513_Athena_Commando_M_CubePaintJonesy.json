@@ -1,0 +1,41 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_513_Athena_Commando_M_CubePaintJonesy",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_513_Athena_Commando_M_CubePaintJonesy",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "07C3514E4CF7B5E6F6BB9D8A2F9001AB",
+        "SourceString": "Dark Jonesy"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "4CE3A3FD458EB6D2D8E1A58E5C039A91",
+        "SourceString": "He has seen beyond the darkness..."
+      },
+      "GameplayTags": [
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "Series": {
+        "ObjectName": "CUBESeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/CUBESeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_324_Athena_Commando_F_Barbarian",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_324_Athena_Commando_F_Barbarian",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "403C12CB4DCD863B56A0EABA160ADA85",
+        "SourceString": "Fyra"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "E42BD7DF4ACB2BA09F70FEB71861D8EA",
+        "SourceString": "Lives for the chase."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Barbarian",
+        "Cosmetics.Filter.Season.7"
+      ]
+    }
+  }
+]

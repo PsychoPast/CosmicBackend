@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_008_Athena_Commando_M",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_008_Athena_Commando_M",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Common",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "3CC5A84E4F943A39AE07B6A282DE9662",
+        "SourceString": "Recruit"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "851C5EA54B7517A6CFBD37A4C7749110",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "3097825244B963695A78B196FE3C0BA9",
+        "SourceString": "Standard issue combatant outfit. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.DefaultItem",
+        "Cosmetics.Filter.Season.1"
+      ]
+    }
+  }
+]

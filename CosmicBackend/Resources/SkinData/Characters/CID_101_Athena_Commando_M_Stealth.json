@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_101_Athena_Commando_M_Stealth",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_101_Athena_Commando_M_Stealth",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A343F9CC44655A53D483CBA30F567804",
+        "SourceString": "Midnight Ops"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "78C1C63947BFEA6B13B4F0B97EC6C1AE",
+        "SourceString": "Strike by night."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.StealthSyndicate",
+        "Cosmetics.Filter.Season.3"
+      ]
+    }
+  }
+]

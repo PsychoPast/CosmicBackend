@@ -1,0 +1,33 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_046_Athena_Commando_F_HolidaySweater",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_046_Athena_Commando_F_HolidaySweater",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A29287BC4D5F1A7D13006BB87458BCF9",
+        "SourceString": "Nog Ops"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "EBE0ACB646CEC4DA35CC17BACBA3652F",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "FADD77A04BD8D82AB0CF8A8ADFAA1564",
+        "SourceString": "Have yourself a merry little skirmish."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.1"
+      ]
+    }
+  }
+]

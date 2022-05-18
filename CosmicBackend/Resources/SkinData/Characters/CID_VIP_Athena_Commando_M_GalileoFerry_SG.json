@@ -1,0 +1,47 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_VIP_Athena_Commando_M_GalileoFerry_SG",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_VIP_Athena_Commando_M_GalileoFerry_SG",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "214E79864BF6A7E0353202B62C57CEAC",
+        "SourceString": "Set_01_LA_SG"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "A4FDF71A4AE124A8235750A42DF60A2F",
+        "SourceString": "Set_01_LB"
+      },
+      "GameplayTags": [
+        "Cosmetics.QuestsMetaData.Outfit.Galileo.Ferry",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.LatestTerminal"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_633_Athena_Commando_M_GalileoFerry_T1PM2.DA_Featured_CID_633_Athena_Commando_M_GalileoFerry_T1PM2",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "ColumbusSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/ColumbusSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

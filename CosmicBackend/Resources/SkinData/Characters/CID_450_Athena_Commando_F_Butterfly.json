@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_450_Athena_Commando_F_Butterfly",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_450_Athena_Commando_F_Butterfly",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "27EAD5724A3664D07844F18057872CD3",
+        "SourceString": "Flutter"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "A117D0BC484A7D5DF37CB0A4426ED9DB",
+        "SourceString": "Take flight. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Butterfly",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_450_Athena_Commando_F_Butterfly.DA_Featured_CID_450_Athena_Commando_F_Butterfly",
+        "SubPathString": null
+      }
+    }
+  }
+]

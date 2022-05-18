@@ -1,0 +1,47 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_631_Athena_Commando_M_GalileoKayak",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_631_Athena_Commando_M_GalileoKayak",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "DD0DA2484FAD04372321DA818487F235",
+        "SourceString": "Kylo Ren"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "585328284D9A95D6904A179E17773F31",
+        "SourceString": "Supreme Leader of the First Order."
+      },
+      "GameplayTags": [
+        "Cosmetics.QuestsMetaData.Outfit.Galileo.Kayak",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.LatestTerminal"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_631_Athena_Commando_M_GalileoKayak_YARBL.DA_Featured_CID_631_Athena_Commando_M_GalileoKayak_YARBL",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "ColumbusSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/ColumbusSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_040_Athena_Commando_M_District",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_040_Athena_Commando_M_District",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B49B393048E4F168D6CB9E902F916878",
+        "SourceString": "Devastator"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "1F2B86B64E960100D7F8E285DE9E50A2",
+        "SourceString": "Dominate the eye of the storm."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.StormFusion",
+        "Cosmetics.Filter.Season.1"
+      ]
+    }
+  }
+]

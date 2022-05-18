@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_552_Athena_Commando_F_TaxiUpgrade",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_552_Athena_Commando_F_TaxiUpgrade",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "561A818345B9EF45E2C57F8F94A65C0C",
+        "SourceString": "Slingshot"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "B10D3CBE44329DB8A99C2A8618E1F702",
+        "SourceString": "Race to win. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Taxi",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_552_Athena_Commando_F_TaxiUpgrade.DA_Featured_CID_552_Athena_Commando_F_TaxiUpgrade",
+        "SubPathString": null
+      }
+    }
+  }
+]

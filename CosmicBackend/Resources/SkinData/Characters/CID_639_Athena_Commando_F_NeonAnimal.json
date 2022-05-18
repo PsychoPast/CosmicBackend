@@ -1,0 +1,429 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_639_Athena_Commando_F_NeonAnimal",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_639_Athena_Commando_F_NeonAnimal",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_639_Athena_Commando_F_NeonAnimal",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage4"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "8E17C83845711A821A0CB3A5A0ECD5E4",
+        "SourceString": "Bunnywolf"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "0B7624E54A824EE96A9702B36BCECA77",
+        "SourceString": "Your animal power glows through."
+      },
+      "GameplayTags": [
+        "Cosmetics.Variant.ForceLoadAllParts",
+        "Cosmetics.UserFacingFlags.Reactive",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.ColoredForest",
+        "Cosmetics.Filter.Season.12",
+        "Cosmetics.UserFacingFlags.HasVariants"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_639_Athena_Commando_F_NeonAnimal.DA_Featured_CID_639_Athena_Commando_F_NeonAnimal",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rebirth_Soldier/Skins/NeonAnimal/Materials/F_MED_NeonAnimal_Body.F_MED_NeonAnimal_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 1.917871,
+                    "B": 4.0,
+                    "A": 1.0,
+                    "Hex": "00E9FC"
+                  },
+                  "ParamName": "CoreColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.115731,
+                    "G": 0.0,
+                    "B": 0.609375,
+                    "A": 1.0,
+                    "Hex": "1E009B"
+                  },
+                  "ParamName": "Gem Slight Glow Color"
+                },
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.171109,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "002CFF"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "01D598AA447529CBB9745981EEA2C4A6",
+            "SourceString": "REACTIVE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-639-Athena-Commando-F-NeonAnimal.T-Soldier-HID-639-Athena-Commando-F-NeonAnimal",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Common/CP_Head_Med_Empty.CP_Head_Med_Empty",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_NeonAnimal_FaceAcc_T2.CP_F_MED_NeonAnimal_FaceAcc_T2",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rebirth_Soldier/Skins/NeonAnimal/Materials/F_MED_NeonAnimal_Body.F_MED_NeonAnimal_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 1.917871,
+                    "B": 4.0,
+                    "A": 1.0,
+                    "Hex": "00E9FC"
+                  },
+                  "ParamName": "CoreColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.083333,
+                    "G": 0.00217,
+                    "B": 0.027325,
+                    "A": 1.0,
+                    "Hex": "150107"
+                  },
+                  "ParamName": "Gem Slight Glow Color"
+                },
+                {
+                  "Value": {
+                    "R": 1.5,
+                    "G": 0.244932,
+                    "B": 0.639988,
+                    "A": 1.0,
+                    "Hex": "7E3EA3"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": null,
+          "PreviewImage": {
+            "AssetPathName": "/Game/Athena/Prototype/Textures/Cosmetic_Placeholder_Icons/T_BID_NeonAnimalFemale_Placeholder.T_BID_NeonAnimalFemale_Placeholder",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_NeonAnimal_NoCCPM.CP_Body_Commando_F_NeonAnimal_NoCCPM",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_NeonAnimal_FaceAcc_NoCCPM.CP_F_MED_NeonAnimal_FaceAcc_NoCCPM",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rebirth_Soldier/Skins/NeonAnimal/Materials/F_MED_NeonAnimal_Body.F_MED_NeonAnimal_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 1.917871,
+                    "B": 4.0,
+                    "A": 1.0,
+                    "Hex": "00E9FC"
+                  },
+                  "ParamName": "CoreColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.115731,
+                    "G": 0.0,
+                    "B": 0.609375,
+                    "A": 1.0,
+                    "Hex": "1E009B"
+                  },
+                  "ParamName": "Gem Slight Glow Color"
+                },
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.171109,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "002CFF"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "B8F15DF24FCDAD64E37D53AB0AEA9C72",
+            "SourceString": "NEON BUNNY"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-639-Athena-Commando-F-NeonAnimal.T-Soldier-HID-639-Athena-Commando-F-NeonAnimal",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Common/CP_Head_Med_Empty.CP_Head_Med_Empty",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_NeonAnimal_FaceAcc_T2_NoCCPM.CP_F_MED_NeonAnimal_FaceAcc_T2_NoCCPM",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_NeonAnimal_NoCCPM.CP_Body_Commando_F_NeonAnimal_NoCCPM",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rebirth_Soldier/Skins/NeonAnimal/Materials/F_MED_NeonAnimal_Body.F_MED_NeonAnimal_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 1.917871,
+                    "B": 4.0,
+                    "A": 1.0,
+                    "Hex": "00E9FC"
+                  },
+                  "ParamName": "CoreColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.083333,
+                    "G": 0.00217,
+                    "B": 0.027325,
+                    "A": 1.0,
+                    "Hex": "150107"
+                  },
+                  "ParamName": "Gem Slight Glow Color"
+                },
+                {
+                  "Value": {
+                    "R": 1.5,
+                    "G": 0.244932,
+                    "B": 0.639988,
+                    "A": 1.0,
+                    "Hex": "7E3EA3"
+                  },
+                  "ParamName": "EmissiveColor"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E65686B94B0F2AEF0011C688413C09D8",
+            "SourceString": "NEON WOLF"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-639-NeonAnimal-Wolf.T-Variant-639-NeonAnimal-Wolf",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Parts"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "819AE55D4FA4AA8E4416BB85F6170450",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

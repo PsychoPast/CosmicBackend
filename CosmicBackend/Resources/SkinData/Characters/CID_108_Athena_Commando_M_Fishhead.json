@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_108_Athena_Commando_M_Fishhead",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_108_Athena_Commando_M_Fishhead",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "C43C31204CA44B66CB8AA2893DA87E94",
+        "SourceString": "Leviathan"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "BED7123B47170D08EC1135BEE970EA43",
+        "SourceString": "Call me fishman."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.SpaceExplorers",
+        "Cosmetics.Filter.Season.3"
+      ]
+    }
+  }
+]

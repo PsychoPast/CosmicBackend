@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_798_Athena_Commando_M_JonesyVagabond",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_798_Athena_Commando_M_JonesyVagabond",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "CC121DEB428DD51C9DF2FAA6B2775092",
+        "SourceString": "Relaxed Fit Jonesy"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "7F4298574F317C5555A64D98DB3F5EC3",
+        "SourceString": "Victory or whatever else you've got, he's not picky."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.CasualSize"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_798_Athena_Commando_M_JonesyVagabond.DA_Featured_CID_798_Athena_Commando_M_JonesyVagabond",
+        "SubPathString": null
+      }
+    }
+  }
+]

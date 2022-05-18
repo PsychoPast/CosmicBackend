@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_491_Athena_Commando_M_BoneWasp",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_491_Athena_Commando_M_BoneWasp",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "97E2E92A48032F7B63F90FADBC6A549E",
+        "SourceString": "Bone Wasp"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "C50EDB9345700E15613A47A71C0C1753",
+        "SourceString": "Beware the wasp."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.BoneWasp",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_491_Athena_Commando_M_BoneWasp.DA_Featured_CID_491_Athena_Commando_M_BoneWasp",
+        "SubPathString": null
+      }
+    }
+  }
+]

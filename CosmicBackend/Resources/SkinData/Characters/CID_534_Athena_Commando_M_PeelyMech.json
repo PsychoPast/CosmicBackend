@@ -1,0 +1,44 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_534_Athena_Commando_M_PeelyMech",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_534_Athena_Commando_M_PeelyMech",
+          "OuterIndex": 0
+        }
+      },
+      "BuiltInEmotes": [
+        {
+          "ObjectName": "EID_MechPeely",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Items/Cosmetics/Dances/EID_MechPeely",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "ECA45D934B6A827173AE718652B00124",
+        "SourceString": "P-1000"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "9C88C9104051D93642D8C8ACE1F175B5",
+        "SourceString": "Peely-powered combat banandroid."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.BunkerMan",
+        "Cosmetics.UserFacingFlags.BuiltInEmote",
+        "Cosmetics.Filter.Season.10"
+      ]
+    }
+  }
+]

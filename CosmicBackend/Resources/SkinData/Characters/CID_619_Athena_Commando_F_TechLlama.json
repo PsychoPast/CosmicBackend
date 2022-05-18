@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_619_Athena_Commando_F_TechLlama",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_619_Athena_Commando_F_TechLlama",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "CEF219F74BBEA48099A39494FE4A4BE7",
+        "SourceString": "Brilliant Bomber"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "A90CE2B944798685936F128FE3B77C38",
+        "SourceString": "Show your shine. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.SunshineAndRainbows"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_619_Athena_Commando_F_TechLlama.DA_Featured_CID_619_Athena_Commando_F_TechLlama",
+        "SubPathString": null
+      }
+    }
+  }
+]

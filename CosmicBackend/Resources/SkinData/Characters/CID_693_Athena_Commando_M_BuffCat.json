@@ -1,0 +1,404 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_693_Athena_Commando_M_BuffCat",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_693_Athena_Commando_M_BuffCat",
+          "OuterIndex": 0
+        }
+      },
+      "VariantUnlockType": "EVariantUnlockType::ExclusiveChoice",
+      "ObservedPlayerStats": [
+        "StatManager.AthenaKills",
+        "StatManager.Season.SeasonLevel12"
+      ],
+      "BuiltInEmotes": [
+        {
+          "ObjectName": "EID_BuffCat",
+          "OuterIndex": {
+            "ObjectName": "/Game/Athena/Items/Cosmetics/Dances/EID_BuffCat",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_693_Athena_Commando_M_BuffCat",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_693_Athena_Commando_M_BuffCat",
+                "OuterIndex": 0
+              },
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_693_Athena_Commando_M_BuffCat",
+                "OuterIndex": 0
+              },
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "7B5079DE4AF06393AB20BD801931CF02",
+        "SourceString": "Meowscles"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "0637065C439E0C27160E8AB175AF67C6",
+        "SourceString": "He's one swole cat. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.12",
+        "Cosmetics.QuestsMetaData.Outfit.BuffCat",
+        "Cosmetics.UserFacingFlags.Enlightened",
+        "Cosmetics.Source.Season12.BattlePass.Paid",
+        "Cosmetics.UserFacingFlags.Reactive",
+        "Cosmetics.Set.JackedKitty",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.UserFacingFlags.BuiltInEmote",
+        "UI.ItemPreview.NewTech.Moewscles"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "B5468C31407CF496EA924C807C01077D",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-693-Athena-Commando-M-BuffCat.T-Soldier-HID-693-Athena-Commando-M-BuffCat",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_LRG_BuffCat_Good.CP_M_LRG_BuffCat_Good",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_Large_Buff_Cat/Material/M_LRG_Buff_Cat_Body.M_LRG_Buff_Cat_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_Large_Buff_Cat/Material/M_LRG_Buff_Cat_Good_Body.M_LRG_Buff_Cat_Good_Body",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/P_BlankEffect.P_BlankEffect",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_Large_Buff_Cat/FX/Good/P_Skeleton_BuffCatGood.P_Skeleton_BuffCatGood",
+                "SubPathString": null
+              }
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/P_BlankEffect_Idle.P_BlankEffect_Idle",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_Large_Buff_Cat/FX/Good/P_BuffCatGood_Update.P_BuffCatGood_Update",
+                "SubPathString": null
+              }
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/P_BlankEffect_Swing.P_BlankEffect_Swing",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_Large_Buff_Cat/FX/Good/P_Skeleton_BuffCatGood_Top.P_Skeleton_BuffCatGood_Top",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "926B427E4B1D1491A30A599725032F0B",
+            "SourceString": "GHOST"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-693-BuffCat-Ghost.T-Variant-693-BuffCat-Ghost",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_LRG_BuffCat_Dark.CP_M_LRG_BuffCat_Dark",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_Large_Buff_Cat/Material/M_LRG_Buff_Cat_Body.M_LRG_Buff_Cat_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_Large_Buff_Cat/Material/M_LRG_Buff_Cat_Dark_Body.M_LRG_Buff_Cat_Dark_Body",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/P_BlankEffect.P_BlankEffect",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_Large_Buff_Cat/FX/Dark/P_Skeleton_BuffCatDark.P_Skeleton_BuffCatDark",
+                "SubPathString": null
+              }
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/P_BlankEffect_Idle.P_BlankEffect_Idle",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_Large_Buff_Cat/FX/Dark/P_BuffCatDark_Update.P_BuffCatDark_Update",
+                "SubPathString": null
+              }
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/P_BlankEffect_Swing.P_BlankEffect_Swing",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_Large_Buff_Cat/FX/Dark/P_Skeleton_BuffCatDark_Top.P_Skeleton_BuffCatDark_Top",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "718B5DD34B852E5644FF979F9DBC0D4A",
+            "SourceString": "SHADOW"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-693-BuffCat-Shadow.T-Variant-693-BuffCat-Shadow",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_Large_Buff_Cat/Material/M_LRG_Buff_Cat_Body.M_LRG_Buff_Cat_Body",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_Large_Buff_Cat/Material/M_LRG_Buff_Cat_Body_SL.M_LRG_Buff_Cat_Body_SL",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_Large_Buff_Cat/Material/M_LRG_Buff_Cat_FaceAcc.M_LRG_Buff_Cat_FaceAcc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_Large_Buff_Cat/Material/M_LRG_Buff_Cat_FaceAcc_SL.M_LRG_Buff_Cat_FaceAcc_SL",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": true,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E52DDAED467AD0D7C8634F9EA56FF3BD",
+            "SourceString": "GOLDEN AGENT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-693-BuffCat-Gold.T-Variant-693-BuffCat-Gold",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "CA76920D4157084EAF57779687B46170",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_170_Athena_Commando_F_Luchador",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_170_Athena_Commando_F_Luchador",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "78C3EED0469E729F1CBC228FFCAF1827",
+        "SourceString": "Dynamo"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "CA76744645BD005F28DAEA8EC790DBF2",
+        "SourceString": "Rule the ring."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Luchador",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

@@ -1,0 +1,375 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_516_Athena_Commando_M_BlackWidowRogue",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_516_Athena_Commando_M_BlackWidowRogue",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_516_Athena_Commando_M_BlackWidowRogue",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "F5D418D348A1E0580F0618860FD70AA0",
+            "SourceString": " "
+          },
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "5A9C01514328E07859E52790BD8D5DA6",
+            "SourceString": " "
+          },
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "50307538491115A0DDA5138A8F8AEC52",
+        "SourceString": "Rogue Spider Knight"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "B464CF4043752916EFAD9C9A7EF7F6A8",
+        "SourceString": "Weave a web of destruction. "
+      },
+      "GameplayTags": [
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Set.BlackWidow",
+        "Cosmetics.Filter.Season.10"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Materials/M_Med_Blackwidow_Head.M_Med_Blackwidow_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/White/Materials/M_Med_BlackwidowWhite_Head.M_Med_BlackwidowWhite_Head",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Materials/M_MED_Blackwidow.M_MED_Blackwidow",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/White/Materials/M_MED_Blackwidow_White.M_MED_Blackwidow_White",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Materials/M_Med_Blackwidow_Hat.M_Med_Blackwidow_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/White/Textures/T_M_MED_BlackwidowWhite_Helmet_D.T_M_MED_BlackwidowWhite_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/White/Textures/T_M_MED_BlackwidowWhite_Helmet_M.T_M_MED_BlackwidowWhite_Helmet_M",
+                    "SubPathString": null
+                  },
+                  "ParamName": "M"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/White/Textures/T_M_MED_BlackwidowWhite_Helmet_S.T_M_MED_BlackwidowWhite_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "ADBCC61B461A11C2AFEA3EB14E23A53D",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-BlackWidowRogue-White-Default.T-Variant-M-BlackWidowRogue-White-Default",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Materials/M_Med_Blackwidow_Head.M_Med_Blackwidow_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/Black_Green/Materials/M_Med_BlackwidowBlackGreen_Head.M_Med_BlackwidowBlackGreen_Head",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Materials/M_MED_Blackwidow.M_MED_Blackwidow",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/Black_Green/Materials/M_MED_Blackwidow_BlackGreen.M_MED_Blackwidow_BlackGreen",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Materials/M_Med_Blackwidow_Hat.M_Med_Blackwidow_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/Black_Green/Textures/T_M_MED_BlackwidowBlackGreen_Helmet_D.T_M_MED_BlackwidowBlackGreen_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/Black_Green/Textures/T_M_MED_BlackwidowBlackGreen_Helmet_M.T_M_MED_BlackwidowBlackGreen_Helmet_M",
+                    "SubPathString": null
+                  },
+                  "ParamName": "M"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/White/Textures/T_M_MED_BlackwidowWhite_Helmet_S.T_M_MED_BlackwidowWhite_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "9EE63110470A0CB1E4D743AA9CE57AE8",
+            "SourceString": "BLACK AND GREEN"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-BlackWidowRogue-BlackGreen.T-Variant-M-BlackWidowRogue-BlackGreen",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "/Game/Athena/Items/ChallengeBundles/Styles/QuestBundle_Styles_BlackWidowRogue.QuestBundle_Styles_BlackWidowRogue",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Materials/M_Med_Blackwidow_Head.M_Med_Blackwidow_Head",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/Black_White/Materials/M_Med_BlackwidowBlackWhite_Head.M_Med_BlackwidowBlackWhite_Head",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Materials/M_MED_Blackwidow.M_MED_Blackwidow",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/Black_White/Materials/M_MED_Blackwidow_BlackWhite.M_MED_Blackwidow_BlackWhite",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Materials/M_Med_Blackwidow_Hat.M_Med_Blackwidow_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/Black_White/Textures/T_M_MED_BlackwidowBlackWhite_Helmet_D.T_M_MED_BlackwidowBlackWhite_Helmet_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/Black_White/Textures/T_M_MED_BlackwidowBlackWhite_Helmet_M.T_M_MED_BlackwidowBlackWhite_Helmet_M",
+                    "SubPathString": null
+                  },
+                  "ParamName": "M"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BlackWidow/Skins/Black_White/Textures/T_M_MED_BlackwidowBlackWhite_Helmet_S.T_M_MED_BlackwidowBlackWhite_Helmet_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "64F42E3C426AB69E4937ABA963D028CE",
+            "SourceString": "BLACK AND WHITE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-BlackWidowRogue-BlackGray.T-Variant-M-BlackWidowRogue-BlackGray",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "/Game/Athena/Items/ChallengeBundles/Styles/QuestBundle_Styles_BlackWidowRogue.QuestBundle_Styles_BlackWidowRogue",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "1551EBC9415CEED5EEB6F78FA8475FE9",
+        "SourceString": "COLOR"
+      }
+    }
+  }
+]

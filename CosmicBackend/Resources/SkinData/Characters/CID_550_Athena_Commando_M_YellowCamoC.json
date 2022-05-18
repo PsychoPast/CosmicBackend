@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_550_Athena_Commando_M_YellowCamoC",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_550_Athena_Commando_M_YellowCamoC",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "16854ECB44911EB156379283F781ACD7",
+        "SourceString": "Deadfall"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "709D579C435004D13CAA47B3C37EFB7D",
+        "SourceString": "Relentless."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.SiegeStrike",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_550_Athena_Commando_M_YellowCamoC.DA_Featured_CID_550_Athena_Commando_M_YellowCamoC",
+        "SubPathString": null
+      }
+    }
+  }
+]

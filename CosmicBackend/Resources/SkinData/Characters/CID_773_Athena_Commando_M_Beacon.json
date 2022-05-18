@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_773_Athena_Commando_M_Beacon",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_773_Athena_Commando_M_Beacon",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A3EFBDEA4B7B78CA508CE88FDE1614CB",
+        "SourceString": "Trench Trawler"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "26BCA93A4F6A76F771AA5891F89C65AB",
+        "SourceString": "Strange secrets sleep deep beneath the waves."
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.LiquidHole",
+        "Cosmetics.UserFacingFlags.Reactive"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_773_Athena_Commando_M_Beacon.DA_Featured_CID_773_Athena_Commando_M_Beacon",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,1914 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_407_Athena_Commando_M_BattleSuit",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_407_Athena_Commando_M_BattleSuit",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_407_Athena_Commando_M_BattleSuit",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_407_Athena_Commando_M_BattleSuit",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticParticleVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_407_Athena_Commando_M_BattleSuit",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "069D70B04DCAA326F1F63D82043EA9BE",
+            "SourceString": "Earn 20,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage2"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "7CC3DE9B45807E53FFC713B2D3FCC177",
+            "SourceString": "Earn 75,000 XP"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage3"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "71A3CBF34636614E58E8DFBB4DD120DA",
+            "SourceString": "Earn 150,000 XP"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage4"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage4"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "3249B87C4B4AE95010BC84A01894AE7F",
+            "SourceString": "Earn 250,000 XP"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "B97EEFDC413EA8F0159FA68D093157A8",
+            "SourceString": "Complete 65 Weekly Challenges"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Mat2"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "B24EC82842964DD60B6FF989CD17A13A",
+            "SourceString": "Outlast 10,000 Opponents"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Mat3"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "62D7BB6E4DD3B6E4FC1B1D9F9C2AA511",
+            "SourceString": "Collect 85 Fortbytes"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Mat4"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat4"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "0709A8934B13DD52A7200ABB2DEB040C",
+            "SourceString": "Complete 45 Weekly Challenges"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Particle2"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Particle2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "72D127F943095942EC558599FAF66B63",
+            "SourceString": "Outlast 1,000 Opponents"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Particle3"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Particle3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "B5A9C08C4307C402D711D8A4B0BE45F5",
+            "SourceString": "Collect 80 Fortbytes"
+          },
+          "PreviewTime": 2.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Stage5"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage5"
+              }
+            },
+            {
+              "OwnedVariantTags": [
+                "Cosmetics.Variant.Property.Particle4"
+              ],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Particle4"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "590225AB479694CFA619269364F53CE1",
+        "SourceString": "Vendetta"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "2820BDAC498FCD3C9FC51695DC7B7D9E",
+        "SourceString": "Upgrade and override. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season9.BattlePass.Paid",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Set.BattleSuit",
+        "Cosmetics.QuestsMetaData.Glyph.Outfit.Vendetta",
+        "Cosmetics.Filter.Season.9"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_BattleSuit_FaceAcc.CP_M_MED_BattleSuit_FaceAcc",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_BattleSuit.CP_Athena_Body_M_BattleSuit",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "97AD7FE7484F5C7AEC079E84F0AF0158",
+            "SourceString": "STAGE 1"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Progressive/T-Variant-M-BattleSuit-T1.T-Variant-M-BattleSuit-T1",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_BattleSuit_FaceAccT2.CP_M_MED_BattleSuit_FaceAccT2",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_BattleSuit_T2.CP_Athena_Body_M_BattleSuit_T2",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "3F7447F14BC1BDCF3C62B4A40645A013",
+            "SourceString": "STAGE 2"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-BattleSuit-T2.T-Variant-M-BattleSuit-T2",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "436D87C04D7698A41E29C785C97067CF",
+            "SourceString": "Earn 20,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_EmptyHead.CP_Athena_Head_M_EmptyHead",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_BattleSuit_FaceAccT345.CP_M_MED_BattleSuit_FaceAccT345",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_BattleSuit_T3.CP_Athena_Body_M_BattleSuit_T3",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "2E2402734230D30925A7269AE13F0EB0",
+            "SourceString": "STAGE 3"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-BattleSuit-T3.T-Variant-M-BattleSuit-T3",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "D50A290A44F58A810BF57495B6DD0876",
+            "SourceString": "Earn 75,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_EmptyHead.CP_Athena_Head_M_EmptyHead",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_BattleSuit_FaceAccT345.CP_M_MED_BattleSuit_FaceAccT345",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_BattleSuit_T45.CP_Athena_Body_M_BattleSuit_T45",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Armor.MI_M_MED_Battle_Suit_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "27FB901A41C9BAD8AD07B78E5B8D484A",
+            "SourceString": "STAGE 4"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-BattleSuit-T4.T-Variant-M-BattleSuit-T4",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "4AFA414D48994BFF0446698820B90ED1",
+            "SourceString": "Earn 150,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_EmptyHead.CP_Athena_Head_M_EmptyHead",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_BattleSuit_FaceAccT345.CP_M_MED_BattleSuit_FaceAccT345",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_BattleSuit_T45.CP_Athena_Body_M_BattleSuit_T45",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Armor.MI_M_MED_Battle_Suit_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Hide Element 01"
+                },
+                {
+                  "Value": 5.0,
+                  "ParamName": "emissive mult"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Blue.M_BattleSuit_Flames_Blue",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Flames"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Orange.M_BattleSuit_Flames_Orange",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Flames"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Green.M_BattleSuit_Flames_Green",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Flames"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Purple.M_BattleSuit_Flames_Purple",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Flames"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Ports_Blue.M_BattleSuit_Flames_Ports_Blue",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": "Mesh",
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Flames"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Ports_Green.M_BattleSuit_Flames_Ports_Green",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Flames"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Ports_Orange.M_BattleSuit_Flames_Ports_Orange",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Flames"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Ports_Purple.M_BattleSuit_Flames_Ports_Purple",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [],
+              "FloatParams": [
+                {
+                  "Value": 0.0,
+                  "ParamName": "Hide Flames"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [
+            {
+              "ParticleComponentName": "Glows",
+              "ParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/P_Battlesuit_Lights.P_Battlesuit_Lights",
+                "SubPathString": null
+              },
+              "MeshToBindTO": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Meshes/M_MED_Battle_Suit_T45.M_MED_Battle_Suit_T45",
+                "SubPathString": null
+              },
+              "AttachSocketName": "root",
+              "LocationRule": "EAttachmentRule::KeepRelative",
+              "RotationRule": "EAttachmentRule::KeepRelative",
+              "ScaleRule": "EAttachmentRule::KeepRelative",
+              "bWeldSimulatedBodies": false
+            }
+          ],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage5"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "4F93765A4E62331936236A927127CA0E",
+            "SourceString": "STAGE 5"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-BattleSuit-T5.T-Variant-M-BattleSuit-T5",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "2DD35FB845A1039646FF8288C7A2F0A6",
+            "SourceString": "Earn 250,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "449210CE414DEF1BA8A39A90F8658BD0",
+        "SourceString": "STYLE"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "214DF7224736C74D89D9BE847B18D539",
+            "SourceString": "TEAL"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-407-Athena-Commando-M-BattleSuit.T-Soldier-HID-407-Athena-Commando-M-BattleSuit",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Body.MI_M_MED_Battle_Suit_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V2_ShirtLogos.T_M_MED_BattleSuit_Gradient_V2_ShirtLogos",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V2_Sleeves.T_M_MED_BattleSuit_Gradient_V2_Sleeves",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V2_ShirtLogos.T_M_MED_BattleSuit_Gradient_V2_ShirtLogos",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V2_Shirt.T_M_MED_BattleSuit_Gradient_V2_Shirt",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 2.0,
+                  "ParamName": "Layer1_Metalness"
+                },
+                {
+                  "Value": 2.0,
+                  "ParamName": "Layer2_Metalness"
+                },
+                {
+                  "Value": 0.9,
+                  "ParamName": "Layer2_Roughness"
+                },
+                {
+                  "Value": 2.0,
+                  "ParamName": "Layer3_Metalness"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer5_Metalness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Armor.MI_M_MED_Battle_Suit_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V2_Armor.T_M_MED_BattleSuit_Gradient_V2_Armor",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V2_Sleeves.T_M_MED_BattleSuit_Gradient_V2_Sleeves",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V2_Shirt.T_M_MED_BattleSuit_Gradient_V2_Shirt",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer1_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer1_Roughness"
+                },
+                {
+                  "Value": 2.0,
+                  "ParamName": "Layer2_Metalness"
+                },
+                {
+                  "Value": 0.9,
+                  "ParamName": "Layer2_Roughness"
+                }
+              ]
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "499BA3A245E3E78D54EF13A3464E3C64",
+            "SourceString": "LIGHT ORANGE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-BattleSuit-Shirt-Orange.T-Variant-M-BattleSuit-Shirt-Orange",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "2C4461A9403AE2B36A6F4C8E295DE4AA",
+            "SourceString": "Complete 65 Weekly Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Body.MI_M_MED_Battle_Suit_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V3_ShirtLogos.T_M_MED_BattleSuit_Gradient_V3_ShirtLogos",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V3_Sleeves.T_M_MED_BattleSuit_Gradient_V3_Sleeves",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V3_ShirtLogos.T_M_MED_BattleSuit_Gradient_V3_ShirtLogos",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V3_Shirt.T_M_MED_BattleSuit_Gradient_V3_Shirt",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 2.0,
+                  "ParamName": "Layer1_Metalness"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer2_Metalness"
+                },
+                {
+                  "Value": 2.0,
+                  "ParamName": "Layer3_Metalness"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer5_Metalness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Armor.MI_M_MED_Battle_Suit_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V3_Armor.T_M_MED_BattleSuit_Gradient_V3_Armor",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V3_Sleeves.T_M_MED_BattleSuit_Gradient_V3_Sleeves",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V3_Shirt.T_M_MED_BattleSuit_Gradient_V3_Shirt",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer1_Metalness"
+                },
+                {
+                  "Value": 1.2,
+                  "ParamName": "Layer1_Roughness"
+                },
+                {
+                  "Value": 2.0,
+                  "ParamName": "Layer2_Metalness"
+                },
+                {
+                  "Value": 0.85,
+                  "ParamName": "Layer2_Roughness"
+                }
+              ]
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "8190C0A5474F5566AD781A8CEA7B5AFD",
+            "SourceString": "DARK GRAY"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-BattleSuit-Shirt-Gray.T-Variant-M-BattleSuit-Shirt-Gray",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "1CBC38A04422A20F5324AEB719779C44",
+            "SourceString": "Outlast 10,000 Opponents"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Body.MI_M_MED_Battle_Suit_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V4_ShirtLogos.T_M_MED_BattleSuit_Gradient_V4_ShirtLogos",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V4_Sleeves.T_M_MED_BattleSuit_Gradient_V4_Sleeves",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V4_ShirtLogos.T_M_MED_BattleSuit_Gradient_V4_ShirtLogos",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V4_Shirt.T_M_MED_BattleSuit_Gradient_V4_Shirt",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer1_Metalness"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer2_Metalness"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer3_Metalness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Armor.MI_M_MED_Battle_Suit_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V4_Armor.T_M_MED_BattleSuit_Gradient_V4_Armor",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer1_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V4_Sleeves.T_M_MED_BattleSuit_Gradient_V4_Sleeves",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V4_Shirt.T_M_MED_BattleSuit_Gradient_V4_Shirt",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "9B1F49A3473C11636EFBC891114DA1BA",
+            "SourceString": "WHITE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-BattleSuit-Shirt-White.T-Variant-M-BattleSuit-Shirt-White",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "47E5F50D4D4EB67FD483AB947E555DDA",
+            "SourceString": "Collect 85 Fortbytes"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "164DF9424D151B78568A31BF701ED8FB",
+        "SourceString": "COLOR"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticParticleVariant",
+    "ExportValue": {
+      "ParticleOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Armor.MI_M_MED_Battle_Suit_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.184475,
+                    "G": 0.496933,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "2F7FFF"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Particle1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "5E662FF54A883E4BA0215D89A8A3D6D9",
+            "SourceString": "RED"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-407-Athena-Commando-M-BattleSuit.T-Soldier-HID-407-Athena-Commando-M-BattleSuit",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Blue.M_BattleSuit_Flames_Blue",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Orange.M_BattleSuit_Flames_Orange",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Ports_Blue.M_BattleSuit_Flames_Ports_Blue",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Ports_Orange.M_BattleSuit_Flames_Ports_Orange",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_FaceAcc.MI_M_MED_Battle_Suit_FaceAcc",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.955973,
+                    "G": 0.539479,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "F48A00"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V2_FaceAcc.T_M_MED_BattleSuit_Gradient_V2_FaceAcc",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 5.0,
+                  "ParamName": "Layer2_Metalness"
+                },
+                {
+                  "Value": 0.0,
+                  "ParamName": "Layer2_Roughness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Body.MI_M_MED_Battle_Suit_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V2_Hood.T_M_MED_BattleSuit_Gradient_V2_Hood",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer4_Metalness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Armor.MI_M_MED_Battle_Suit_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.343796,
+                    "B": 0.015694,
+                    "A": 1.0,
+                    "Hex": "FF5804"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V2_Hood.T_M_MED_BattleSuit_Gradient_V2_Hood",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V2_ArmorDecals.T_M_MED_BattleSuit_Gradient_V2_ArmorDecals",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 2.5,
+                  "ParamName": "Layer5_Metalness"
+                },
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer5_Roughness"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/P_Battlesuit_Lights.P_Battlesuit_Lights",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 2.0,
+                    "G": 0.999998,
+                    "B": 0.5,
+                    "A": 1.0,
+                    "Hex": "FEFF80"
+                  },
+                  "ParamName": "LightColor"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Particle2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C34B0B3445BA002B59E608BCF3C811AF",
+            "SourceString": "ORANGE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-BattleSuit-Orange-Hood.T-Variant-M-BattleSuit-Orange-Hood",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "2B3C0A38407C658A6C93F0A44CE0BFB4",
+            "SourceString": "Complete 45 Weekly Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Blue.M_BattleSuit_Flames_Blue",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Green.M_BattleSuit_Flames_Green",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Ports_Blue.M_BattleSuit_Flames_Ports_Blue",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Ports_Green.M_BattleSuit_Flames_Ports_Green",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_FaceAcc.MI_M_MED_Battle_Suit_FaceAcc",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.014444,
+                    "G": 0.783538,
+                    "B": 0.854993,
+                    "A": 1.0,
+                    "Hex": "04C8DA"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V3_Hood.T_M_MED_BattleSuit_Gradient_V3_Hood",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Body.MI_M_MED_Battle_Suit_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V3_Hood.T_M_MED_BattleSuit_Gradient_V3_Hood",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.0,
+                  "ParamName": "Layer4_Metalness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Armor.MI_M_MED_Battle_Suit_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.45947,
+                    "G": 5.0,
+                    "B": 0.172007,
+                    "A": 1.0,
+                    "Hex": "74FB2C"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V3_Hood.T_M_MED_BattleSuit_Gradient_V3_Hood",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V3_ArmorDecals.T_M_MED_BattleSuit_Gradient_V3_ArmorDecals",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 5.0,
+                  "ParamName": "Layer5_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer5_Roughness"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/P_Battlesuit_Lights.P_Battlesuit_Lights",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.5,
+                    "G": 1.0,
+                    "B": 0.541667,
+                    "A": 1.0,
+                    "Hex": "80FF8A"
+                  },
+                  "ParamName": "LightColor"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Particle3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "203ADDE14D4CE84E8C90BABFBCED1776",
+            "SourceString": "NEON BLUE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-BattleSuit-Blue-Hood.T-Variant-M-BattleSuit-Blue-Hood",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "E63415E147C99347C17795BA4E754EBD",
+            "SourceString": "Outlast 1,000 Opponents"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Blue.M_BattleSuit_Flames_Blue",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Purple.M_BattleSuit_Flames_Purple",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Ports_Blue.M_BattleSuit_Flames_Ports_Blue",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/M_BattleSuit_Flames_Ports_Purple.M_BattleSuit_Flames_Ports_Purple",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_FaceAcc.MI_M_MED_Battle_Suit_FaceAcc",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.610496,
+                    "G": 0.879622,
+                    "B": 0.000304,
+                    "A": 1.0,
+                    "Hex": "9CE000"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V4_ArmorDecals.T_M_MED_BattleSuit_Gradient_V4_ArmorDecals",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer2_Gradient"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Body.MI_M_MED_Battle_Suit_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V4_Hood.T_M_MED_BattleSuit_Gradient_V4_Hood",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer4_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.5,
+                  "ParamName": "Layer4_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer4_Roughness"
+                }
+              ]
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Materials/MI_M_MED_Battle_Suit_Armor.MI_M_MED_Battle_Suit_Armor",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 4.275805,
+                    "G": 0.172006,
+                    "B": 5.0,
+                    "A": 1.0,
+                    "Hex": "422CFB"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V4_Hood.T_M_MED_BattleSuit_Gradient_V4_Hood",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer3_Gradient"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/Textures/Gradient/T_M_MED_BattleSuit_Gradient_V4_ArmorDecals.T_M_MED_BattleSuit_Gradient_V4_ArmorDecals",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Layer5_Gradient"
+                }
+              ],
+              "FloatParams": [
+                {
+                  "Value": 1.5,
+                  "ParamName": "Layer3_Metalness"
+                },
+                {
+                  "Value": 0.8,
+                  "ParamName": "Layer3_Roughness"
+                },
+                {
+                  "Value": 1.5,
+                  "ParamName": "Layer5_Metalness"
+                },
+                {
+                  "Value": 0.5,
+                  "ParamName": "Layer5_Roughness"
+                }
+              ]
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BattleSuit/FX/P_Battlesuit_Lights.P_Battlesuit_Lights",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.475,
+                    "G": 0.25,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "7940FF"
+                  },
+                  "ParamName": "LightColor"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Particle4"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "0CD48DDF4FDA08D8959DD3A840E7CAAA",
+            "SourceString": "NEON GREEN"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-BattleSuit-Green-Hood.T-Variant-M-BattleSuit-Green-Hood",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "2E9F4DDF423329CA56011EB30B151277",
+            "SourceString": "Collect 80 Fortbytes"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Particle"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "80949C524C3ED685556B0B96A20E7EB2",
+        "SourceString": "SECONDARY COLOR"
+      }
+    }
+  }
+]

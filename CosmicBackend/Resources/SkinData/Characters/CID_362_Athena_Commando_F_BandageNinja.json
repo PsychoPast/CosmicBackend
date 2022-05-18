@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_362_Athena_Commando_F_BandageNinja",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_362_Athena_Commando_F_BandageNinja",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "08F4A9624371080EDBBCFF981CD9A3E8",
+        "SourceString": "Kuno"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "79EB60724243CFF8012C6F9B7FD72DFF",
+        "SourceString": "Master the art of deception."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.BandageNinja",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_362_Athena_Commando_F_BandageNinja.DA_Featured_CID_362_Athena_Commando_F_BandageNinja",
+        "SubPathString": null
+      }
+    }
+  }
+]

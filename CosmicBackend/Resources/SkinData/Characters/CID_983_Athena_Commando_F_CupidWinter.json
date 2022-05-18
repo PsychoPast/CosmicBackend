@@ -1,0 +1,41 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_983_Athena_Commando_F_CupidWinter",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_983_Athena_Commando_F_CupidWinter",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "EE96E2BA450951B3B99E6585883B69DD",
+        "SourceString": "Snowheart"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "8D58BD874D5EFBF5309F5385E048B11D",
+        "SourceString": "Hard as stone. Cold as ice."
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.Set.SnowDudes"
+      ],
+      "Series": {
+        "ObjectName": "FrozenSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/FrozenSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

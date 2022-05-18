@@ -1,0 +1,249 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_586_Athena_Commando_F_PunkDevil",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_586_Athena_Commando_F_PunkDevil",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_586_Athena_Commando_F_PunkDevil",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": null,
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "1DF6E0364BF6EFEE5E339BB1B22D122E",
+        "SourceString": "Haze"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "2568175242BCB88923579FAB51C17CEB",
+        "SourceString": "A dark star on the rise. "
+      },
+      "GameplayTags": [
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.OvernightMoon",
+        "Cosmetics.Filter.Season.11"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_586_Athena_Commando_F_PunkDevil.DA_Featured_CID_586_Athena_Commando_F_PunkDevil",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "80B0CED7491904539FCF9B985AD5A650",
+            "SourceString": "DEFAULT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-586-Athena-Commando-F-PunkDevil.T-Soldier-HID-586-Athena-Commando-F-PunkDevil",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_PunkDevil_Extreme.CP_F_MED_PunkDevil_Extreme",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Medusa_Head/Skins/PunkDevil/Materials/F_MED_PunkDevil_Head.F_MED_PunkDevil_Head",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Medusa_Head/Skins/PunkDevilExtreme/Textures/T_F_MED_Punk_Devil_Extreme_Head_D.T_F_MED_Punk_Devil_Extreme_Head_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Medusa_Head/Skins/PunkDevilExtreme/Textures/T_F_MED_Punk_Devil_Extreme_Head_M.T_F_MED_Punk_Devil_Extreme_Head_M",
+                    "SubPathString": null
+                  },
+                  "ParamName": "M"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Medusa_Head/Skins/PunkDevilExtreme/Textures/T_F_MED_Punk_Devil_Extreme_Head_N.T_F_MED_Punk_Devil_Extreme_Head_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Normals"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Medusa_Head/Skins/PunkDevilExtreme/Textures/T_F_MED_Punk_Devil_Extreme_Head_S.T_F_MED_Punk_Devil_Extreme_Head_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Punk_Devil/Materials/F_MED_PunkDevil_Body.F_MED_PunkDevil_Body",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Punk_Devil/Skins/PunkDevilExtreme/Textures/T_F_MED_Punk_Devil_Extreme_Body_D.T_F_MED_Punk_Devil_Extreme_Body_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Punk_Devil/Skins/PunkDevilExtreme/Textures/T_F_MED_Punk_Devil_Extreme_Body_M.T_F_MED_Punk_Devil_Extreme_Body_M",
+                    "SubPathString": null
+                  },
+                  "ParamName": "M"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Punk_Devil/Skins/PunkDevilExtreme/Textures/T_F_MED_Punk_Devil_Extreme_Body_N.T_F_MED_Punk_Devil_Extreme_Body_N",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Normals"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Punk_Devil/Skins/PunkDevilExtreme/Textures/T_F_MED_Punk_Devil_Extreme_Body_FX.T_F_MED_Punk_Devil_Extreme_Body_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SkinFX_Mask"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Punk_Devil/Skins/PunkDevilExtreme/Textures/T_F_MED_Punk_Devil_Extreme_Body_S.T_F_MED_Punk_Devil_Extreme_Body_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "CE8FFF2A4F2B8F3EDE5741AE189161D0",
+            "SourceString": "EXTREME"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-F-PunkDevil-Extreme.T-Variant-F-PunkDevil-Extreme",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Parts"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "43C8315D4DC988296258E49935EFD89F",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]

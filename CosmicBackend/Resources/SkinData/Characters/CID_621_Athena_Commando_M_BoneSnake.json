@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_621_Athena_Commando_M_BoneSnake",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_621_Athena_Commando_M_BoneSnake",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "EA3AD54E429A54E090CB548963E4B6C6",
+        "SourceString": "Sklaxis"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "B60F4EC14E760F3DA769B3AA7E384ACF",
+        "SourceString": "Sssss. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.MarrowArmy"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_621_Athena_Commando_M_BoneSnake.DA_Featured_CID_621_Athena_Commando_M_BoneSnake",
+        "SubPathString": null
+      }
+    }
+  }
+]

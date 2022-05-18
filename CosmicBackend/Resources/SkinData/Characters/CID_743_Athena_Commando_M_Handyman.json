@@ -1,0 +1,40 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_743_Athena_Commando_M_Handyman",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_743_Athena_Commando_M_Handyman",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "D11740164E3D715905E98BB7CA3F43EB",
+        "SourceString": "Redux"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "6F3DA0E94B9E09EF8C93BC9369A1F2DF",
+        "SourceString": "Revived. Rebuilt. Ready for revenge."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.12",
+        "Cosmetics.Set.RepaymentUpdate",
+        "Cosmetics.UserFacingFlags.Reactive"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_743_Athena_Commando_M_Handyman.DA_Featured_CID_743_Athena_Commando_M_Handyman",
+        "SubPathString": null
+      }
+    }
+  }
+]

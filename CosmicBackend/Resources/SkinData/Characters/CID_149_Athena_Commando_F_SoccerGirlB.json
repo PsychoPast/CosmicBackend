@@ -1,0 +1,3038 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_149_Athena_Commando_F_SoccerGirlB",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_149_Athena_Commando_F_SoccerGirlB",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_149_Athena_Commando_F_SoccerGirlB",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticNumericalVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_149_Athena_Commando_F_SoccerGirlB",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_149_Athena_Commando_F_SoccerGirlB",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "FAB595FB49251BD0F97BCCBEABBA7A33",
+        "SourceString": "Poised Playmaker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "4F830B0341ADE14A6FBE02BCB79CA9BB",
+        "SourceString": "Represent your country in style!"
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Soccer",
+        "Cosmetics.UserFacingFlags.HasVariants",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.4"
+      ],
+      "SmallPreviewImage": {
+        "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-149-Athena-Commando-M-SoccerGirlB.T-Soldier-HID-149-Athena-Commando-M-SoccerGirlB",
+        "SubPathString": null
+      },
+      "LargePreviewImage": {
+        "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-149-Athena-Commando-M-SoccerGirlB-L.T-Soldier-HID-149-Athena-Commando-M-SoccerGirlB-L",
+        "SubPathString": null
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.155375,
+                    "G": 0.06307,
+                    "B": 0.390625,
+                    "A": 1.0,
+                    "Hex": "281064"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.020616,
+                    "G": 0.240345,
+                    "B": 0.395833,
+                    "A": 1.0,
+                    "Hex": "053D65"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.105989,
+                    "G": 0.333333,
+                    "B": 0.072917,
+                    "A": 1.0,
+                    "Hex": "1B5513"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.05,
+                    "G": 0.05,
+                    "B": 0.05,
+                    "A": 1.0,
+                    "Hex": "0D0D0D"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/FNFlag.FNFlag",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Fortnite"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "CD56176B49C5A6C4061167B56F24AB80",
+            "SourceString": "FORTNITE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Fortnite.T-Variant-Soccer-Fortnite",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.682292,
+                    "G": 0.682292,
+                    "B": 0.682292,
+                    "A": 1.0,
+                    "Hex": "AEAEAE"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.354594,
+                    "G": 0.63202,
+                    "B": 0.783538,
+                    "A": 1.0,
+                    "Hex": "5AA1C8"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "000000"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.052083,
+                    "G": 0.052083,
+                    "B": 0.052083,
+                    "A": 1.0,
+                    "Hex": "0D0D0D"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Argentina.Argentina",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Argentina"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "680A08C743EA0CF033767F8F5D2531B0",
+            "SourceString": "ARGENTINA"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Argentina.T-Variant-Soccer-Argentina",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.584078,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FF9500"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.004777,
+                    "G": 0.021219,
+                    "B": 0.017642,
+                    "A": 1.0,
+                    "Hex": "010504"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.584078,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FF9500"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "000000"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Australia.Australia",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Australia"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "471809E741BB32BDE776DDBF0372859D",
+            "SourceString": "AUSTRALIA"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Australia.T-Variant-Soccer-Australia",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.421875,
+                    "G": 0.024809,
+                    "B": 0.003817,
+                    "A": 1.0,
+                    "Hex": "6C0601"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.020833,
+                    "G": 0.014405,
+                    "B": 0.001578,
+                    "A": 1.0,
+                    "Hex": "050400"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.651042,
+                    "G": 0.450171,
+                    "B": 0.049303,
+                    "A": 1.0,
+                    "Hex": "A6730D"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.042311,
+                    "G": 0.005605,
+                    "B": 0.005605,
+                    "A": 1.0,
+                    "Hex": "0B0101"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Belgium.Belgium",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Belgium"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "A0598D43442B06D8F7DB23BD48F3FE2A",
+            "SourceString": "BELGIUM"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Belgium.T-Variant-Soccer-Belgium",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.734375,
+                    "G": 0.49525,
+                    "B": 0.053548,
+                    "A": 1.0,
+                    "Hex": "BB7E0E"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.020345,
+                    "G": 0.083319,
+                    "B": 0.260417,
+                    "A": 1.0,
+                    "Hex": "051542"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.016276,
+                    "G": 0.208333,
+                    "B": 0.06429,
+                    "A": 1.0,
+                    "Hex": "043510"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.012614,
+                    "G": 0.161458,
+                    "B": 0.049825,
+                    "A": 1.0,
+                    "Hex": "03290D"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Brazil.Brazil",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Brazil"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "AED54E2E455252016E9458B9556DDB26",
+            "SourceString": "BRAZIL"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Brazil.T-Variant-Soccer-Brazil",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.351533,
+                    "G": 0.004391,
+                    "B": 0.021219,
+                    "A": 1.0,
+                    "Hex": "5A0105"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.491021,
+                    "G": 0.005182,
+                    "B": 0.043735,
+                    "A": 1.0,
+                    "Hex": "7D010B"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.679542,
+                    "G": 0.679542,
+                    "B": 0.679542,
+                    "A": 1.0,
+                    "Hex": "ADADAD"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.846873,
+                    "G": 0.846873,
+                    "B": 0.846873,
+                    "A": 1.0,
+                    "Hex": "D8D8D8"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Canada.Canada",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Canada"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "EFC2C54E4A0C3F1DA0FFAB84840236DE",
+            "SourceString": "CANADA"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Canada.T-Variant-Soccer-Canada",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.791298,
+                    "G": 0.701102,
+                    "B": 0.162029,
+                    "A": 1.0,
+                    "Hex": "CAB329"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.552083,
+                    "G": 0.072664,
+                    "B": 0.045191,
+                    "A": 1.0,
+                    "Hex": "8D130C"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.009268,
+                    "G": 0.02345,
+                    "B": 0.104167,
+                    "A": 1.0,
+                    "Hex": "02061B"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.05,
+                    "G": 0.05,
+                    "B": 0.05,
+                    "A": 1.0,
+                    "Hex": "0D0D0D"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Colombia.Colombia",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Colombia"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "9E77D5AA4CF81BFE351B8192E6E19DFB",
+            "SourceString": "COLOMBIA"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Colombia.T-Variant-Soccer-Colombia",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.270833,
+                    "G": 0.0,
+                    "B": 0.008079,
+                    "A": 1.0,
+                    "Hex": "450002"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.53125,
+                    "G": 0.53125,
+                    "B": 0.53125,
+                    "A": 1.0,
+                    "Hex": "878787"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.166667,
+                    "G": 0.007135,
+                    "B": 0.007838,
+                    "A": 1.0,
+                    "Hex": "2B0202"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.226252,
+                    "G": 0.226252,
+                    "B": 0.229167,
+                    "A": 1.0,
+                    "Hex": "3A3A3A"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Denmark.Denmark",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Denmark"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "345322C74CAFEC07C9F4B7B8FCCFC5A1",
+            "SourceString": "DENMARK"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Denmark.T-Variant-Soccer-Denmark",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.359375,
+                    "G": 0.029219,
+                    "B": 0.013102,
+                    "A": 1.0,
+                    "Hex": "5C0703"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.03,
+                    "G": 0.026406,
+                    "B": 0.026406,
+                    "A": 1.0,
+                    "Hex": "080707"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.484375,
+                    "G": 0.039383,
+                    "B": 0.017659,
+                    "A": 1.0,
+                    "Hex": "7C0A05"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.01,
+                    "G": 0.008802,
+                    "B": 0.008802,
+                    "A": 1.0,
+                    "Hex": "030202"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Egypt.Egypt",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Egypt"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "1DE8FCFC428457F444FBBD9F936609A1",
+            "SourceString": "EGYPT"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Eqypt.T-Variant-Soccer-Eqypt",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.628957,
+                    "G": 0.634987,
+                    "B": 0.671875,
+                    "A": 1.0,
+                    "Hex": "A0A2AB"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.765475,
+                    "G": 0.772814,
+                    "B": 0.817708,
+                    "A": 1.0,
+                    "Hex": "C3C5D1"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.07433,
+                    "B": 0.229167,
+                    "A": 1.0,
+                    "Hex": "00133A"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.265625,
+                    "G": 0.017617,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "440400"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/England.England",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.England"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "8ED1B35847ACFBE82ED6C8B5EBDEBB7B",
+            "SourceString": "ENGLAND"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-England.T-Variant-Soccer-England",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.028426,
+                    "G": 0.035601,
+                    "B": 0.074214,
+                    "A": 1.0,
+                    "Hex": "070913"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.001214,
+                    "G": 0.141263,
+                    "B": 0.445201,
+                    "A": 1.0,
+                    "Hex": "002472"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.004025,
+                    "G": 0.084376,
+                    "B": 0.296138,
+                    "A": 1.0,
+                    "Hex": "01164C"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.06949,
+                    "G": 0.094855,
+                    "B": 0.119792,
+                    "A": 1.0,
+                    "Hex": "12181F"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/France.France",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.France"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "13E900F040A462518D3C1EBFE66C1335",
+            "SourceString": "FRANCE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-France.T-Variant-Soccer-France",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.708376,
+                    "G": 0.708376,
+                    "B": 0.723055,
+                    "A": 1.0,
+                    "Hex": "B5B5B8"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.208333,
+                    "G": 0.208333,
+                    "B": 0.208333,
+                    "A": 1.0,
+                    "Hex": "353535"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.039546,
+                    "G": 0.039546,
+                    "B": 0.039546,
+                    "A": 1.0,
+                    "Hex": "0A0A0A"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "000000"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Germany.Germany",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Germany"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "0F0349D9434B12F4148345B269A348D0",
+            "SourceString": "GERMANY"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Germany.T-Variant-Soccer-Germany",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.036378,
+                    "G": 0.0,
+                    "B": 0.635417,
+                    "A": 1.0,
+                    "Hex": "0900A2"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.041144,
+                    "G": 0.022135,
+                    "B": 0.354167,
+                    "A": 1.0,
+                    "Hex": "0A065A"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.328125,
+                    "G": 0.016333,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "540400"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.635417,
+                    "G": 0.635417,
+                    "B": 0.635417,
+                    "A": 1.0,
+                    "Hex": "A2A2A2"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Iceland.Iceland",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Iceland"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "096F3D3742847EE04F5239B17C81E813",
+            "SourceString": "ICELAND"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Iceland.T-Variant-Soccer-Iceland",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.012695,
+                    "G": 0.083149,
+                    "B": 0.40625,
+                    "A": 1.0,
+                    "Hex": "031568"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.06543,
+                    "G": 0.116187,
+                    "B": 0.348958,
+                    "A": 1.0,
+                    "Hex": "111E59"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.066626,
+                    "G": 0.287441,
+                    "B": 0.08022,
+                    "A": 1.0,
+                    "Hex": "114914"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "000000"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Italy.Italy",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Italy"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "3D86E3E34A44CFC1347013B8DF29D063",
+            "SourceString": "ITALY"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Italy.T-Variant-Soccer-Italy",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.039546,
+                    "G": 0.434154,
+                    "B": 0.127438,
+                    "A": 1.0,
+                    "Hex": "0A6F20"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.021823,
+                    "G": 0.239583,
+                    "B": 0.070325,
+                    "A": 1.0,
+                    "Hex": "063D12"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.489583,
+                    "G": 0.489583,
+                    "B": 0.489583,
+                    "A": 1.0,
+                    "Hex": "7D7D7D"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.671875,
+                    "G": 0.180081,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "AB2E00"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Ireland.Ireland",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Ireland"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "BBB5C63247DF4B7D8D3835B55AE6133B",
+            "SourceString": "IRELAND"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Ireland.T-Variant-Soccer-Ireland",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.051269,
+                    "G": 0.08022,
+                    "B": 0.250158,
+                    "A": 1.0,
+                    "Hex": "0D1440"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.057805,
+                    "G": 0.114435,
+                    "B": 0.445201,
+                    "A": 1.0,
+                    "Hex": "0F1D72"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.337164,
+                    "G": 0.025187,
+                    "B": 0.033105,
+                    "A": 1.0,
+                    "Hex": "560608"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.693872,
+                    "G": 0.693872,
+                    "B": 0.693872,
+                    "A": 1.0,
+                    "Hex": "B1B1B1"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Japan.Japan",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Japan"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "A470F91C41E2A77912F717B7C21E5193",
+            "SourceString": "JAPAN"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Japan.T-Variant-Soccer-Japan",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.46875,
+                    "G": 0.065503,
+                    "B": 0.043945,
+                    "A": 1.0,
+                    "Hex": "78110B"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.047852,
+                    "G": 0.056284,
+                    "B": 0.255208,
+                    "A": 1.0,
+                    "Hex": "0C0E41"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.182292,
+                    "G": 0.0025,
+                    "B": 0.005058,
+                    "A": 1.0,
+                    "Hex": "2E0101"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.151042,
+                    "G": 0.056611,
+                    "B": 0.051134,
+                    "A": 1.0,
+                    "Hex": "270E0D"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Korea.Korea",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Korea"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C90861DA4D7F206FC0E58FA8B10CF937",
+            "SourceString": "SOUTH KOREA"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-SouthKorea.T-Variant-Soccer-SouthKorea",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.016807,
+                    "G": 0.07036,
+                    "B": 0.064803,
+                    "A": 1.0,
+                    "Hex": "041211"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.07036,
+                    "G": 0.238398,
+                    "B": 0.174647,
+                    "A": 1.0,
+                    "Hex": "123D2D"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.03434,
+                    "G": 0.084376,
+                    "B": 0.082283,
+                    "A": 1.0,
+                    "Hex": "091615"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.693872,
+                    "G": 0.693872,
+                    "B": 0.693872,
+                    "A": 1.0,
+                    "Hex": "B1B1B1"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Mexico.Mexico",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Mexico"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E7C041B24AE37C240D526DAC3BB43EF3",
+            "SourceString": "MEXICO"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Mexico.T-Variant-Soccer-Mexico",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.869792,
+                    "G": 0.126152,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "DE2000"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.526042,
+                    "G": 0.072648,
+                    "B": 0.009912,
+                    "A": 1.0,
+                    "Hex": "861303"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.022174,
+                    "G": 0.03434,
+                    "B": 0.212231,
+                    "A": 1.0,
+                    "Hex": "060936"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.4375,
+                    "G": 0.053318,
+                    "B": 0.006063,
+                    "A": 1.0,
+                    "Hex": "700E02"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Neatherlands.Neatherlands",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Netherlands"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "AD7679EB4917AEEE4568DE89A8CE2A96",
+            "SourceString": "NETHERLANDS"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Netherlands.T-Variant-Soccer-Netherlands",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.026608,
+                    "G": 0.026608,
+                    "B": 0.03,
+                    "A": 1.0,
+                    "Hex": "070708"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.083477,
+                    "G": 0.081054,
+                    "B": 0.09375,
+                    "A": 1.0,
+                    "Hex": "151518"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.013816,
+                    "G": 0.013816,
+                    "B": 0.015625,
+                    "A": 1.0,
+                    "Hex": "040404"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.161458,
+                    "G": 0.161458,
+                    "B": 0.161458,
+                    "A": 1.0,
+                    "Hex": "292929"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/NewZealand.NewZealand",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.NewZealand"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "CE0E0FE24542482A78E84EBA78BF1797",
+            "SourceString": "NEW ZEALAND"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-NewZealand.T-Variant-Soccer-NewZealand",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.181164,
+                    "G": 0.361307,
+                    "B": 0.084376,
+                    "A": 1.0,
+                    "Hex": "2E5C16"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.552083,
+                    "G": 0.552083,
+                    "B": 0.552083,
+                    "A": 1.0,
+                    "Hex": "8D8D8D"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.03028,
+                    "G": 0.104167,
+                    "B": 0.019531,
+                    "A": 1.0,
+                    "Hex": "081B05"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.05,
+                    "G": 0.05,
+                    "B": 0.05,
+                    "A": 1.0,
+                    "Hex": "0D0D0D"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Nigeria.Nigeria",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Nigeria"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "DE2ABA80409A06014CCCA9B76C4BEE7C",
+            "SourceString": "NIGERIA"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Nigeria.T-Variant-Soccer-Nigeria",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.635417,
+                    "G": 0.114,
+                    "B": 0.072186,
+                    "A": 1.0,
+                    "Hex": "A21D12"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.03776,
+                    "G": 0.061448,
+                    "B": 0.151042,
+                    "A": 1.0,
+                    "Hex": "0A1027"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.369792,
+                    "G": 0.066344,
+                    "B": 0.04201,
+                    "A": 1.0,
+                    "Hex": "5E110B"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.097765,
+                    "G": 0.143068,
+                    "B": 0.354167,
+                    "A": 1.0,
+                    "Hex": "19245A"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Norway.Norway",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Norway"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "78AE898B41CB531AF7E90E830288A753",
+            "SourceString": "NORWAY"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Norway.T-Variant-Soccer-Norway",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.679542,
+                    "G": 0.658375,
+                    "B": 0.73791,
+                    "A": 1.0,
+                    "Hex": "ADA8BC"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.40724,
+                    "G": 0.391572,
+                    "B": 0.439657,
+                    "A": 1.0,
+                    "Hex": "686470"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.42869,
+                    "G": 0.005182,
+                    "B": 0.006512,
+                    "A": 1.0,
+                    "Hex": "6D0102"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.0,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "000000"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Poland.Poland",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Poland"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "0BBB3AAE471903856C9CFDA0B3F7B146",
+            "SourceString": "POLAND"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Poland.T-Variant-Soccer-Poland",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.434154,
+                    "G": 0.006049,
+                    "B": 0.0185,
+                    "A": 1.0,
+                    "Hex": "6F0205"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.007499,
+                    "G": 0.072272,
+                    "B": 0.029557,
+                    "A": 1.0,
+                    "Hex": "021208"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.223958,
+                    "G": 0.004038,
+                    "B": 0.010676,
+                    "A": 1.0,
+                    "Hex": "390103"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.05,
+                    "G": 0.05,
+                    "B": 0.05,
+                    "A": 1.0,
+                    "Hex": "0D0D0D"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Portugal.Portugal",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Portugal"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "B1A36C0B4B131D348C93E38D642E63BD",
+            "SourceString": "PORTUGAL"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Portugal.T-Variant-Soccer-Portugal",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.369792,
+                    "G": 0.026964,
+                    "B": 0.026964,
+                    "A": 1.0,
+                    "Hex": "5E0707"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.635417,
+                    "G": 0.539479,
+                    "B": 0.519585,
+                    "A": 1.0,
+                    "Hex": "A28A84"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.068856,
+                    "B": 0.208333,
+                    "A": 1.0,
+                    "Hex": "001235"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.708333,
+                    "G": 0.708333,
+                    "B": 0.708333,
+                    "A": 1.0,
+                    "Hex": "B5B5B5"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Russia.Russia",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Russia"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "FEB14D1545379195D238608972E8E22E",
+            "SourceString": "RUSSIA"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Russia.T-Variant-Soccer-Russia",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.53597,
+                    "G": 0.578125,
+                    "B": 0.536647,
+                    "A": 1.0,
+                    "Hex": "899389"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.012286,
+                    "G": 0.127438,
+                    "B": 0.040915,
+                    "A": 1.0,
+                    "Hex": "03200A"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.011047,
+                    "G": 0.114583,
+                    "B": 0.036788,
+                    "A": 1.0,
+                    "Hex": "031D09"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.270086,
+                    "G": 0.267336,
+                    "B": 0.28125,
+                    "A": 1.0,
+                    "Hex": "454448"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/SaudiArabia.SaudiArabia",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Saudi"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "F985333B44A886E75EB929B7B4B9C82C",
+            "SourceString": "SAUDI ARABIA"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-SaudiArabia.T-Variant-Soccer-SaudiArabia",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.375,
+                    "G": 0.051875,
+                    "B": 0.0225,
+                    "A": 1.0,
+                    "Hex": "600D06"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.421875,
+                    "G": 0.06134,
+                    "B": 0.028564,
+                    "A": 1.0,
+                    "Hex": "6C1007"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.005182,
+                    "G": 0.074214,
+                    "B": 0.208637,
+                    "A": 1.0,
+                    "Hex": "011335"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.686685,
+                    "G": 0.62396,
+                    "B": 0.130136,
+                    "A": 1.0,
+                    "Hex": "AF9F21"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Spain.Spain",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Spain"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "0C00006445EC0B7D464312ADCEE5323E",
+            "SourceString": "SPAIN"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Spain.T-Variant-Soccer-Spain",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.783538,
+                    "G": 0.730461,
+                    "B": 0.111932,
+                    "A": 1.0,
+                    "Hex": "C8BA1D"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.05778,
+                    "G": 0.080124,
+                    "B": 0.369792,
+                    "A": 1.0,
+                    "Hex": "0F145E"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.520996,
+                    "G": 0.467784,
+                    "B": 0.076185,
+                    "A": 1.0,
+                    "Hex": "857713"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.040202,
+                    "G": 0.058582,
+                    "B": 0.296875,
+                    "A": 1.0,
+                    "Hex": "0A0F4C"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Sweden.Sweden",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Sweden"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E62B4F6440BD26CAC1B60582C76B2284",
+            "SourceString": "SWEDEN"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Sweden.T-Variant-Soccer-Sweden",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.515625,
+                    "G": 0.0,
+                    "B": 0.023095,
+                    "A": 1.0,
+                    "Hex": "830006"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "FFFFFF"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.536458,
+                    "G": 0.536458,
+                    "B": 0.536458,
+                    "A": 1.0,
+                    "Hex": "898989"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.333333,
+                    "G": 0.0,
+                    "B": 0.004041,
+                    "A": 1.0,
+                    "Hex": "550001"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Switzerland_2.Switzerland",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Switzerland"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "173FE8864DD91BA2B57C03A5C88B30C6",
+            "SourceString": "SWITZERLAND"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Switzerland.T-Variant-Soccer-Switzerland",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.630208,
+                    "G": 0.019659,
+                    "B": 0.025927,
+                    "A": 1.0,
+                    "Hex": "A10507"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.6875,
+                    "G": 0.039388,
+                    "B": 0.046041,
+                    "A": 1.0,
+                    "Hex": "AF0A0C"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.005208,
+                    "G": 0.00274,
+                    "B": 0.00277,
+                    "A": 1.0,
+                    "Hex": "010101"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.846873,
+                    "G": 0.846873,
+                    "B": 0.846873,
+                    "A": 1.0,
+                    "Hex": "D8D8D8"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Turkey.Turkey",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Terkey"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "30E22BAE468062E060F2DDB302321780",
+            "SourceString": "TURKEY"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Turkey.T-Variant-Soccer-Turkey",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.129303,
+                    "G": 0.320048,
+                    "B": 0.614583,
+                    "A": 1.0,
+                    "Hex": "21529D"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.266356,
+                    "G": 0.508881,
+                    "B": 0.73791,
+                    "A": 1.0,
+                    "Hex": "4482BC"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.025,
+                    "G": 0.025,
+                    "B": 0.025,
+                    "A": 1.0,
+                    "Hex": "060606"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.567708,
+                    "G": 0.567708,
+                    "B": 0.567708,
+                    "A": 1.0,
+                    "Hex": "919191"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/Uruguay.Uruguay",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.Uruguay"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "7E5CE97C431D54E6BADBECBED36C9FB7",
+            "SourceString": "URUGUAY"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-Uruguay.T-Variant-Soccer-Uruguay",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.552011,
+                    "G": 0.552011,
+                    "B": 0.552011,
+                    "A": 1.0,
+                    "Hex": "8D8D8D"
+                  },
+                  "ParamName": "CC_PrimaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.012451,
+                    "G": 0.045932,
+                    "B": 0.140625,
+                    "A": 1.0,
+                    "Hex": "030C24"
+                  },
+                  "ParamName": "CC_SecondaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.450786,
+                    "G": 0.005182,
+                    "B": 0.006512,
+                    "A": 1.0,
+                    "Hex": "730102"
+                  },
+                  "ParamName": "CC_TritaryColor"
+                },
+                {
+                  "Value": {
+                    "R": 0.028252,
+                    "G": 0.046624,
+                    "B": 0.098958,
+                    "A": 1.0,
+                    "Hex": "070C19"
+                  },
+                  "ParamName": "CC_OutlineColor"
+                }
+              ],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Soccer/Textures/cRESTS/USA.USA",
+                    "SubPathString": null
+                  },
+                  "ParamName": "T_Crest"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Color.USA"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "98DB3DFC4796A60EE302529A2EACB7FD",
+            "SourceString": "USA"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-Soccer-UnitedStates.T-Variant-Soccer-UnitedStates",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.JerseyColor"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "96CAF0FA4CFF0735230014ACDDA381D9",
+        "SourceString": "REPRESENTING COUNTRY"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L1.M_F_MED_Soccer_L1",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat0"
+          },
+          "VariantName": null,
+          "PreviewImage": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Pattern"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "AA8A58B343AC65E471E7D6A56A4D5BBA",
+        "SourceString": "PATTERN"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticNumericalVariant",
+    "ExportValue": {
+      "ZerosDigitParamName": "Second Digit",
+      "TensDigitParamName": "First Digit",
+      "MaterialsToAlter": [
+        {
+          "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Soccer/Materials/M_F_MED_Soccer_L2.M_F_MED_Soccer_L2",
+          "SubPathString": null
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Numeric"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "4DA4262E40F946B0BE83A98BA66784BC",
+        "SourceString": "NUMBER"
+      }
+    }
+  }
+]

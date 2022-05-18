@@ -1,0 +1,46 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_827_Athena_Commando_M_MultibotStealth",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_827_Athena_Commando_M_MultibotStealth",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "DB40DA774656A1E77B9CA0944E223BDF",
+        "SourceString": "Mecha Team Shadow"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "35C080D1414ABABF46ADBBA6F2D027FD",
+        "SourceString": "Shadow assembly required."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.DarkPunch",
+        "Cosmetics.Filter.Season.14"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_827_Athena_Commando_M_MultibotStealth.DA_Featured_CID_827_Athena_Commando_M_MultibotStealth",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "ShadowSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/ShadowSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

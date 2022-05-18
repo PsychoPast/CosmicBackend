@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_088_Athena_Commando_M_SpaceBlack",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_088_Athena_Commando_M_SpaceBlack",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "5AF177704AE88CE6A704269C501508E5",
+        "SourceString": "Dark Voyager"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "58CD532F452C5D330E0A28A20E3DCA4B",
+        "SourceString": "From the vast darkness of deep space."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season3.BattlePass.Paid",
+        "Cosmetics.Set.SpaceExplorers",
+        "Cosmetics.Filter.Season.3"
+      ]
+    }
+  }
+]

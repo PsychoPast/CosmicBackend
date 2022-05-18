@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_811_Athena_Commando_F_CandySummer",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_811_Athena_Commando_F_CandySummer",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "580EA89A4A56801918A929BBC873D99F",
+        "SourceString": "Tropical Punch Zoey"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "87E4C97C4D92969875875CA4B0A9D227",
+        "SourceString": "Candy-coated mayhem."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.VacationFable"
+      ]
+    }
+  }
+]

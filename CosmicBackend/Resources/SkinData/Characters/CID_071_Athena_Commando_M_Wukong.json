@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_071_Athena_Commando_M_Wukong",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_071_Athena_Commando_M_Wukong",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "32FA5FB044B3ADC339210BAB91335DD6",
+        "SourceString": "Wukong"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "6D35C9404DBABC3C3BE3309D18A2FD26",
+        "SourceString": "Long live the king!"
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Wukong",
+        "Cosmetics.Filter.Season.2"
+      ]
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_668_Athena_Commando_M_ArcticCamo_Gray",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_668_Athena_Commando_M_ArcticCamo_Gray",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "C924D1DC4C3197F063F25B96FC32B44D",
+        "SourceString": "Arctic Intel"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "1719E0764A4F28CEBCDD458B1AB2E84F",
+        "SourceString": "Leave 'em out in the cold. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.AlwaysFrozen"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_668_Athena_Commando_M_ArcticCamoGray.DA_Featured_CID_668_Athena_Commando_M_ArcticCamoGray",
+        "SubPathString": null
+      }
+    }
+  }
+]

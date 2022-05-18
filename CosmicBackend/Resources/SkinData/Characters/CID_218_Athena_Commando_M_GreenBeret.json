@@ -1,0 +1,33 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_218_Athena_Commando_M_GreenBeret",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_218_Athena_Commando_M_GreenBeret",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "FEC7BB0F493AD7B3FAA5FD8AA2A7E3DD",
+        "SourceString": "Garrison"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "8BDE968F4DC004DB14D00E9043073B46",
+        "SourceString": "Hold down the fort."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

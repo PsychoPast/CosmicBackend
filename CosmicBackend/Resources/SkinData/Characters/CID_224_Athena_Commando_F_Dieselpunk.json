@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_224_Athena_Commando_F_Dieselpunk",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_224_Athena_Commando_F_Dieselpunk",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "F9FEAD874373AC383E8322AE4ED91AF1",
+        "SourceString": "Airheart"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "9CB04EC94ACF9320FA06888286991737",
+        "SourceString": "Setting records flying solo."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.DieselPunk",
+        "Cosmetics.Filter.Season.6"
+      ]
+    }
+  }
+]

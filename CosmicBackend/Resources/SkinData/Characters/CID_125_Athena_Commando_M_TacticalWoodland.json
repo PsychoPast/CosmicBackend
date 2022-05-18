@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_125_Athena_Commando_M_TacticalWoodland",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_125_Athena_Commando_M_TacticalWoodland",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "1A59AB234C9D55B5659A30ADF400B4DB",
+        "SourceString": "Battlehawk"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "8A322A754F7126B9C8D0DD837A431695",
+        "SourceString": "Swoop in and claim victory."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.AdvancedForces",
+        "Cosmetics.Source.Season4.BattlePass.Paid",
+        "Cosmetics.Filter.Season.4"
+      ]
+    }
+  }
+]

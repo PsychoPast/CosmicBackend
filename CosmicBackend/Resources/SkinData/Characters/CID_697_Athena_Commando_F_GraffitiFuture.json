@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_697_Athena_Commando_F_GraffitiFuture",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_697_Athena_Commando_F_GraffitiFuture",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "AE5BA8C045C93FDB7460EB827C69817D",
+        "SourceString": "Mystify"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "D89EEA4442D4F755756F42B8AFA57EF6",
+        "SourceString": "Is it a mystery or is it art?"
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.12",
+        "Cosmetics.Set.StreetDemon"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_697_Athena_Commando_F_GraffitiFuture.DA_Featured_CID_697_Athena_Commando_F_GraffitiFuture",
+        "SubPathString": null
+      }
+    }
+  }
+]

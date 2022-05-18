@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_493_Athena_Commando_F_JurassicArchaeology",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_493_Athena_Commando_F_JurassicArchaeology",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "33DA075A430BFF8E1B722DAC04D7006A",
+        "SourceString": "Crystal"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "3B92D0D945388A83DAFC2D92888390BC",
+        "SourceString": "Clarity, wits, and vision."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_493_Athena_Commando_F_JurassicArchaeology.DA_Featured_CID_493_Athena_Commando_F_JurassicArchaeology",
+        "SubPathString": null
+      }
+    }
+  }
+]

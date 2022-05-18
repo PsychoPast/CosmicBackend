@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_948_Athena_Commando_M_Football20Referee_B",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_948_Athena_Commando_M_Football20Referee_B",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "80878EB04953963DCC6570980D58D4D3",
+        "SourceString": "Sideline Commander"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "5313B0694DD9AC1BB5212B9173BCDA4D",
+        "SourceString": "Keep 'em on the straight and narrow."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.FieldPals"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_948_Athena_Commando_M_Football20Referee_B_QPXTH.DA_Featured_CID_948_Athena_Commando_M_Football20Referee_B_QPXTH",
+        "SubPathString": null
+      }
+    }
+  }
+]

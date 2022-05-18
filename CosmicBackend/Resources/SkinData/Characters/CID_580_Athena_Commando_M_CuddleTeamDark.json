@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_580_Athena_Commando_M_CuddleTeamDark",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_580_Athena_Commando_M_CuddleTeamDark",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A1821D2C4BEA029436103CAB6EC84D8E",
+        "SourceString": "Snuggs"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F44604874C453DBC04234F9986C6E8A3",
+        "SourceString": "One broken bear."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.RoyaleHearts",
+        "Cosmetics.Filter.Season.11"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_580_Athena_Commando_M_CuddleTeamDark.DA_Featured_CID_580_Athena_Commando_M_CuddleTeamDark",
+        "SubPathString": null
+      }
+    }
+  }
+]

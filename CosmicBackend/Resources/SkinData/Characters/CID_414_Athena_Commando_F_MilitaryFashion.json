@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_414_Athena_Commando_F_MilitaryFashion",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_414_Athena_Commando_F_MilitaryFashion",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "F4639E2C4BD5DAA36A41ED95E1561027",
+        "SourceString": "Bracer"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "4FD5A3104B47654A52AC6EB254537969",
+        "SourceString": "Advanced tactics, classic cool. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.9",
+        "Cosmetics.Set.MilitaryFashion"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_414_Athena_Commando_F_MilitaryFashion.DA_Featured_CID_414_Athena_Commando_F_MilitaryFashion",
+        "SubPathString": null
+      }
+    }
+  }
+]

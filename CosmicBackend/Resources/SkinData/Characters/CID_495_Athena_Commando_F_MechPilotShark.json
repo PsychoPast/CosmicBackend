@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_495_Athena_Commando_F_MechPilotShark",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_495_Athena_Commando_F_MechPilotShark",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "E62720BC49F4D950668FD38BFE71BA22",
+        "SourceString": "B.R.U.T.E. Gunner"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "3FAE915948403BF2EDB8A4A425E54235",
+        "SourceString": "Navigation and execution."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.MechPilotShark",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_495_Athena_Commando_F_MechPilotShark.DA_Featured_CID_495_Athena_Commando_F_MechPilotShark",
+        "SubPathString": null
+      }
+    }
+  }
+]

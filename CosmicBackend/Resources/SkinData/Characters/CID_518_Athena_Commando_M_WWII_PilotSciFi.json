@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_518_Athena_Commando_M_WWII_PilotSciFi",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_518_Athena_Commando_M_WWII_PilotSciFi",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "7A9559D844DF41C39C36F38864F1B5C2",
+        "SourceString": "Aeronaut"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "213BE2A84A10DE3D8EF50BA0076DEE71",
+        "SourceString": "Journey beyond the edge of the sky."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.WWIIPilot",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_518_Athena_Commando_M_WWII_PilotSciFi.DA_Featured_CID_518_Athena_Commando_M_WWII_PilotSciFi",
+        "SubPathString": null
+      }
+    }
+  }
+]

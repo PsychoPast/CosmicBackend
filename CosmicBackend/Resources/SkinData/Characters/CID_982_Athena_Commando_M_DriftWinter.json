@@ -1,0 +1,41 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_982_Athena_Commando_M_DriftWinter",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_982_Athena_Commando_M_DriftWinter",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "3EBD1B31492C55712174F8949B1FADD0",
+        "SourceString": "Snow Drift"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "5866A4854C01F805600FCF8D6943DDA8",
+        "SourceString": "Journey into the icy unknown, and drift like the snow."
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.15",
+        "Cosmetics.Set.SnowDudes"
+      ],
+      "Series": {
+        "ObjectName": "FrozenSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/FrozenSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

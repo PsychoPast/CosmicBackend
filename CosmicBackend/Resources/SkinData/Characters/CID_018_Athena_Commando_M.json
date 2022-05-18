@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_018_Athena_Commando_M",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_018_Athena_Commando_M",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "9B68254E4E58F7225B0E7DB348D8EC39",
+        "SourceString": "Recon Scout"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "A1C46C41417B25278849A59EF460DBFF",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "9BB6D86F4CE94F50F16DF08AA9B31504",
+        "SourceString": "Rare recon scout outfit. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.1"
+      ]
+    }
+  }
+]

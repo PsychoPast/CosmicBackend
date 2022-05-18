@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_936_Athena_Commando_F_RaiderSilver",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_936_Athena_Commando_F_RaiderSilver",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "2135A18C4CDA7A712D47748DEB9DFF94",
+        "SourceString": "Diamond Diva"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "7B3FF53C4B0A10B04778BB82C0B883A1",
+        "SourceString": "Synthetic diamonds need not apply."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Stuffed",
+        "Cosmetics.Filter.Season.15"
+      ]
+    }
+  }
+]

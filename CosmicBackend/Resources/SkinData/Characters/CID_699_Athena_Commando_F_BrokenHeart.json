@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_699_Athena_Commando_F_BrokenHeart",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_699_Athena_Commando_F_BrokenHeart",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "8A79B35A48396F8E653C02970D3E889C",
+        "SourceString": "Crusher"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F1E5454D444EA7B1B1D4979B154900FD",
+        "SourceString": "Taking down hearts from the top rope."
+      },
+      "GameplayTags": [
+        "schedule.source.season.11",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.11",
+        "Cosmetics.Set.WildHearts"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_699_Athena_Commando_F_BrokenHeart.DA_Featured_CID_699_Athena_Commando_F_BrokenHeart",
+        "SubPathString": null
+      }
+    }
+  }
+]

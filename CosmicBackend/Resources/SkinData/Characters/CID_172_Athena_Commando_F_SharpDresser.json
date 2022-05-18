@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_172_Athena_Commando_F_SharpDresser",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_172_Athena_Commando_F_SharpDresser",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "7A634B0147B7C6C287AA7B84FB02B143",
+        "SourceString": "Fortune"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "AB19F177455914F80990E5801BD86A7E",
+        "SourceString": "Take charge of your fortune."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.SharpDresser",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

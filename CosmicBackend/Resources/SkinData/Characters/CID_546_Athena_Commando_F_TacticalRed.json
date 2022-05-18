@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_546_Athena_Commando_F_TacticalRed",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_546_Athena_Commando_F_TacticalRed",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "EF2F127B4CDD47B72FC0AE9CAB616245",
+        "SourceString": "Manic"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "7A2DB5314D1DE9D7A0B79FA90A46707A",
+        "SourceString": "Show 'em your game face. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_546_Athena_Commando_F_TacticalRed.DA_Featured_CID_546_Athena_Commando_F_TacticalRed",
+        "SubPathString": null
+      }
+    }
+  }
+]

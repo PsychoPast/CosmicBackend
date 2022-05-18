@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_382_Athena_Commando_M_BaseballKitbash",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_382_Athena_Commando_M_BaseballKitbash",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "F41F728E44B25D62EB48729B0605577D",
+        "SourceString": "Slugger"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "5FFD187345B328F23665AC831DB148C6",
+        "SourceString": "Batter up!"
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.BaseballKitbash",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_382_Athena_Commando_M_BaseballKitbash.DA_Featured_CID_382_Athena_Commando_M_BaseballKitbash",
+        "SubPathString": null
+      }
+    }
+  }
+]

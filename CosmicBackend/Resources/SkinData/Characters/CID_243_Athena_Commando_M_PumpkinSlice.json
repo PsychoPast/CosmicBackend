@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_243_Athena_Commando_M_PumpkinSlice",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_243_Athena_Commando_M_PumpkinSlice",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A248B1A9451F301774A6E9AE8660898C",
+        "SourceString": "Hollowhead"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F296862B40B39711CCDF81BE82FC0125",
+        "SourceString": "All tricks. No treats."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Pumpkin",
+        "Cosmetics.Filter.Season.6"
+      ]
+    }
+  }
+]

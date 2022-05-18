@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_465_Athena_Commando_M_PuffyVest",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_465_Athena_Commando_M_PuffyVest",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "9EB6CD7C496F4682335C84BC24E9D636",
+        "SourceString": "Gage"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "A8A143264433AF81A1F0578781646991",
+        "SourceString": "Instigate. Escalate. Overcome. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_465_Athena_Commando_M_PuffyVest.DA_Featured_CID_465_Athena_Commando_M_PuffyVest",
+        "SubPathString": null
+      }
+    }
+  }
+]

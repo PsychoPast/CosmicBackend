@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_024_Athena_Commando_F",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_024_Athena_Commando_F",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A6B27D4F42E2140E5EFE97B82B84F8C2",
+        "SourceString": "Recon Specialist"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "8EB51A0B4395E42331A4B58CB457F761",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "B94CE02A457915E2B7EB2C995CC99815",
+        "SourceString": "Rare recon specialist outfit. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.1"
+      ]
+    }
+  }
+]

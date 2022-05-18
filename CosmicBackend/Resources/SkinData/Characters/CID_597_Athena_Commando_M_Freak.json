@@ -1,0 +1,40 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_597_Athena_Commando_M_Freak",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_597_Athena_Commando_M_Freak",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "9BAC81FF4774B872FA45E1AF776639AA",
+        "SourceString": "Big Mouth"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F6497B8B4A286912A36A068A125BF31E",
+        "SourceString": "Seeking victory, breath mints, and souls. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.FrighteningOddity",
+        "Cosmetics.Filter.Season.11",
+        "Phoebe.Cosmetic.Minus.Zone2"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_597_Athena_Commando_M_Freak.DA_Featured_CID_597_Athena_Commando_M_Freak",
+        "SubPathString": null
+      }
+    }
+  }
+]

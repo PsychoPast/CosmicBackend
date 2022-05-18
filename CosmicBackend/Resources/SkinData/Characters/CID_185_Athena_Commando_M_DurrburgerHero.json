@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_185_Athena_Commando_M_DurrburgerHero",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_185_Athena_Commando_M_DurrburgerHero",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "1608DE7745E9F358069763B24D2B0486",
+        "SourceString": "Beef Boss"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "DFBA3FD549DAE74A4C7A17AD96B3165A",
+        "SourceString": "Victory well done."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.DurrrBurger",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

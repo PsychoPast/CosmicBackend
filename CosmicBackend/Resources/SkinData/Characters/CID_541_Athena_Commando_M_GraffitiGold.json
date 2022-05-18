@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_541_Athena_Commando_M_GraffitiGold",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_541_Athena_Commando_M_GraffitiGold",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "71BAC52B474A1BF1213267B7A01CA883",
+        "SourceString": "Street Striker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "A1E1C99C44D6C4D66C6611AD3F6E6D2C",
+        "SourceString": "Hustle hard and make the play.  "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_541_Athena_Commando_M_GraffitiGold.DA_Featured_CID_541_Athena_Commando_M_GraffitiGold",
+        "SubPathString": null
+      }
+    }
+  }
+]

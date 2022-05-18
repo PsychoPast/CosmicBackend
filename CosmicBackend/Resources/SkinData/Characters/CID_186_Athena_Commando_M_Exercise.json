@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_186_Athena_Commando_M_Exercise",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_186_Athena_Commando_M_Exercise",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "80D5C45D416D30E6A8A77A912538041B",
+        "SourceString": "Mullet Marauder"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "4172B25443E1B5308A2FEA9616AB9063",
+        "SourceString": "Totally. Totally radical."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Exercise",
+        "Cosmetics.Filter.Season.5"
+      ]
+    }
+  }
+]

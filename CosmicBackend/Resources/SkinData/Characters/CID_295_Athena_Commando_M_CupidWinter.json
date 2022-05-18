@@ -1,0 +1,43 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_295_Athena_Commando_M_CupidWinter",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_295_Athena_Commando_M_CupidWinter",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "0E81C91C4FBDC28950419EBB7C361FD5",
+        "SourceString": "Frozen Love Ranger"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "CD69F4F14DFE5D1C40DCF1A56A4ED41B",
+        "SourceString": "Aim for the cold-hearted."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.FrozenLegends",
+        "Cosmetics.Source.RMT.FrozenLegends",
+        "Phoebe.Cosmetic.Minus.Zone2",
+        "Cosmetics.Filter.Season.7"
+      ],
+      "Series": {
+        "ObjectName": "FrozenSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/FrozenSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

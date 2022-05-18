@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_155_Athena_Commando_F_Gumshoe",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_155_Athena_Commando_F_Gumshoe",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A66A23904DB3E4B2E117368457AE5DE5",
+        "SourceString": "Gumshoe"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "3214DD2B4C380035069AE1BC7F61939D",
+        "SourceString": "The kid's got gumption."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Gumshoe",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.4"
+      ]
+    }
+  }
+]

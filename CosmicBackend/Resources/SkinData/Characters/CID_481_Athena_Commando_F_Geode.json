@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_481_Athena_Commando_F_Geode",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_481_Athena_Commando_F_Geode",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "AABCCF7B4299DE6E695ED0AF58BE873D",
+        "SourceString": "Facet"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "6149A20D4AC14B1D42987EAB1504CC80",
+        "SourceString": "Multifaceted combat specialist."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_481_Athena_Commando_F_Geode.DA_Featured_CID_481_Athena_Commando_F_Geode",
+        "SubPathString": null
+      }
+    }
+  }
+]

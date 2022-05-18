@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_273_Athena_Commando_F_HornedMask",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_273_Athena_Commando_F_HornedMask",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "33C84F22408984406CDD4DBB5A867A4D",
+        "SourceString": "Nara"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "5994A6B147AAC082FCD872B5CC4ECC87",
+        "SourceString": "Messenger of the spirits."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.HornedMask",
+        "Cosmetics.Filter.Season.6"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_273_Athena_Commando_F_HornedMask.DA_Featured_CID_273_Athena_Commando_F_HornedMask",
+        "SubPathString": null
+      }
+    }
+  }
+]

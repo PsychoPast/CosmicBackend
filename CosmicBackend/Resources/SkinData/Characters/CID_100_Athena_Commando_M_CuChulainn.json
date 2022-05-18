@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_100_Athena_Commando_M_CuChulainn",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_100_Athena_Commando_M_CuChulainn",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "2C0FFD974BAB7F8FFD3AC68F6A78F478",
+        "SourceString": "Battle Hound"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "62B7DAF04016E76B81BEE0A89072964A",
+        "SourceString": "Release the hound!"
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Laoch",
+        "Cosmetics.Filter.Season.3"
+      ]
+    }
+  }
+]

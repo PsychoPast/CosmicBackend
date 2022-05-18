@@ -1,0 +1,46 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_782_Athena_Commando_M_BrightGunnerEclipse",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_782_Athena_Commando_M_BrightGunnerEclipse",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "DE1059FE441D822C5DF5F4BAE0D8E62E",
+        "SourceString": "Nite Gunner"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "10709BC84DABAEDBA61470A4BF3B8648",
+        "SourceString": "The future looks nite."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.DarkBomber",
+        "Cosmetics.Filter.Season.14"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_782_Athena_Commando_M_BrightGunnerEclipse.DA_Featured_CID_782_Athena_Commando_M_BrightGunnerEclipse",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "ShadowSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/ShadowSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_909_Athena_Commando_M_York_E",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_909_Athena_Commando_M_York_E",
+          "OuterIndex": 0
+        }
+      },
+      "FoleyLibraries": [
+        {
+          "ObjectName": "FoleyLib_York_C",
+          "OuterIndex": {
+            "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/York/FoleyLib_York",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "0848A89245DC6FDC27AFE99C10DBAE33",
+        "SourceString": "Paranormal Guide"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "20E534A443174EDF8EDD5BA873C9D744",
+        "SourceString": "Your guide to the spirit world."
+      },
+      "GameplayTags": [
+        "Cosmetics.QuestsMetaData.Outfit.York.M.E",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.MorningSalon"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_909_Athena_Commando_M_York_E.DA_Featured_CID_909_Athena_Commando_M_York_E",
+        "SubPathString": null
+      }
+    }
+  }
+]

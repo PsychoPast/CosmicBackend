@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_349_Athena_Commando_M_Banana",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_349_Athena_Commando_M_Banana",
+          "OuterIndex": 0
+        }
+      },
+      "MetaTags": [
+        "Cosmetics.MetaTags.Trait.ExtremelyUnique"
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B58A513745D310CF33E93A9545F076A2",
+        "SourceString": "Peely"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "157FEB2448F41AF444B94C8B5703B0C0",
+        "SourceString": "Go bananas.\r\nReactive: Ripens, changing color over time in a match."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season8.BattlePass.Paid",
+        "Cosmetics.UserFacingFlags.Reactive",
+        "Cosmetics.Set.Banana",
+        "Cosmetics.Filter.Season.8"
+      ]
+    }
+  }
+]

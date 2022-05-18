@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_900_Athena_Commando_M_Famine",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_900_Athena_Commando_M_Famine",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "42ABF7364840B427FAF6B49A5ED8E8F4",
+        "SourceString": "Headlock"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "C8178E5F48A921A9D7D268BBD453DBAA",
+        "SourceString": "Unleash your hunger."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.CruelSafe"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_900_Athena_Commando_M_Famine.DA_Featured_CID_900_Athena_Commando_M_Famine",
+        "SubPathString": null
+      }
+    }
+  }
+]

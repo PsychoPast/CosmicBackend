@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_154_Athena_Commando_M_Gumshoe",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_154_Athena_Commando_M_Gumshoe",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "2166447D4A2BAED5444EC98F79D68FBE",
+        "SourceString": "Sleuth"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "4A0D315E4AE9C5E38B7927B6CF35E054",
+        "SourceString": "This detective is on the case."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Gumshoe",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.4"
+      ]
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_232_Athena_Commando_F_HalloweenTomato",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_232_Athena_Commando_F_HalloweenTomato",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "C32E288A4C1D6EBEE902D0A7586B1535",
+        "SourceString": "Nightshade"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "A1BA8834419D66703B322A9DB9E5E3FE",
+        "SourceString": "Protector of the sauce."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.PizzaPit",
+        "Cosmetics.Source.Season6.BattlePass.Paid",
+        "Cosmetics.Filter.Season.6"
+      ]
+    }
+  }
+]

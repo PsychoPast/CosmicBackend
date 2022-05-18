@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_524_Athena_Commando_F_FutureBikerWhite",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_524_Athena_Commando_F_FutureBikerWhite",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "2F21DD9349B395AF3E4CD4A9BA483292",
+        "SourceString": "Payback"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "DA854FF5492CCC2AFA2CD1885D9096B4",
+        "SourceString": "It's time to strike back. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.StreetRacer",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_524_Athena_Commando_F_FutureBikerWhite.DA_Featured_CID_524_Athena_Commando_F_FutureBikerWhite",
+        "SubPathString": null
+      }
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_TBD_Athena_Commando_M_Nutcracker_CINE",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_TBD_Athena_Commando_M_Nutcracker_CINE",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "2E04B11445BA55DA9443E4BB19942732",
+        "SourceString": "TBD"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "C681A02047F3BC07333DFEAF5CC7CBC9",
+        "SourceString": "TBD"
+      }
+    }
+  }
+]

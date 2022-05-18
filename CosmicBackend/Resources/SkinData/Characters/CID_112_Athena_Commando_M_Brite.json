@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_112_Athena_Commando_M_Brite",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_112_Athena_Commando_M_Brite",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "13236D924782BCE123637D9D3151EB23",
+        "SourceString": "Brite Gunner"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "90A68F4B41EA5383845CBD9F4DE19B5F",
+        "SourceString": "Look on the bright side."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.SunshineAndRainbows",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.3"
+      ]
+    }
+  }
+]

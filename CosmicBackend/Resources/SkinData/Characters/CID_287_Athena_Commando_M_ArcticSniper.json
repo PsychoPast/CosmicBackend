@@ -1,0 +1,1572 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_287_Athena_Commando_M_ArcticSniper",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_287_Athena_Commando_M_ArcticSniper",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticMaterialVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+            "OuterIndex": 0
+          }
+        },
+        {
+          "ObjectName": "FortCosmeticParticleVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "452F6B8E486A6CC55DC93BA4D3F08626",
+            "SourceString": "Earn 20,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+                "OuterIndex": 0
+              },
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage1"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "AEB9B0F34E5470C2F0665FBB74529E53",
+            "SourceString": "Earn 100,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+                "OuterIndex": 0
+              },
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "1DCD2A004FE3EB0719B6ECBB7D92D38B",
+            "SourceString": "Earn 350,000 XP"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+                "OuterIndex": 0
+              },
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "F40133D445F62B230F2911BC0E446932",
+            "SourceString": "Complete 10 Weekly Challenges"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+                "OuterIndex": 0
+              },
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+                "OuterIndex": 0
+              },
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat1"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+                "OuterIndex": 0
+              },
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Emissive1"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "BB61E1054FD496581172B4A1E9930B2F",
+            "SourceString": "Complete 25 Weekly Challenges"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+                "OuterIndex": 0
+              },
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+                "OuterIndex": 0
+              },
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat2"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+                "OuterIndex": 0
+              },
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Emissive2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "3658C9D042840CA9575320A4BFC3D984",
+            "SourceString": "Complete 50 Weekly Challenges"
+          },
+          "PreviewTime": 0.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+                "OuterIndex": 0
+              },
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Parts"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+                "OuterIndex": 0
+              },
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Material"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Mat3"
+              }
+            },
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": {
+                "ObjectName": "CID_287_Athena_Commando_M_ArcticSniper",
+                "OuterIndex": 0
+              },
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Particle"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Emissive3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "ED8F8D9E4553B523237E4997CFA37E95",
+        "SourceString": "Zenith"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "237E02004EE3163BA16B39A5DC327E95",
+        "SourceString": "Peak performance at any elevation."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season7.BattlePass.Paid",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.Set.ArcticSniper",
+        "Cosmetics.Filter.Season.7"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "83EF51BE4FD6D793E7C169A358031714",
+            "SourceString": "Stage 1"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ArcticSniper-Variant-T01.T-Variant-ArcticSniper-Variant-T01",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_ArcticSniper_T2.CP_Athena_Body_M_ArcticSniper_T2",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "956474BF4B4AEAED6C067693B599F9B3",
+            "SourceString": "Stage 2"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ArcticSniper-Variant-T02.T-Variant-ArcticSniper-Variant-T02",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "409863634A061880E608DBAF46B20094",
+            "SourceString": "Earn 20,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_ArcticSniper_T3.CP_Athena_Head_M_ArcticSniper_T3",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_ArcticSniper_T3.CP_Athena_Body_M_ArcticSniper_T3",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "F5B8B04544F687EAEDFDADAB4BCEE70E",
+            "SourceString": "Stage 3"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ArcticSniper-Variant-T03.T-Variant-ArcticSniper-Variant-T03",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "1D72818446058EEB65C26CAF7087DE21",
+            "SourceString": "Earn 100,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_ArcticSniper_T3.CP_Athena_Head_M_ArcticSniper_T3",
+              "SubPathString": null
+            },
+            {
+              "AssetPathName": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_ArcticSniper_T3.CP_Athena_Body_M_ArcticSniper_T3",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_02.M_MED_Arctic_Sniper_Body_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier6_Body_T2_FX.T_M_Med_Arctic_Sniper_Tier6_Body_T2_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Emissive"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "None",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T6_OnlyClaws.P_ArcticSniper_T6_OnlyClaws",
+                "SubPathString": null
+              }
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T3_T4_T5_VisorLightOnly.P_ArcticSniper_T3_T4_T5_VisorLightOnly",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T6_VisorAndClaws.P_ArcticSniper_T6_VisorAndClaws",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "90CE5752492C4A5A52E982A65F933F94",
+            "SourceString": "Stage 4"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ArcticSniper-Variant-T04.T-Variant-ArcticSniper-Variant-T04",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "47DBA9A64AAE40B9375B41B8E034306B",
+            "SourceString": "Earn 350,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Parts"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "7149FD9743DA498F3A649FBA5440B5AB",
+        "SourceString": "STAGE"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticMaterialVariant",
+    "ExportValue": {
+      "MaterialOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "8E11C35043D403773B1E24A498712153",
+            "SourceString": "White"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ArcticSniper-Variant-White.T-Variant-ArcticSniper-Variant-White",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_01.M_MED_Arctic_Sniper_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier4_Body_T1_D.T_M_Med_Arctic_Sniper_Tier4_Body_T1_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_02.M_MED_Arctic_Sniper_Body_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier4_Body_T2_D.T_M_Med_Arctic_Sniper_Tier4_Body_T2_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Hat.M_MED_Arctic_Sniper_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier4_Hat_D.T_M_Med_Arctic_Sniper_Tier4_Hat_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "C14FA0FF42387A700BDDDF839AFE9D2D",
+            "SourceString": "Striped"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ArcticSniper-Variant-Striped.T-Variant-ArcticSniper-Variant-Striped",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "64922A74493F383B451DAC98ED954D43",
+            "SourceString": "Complete 10 Weekly Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_01.M_MED_Arctic_Sniper_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier5_Body_T1_D.T_M_Med_Arctic_Sniper_Tier5_Body_T1_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier5_Body_T1_FX.T_M_Med_Arctic_Sniper_Tier5_Body_T1_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SkinFX_Mask"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier5_Body_T1_S.T_M_Med_Arctic_Sniper_Tier5_Body_T1_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_02.M_MED_Arctic_Sniper_Body_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier5_Body_T2_D.T_M_Med_Arctic_Sniper_Tier5_Body_T2_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier5_Body_T2_FX.T_M_Med_Arctic_Sniper_Tier5_Body_T2_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SkinFX_Mask"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier5_Body_T2_S.T_M_Med_Arctic_Sniper_Tier5_Body_T2_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Hat.M_MED_Arctic_Sniper_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier5_Hat_D.T_M_Med_Arctic_Sniper_Tier5_Hat_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier5_Hat_FX.T_M_Med_Arctic_Sniper_Tier5_Hat_FX",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SkinFX_Mask"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier5_Hat_S.T_M_Med_Arctic_Sniper_Tier5_Hat_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "AD1756E240E85A3B49D0229511D22BB6",
+            "SourceString": "Yellow"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ArcticSniper-Variant-Yellow.T-Variant-ArcticSniper-Variant-Yellow",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "FEE0E5B349F8C61FD8460387B0A6D058",
+            "SourceString": "Complete 25 Weekly Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_01.M_MED_Arctic_Sniper_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier6_Body_T1_D.T_M_Med_Arctic_Sniper_Tier6_Body_T1_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier6_Body_T1_S.T_M_Med_Arctic_Sniper_Tier6_Body_T1_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_02.M_MED_Arctic_Sniper_Body_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier6_Body_T2_D.T_M_Med_Arctic_Sniper_Tier6_Body_T2_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                },
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier6_Body_T2_S.T_M_Med_Arctic_Sniper_Tier6_Body_T2_S",
+                    "SubPathString": null
+                  },
+                  "ParamName": "SpecularMasks"
+                }
+              ],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Hat.M_MED_Arctic_Sniper_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [],
+              "TextureParams": [
+                {
+                  "Value": {
+                    "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Textures/T_M_Med_Arctic_Sniper_Tier6_Hat_D.T_M_Med_Arctic_Sniper_Tier6_Hat_D",
+                    "SubPathString": null
+                  },
+                  "ParamName": "Diffuse"
+                }
+              ],
+              "FloatParams": []
+            }
+          ],
+          "VariantSounds": [],
+          "VariantFoley": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Mat3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "0A755F0343B921428AE79C9A6170F3EB",
+            "SourceString": "Black"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ArcticSniper-Variant-Black.T-Variant-ArcticSniper-Variant-Black",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "E4EA0A4D49648031A3EBEE9398160C97",
+            "SourceString": "Complete 50 Weekly Challenges"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Material"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "625E9FF743ECA335A83491833F360F18",
+        "SourceString": "CLOTHING"
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticParticleVariant",
+    "ExportValue": {
+      "ParticleOptions": [
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_02.M_MED_Arctic_Sniper_Body_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.0,
+                    "B": 0.999999,
+                    "A": 1.0,
+                    "Hex": "FF00FF"
+                  },
+                  "ParamName": "Emissive Color"
+                },
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.0,
+                    "B": 0.999999,
+                    "A": 1.0,
+                    "Hex": "FF00FF"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Hat.M_MED_Arctic_Sniper_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 10.0,
+                    "G": 0.0,
+                    "B": 9.999971,
+                    "A": 1.0,
+                    "Hex": "F600F6"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_01.M_MED_Arctic_Sniper_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.0,
+                    "B": 0.999998,
+                    "A": 1.0,
+                    "Hex": "FF00FF"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T3_T4_T5_VisorLightOnly.P_ArcticSniper_T3_T4_T5_VisorLightOnly",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.0,
+                    "B": 0.999999,
+                    "A": 1.0,
+                    "Hex": "FF00FF"
+                  },
+                  "ParamName": "VisorLight"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T6_VisorAndClaws.P_ArcticSniper_T6_VisorAndClaws",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.0,
+                    "B": 0.999999,
+                    "A": 1.0,
+                    "Hex": "FF00FF"
+                  },
+                  "ParamName": "VisorLight"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T6_OnlyClaws.P_ArcticSniper_T6_OnlyClaws",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.0,
+                    "B": 0.999999,
+                    "A": 1.0,
+                    "Hex": "FF00FF"
+                  },
+                  "ParamName": "VisorLight"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Emissive0"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "ACD269AC469639C5B68E76B7FD454CA7",
+            "SourceString": "Purple"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ArcticSniper-Variant-VisorPurple.T-Variant-ArcticSniper-Variant-VisorPurple",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_02.M_MED_Arctic_Sniper_Body_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.22397,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FF3900"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Hat.M_MED_Arctic_Sniper_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 10.0,
+                    "G": 2.239702,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "F63B00"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_01.M_MED_Arctic_Sniper_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 1.0,
+                    "G": 0.22397,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FF3900"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T3_T4_T5_VisorLightOnly.P_ArcticSniper_T3_T4_T5_VisorLightOnly",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 2.0,
+                    "G": 0.44794,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FE7200"
+                  },
+                  "ParamName": "VisorLight"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T6_VisorAndClaws.P_ArcticSniper_T6_VisorAndClaws",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 2.0,
+                    "G": 0.44794,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FE7200"
+                  },
+                  "ParamName": "VisorLight"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T6_OnlyClaws.P_ArcticSniper_T6_OnlyClaws",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 2.0,
+                    "G": 0.44794,
+                    "B": 0.0,
+                    "A": 1.0,
+                    "Hex": "FE7200"
+                  },
+                  "ParamName": "VisorLight"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Emissive1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "8CCA001B43A0799205936380E2B6B598",
+            "SourceString": "Orange"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ArcticSniper-Variant-VisorOrange.T-Variant-ArcticSniper-Variant-VisorOrange",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "958C8FAB4B6DDFDD40E03D859DE5105E",
+            "SourceString": "Earn 50,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_02.M_MED_Arctic_Sniper_Body_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.457637,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "0075FF"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Hat.M_MED_Arctic_Sniper_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 4.576366,
+                    "B": 10.0,
+                    "A": 1.0,
+                    "Hex": "008FF6"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_01.M_MED_Arctic_Sniper_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.457637,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "0075FF"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T3_T4_T5_VisorLightOnly.P_ArcticSniper_T3_T4_T5_VisorLightOnly",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.457637,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "0075FF"
+                  },
+                  "ParamName": "VisorLight"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T6_VisorAndClaws.P_ArcticSniper_T6_VisorAndClaws",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.457637,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "0075FF"
+                  },
+                  "ParamName": "VisorLight"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T6_OnlyClaws.P_ArcticSniper_T6_OnlyClaws",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 0.457637,
+                    "B": 1.0,
+                    "A": 1.0,
+                    "Hex": "0075FF"
+                  },
+                  "ParamName": "VisorLight"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Emissive2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "78DA4B664B4BAFD148DD7DB93B715DA7",
+            "SourceString": "Blue"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ArcticSniper-Variant-VisorBlue.T-Variant-ArcticSniper-Variant-VisorBlue",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "789576BC4EEC4CB97AABC6969B023501",
+            "SourceString": "Earn 150,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantMaterials": [],
+          "VariantMaterialParams": [
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_02.M_MED_Arctic_Sniper_Body_02",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.069682,
+                    "G": 2.0,
+                    "B": 0.877498,
+                    "A": 1.0,
+                    "Hex": "12FEE0"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Hat.M_MED_Arctic_Sniper_Hat",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 10.0,
+                    "B": 4.121261,
+                    "A": 1.0,
+                    "Hex": "00F61B"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            },
+            {
+              "MaterialToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Arctic_Sniper/Materials/M_MED_Arctic_Sniper_Body_01.M_MED_Arctic_Sniper_Body_01",
+                "SubPathString": null
+              },
+              "CascadeMaterialName": null,
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 2.0,
+                    "B": 1.066669,
+                    "A": 1.0,
+                    "Hex": "00FE10"
+                  },
+                  "ParamName": "Emissive Color"
+                }
+              ],
+              "TextureParams": [],
+              "FloatParams": []
+            }
+          ],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T3_T4_T5_VisorLightOnly.P_ArcticSniper_T3_T4_T5_VisorLightOnly",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 1.0,
+                    "B": 0.533334,
+                    "A": 1.0,
+                    "Hex": "00FF88"
+                  },
+                  "ParamName": "VisorLight"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T6_VisorAndClaws.P_ArcticSniper_T6_VisorAndClaws",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 1.0,
+                    "B": 0.533334,
+                    "A": 1.0,
+                    "Hex": "00FF88"
+                  },
+                  "ParamName": "VisorLight"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            },
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/ArcticSniper/P_ArcticSniper_T6_OnlyClaws.P_ArcticSniper_T6_OnlyClaws",
+                "SubPathString": null
+              },
+              "ColorParams": [
+                {
+                  "Value": {
+                    "R": 0.0,
+                    "G": 1.0,
+                    "B": 0.533334,
+                    "A": 1.0,
+                    "Hex": "00FF88"
+                  },
+                  "ParamName": "VisorLight"
+                }
+              ],
+              "VectorParams": [],
+              "FloatParams": []
+            }
+          ],
+          "VariantAlteredParticleParams": [],
+          "VariantSounds": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Emissive3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "BCE74C5E4B395013E1DB89845F9679EE",
+            "SourceString": "Green"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-ArcticSniper-Variant-VisorGreen.T-Variant-ArcticSniper-Variant-VisorGreen",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "A6BE443A45CC1FC50CBAFDAB1F3A69A1",
+            "SourceString": "Earn 250,000 XP"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Particle"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "097E7C6C405D9DE61C4378A98F11BE86",
+        "SourceString": "VISOR"
+      }
+    }
+  }
+]

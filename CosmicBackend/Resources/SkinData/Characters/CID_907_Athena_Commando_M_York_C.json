@@ -1,0 +1,48 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_907_Athena_Commando_M_York_C",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_907_Athena_Commando_M_York_C",
+          "OuterIndex": 0
+        }
+      },
+      "FoleyLibraries": [
+        {
+          "ObjectName": "FoleyLib_York_C",
+          "OuterIndex": {
+            "ObjectName": "/Game/Sounds/Fort_Foley_Sounds/FoleyLibraries/York/FoleyLib_York",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "C08190DB409287398D68C59D6A46BD81",
+        "SourceString": "Ecto Expert"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "C7B14C434A6FBEA56CD3F6883633C667",
+        "SourceString": "A true ectoplasmic mastermind. "
+      },
+      "GameplayTags": [
+        "Cosmetics.QuestsMetaData.Outfit.York.M.C",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.MorningSalon"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_907_Athena_Commando_M_York_C.DA_Featured_CID_907_Athena_Commando_M_York_C",
+        "SubPathString": null
+      }
+    }
+  }
+]

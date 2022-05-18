@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_026_Athena_Commando_M",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_026_Athena_Commando_M",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "1B0FF5EC47AD35D5369AD092F4D8445B",
+        "SourceString": "Desperado"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "33E5371849B9B9B043BB76B86B828CC8",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "8222639D41F2A6189CEE0E92E5DE8B76",
+        "SourceString": "Rare desperado outfit. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.1"
+      ]
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_852_Athena_Commando_F_BlackWidowCorrupt",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_852_Athena_Commando_F_BlackWidowCorrupt",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticFloatSliderVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_852_Athena_Commando_F_BlackWidowCorrupt",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "B45264BC4582308F1E1AE79B79F8AA26",
+        "SourceString": "Corrupted Arachne"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "3E4B528B4BA567EA8B0A05B7EF9AE573",
+        "SourceString": "Weave a web of corruption... to victory."
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.SpiderCrime",
+        "Cosmetics.UserFacingFlags.HasVariants"
+      ]
+    }
+  },
+  {
+    "ExportType": "FortCosmeticFloatSliderVariant",
+    "ExportValue": {
+      "DefaultStartingValue": 50.0,
+      "MaterialParamName": "Virus_CurrentLevel",
+      "MaterialsToAlter": [
+        {
+          "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Blackwidow/Skins/Corrupted/Materials/F_Med_Commando_BlackWidow_Corrupt_Head.F_Med_Commando_BlackWidow_Corrupt_Head",
+          "SubPathString": null
+        },
+        {
+          "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Blackwidow/Skins/Corrupted/Materials/F_MED_Blackwidow_Hat_Corrupt.F_MED_Blackwidow_Hat_Corrupt",
+          "SubPathString": null
+        },
+        {
+          "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Blackwidow/Skins/Corrupted/Materials/F_MED_Blackwidow_Hair_Corrupt.F_MED_Blackwidow_Hair_Corrupt",
+          "SubPathString": null
+        },
+        {
+          "AssetPathName": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Blackwidow/Skins/Corrupted/Materials/F_MED_Blackwidow_Corrupt.F_MED_Blackwidow_Corrupt",
+          "SubPathString": null
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Corruption"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "9152B7674DB8037E7B7E31AC0C865129",
+        "SourceString": "Corruption"
+      }
+    }
+  }
+]

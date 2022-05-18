@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_132_Athena_Commando_M_Venus",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_132_Athena_Commando_M_Venus",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "D4BB63F34A1D980A2D15A5B5B3532015",
+        "SourceString": "Flytrap"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "1969CFC543752B4B64DE64B055771154",
+        "SourceString": "Deviously inescapable."
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.Venus",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.4"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_132_Athena_Commando_M_Venus.DA_Featured_CID_132_Athena_Commando_M_Venus",
+        "SubPathString": null
+      }
+    }
+  }
+]

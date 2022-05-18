@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_381_Athena_Commando_F_BaseballKitbash",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_381_Athena_Commando_F_BaseballKitbash",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "45CF6FBB4434DE3BED8A44A99D40FF5B",
+        "SourceString": "Fastball"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "F5A946834ABB259C4EB5C4B8BF225BA1",
+        "SourceString": "Another victory is on deck."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.BaseballKitbash",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_381_Athena_Commando_F_BaseballKitbash.DA_Featured_CID_381_Athena_Commando_F_BaseballKitbash",
+        "SubPathString": null
+      }
+    }
+  }
+]

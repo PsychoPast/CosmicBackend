@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_317_Athena_Commando_M_WinterGhoul",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_317_Athena_Commando_M_WinterGhoul",
+          "OuterIndex": 0
+        }
+      },
+      "MetaTags": [
+        "Cosmetics.MetaTags.Trait.Headless"
+      ],
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "1008DCBE416561251E9FE5B550ECF851",
+        "SourceString": "Cloaked Shadow"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "027340D4417AA7DFE6B642BC25E1C801",
+        "SourceString": "Cast an ominous shadow."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.7"
+      ]
+    }
+  }
+]

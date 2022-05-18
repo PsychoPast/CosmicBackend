@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_392_Athena_Commando_F_BountyBunny",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_392_Athena_Commando_F_BountyBunny",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "E0FA74964BC73FE32C2BDFBB47ACB36C",
+        "SourceString": "Pastel"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "FF07270A499F439AB8CD2198A679CCD4",
+        "SourceString": "Spring into action."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.PastelPatrol",
+        "Cosmetics.Filter.Season.8"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_392_Athena_Commando_F_BountyBunny.DA_Featured_CID_392_Athena_Commando_F_BountyBunny",
+        "SubPathString": null
+      }
+    }
+  }
+]

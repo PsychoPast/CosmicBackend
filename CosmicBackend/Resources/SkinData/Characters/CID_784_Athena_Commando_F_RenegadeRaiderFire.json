@@ -1,0 +1,46 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_784_Athena_Commando_F_RenegadeRaiderFire",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_784_Athena_Commando_F_RenegadeRaiderFire",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "DC0834BC4515B7B431141F8574CC3E7E",
+        "SourceString": "Blaze"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "4296A5A14C98723EDFF9FE8300DEB722",
+        "SourceString": "Fill the world with flames."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.13",
+        "Cosmetics.Set.OutlawFire"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_784_Athena_Commando_F_RenegadeRaiderFire.DA_Featured_CID_784_Athena_Commando_F_RenegadeRaiderFire",
+        "SubPathString": null
+      },
+      "Series": {
+        "ObjectName": "LavaSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/LavaSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  }
+]

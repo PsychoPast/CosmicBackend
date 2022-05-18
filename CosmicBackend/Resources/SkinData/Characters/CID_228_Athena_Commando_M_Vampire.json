@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_228_Athena_Commando_M_Vampire",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_228_Athena_Commando_M_Vampire",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "457A085E4317883EB59229804462CA51",
+        "SourceString": "Sanctum"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "C3D110044887C7302C676A8BC521171F",
+        "SourceString": "Bestill your beating heart."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Vampire",
+        "Cosmetics.Filter.Season.6"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_228_Athena_Commando_M_Vampire.DA_Featured_CID_228_Athena_Commando_M_Vampire",
+        "SubPathString": null
+      }
+    }
+  }
+]

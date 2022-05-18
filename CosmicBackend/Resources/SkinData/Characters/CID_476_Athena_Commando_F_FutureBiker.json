@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_476_Athena_Commando_F_FutureBiker",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_476_Athena_Commando_F_FutureBiker",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "BAF80FAB400A1C91753B3E98A26295E4",
+        "SourceString": "Mika"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "AA70055E4112D912FA141584D67CF9E4",
+        "SourceString": "Riding into the future."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_476_Athena_Commando_F_FutureBiker.DA_Featured_CID_476_Athena_Commando_F_FutureBiker",
+        "SubPathString": null
+      }
+    }
+  }
+]

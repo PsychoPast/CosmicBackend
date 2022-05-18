@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_298_Athena_Commando_F_IceMaiden",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_298_Athena_Commando_F_IceMaiden",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Legendary",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "96EDD1AC4F03430EA4D8D38A0F6008DA",
+        "SourceString": "Glimmer"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "B2B5042049209D8A1467E6B27D97CB61",
+        "SourceString": "Elegantly reclaiming winter's crown."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.IceMaiden",
+        "Cosmetics.Filter.Season.7"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_298_Athena_Commando_F_IceMaiden.DA_Featured_CID_298_Athena_Commando_F_IceMaiden",
+        "SubPathString": null
+      }
+    }
+  }
+]

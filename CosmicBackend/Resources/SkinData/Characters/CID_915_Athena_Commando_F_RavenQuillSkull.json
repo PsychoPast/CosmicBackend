@@ -1,0 +1,35 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_915_Athena_Commando_F_RavenQuillSkull",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_915_Athena_Commando_F_RavenQuillSkull",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "A3B7CB6D45BAF04CD3DF14A077D942EB",
+        "SourceString": "Bone Ravage"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "E06DEEA043ECA5D1D38CEFB365B78FF4",
+        "SourceString": "Circling underground, shrouded by skulls... "
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.SkullTrooper",
+        "Phoebe.Cosmetic.Minus.Zone2"
+      ]
+    }
+  }
+]

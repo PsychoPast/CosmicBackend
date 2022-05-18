@@ -1,0 +1,38 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_478_Athena_Commando_F_WorldCup",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_478_Athena_Commando_F_WorldCup",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "C94F4DFE4867672E13C0779416511940",
+        "SourceString": "World Warrior"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "CEFE469849AF733743EF62BF56D73038",
+        "SourceString": "Take home the prize. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Set.WorldCup2019",
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.9"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_478_Athena_Commando_F_WorldCup.DA_Featured_CID_478_Athena_Commando_F_WorldCup",
+        "SubPathString": null
+      }
+    }
+  }
+]

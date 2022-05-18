@@ -1,0 +1,37 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_526_Athena_Commando_F_DesertOpsSwamp",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_526_Athena_Commando_F_DesertOpsSwamp",
+          "OuterIndex": 0
+        }
+      },
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "3A1EE41946BEDCA4D757A6A858542353",
+        "SourceString": "Swamp Stalker"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "7C5B468F4DAD77B0FDC2968BB45D564A",
+        "SourceString": "Master of the mire. "
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Filter.Season.10"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_526_Athena_Commando_F_DesertOpsSwamp.DA_Featured_CID_526_Athena_Commando_F_DesertOpsSwamp",
+        "SubPathString": null
+      }
+    }
+  }
+]

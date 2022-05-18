@@ -1,0 +1,39 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_302_Athena_Commando_F_Nutcracker",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_302_Athena_Commando_F_Nutcracker",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "D4C7D73B470CD907F7945E9608397832",
+        "SourceString": "Crackabella"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "1D36C99F4994554BBF0E9BB1682A4E9E",
+        "SourceString": "She's a hard nut to crack."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.ItemShop",
+        "Cosmetics.Set.Nutcracker",
+        "Cosmetics.Filter.Season.7"
+      ],
+      "DisplayAssetPath": {
+        "AssetPathName": "/Game/Catalog/DisplayAssets/DA_Featured_CID_302_Athena_Commando_F_Nutcracker.DA_Featured_CID_302_Athena_Commando_F_Nutcracker",
+        "SubPathString": null
+      }
+    }
+  }
+]

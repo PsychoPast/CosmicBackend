@@ -1,0 +1,34 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_893_Athena_Commando_F_BlackWidowJacket",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_893_Athena_Commando_F_BlackWidowJacket",
+          "OuterIndex": 0
+        }
+      },
+      "Rarity": "EFortRarity::Epic",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "36CF1D964B71BB1ACC7912B651573110",
+        "SourceString": "Arachne Couture"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "DE9D03F7400D307E826FAEB574F705ED",
+        "SourceString": "What a fabulous web we weave..."
+      },
+      "GameplayTags": [
+        "Cosmetics.Filter.Season.14",
+        "Cosmetics.Set.GraveDestroy"
+      ]
+    }
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "ExportType": "AthenaCharacterItemDefinition",
+    "ExportValue": {
+      "HeroDefinition": {
+        "ObjectName": "HID_570_Athena_Commando_M_SlurpMonster",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Heroes/HID_570_Athena_Commando_M_SlurpMonster",
+          "OuterIndex": 0
+        }
+      },
+      "ItemVariants": [
+        {
+          "ObjectName": "FortCosmeticCharacterPartVariant",
+          "OuterIndex": {
+            "ObjectName": "CID_570_Athena_Commando_M_SlurpMonster",
+            "OuterIndex": 0
+          }
+        }
+      ],
+      "ItemVariantPreviews": [
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "1FD4E6C944A4A4B59879449458A15AF6",
+            "SourceString": "Unlocked During Chapter 2, Season 1"
+          },
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage2"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        },
+        {
+          "UnlockCondition": {
+            "Namespace": "",
+            "Key": "105DE941495B5648B03F86A05B008D73",
+            "SourceString": "Unlocked During Chapter 2, Season 1"
+          },
+          "PreviewTime": 3.0,
+          "VariantOptions": [
+            {
+              "OwnedVariantTags": [],
+              "ItemVariantIsUsedFor": 0,
+              "CustomData": null,
+              "VariantChannelTag": {
+                "TagName": "Cosmetics.Variant.Channel.Progressive"
+              },
+              "ActiveVariantTag": {
+                "TagName": "Cosmetics.Variant.Property.Stage3"
+              }
+            }
+          ],
+          "AdditionalItems": []
+        }
+      ],
+      "Rarity": "EFortRarity::Rare",
+      "DisplayName": {
+        "Namespace": "",
+        "Key": "254F5A7A4DFC9314F388FDBAB9A21EA0",
+        "SourceString": "Rippley vs Sludge"
+      },
+      "ShortDescription": {
+        "Namespace": "",
+        "Key": "9658361F4EFF6B98FF153898E58C9D52",
+        "SourceString": "Outfit"
+      },
+      "Description": {
+        "Namespace": "",
+        "Key": "784F0A4040835656E0B831A65A2A2FF7",
+        "SourceString": "Drippy and dangerous."
+      },
+      "GameplayTags": [
+        "Cosmetics.Source.Season11.BattlePass.Paid",
+        "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+        "Cosmetics.QuestsMetaData.Outfit.SlurpMonster",
+        "Cosmetics.Set.Goo",
+        "Cosmetics.Filter.Season.11"
+      ],
+      "Series": {
+        "ObjectName": "SlurpSeries",
+        "OuterIndex": {
+          "ObjectName": "/Game/Athena/Items/Cosmetics/Series/SlurpSeries",
+          "OuterIndex": 0
+        }
+      }
+    }
+  },
+  {
+    "ExportType": "FortCosmeticCharacterPartVariant",
+    "ExportValue": {
+      "PartOptions": [
+        {
+          "VariantParts": [],
+          "VariantMaterials": [],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": true,
+          "bIsDefault": true,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage1"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "E335FCBC47EAAC8C8766ACA5A443A7F4",
+            "SourceString": "RIPPLEY"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/T-Soldier-HID-570-Athena-Commando-M-SlurpMonster.T-Soldier-HID-570-Athena-Commando-M-SlurpMonster",
+            "SubPathString": null
+          },
+          "UnlockRequirements": null,
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [
+            {
+              "AssetPathName": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_SlurpMonster_Red.CP_Athena_Head_M_SlurpMonster_Red",
+              "SubPathString": null
+            }
+          ],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/Materials/M_LRG_Slurp_Monster_slurp_inst_faceacc.M_LRG_Slurp_Monster_slurp_inst_faceacc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/Materials/M_LRG_Slurp_Monster_slurp_inst_faceacc_red.M_LRG_Slurp_Monster_slurp_inst_faceacc_red",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/Materials/M_LRG_Slurp_Monster_slurp_inst.M_LRG_Slurp_Monster_slurp_inst",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/Materials/M_LRG_Slurp_Monster_slurp_inst_red.M_LRG_Slurp_Monster_slurp_inst_red",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/Materials/M_MED_Slurp_Monster_Outfit.M_MED_Slurp_Monster_Outfit",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/Materials/M_MED_Slurp_Monster_Outfit_AlterEgo.M_MED_Slurp_Monster_Outfit_AlterEgo",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/VFX/P_SlurpMon_Drips.P_SlurpMon_Drips",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/VFX/P_SlurpMon_DripsRed.P_SlurpMon_DripsRed",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage2"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "2446B9B74E142FCB922986A3CCED696A",
+            "SourceString": "SLUDGE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-SlurpVillain.T-Variant-M-SlurpVillain",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "9DD967C24459F986E6884396E92776E0",
+            "SourceString": "Unlocked During Chapter 2, Season 1"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        },
+        {
+          "VariantParts": [],
+          "VariantMaterials": [
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/Materials/M_LRG_Slurp_Monster_slurp_inst_faceacc.M_LRG_Slurp_Monster_slurp_inst_faceacc",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/Materials/M_LRG_Slurp_Monster_slurp_inst_faceacc_purple.M_LRG_Slurp_Monster_slurp_inst_faceacc_purple",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/Materials/M_LRG_Slurp_Monster_slurp_inst.M_LRG_Slurp_Monster_slurp_inst",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/Materials/M_LRG_Slurp_Monster_slurp_inst_purple.M_LRG_Slurp_Monster_slurp_inst_purple",
+                "SubPathString": null
+              }
+            },
+            {
+              "MaterialToSwap": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Heads/M_LRG_Slurp_Monster_Head/Materials/M_LRG_Slurp_Monster_head_Inst.M_LRG_Slurp_Monster_head_Inst",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "CascadeMaterialName": null,
+              "MaterialOverrideIndex": 0,
+              "OverrideMaterial": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Heads/M_LRG_Slurp_Monster_Head/Materials/M_LRG_Slurp_Monster_head_Inst_purple.M_LRG_Slurp_Monster_head_Inst_purple",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantMaterialParams": [],
+          "InitalParticelSystemData": [],
+          "VariantParticles": [
+            {
+              "ParticleSystemToAlter": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/VFX/P_SlurpMon_Drips.P_SlurpMon_Drips",
+                "SubPathString": null
+              },
+              "ComponentToOverride": null,
+              "OverrideParticleSystem": {
+                "AssetPathName": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_Slurp_Monster/VFX/P_SlurpMon_Drips_Purple.P_SlurpMon_Drips_Purple",
+                "SubPathString": null
+              }
+            }
+          ],
+          "VariantParticleParams": [],
+          "VariantSwapInParticles": [],
+          "VariantAlteredParticleParams": [],
+          "VariantFoley": [],
+          "SocketTransforms": [],
+          "VariantActions": [],
+          "MetaTags": {
+            "MetaTagsToApply": [],
+            "MetaTagsToRemove": []
+          },
+          "bStartUnlocked": false,
+          "bIsDefault": false,
+          "bHideIfNotOwned": false,
+          "CustomizationVariantTag": {
+            "TagName": "Cosmetics.Variant.Property.Stage3"
+          },
+          "VariantName": {
+            "Namespace": "",
+            "Key": "B7DD9B684EC7C311157B30A592C7E435",
+            "SourceString": "PURPLE"
+          },
+          "PreviewImage": {
+            "AssetPathName": "/Game/UI/Foundation/Textures/Icons/Heroes/Variants/T-Variant-M-SlurpMonster-Purple.T-Variant-M-SlurpMonster-Purple",
+            "SubPathString": null
+          },
+          "UnlockRequirements": {
+            "Namespace": "",
+            "Key": "5D67684949B23F2A867718A58DE4E926",
+            "SourceString": "Unlocked During Chapter 2, Season 1"
+          },
+          "UnlockingItemDef": {
+            "AssetPathName": "None",
+            "SubPathString": null
+          }
+        }
+      ],
+      "VariantChannelTag": {
+        "TagName": "Cosmetics.Variant.Channel.Progressive"
+      },
+      "VariantChannelName": {
+        "Namespace": "",
+        "Key": "C51C8AAE40B37E942CEE4A96DDDE4E64",
+        "SourceString": "STYLE"
+      }
+    }
+  }
+]
